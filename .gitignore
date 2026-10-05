@@ -23,3 +23,8 @@ dist-ssr
 *.sln
 *.sw?
 run-dev.cmd
+
+# Local Claude Code skills (installed via `npx skills add`, not part of this project)
+.agents/
+.claude/
+skills-lock.json
