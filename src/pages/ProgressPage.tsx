@@ -41,10 +41,17 @@ export function ProgressPage() {
           const ts = topicsByModule(m.id)
           const done = ts.filter((t) => progress.completedTopics[t.id]).length
           return (
-            <Link key={m.id} to={`/moduuli/${m.id}`} className="flex items-center gap-3 rounded-xl border border-[var(--border)] bg-[var(--bg-raised)] px-4 py-3 hover:border-brand-300">
+            <Link
+              key={m.id}
+              to={`/moduuli/${m.id}`}
+              className="flex items-center gap-3 rounded-xl border border-[var(--border)] bg-[var(--bg-raised)] px-4 py-3 transition-[border-color,transform] duration-150 ease-out hover:border-brand-300 active:scale-[0.99]"
+            >
               <span className="w-36 shrink-0 truncate text-[13px] font-medium">{m.shortTitle}</span>
               <div className="h-1.5 flex-1 overflow-hidden rounded-full bg-[var(--bg-card)]">
-                <div className="h-full rounded-full bg-brand-500" style={{ width: `${ts.length ? (done / ts.length) * 100 : 0}%` }} />
+                <div
+                  className="h-full rounded-full bg-brand-500 transition-[width] duration-300 ease-out"
+                  style={{ width: `${ts.length ? (done / ts.length) * 100 : 0}%` }}
+                />
               </div>
               <span className="w-10 shrink-0 text-right text-[12px] text-[var(--text-dim)]">
                 {done}/{ts.length}
@@ -81,7 +88,11 @@ export function ProgressPage() {
           </h2>
           <div className="grid gap-2 sm:grid-cols-2">
             {favoriteTopics.map((t) => (
-              <Link key={t!.id} to={`/aihe/${t!.id}`} className="flex items-center gap-2 rounded-xl border border-[var(--border)] bg-[var(--bg-raised)] px-4 py-2.5 hover:border-brand-300">
+              <Link
+                key={t!.id}
+                to={`/aihe/${t!.id}`}
+                className="flex items-center gap-2 rounded-xl border border-[var(--border)] bg-[var(--bg-raised)] px-4 py-2.5 transition-[border-color,transform] duration-150 ease-out hover:border-brand-300 active:scale-[0.99]"
+              >
                 {progress.completedTopics[t!.id] && <CheckCircle2 className="h-4 w-4 shrink-0 text-teal-500" />}
                 <span className="truncate text-[13px] font-medium">{t!.title}</span>
               </Link>
@@ -99,16 +110,19 @@ export function ProgressPage() {
                 progressActions.resetAll()
                 setConfirmReset(false)
               }}
-              className="inline-flex items-center gap-1.5 rounded-full bg-danger-500 px-4 py-2 text-[12px] font-semibold text-white"
+              className="inline-flex items-center gap-1.5 rounded-full bg-danger-500 px-4 py-2 text-[12px] font-semibold text-white transition-transform duration-150 ease-out active:scale-[0.96]"
             >
               <Trash2 className="h-3.5 w-3.5" /> Vahvista nollaus
             </button>
-            <button onClick={() => setConfirmReset(false)} className="text-[12px] font-medium text-[var(--text-dim)]">
+            <button onClick={() => setConfirmReset(false)} className="text-[12px] font-medium text-[var(--text-dim)] transition-colors duration-150 ease-out hover:text-[var(--text)]">
               Peruuta
             </button>
           </div>
         ) : (
-          <button onClick={() => setConfirmReset(true)} className="inline-flex items-center gap-1.5 text-[12px] font-medium text-[var(--text-dim)] hover:text-danger-500">
+          <button
+            onClick={() => setConfirmReset(true)}
+            className="inline-flex items-center gap-1.5 text-[12px] font-medium text-[var(--text-dim)] transition-colors duration-150 ease-out hover:text-danger-500"
+          >
             <RotateCcw className="h-3.5 w-3.5" /> Nollaa oma eteneminen
           </button>
         )}

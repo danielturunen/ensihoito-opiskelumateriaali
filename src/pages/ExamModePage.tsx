@@ -49,7 +49,7 @@ export function ExamModePage() {
   if (active) {
     return (
       <div className="mx-auto max-w-2xl px-4 pt-6 pb-16 sm:px-6 lg:px-8 lg:pt-10">
-        <button onClick={() => setActive(null)} className="text-[13px] font-medium text-[var(--text-dim)] hover:text-[var(--text)]">
+        <button onClick={() => setActive(null)} className="text-[13px] font-medium text-[var(--text-dim)] transition-colors duration-150 ease-out hover:text-[var(--text)]">
           ← Takaisin valintoihin
         </button>
         <h1 className="mt-3 font-display text-2xl font-bold">Tenttitila</h1>
@@ -80,10 +80,16 @@ export function ExamModePage() {
       </div>
 
       <div className="mt-5 flex flex-wrap items-center gap-3 rounded-2xl border border-[var(--border)] bg-[var(--bg-raised)] p-4">
-        <button onClick={selectAll} className="rounded-full bg-[var(--bg-card)] px-3.5 py-1.5 text-[12px] font-semibold hover:bg-brand-500/10 hover:text-brand-600">
+        <button
+          onClick={selectAll}
+          className="rounded-full bg-[var(--bg-card)] px-3.5 py-1.5 text-[12px] font-semibold transition-[background-color,color,transform] duration-150 ease-out hover:bg-brand-500/10 hover:text-brand-600 active:scale-[0.96]"
+        >
           Valitse kaikki
         </button>
-        <button onClick={() => setSelected(new Set())} className="rounded-full bg-[var(--bg-card)] px-3.5 py-1.5 text-[12px] font-semibold hover:bg-brand-500/10 hover:text-brand-600">
+        <button
+          onClick={() => setSelected(new Set())}
+          className="rounded-full bg-[var(--bg-card)] px-3.5 py-1.5 text-[12px] font-semibold transition-[background-color,color,transform] duration-150 ease-out hover:bg-brand-500/10 hover:text-brand-600 active:scale-[0.96]"
+        >
           Tyhjennä
         </button>
         <div className="ml-auto flex items-center gap-2 text-[12px] text-[var(--text-dim)]">
@@ -104,7 +110,7 @@ export function ExamModePage() {
         </div>
         <div className="mt-2 flex flex-col gap-1.5">
           {quizPacks.map((p) => (
-            <label key={p.id} className="flex cursor-pointer items-start gap-2.5 rounded-xl px-2.5 py-2 hover:bg-[var(--bg-card)]">
+            <label key={p.id} className="flex cursor-pointer items-start gap-2.5 rounded-xl px-2.5 py-2 transition-[background-color,transform] duration-150 ease-out hover:bg-[var(--bg-card)] active:scale-[0.99]">
               <input type="checkbox" checked={selected.has(p.id)} onChange={() => toggle(p.id)} className="mt-1 h-4 w-4 accent-brand-500" />
               <span>
                 <span className="block text-[14px] font-medium">{p.title}</span>
@@ -122,7 +128,7 @@ export function ExamModePage() {
               <p className="text-[13px] font-semibold">{module.title}</p>
               <div className="mt-2 grid gap-1 sm:grid-cols-2">
                 {topics.map((t) => (
-                  <label key={t.id} className="flex cursor-pointer items-center gap-2.5 rounded-xl px-2.5 py-1.5 hover:bg-[var(--bg-card)]">
+                  <label key={t.id} className="flex cursor-pointer items-center gap-2.5 rounded-xl px-2.5 py-1.5 transition-[background-color,transform] duration-150 ease-out hover:bg-[var(--bg-card)] active:scale-[0.99]">
                     <input type="checkbox" checked={selected.has(t.id)} onChange={() => toggle(t.id)} className="h-4 w-4 accent-brand-500" />
                     <span className="text-[13px]">{t.title}</span>
                   </label>
@@ -136,7 +142,7 @@ export function ExamModePage() {
       <button
         onClick={start}
         disabled={selected.size === 0}
-        className="sticky bottom-20 mt-6 w-full rounded-full bg-brand-500 py-3.5 text-[14px] font-semibold text-white shadow-lg shadow-brand-500/30 transition-opacity disabled:opacity-40 lg:bottom-6"
+        className="sticky bottom-20 mt-6 w-full rounded-full bg-brand-500 py-3.5 text-[14px] font-semibold text-white shadow-lg shadow-brand-500/30 transition-[opacity,transform] duration-150 ease-out active:scale-[0.98] disabled:opacity-40 lg:bottom-6"
       >
         Aloita tentti ({selected.size} aihetta valittu)
       </button>

@@ -26,15 +26,18 @@ export function TopicPage() {
   return (
     <div className="mx-auto max-w-3xl px-4 pt-6 pb-16 sm:px-6 lg:px-8 lg:pt-10">
       <div className="flex items-center justify-between gap-2">
-        <Link to={`/moduuli/${topic.moduleId}`} className="inline-flex items-center gap-1 text-[13px] font-medium text-[var(--text-dim)] hover:text-[var(--text)]">
+        <Link
+          to={`/moduuli/${topic.moduleId}`}
+          className="inline-flex items-center gap-1 text-[13px] font-medium text-[var(--text-dim)] transition-colors duration-150 ease-out hover:text-[var(--text)]"
+        >
           <ChevronLeft className="h-4 w-4" /> {module?.shortTitle}
         </Link>
         <button
           onClick={() => progressActions.toggleFavorite(topic.id)}
-          className="flex h-9 w-9 items-center justify-center rounded-full text-[var(--text-dim)] hover:bg-[var(--bg-card)]"
+          className="flex h-9 w-9 items-center justify-center rounded-full text-[var(--text-dim)] transition-[background-color,transform] duration-150 ease-out hover:bg-[var(--bg-card)] active:scale-90"
           aria-label="Suosikki"
         >
-          <Star className={`h-5 w-5 ${fav ? 'fill-brand-500 text-brand-500' : ''}`} />
+          <Star className={`h-5 w-5 transition-transform duration-200 ${fav ? 'fill-brand-500 text-brand-500 scale-110' : ''}`} />
         </button>
       </div>
 
@@ -52,20 +55,28 @@ export function TopicPage() {
       <div className="mt-5 flex flex-wrap gap-2">
         <button
           onClick={() => (done ? progressActions.markTopicIncomplete(topic.id) : progressActions.markTopicComplete(topic.id))}
-          className={`inline-flex items-center gap-1.5 rounded-full px-4 py-2 text-[13px] font-semibold transition-colors ${
+          className={`inline-flex items-center gap-1.5 rounded-full px-4 py-2 text-[13px] font-semibold transition-[background-color,color,transform] duration-150 ease-out active:scale-[0.97] ${
             done ? 'bg-teal-500/10 text-teal-600' : 'bg-[var(--bg-card)] text-[var(--text)] hover:bg-brand-500/10 hover:text-brand-600'
           }`}
         >
-          {done ? <CheckCircle2 className="h-4 w-4" /> : <Circle className="h-4 w-4" />}
+          <span key={String(done)} className={done ? 'animate-pop flex' : 'flex'}>
+            {done ? <CheckCircle2 className="h-4 w-4" /> : <Circle className="h-4 w-4" />}
+          </span>
           {done ? 'Suoritettu' : 'Merkitse suoritetuksi'}
         </button>
         {topic.hasQuiz && (
-          <Link to={`/aihe/${topic.id}/tietovisa`} className="inline-flex items-center gap-1.5 rounded-full bg-brand-500 px-4 py-2 text-[13px] font-semibold text-white shadow-sm shadow-brand-500/30 transition-transform hover:-translate-y-px">
+          <Link
+            to={`/aihe/${topic.id}/tietovisa`}
+            className="inline-flex items-center gap-1.5 rounded-full bg-brand-500 px-4 py-2 text-[13px] font-semibold text-white shadow-sm shadow-brand-500/30 transition-transform duration-150 ease-out hover:-translate-y-px active:scale-[0.97] active:translate-y-0"
+          >
             <GraduationCap className="h-4 w-4" /> Tietovisa
           </Link>
         )}
         {topic.hasFlashcards && (
-          <Link to={`/aihe/${topic.id}/kertauskortit`} className="inline-flex items-center gap-1.5 rounded-full border border-[var(--border)] px-4 py-2 text-[13px] font-semibold text-[var(--text)] transition-colors hover:border-brand-300">
+          <Link
+            to={`/aihe/${topic.id}/kertauskortit`}
+            className="inline-flex items-center gap-1.5 rounded-full border border-[var(--border)] px-4 py-2 text-[13px] font-semibold text-[var(--text)] transition-[border-color,transform] duration-150 ease-out hover:border-brand-300 active:scale-[0.97]"
+          >
             <Layers className="h-4 w-4" /> Kertauskortit
           </Link>
         )}

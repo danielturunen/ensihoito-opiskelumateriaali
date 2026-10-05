@@ -37,6 +37,11 @@
 
   --shadow-card: 0 1px 2px rgba(15, 15, 20, 0.04), 0 8px 24px -12px rgba(15, 15, 20, 0.18);
   --shadow-card-dark: 0 1px 2px rgba(0, 0, 0, 0.2), 0 12px 32px -14px rgba(0, 0, 0, 0.6);
+
+  /* Motion tokens — see animate / apple-design skills */
+  --ease-out: cubic-bezier(0.23, 1, 0.32, 1);
+  --ease-in-out: cubic-bezier(0.77, 0, 0.175, 1);
+  --ease-drawer: cubic-bezier(0.32, 0.72, 0, 1);
 }
 
 :root {
@@ -80,7 +85,9 @@
 
 html {
   -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: transparent;
   scroll-behavior: smooth;
+  overscroll-behavior: none;
 }
 
 body {
@@ -90,7 +97,28 @@ body {
   font-family: var(--font-sans);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  overscroll-behavior-y: none;
+  overscroll-behavior: none;
+}
+
+/* Native-feeling controls: instant tap, no sticky iOS highlight, no accidental text selection */
+button,
+a,
+[role='button'],
+summary {
+  touch-action: manipulation;
+}
+button,
+[role='button'],
+.no-select {
+  -webkit-user-select: none;
+  user-select: none;
+  -webkit-touch-callout: none;
+}
+
+input,
+textarea,
+select {
+  font-size: 16px; /* below this, iOS Safari zooms the page on focus */
 }
 
 #root {
@@ -155,4 +183,19 @@ a {
 }
 .pt-safe {
   padding-top: env(safe-area-inset-top);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-fade-up,
+  .animate-pop {
+    animation-name: fade-only;
+    animation-duration: 0.15s;
+  }
+  @keyframes fade-only {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+  html {
+    scroll-behavior: auto;
+  }
 }

@@ -27,14 +27,20 @@ export function HomePage() {
 
       <div className="mt-6 grid gap-4 sm:grid-cols-3">
         <StatCard label="Edistyminen" value={`${pct}%`} sub={`${doneCount}/${topics.length} aihetta suoritettu`} />
-        <Link to="/tenttitila" className="group flex flex-col justify-between rounded-2xl border border-[var(--border)] bg-[var(--bg-raised)] p-4 shadow-[var(--shadow)] transition-colors hover:border-brand-300">
+        <Link
+          to="/tenttitila"
+          className="group flex flex-col justify-between rounded-2xl border border-[var(--border)] bg-[var(--bg-raised)] p-4 shadow-[var(--shadow)] transition-[border-color,transform] duration-150 ease-out hover:border-brand-300 active:scale-[0.98]"
+        >
           <GraduationCap className="h-5 w-5 text-brand-500" />
           <div className="mt-3">
             <p className="font-display text-[15px] font-semibold">Tenttitila</p>
             <p className="text-[12px] text-[var(--text-dim)]">Harjoittele kuin oikeassa tentissä</p>
           </div>
         </Link>
-        <Link to="/aiheet" className="group flex flex-col justify-between rounded-2xl border border-[var(--border)] bg-[var(--bg-raised)] p-4 shadow-[var(--shadow)] transition-colors hover:border-brand-300">
+        <Link
+          to="/aiheet"
+          className="group flex flex-col justify-between rounded-2xl border border-[var(--border)] bg-[var(--bg-raised)] p-4 shadow-[var(--shadow)] transition-[border-color,transform] duration-150 ease-out hover:border-brand-300 active:scale-[0.98]"
+        >
           <Layers className="h-5 w-5 text-teal-500" />
           <div className="mt-3">
             <p className="font-display text-[15px] font-semibold">Selaa kaikkia aiheita</p>
@@ -46,7 +52,7 @@ export function HomePage() {
       {lastTopic && (
         <Link
           to={lastTopic.hasScenario ? `/aihe/${lastTopic.id}/tapaus` : `/aihe/${lastTopic.id}`}
-          className="mt-5 flex items-center justify-between rounded-2xl border border-brand-300/60 bg-brand-500/5 px-5 py-4 transition-colors hover:bg-brand-500/10"
+          className="mt-5 flex items-center justify-between rounded-2xl border border-brand-300/60 bg-brand-500/5 px-5 py-4 transition-[background-color,transform] duration-150 ease-out hover:bg-brand-500/10 active:scale-[0.99]"
         >
           <div>
             <p className="text-[12px] font-semibold text-brand-600">Jatka opiskelua</p>
@@ -58,8 +64,10 @@ export function HomePage() {
 
       <h2 className="mt-10 mb-4 font-display text-xl font-semibold">Aihealueet</h2>
       <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-        {modules.map((m) => (
-          <ModuleCard key={m.id} module={m} />
+        {modules.map((m, i) => (
+          <div key={m.id} className="animate-fade-up" style={{ animationDelay: `${Math.min(i, 6) * 40}ms` }}>
+            <ModuleCard module={m} />
+          </div>
         ))}
       </div>
     </div>

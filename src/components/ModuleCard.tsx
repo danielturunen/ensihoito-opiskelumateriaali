@@ -13,13 +13,13 @@ export function ModuleCard({ module }: { module: ModuleMeta }) {
   return (
     <Link
       to={`/moduuli/${module.id}`}
-      className="group flex flex-col gap-3 rounded-2xl border border-[var(--border)] bg-[var(--bg-raised)] p-5 shadow-[var(--shadow)] transition-all hover:-translate-y-0.5 hover:border-brand-300"
+      className="group flex flex-col gap-3 rounded-2xl border border-[var(--border)] bg-[var(--bg-raised)] p-5 shadow-[var(--shadow)] transition-[transform,border-color] duration-200 ease-out hover:-translate-y-0.5 hover:border-brand-300 active:scale-[0.98] active:duration-100"
     >
       <div className="flex items-start justify-between">
         <span className={`flex h-11 w-11 items-center justify-center rounded-xl bg-[var(--bg-card)] text-brand-500`}>
           <Icon name={module.icon} className="h-5 w-5" strokeWidth={2} />
         </span>
-        <ChevronRight className="h-5 w-5 text-[var(--text-dim)] transition-transform group-hover:translate-x-0.5 group-hover:text-brand-500" />
+        <ChevronRight className="h-5 w-5 text-[var(--text-dim)] transition-[transform,color] duration-200 ease-out group-hover:translate-x-0.5 group-hover:text-brand-500" />
       </div>
       <div>
         <h3 className="font-display text-[16px] font-semibold leading-snug text-[var(--text)]">{module.title}</h3>

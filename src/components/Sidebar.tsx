@@ -1,9 +1,12 @@
 import { NavLink } from 'react-router-dom'
+import { motion } from 'motion/react'
 import { Home, LayoutGrid, GraduationCap, LineChart, Stethoscope } from 'lucide-react'
 import { modules } from '../content/modules'
 import { Icon } from './Icon'
 import { useProgress } from '../lib/progress'
 import { topics } from '../content/topics'
+
+const PILL_SPRING = { type: 'spring', duration: 0.5, bounce: 0.2 } as const
 
 export function Sidebar() {
   const progress = useProgress()
@@ -35,14 +38,15 @@ export function Sidebar() {
             <NavLink
               key={m.id}
               to={`/moduuli/${m.id}`}
-              className={({ isActive }) =>
-                `flex items-center gap-2.5 rounded-lg px-3 py-2 text-sm transition-colors ${
-                  isActive ? 'bg-brand-50 text-brand-700 dark:bg-brand-500/10 dark:text-brand-300' : 'text-[var(--text-dim)] hover:bg-[var(--bg-card)] hover:text-[var(--text)]'
-                }`
-              }
+              className="relative flex items-center gap-2.5 rounded-lg px-3 py-2 text-sm transition-transform duration-150 ease-out active:scale-[0.98]"
             >
-              <Icon name={m.icon} className="h-4 w-4 shrink-0" strokeWidth={2} />
-              <span className="truncate">{m.shortTitle}</span>
+              {({ isActive }) => (
+                <>
+                  {isActive && <motion.span layoutId="sidebar-pill" className="absolute inset-0 rounded-lg bg-brand-500/10" transition={PILL_SPRING} />}
+                  <Icon name={m.icon} className={`relative h-4 w-4 shrink-0 transition-colors duration-150 ${isActive ? 'text-brand-600' : 'text-[var(--text-dim)]'}`} strokeWidth={2} />
+                  <span className={`relative truncate transition-colors duration-150 ${isActive ? 'text-brand-600' : 'text-[var(--text-dim)]'}`}>{m.shortTitle}</span>
+                </>
+              )}
             </NavLink>
           ))}
         </div>
@@ -55,7 +59,7 @@ export function Sidebar() {
             {doneCount}/{topics.length}
           </p>
           <div className="mt-2 h-1.5 overflow-hidden rounded-full bg-[var(--bg)]">
-            <div className="h-full rounded-full bg-brand-500 transition-all" style={{ width: `${(doneCount / topics.length) * 100}%` }} />
+            <div className="h-full rounded-full bg-brand-500 transition-[width] duration-300 ease-out" style={{ width: `${(doneCount / topics.length) * 100}%` }} />
           </div>
         </div>
       </div>
@@ -65,17 +69,14 @@ export function Sidebar() {
 
 function TopLink({ to, icon: Icon, label, end }: { to: string; icon: typeof Home; label: string; end?: boolean }) {
   return (
-    <NavLink
-      to={to}
-      end={end}
-      className={({ isActive }) =>
-        `flex items-center gap-2.5 rounded-lg px-3 py-2.5 text-sm font-medium transition-colors ${
-          isActive ? 'bg-brand-500 text-white shadow-sm shadow-brand-500/30' : 'text-[var(--text)] hover:bg-[var(--bg-card)]'
-        }`
-      }
-    >
-      <Icon className="h-[18px] w-[18px]" strokeWidth={2.25} />
-      {label}
+    <NavLink to={to} end={end} className="relative flex items-center gap-2.5 rounded-lg px-3 py-2.5 text-sm font-medium transition-transform duration-150 ease-out active:scale-[0.98]">
+      {({ isActive }) => (
+        <>
+          {isActive && <motion.span layoutId="sidebar-pill" className="absolute inset-0 rounded-lg bg-brand-500 shadow-sm shadow-brand-500/30" transition={PILL_SPRING} />}
+          <Icon className={`relative h-[18px] w-[18px] transition-colors duration-150 ${isActive ? 'text-white' : 'text-[var(--text)]'}`} strokeWidth={2.25} />
+          <span className={`relative transition-colors duration-150 ${isActive ? 'text-white' : 'text-[var(--text)]'}`}>{label}</span>
+        </>
+      )}
     </NavLink>
   )
 }

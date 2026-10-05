@@ -14,7 +14,7 @@ export function TopicCard({ topic }: { topic: TopicMeta }) {
   return (
     <Link
       to={href}
-      className="group relative flex flex-col gap-2.5 rounded-2xl border border-[var(--border)] bg-[var(--bg-raised)] p-4 shadow-[var(--shadow)] transition-all hover:-translate-y-0.5 hover:border-brand-300"
+      className="group relative flex flex-col gap-2.5 rounded-2xl border border-[var(--border)] bg-[var(--bg-raised)] p-4 shadow-[var(--shadow)] transition-[transform,border-color] duration-200 ease-out hover:-translate-y-0.5 hover:border-brand-300 active:scale-[0.98] active:duration-100"
     >
       <button
         onClick={(e) => {
@@ -22,7 +22,7 @@ export function TopicCard({ topic }: { topic: TopicMeta }) {
           progressActions.toggleFavorite(topic.id)
         }}
         aria-label={fav ? 'Poista suosikeista' : 'Lisää suosikiksi'}
-        className="absolute right-3 top-3 flex h-8 w-8 items-center justify-center rounded-full text-[var(--text-dim)] transition-colors hover:bg-[var(--bg-card)]"
+        className="absolute right-3 top-3 z-10 flex h-8 w-8 items-center justify-center rounded-full text-[var(--text-dim)] transition-[background-color,transform] duration-150 ease-out hover:bg-[var(--bg-card)] active:scale-90"
       >
         <Star className={`h-4 w-4 ${fav ? 'fill-brand-500 text-brand-500' : ''}`} />
       </button>

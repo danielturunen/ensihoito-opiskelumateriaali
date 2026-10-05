@@ -66,7 +66,10 @@ export function QuizPlayer({ questions, mode, onComplete }: Props) {
           <p className="mt-2 text-[15px] text-[var(--text-dim)]">
             {correct}/{total} oikein
           </p>
-          <button onClick={restart} className="mt-5 inline-flex items-center gap-1.5 rounded-full bg-brand-500 px-5 py-2.5 text-[13px] font-semibold text-white shadow-sm shadow-brand-500/30">
+          <button
+            onClick={restart}
+            className="mt-5 inline-flex items-center gap-1.5 rounded-full bg-brand-500 px-5 py-2.5 text-[13px] font-semibold text-white shadow-sm shadow-brand-500/30 transition-transform duration-150 ease-out active:scale-[0.97]"
+          >
             <RotateCcw className="h-4 w-4" /> Yritä uudelleen
           </button>
         </div>
@@ -99,7 +102,7 @@ export function QuizPlayer({ questions, mode, onComplete }: Props) {
     <div className="animate-fade-up">
       <div className="mb-4 flex items-center gap-2">
         <div className="h-1.5 flex-1 overflow-hidden rounded-full bg-[var(--bg-card)]">
-          <div className="h-full rounded-full bg-brand-500 transition-all" style={{ width: `${((index + 1) / total) * 100}%` }} />
+          <div className="h-full rounded-full bg-brand-500 transition-[width] duration-300 ease-out" style={{ width: `${((index + 1) / total) * 100}%` }} />
         </div>
         <span className="shrink-0 text-[12px] font-medium text-[var(--text-dim)]">
           {index + 1}/{total}
@@ -123,7 +126,7 @@ export function QuizPlayer({ questions, mode, onComplete }: Props) {
                 key={i}
                 onClick={() => choose(i)}
                 disabled={mode === 'practice' && revealed}
-                className={`flex items-center justify-between rounded-xl border px-4 py-3 text-left text-[14px] transition-colors ${cls}`}
+                className={`flex items-center justify-between rounded-xl border px-4 py-3 text-left text-[14px] transition-[background-color,border-color,transform] duration-150 ease-out active:scale-[0.99] ${cls}`}
               >
                 <span>{opt}</span>
                 {showState && isCorrectOpt && <CheckCircle2 className="h-4 w-4 shrink-0 text-teal-500" />}
@@ -141,7 +144,7 @@ export function QuizPlayer({ questions, mode, onComplete }: Props) {
           <button
             onClick={next}
             disabled={selected === undefined}
-            className="inline-flex items-center gap-1 rounded-full bg-brand-500 px-5 py-2.5 text-[13px] font-semibold text-white shadow-sm shadow-brand-500/30 transition-opacity disabled:opacity-40"
+            className="inline-flex items-center gap-1 rounded-full bg-brand-500 px-5 py-2.5 text-[13px] font-semibold text-white shadow-sm shadow-brand-500/30 transition-[opacity,transform] duration-150 ease-out active:scale-[0.97] disabled:opacity-40"
           >
             {index + 1 < total ? 'Seuraava' : 'Näytä tulos'} <ChevronRight className="h-4 w-4" />
           </button>

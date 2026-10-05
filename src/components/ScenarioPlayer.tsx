@@ -44,7 +44,7 @@ export function ScenarioPlayer({ scenario }: { scenario: Scenario }) {
         <p className="mt-3 text-[15px] leading-relaxed">{scenario.intro}</p>
         <button
           onClick={() => setStage('playing')}
-          className="mt-5 inline-flex items-center gap-1.5 rounded-full bg-brand-500 px-5 py-2.5 text-[13px] font-semibold text-white shadow-sm shadow-brand-500/30"
+          className="mt-5 inline-flex items-center gap-1.5 rounded-full bg-brand-500 px-5 py-2.5 text-[13px] font-semibold text-white shadow-sm shadow-brand-500/30 transition-transform duration-150 ease-out active:scale-[0.97]"
         >
           Aloita tehtävä <ChevronRight className="h-4 w-4" />
         </button>
@@ -63,7 +63,10 @@ export function ScenarioPlayer({ scenario }: { scenario: Scenario }) {
           <p className="text-[13px] font-semibold text-[var(--text-dim)]">Yhteenveto</p>
           <p className="mt-1 text-[14px] leading-relaxed">{scenario.debrief}</p>
         </div>
-        <button onClick={restart} className="mt-5 inline-flex items-center gap-1.5 rounded-full bg-brand-500 px-5 py-2.5 text-[13px] font-semibold text-white shadow-sm shadow-brand-500/30">
+        <button
+          onClick={restart}
+          className="mt-5 inline-flex items-center gap-1.5 rounded-full bg-brand-500 px-5 py-2.5 text-[13px] font-semibold text-white shadow-sm shadow-brand-500/30 transition-transform duration-150 ease-out active:scale-[0.97]"
+        >
           <RotateCcw className="h-4 w-4" /> Aja tapaus uudelleen
         </button>
       </div>
@@ -74,7 +77,7 @@ export function ScenarioPlayer({ scenario }: { scenario: Scenario }) {
     <div className="animate-fade-up">
       <div className="mb-4 flex items-center gap-2">
         <div className="h-1.5 flex-1 overflow-hidden rounded-full bg-[var(--bg-card)]">
-          <div className="h-full rounded-full bg-brand-500 transition-all" style={{ width: `${((stepIndex + 1) / scenario.steps.length) * 100}%` }} />
+          <div className="h-full rounded-full bg-brand-500 transition-[width] duration-300 ease-out" style={{ width: `${((stepIndex + 1) / scenario.steps.length) * 100}%` }} />
         </div>
         <span className="shrink-0 text-[12px] font-medium text-[var(--text-dim)]">
           {stepIndex + 1}/{scenario.steps.length}
@@ -92,7 +95,12 @@ export function ScenarioPlayer({ scenario }: { scenario: Scenario }) {
             if (show && c.correct) cls = 'border-teal-500 bg-teal-500/10'
             else if (show && chosen === i && !c.correct) cls = 'border-danger-500 bg-danger-500/10'
             return (
-              <button key={i} onClick={() => choose(i)} disabled={chosen !== null} className={`rounded-xl border px-4 py-3 text-left text-[14px] transition-colors ${cls}`}>
+              <button
+                key={i}
+                onClick={() => choose(i)}
+                disabled={chosen !== null}
+                className={`rounded-xl border px-4 py-3 text-left text-[14px] transition-[background-color,border-color,transform] duration-150 ease-out active:scale-[0.99] ${cls}`}
+              >
                 <div className="flex items-center justify-between gap-2">
                   <span>{c.text}</span>
                   {show && c.correct && <CheckCircle2 className="h-4 w-4 shrink-0 text-teal-500" />}
@@ -106,7 +114,10 @@ export function ScenarioPlayer({ scenario }: { scenario: Scenario }) {
 
         {chosen !== null && (
           <div className="mt-5 flex justify-end">
-            <button onClick={next} className="inline-flex items-center gap-1 rounded-full bg-brand-500 px-5 py-2.5 text-[13px] font-semibold text-white shadow-sm shadow-brand-500/30">
+            <button
+              onClick={next}
+              className="inline-flex items-center gap-1 rounded-full bg-brand-500 px-5 py-2.5 text-[13px] font-semibold text-white shadow-sm shadow-brand-500/30 transition-transform duration-150 ease-out active:scale-[0.97]"
+            >
               {stepIndex + 1 < scenario.steps.length ? 'Seuraava vaihe' : 'Näytä yhteenveto'} <ChevronRight className="h-4 w-4" />
             </button>
           </div>
