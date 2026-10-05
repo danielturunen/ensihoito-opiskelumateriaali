@@ -1,0 +1,138 @@
+[
+  {
+    "id": "traumapotilaan-tutkiminen-q1",
+    "type": "mcq",
+    "question": "Mikä on ensihoidon tärkein tehtävä vaikeasti vammautuneen potilaan kohdalla?",
+    "options": [
+      "Antaa potilaalle lopullinen hoito kentällä",
+      "Estää lisävammautuminen, turvata peruselintoiminnot ja voittaa aikaa ennen sairaalaa",
+      "Tehdä mahdollisimman kattava diagnostiikka kohteessa",
+      "Varmistaa, että potilas saa kipulääkkeen ennen muita toimenpiteitä"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vaikeasti vammautuneen potilaan lopullinen hoito annetaan aina sairaalassa (esim. leikkaussalissa). Ensihoidon rooli on estää lisävammautuminen, turvata peruselintoiminnot ja saattaa potilas nopeasti oikeaan hoitopaikkaan."
+  },
+  {
+    "id": "traumapotilaan-tutkiminen-q2",
+    "type": "mcq",
+    "question": "Missä järjestyksessä vammapotilaan ensiarvio (cABCDE) etenee?",
+    "options": [
+      "Airway, Breathing, Circulation, Disability, Exposure, Catastrophic haemorrhage",
+      "Catastrophic haemorrhage, Airway, Breathing, Circulation, Disability, Exposure",
+      "Disability, Airway, Breathing, Circulation, Exposure, Catastrophic haemorrhage",
+      "Breathing, Airway, Circulation, Catastrophic haemorrhage, Disability, Exposure"
+    ],
+    "correctIndex": 1,
+    "explanation": "Henkeä välittömästi uhkaava, näkyvä massiivinen verenvuoto (c) tyrehdytetään jo ennen hengitystien varmistamista. Sen jälkeen edetään suurimman uhan periaatteella: Airway, Breathing, Circulation, Disability, Exposure."
+  },
+  {
+    "id": "traumapotilaan-tutkiminen-q3",
+    "type": "truefalse",
+    "question": "Vammapotilaan takykardiaa on pidettävä verenvuodon merkkinä, kunnes toisin todistetaan.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Oikein. Syketason nousu on usein ensimmäinen merkki hypovolemiasta, kun elimistön kompensaatiomekanismit alkavat pettää. Verenpaine laskee tyypillisesti vasta myöhemmin, kun noin 30 % verivolyymista on menetetty."
+  },
+  {
+    "id": "traumapotilaan-tutkiminen-q4",
+    "type": "mcq",
+    "question": "Mikä GCS-raja on yleinen peruste harkita hengitystien varmistamista intubaatiolla vammapotilaalla?",
+    "options": [
+      "GCS alle 13",
+      "GCS alle 9",
+      "GCS alle 5",
+      "GCS alle 11"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hengitystien auki pysyminen varmistetaan tyypillisesti intubaatiolla, jos potilaan GCS on alle 9 (potilas ei enää torju kipua tarkoituksenmukaisesti) eikä tajunnantaso korjaudu."
+  },
+  {
+    "id": "traumapotilaan-tutkiminen-q5",
+    "type": "mcq",
+    "question": "Mikä löydösyhdistelmä viittaa vahvasti jänniteilmarintaan?",
+    "options": [
+      "Molemminpuolinen heikentynyt hengitysääni ja hidas syke",
+      "Toispuolisesti hävinneet hengitysäänet, kaulalaskimoiden pullotus ja nopeasti romahtava verenkierto",
+      "Symmetriset hengitysäänet ja korkea verenpaine",
+      "Pinnallinen hengitys ja normaali happisaturaatio molemmin puolin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Jänniteilmarinnassa paine nousee vammapuolen keuhkopussissa, mikä aiheuttaa toispuolisesti häviävät hengitysäänet, kaulalaskimoiden pullotuksen ja nopean verenkierron romahtamisen. Henkitorven siirtymä on vasta myöhäinen löydös."
+  },
+  {
+    "id": "traumapotilaan-tutkiminen-q6",
+    "type": "truefalse",
+    "question": "Täydennetty tilannearvio tehdään aina loppuun asti ennen kuljetuksen aloittamista, vaikka potilaalla olisi hallitsematon sisäinen verenvuoto.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Väärin. Hallitsemattoman verenvuodon tai muun välittömän hengenvaaran yhteydessä valitaan \"load and go\" -strategia: kuljetus aloitetaan nopeasti, ja tarkempi tutkiminen jatkuu matkalla."
+  },
+  {
+    "id": "traumapotilaan-tutkiminen-q7",
+    "type": "mcq",
+    "question": "Mikä seuraavista on tyypillinen \"stay and play\" -strategian käyttöaihe?",
+    "options": [
+      "Vartaloon kohdistunut puukotusvamma, jossa epäillään sisäistä verenvuotoa",
+      "Vaikea aivovamma, jossa potilas täytyy vakauttaa (esim. hengitystie, ventilaatio) ennen kuljetusta",
+      "Läpäisevä ampumavamma rintakehässä",
+      "Pieni, paikallinen avomurtuma ranteessa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vaikeasti aivovammautuneen potilaan ennustetta parantaa sekundaarivaurion (hapenpuute, matala verenpaine) ehkäiseminen jo kohteessa, joten tilan vakauttamiseen käytetään tarvittaessa enemmän aikaa. Lävistävissä vartalovammoissa korostuu sen sijaan nopea kuljetus."
+  },
+  {
+    "id": "traumapotilaan-tutkiminen-q8",
+    "type": "mcq",
+    "question": "Mitkä kolme tekijää muodostavat vammapotilaan \"kuoleman kolmion\"?",
+    "options": [
+      "Hypoglykemia, hypotermia, hypoksia",
+      "Hypotermia, asidoosi ja koagulopatia",
+      "Takykardia, hypotensio ja tajunnan lasku",
+      "Ilmarinta, verirninta ja sydämen tamponaatio"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hypotermia heikentää hyytymistä, huono kudosperfuusio johtaa asidoosiin, ja asidoosi yhdessä hypotermian ja nesteiden laimentavan vaikutuksen kanssa pahentaa koagulopatiaa, joka lisää verenvuotoa – kierre ruokkii itseään."
+  },
+  {
+    "id": "traumapotilaan-tutkiminen-q9",
+    "type": "truefalse",
+    "question": "Aivovamma- ja selkäydinvammapotilaalla tavoitellaan matalampaa verenpainetta kuin vuotavalla potilaalla, jolla ei ole näitä vammoja.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Väärin. Aivo- ja selkäydinvammapotilaalla tavoitellaan tavallista korkeampaa systolista verenpainetta (suuntaa antavasti vähintään noin 120 mmHg), jotta hermokudoksen verenkierto turvataan. Muulla vuotavalla potilaalla sen sijaan tavoitellaan vain riittävää, sallittua (permissiivistä) matalampaa painetasoa."
+  },
+  {
+    "id": "traumapotilaan-tutkiminen-q10",
+    "type": "mcq",
+    "question": "Täydennetyssä tilannearviossa potilas tutkitaan tyypillisesti järjestyksessä:",
+    "options": [
+      "Raajat → selkä → pää → lantio → vatsa → rintakehä",
+      "Rintakehä → vatsa → lantio → pää/kasvot → selkä → raajat",
+      "Pää → rintakehä → raajat → selkä → lantio → vatsa",
+      "Vatsa → rintakehä → pää → raajat → lantio → selkä"
+    ],
+    "correctIndex": 1,
+    "explanation": "Päästä varpaisiin -tutkiminen etenee suurimman riskin alueista eteenpäin: rintakehä, vatsa, lantio, pää ja kasvot, selkä sekä raajat. Selkä tutkitaan yleensä vasta, kun potilas joudutaan muutenkin kääntämään."
+  },
+  {
+    "id": "traumapotilaan-tutkiminen-q11",
+    "type": "mcq",
+    "question": "Minkä kriteerin täyttyessä potilas luokitellaan monivammautuneeksi (yhdessä vähintään kahden kehon alueen merkittävän vamman kanssa)?",
+    "options": [
+      "Potilas on alle 30-vuotias ja hyvässä fyysisessä kunnossa",
+      "GCS alle 9, systolinen verenpaine alle 90 mmHg tai ikä yli 70 vuotta",
+      "Potilaalla on yksi avomurtuma raajassa",
+      "Potilas on ollut tajuissaan koko ajan onnettomuuden jälkeen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kansainvälisen Berliinin määritelmän mukaan monivammautuneella on vähintään kahdella kehon alueella merkittävä vamma, ja lisäksi alentunut tajunta (GCS<9), hypotensio (systolinen <90 mmHg) tai yli 70 vuoden ikä."
+  },
+  {
+    "id": "traumapotilaan-tutkiminen-q12",
+    "type": "truefalse",
+    "question": "Lantion aluetta tutkittaessa suositellaan nykyään lantion voimakasta painelua suoliluunharjoista, jotta epävakaus havaitaan varmasti.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Väärin. Voimakasta lantion manipulaatiota ei suositella, koska se voi rikkoa jo muodostuneen hyytymän ja lisätä verenvuotoa. Riittää, että etsitään virheasentoa, mustelmia ja kysytään kipua; epäilyn herätessä lantio tuetaan lantiovyöllä."
+  }
+]

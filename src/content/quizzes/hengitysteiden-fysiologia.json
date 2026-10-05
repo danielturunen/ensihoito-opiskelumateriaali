@@ -1,0 +1,102 @@
+[
+  {
+    "id": "hengitysteiden-fysiologia-q1",
+    "type": "mcq",
+    "question": "Mikä ääni viittaa tyypillisesti ylähengitystien ongelmaan?",
+    "options": ["Vinkuna", "Stridor", "Rahinat", "Ritinä"],
+    "correctIndex": 1,
+    "explanation": "Stridor on korkea, kuriseva ääni joka syntyy ahtautuneessa ylähengitystiessä, tyypillisesti sisäänhengityksen aikana. Vinkuna ja rahinat liittyvät yleensä alahengitysteiden ongelmiin."
+  },
+  {
+    "id": "hengitysteiden-fysiologia-q2",
+    "type": "truefalse",
+    "question": "Hyvä SpO2-arvo sulkee pois vakavan ventilaatiohäiriön.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Väärin. SpO2 kuvaa hapetusta, ei ventilaatiota. Potilas voi ventiloida huonosti ja kerryttää hiilidioksidia, vaikka saturaatio olisi vielä normaali, varsinkin jos hän saa lisähappea."
+  },
+  {
+    "id": "hengitysteiden-fysiologia-q3",
+    "type": "mcq",
+    "question": "Miksi tajuton potilas lasketaan aina myös ilmatiepotilaaksi?",
+    "options": [
+      "Koska tajuttomuus aiheuttaa aina bronkospasmin",
+      "Koska suojarefleksit heikkenevät ja kieli voi painua taakse",
+      "Koska tajuton potilas hengittää aina liian nopeasti",
+      "Koska tajuttomuus nostaa aina hiilidioksiditasoa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tajunnan laskiessa nielun lihastonus ja suojarefleksit (yskiminen, nieleminen) heikkenevät, kieli voi painua nieluun ja aspiraatioriski kasvaa — vaikka varsinaista hengityselinsairautta ei olisikaan."
+  },
+  {
+    "id": "hengitysteiden-fysiologia-q4",
+    "type": "mcq",
+    "question": "Mikä seuraavista EI ole yksi neljästä päämekanismista, joilla hengitystie muuttuu hätätilaksi?",
+    "options": ["Mekaaninen tukos", "Turvotus", "Hypertermia", "Hengitysväsymys"],
+    "correctIndex": 2,
+    "explanation": "Päämekanismit ovat mekaaninen tukos, turvotus, tajunnan lasku ja hengitysväsymys/lihasheikkous. Hypertermia (korkea ruumiinlämpö) ei kuulu näihin neljään."
+  },
+  {
+    "id": "hengitysteiden-fysiologia-q5",
+    "type": "truefalse",
+    "question": "Levottomasta ja voimakkaasti hengitystyötä tekevästä potilaasta hiljeneminen on aina hyvä merkki.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Väärin. Äkillinen hiljeneminen voi tarkoittaa hengitysuupumista eli potilas ei enää jaksa tehdä hengitystyötä — tämä on yksi vaarallisimmista red flag -löydöksistä, ei paranemisen merkki."
+  },
+  {
+    "id": "hengitysteiden-fysiologia-q6",
+    "type": "mcq",
+    "question": "Mitkä kaikki tekijät vaaditaan onnistuneeseen kaasujenvaihtoon alveoleissa?",
+    "options": [
+      "Vain se, että ilma pääsee alveoleihin",
+      "Ilma pääsee alveoleihin ja alveolit ovat auki",
+      "Ilma pääsee alveoleihin, alveolit ovat auki, keuhkoverenkierto toimii ja hemoglobiini sitoo happea",
+      "Pelkästään toimiva keuhkoverenkierto"
+    ],
+    "correctIndex": 2,
+    "explanation": "Kaasujenvaihto vaatii kaikkien neljän osatekijän toimivan yhdessä: ilman pääsyn alveoleihin, avoimet alveolit, toimivan keuhkoverenkierron ja hemoglobiinin kyvyn sitoa happea."
+  },
+  {
+    "id": "hengitysteiden-fysiologia-q7",
+    "type": "truefalse",
+    "question": "Ylähengitysteihin kuuluvat muun muassa nenäontelo, nielu, kurkunpää ja äänihuulet.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Oikein. Ylähengitysteihin kuuluvat nenäontelo, suuontelo, nielu, kurkunpää, epiglottis ja äänihuulet. Henkitorvi ja sitä alemmat rakenteet kuuluvat alahengitysteihin."
+  },
+  {
+    "id": "hengitysteiden-fysiologia-q8",
+    "type": "mcq",
+    "question": "Potilaalla on hengenahdistus, mutta hän pystyy vielä puhumaan kokonaisia lauseita. Mitä tämä kertoo?",
+    "options": [
+      "Potilaalla ei voi olla hengitystieongelmaa",
+      "Puhekyky kuvastaa hengitysreserviä ja antaa viitteen vaikeusasteesta",
+      "Kyse on aina lievästä astmakohtauksesta",
+      "Puhekyvyllä ei ole kliinistä merkitystä"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kyky puhua kokonaisia lauseita on käytännöllinen ja nopea tapa arvioida hengitysreserviä. Puhehukka (vain yksittäisiä sanoja kerrallaan) on tärkeä red flag -löydös."
+  },
+  {
+    "id": "hengitysteiden-fysiologia-q9",
+    "type": "mcq",
+    "question": "Minne hengitystien uhan alainen potilas tulee pääsääntöisesti kuljettaa?",
+    "options": [
+      "Terveysasemalle, jos potilas vaikuttaa rauhalliselta",
+      "Kotiin seurantaan ohjeiden kanssa",
+      "Päivystykseen, jossa on valmius tarvittavaan ilmatiehoitoon",
+      "Minne tahansa lähimpään toimipisteeseen"
+    ],
+    "correctIndex": 2,
+    "explanation": "Selvä hengitystien uhka (stridor, kuolaaminen, äänen muutos, nielemiskyvyttömyys, anafylaksiaepäily tms.) kuuluu aina päivystykseen, jossa on valmius vaativaan ilmatiehoitoon — ei terveysasemalle."
+  },
+  {
+    "id": "hengitysteiden-fysiologia-q10",
+    "type": "truefalse",
+    "question": "Ventilaatio ja hapetus (oksygenaatio) tarkoittavat samaa asiaa.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Väärin. Ventilaatio on ilman fyysistä liikettä sisään ja ulos keuhkoista, kun taas hapetus tarkoittaa hapen siirtymistä alveoleista vereen. Potilas voi hapettua kohtalaisesti, vaikka ventiloisi riittämättömästi."
+  }
+]

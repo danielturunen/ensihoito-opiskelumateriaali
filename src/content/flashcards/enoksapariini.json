@@ -1,0 +1,12 @@
+[
+  { "id": "enoksapariini-f1", "front": "Mikä lääkeryhmä on enoksapariini?", "back": "Pienimolekyylinen hepariini (LMWH) – antikoagulantti, veren hyytymistä estävä lääke." },
+  { "id": "enoksapariini-f2", "front": "Mihin enoksapariini sitoutuu ja mitä se tehostaa?", "back": "Sitoutuu antitrombiini III:een (AT-III) ja tehostaa sen kykyä inaktivoida hyytymistekijä Xa:ta." },
+  { "id": "enoksapariini-f3", "front": "Mihin enoksapariinin vaikutus painottuu verrattuna fraktioimattomaan hepariiniin?", "back": "Painottuu enemmän tekijä Xa:n estoon, kun UFH vaikuttaa tasapainoisemmin sekä Xa:han että trombiiniin." },
+  { "id": "enoksapariini-f4", "front": "Missä tilanteissa enoksapariinia käytetään ensihoidossa?", "back": "Osana STEMI-, NSTEMI- ja epästabiilin angina pectoriksen antitromboottista hoitoa, hoito-ohjeen mukaan." },
+  { "id": "enoksapariini-f5", "front": "Vaatiiko enoksapariini rutiiniseurantaa kuten UFH?", "back": "Ei – sen vaikutus on ennustettavampi, eikä se yleensä vaadi rutiininomaista aPTT-seurantaa." },
+  { "id": "enoksapariini-f6", "front": "Voiko enoksapariinin vaikutuksen kumota protamiinilla täysin?", "back": "Ei täysin – protamiini kumoaa vain osan enoksapariinin vaikutuksesta, toisin kuin UFH:n." },
+  { "id": "enoksapariini-f7", "front": "Mikä on enoksapariinin suurin riski?", "back": "Verenvuoto, erityisesti iäkkäillä ja munuaisten vajaatoimintaa sairastavilla potilailla." },
+  { "id": "enoksapariini-f8", "front": "Miksi enoksapariinia ei anneta potilaalle, jolla on hoitotasoinen oraalinen antikoagulantti?", "back": "Yhteisvaikutus lisäisi verenvuotoriskiä merkittävästi; annosta ja tarvetta on arvioitava hoito-ohjeen ja lääkärin mukaan." },
+  { "id": "enoksapariini-f9", "front": "Mistä enoksapariini on peräisin?", "back": "Se on valmistettu pilkkomalla fraktioimaton hepariini (UFH) pienemmiksi molekyyleiksi." },
+  { "id": "enoksapariini-f10", "front": "Mikä etu enoksapariinilla on annostelussa UFH:hon verrattuna?", "back": "Pidempi puoliintumisaika mahdollistaa harvemman annostelun (1–2 kertaa vrk) verrattuna UFH:n jatkuvaan infuusioon." }
+]

@@ -1,0 +1,256 @@
+[
+  {
+    "id": "hus-q1",
+    "type": "truefalse",
+    "question": "Pitkäaikainen, kroonistunut kipu voi altistaa potilaan sydän-, verenkierto- ja hengityselimistön komplikaatioille.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Kipu aktivoi stressihormonijärjestelmää ja autonomista hermostoa, ja pitkittyessään se voi kuormittaa sydäntä, verenkiertoa ja hengitystä – siksi kivunhoito on osa peruselintoimintojen vakauttamista, ei vain mukavuustekijä."
+  },
+  {
+    "id": "hus-q2",
+    "type": "mcq",
+    "question": "Minkä ajan jälkeen kipua pidetään yleisesti kroonisena?",
+    "options": ["2 viikkoa", "1 kuukausi", "3 kuukautta tai kudosvaurion normaalin paranemisajan jälkeen", "1 vuosi"],
+    "correctIndex": 2,
+    "explanation": "Kipu luokitellaan krooniseksi, kun se kestää yli kolme kuukautta tai pitempään kuin kudosvaurion odotettu paranemisaika."
+  },
+  {
+    "id": "hus-q3",
+    "type": "mcq",
+    "question": "Mikä löydös viittaa erityisesti lantion pohjan murtumaan vammapotilaalla?",
+    "options": [
+      "Lievä arkuus lonkan ulkosyrjässä",
+      "Laaja hematooma kiveksissä tai häpyluiden alueella",
+      "Normaali kävelykyky vamman jälkeen",
+      "Pintanaarmu reiden alueella"
+    ],
+    "correctIndex": 1,
+    "explanation": "Laaja hematooma kivespussien tai häpyluiden/häpykielen alueella on tyypillinen merkki lantionpohjan murtumasta ja viittaa merkittävään vammaenergiaan."
+  },
+  {
+    "id": "hus-q4",
+    "type": "truefalse",
+    "question": "Väärin asennettu lantionmurtumavyö voi pahentaa murtumaa, esimerkiksi työntää reisiluun päätä syvemmälle lantioon.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Lantionmurtumavyö on asetettava oikealle korkeudelle (reisiluun suurten sarvennoisten tasolle). Väärä sijainti voi siirtää murtumakappaleita ja pahentaa vammaa tai verenvuotoa."
+  },
+  {
+    "id": "hus-q5",
+    "type": "mcq",
+    "question": "TIA-kohtaus (ohimenevä aivoverenkiertohäiriö) eroaa aivoinfarktista siinä, että",
+    "options": [
+      "TIA aiheuttaa aina pysyvän aivovaurion",
+      "TIA-oireet häviävät kokonaan eikä pysyvää kudosvauriota synny",
+      "TIA ei koskaan ennakoi tulevaa aivoinfarktia",
+      "TIA:ssa oireet kestävät aina yli vuorokauden"
+    ],
+    "correctIndex": 1,
+    "explanation": "TIA on ohimenevä verenkiertohäiriö, jossa oireet häviävät täysin ja pysyvää kudosvauriota ei synny – se on kuitenkin vakava varoitusmerkki tulevasta aivoinfarktin riskistä ja vaatii kiireellisen arvion."
+  },
+  {
+    "id": "hus-q6",
+    "type": "truefalse",
+    "question": "Happi voi suurina pitoisuuksina ja pitkään annettuna olla soluille haitallista.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Korkeat happipitoisuudet pitkäaikaisesti annettuna voivat aiheuttaa soluvaurioita, minkä takia happihoito kohdennetaan tavoitesaturaation mukaan, ei automaattisesti suurimmalla mahdollisella virtauksella."
+  },
+  {
+    "id": "hus-q7",
+    "type": "mcq",
+    "question": "Mikä löydösyhdistelmä viittaa rabdomyolyysiin (äkilliseen lihaskudosvaurioon)?",
+    "options": [
+      "Raajan pinkeys, heikot/puuttuvat pulssit ja kohonneet lihasentsyymiarvot",
+      "Lievä lihaskipu ja normaali virtsan väri",
+      "Paikallinen punoitus ilman muita oireita",
+      "Pelkkä kuume ilman lihasoireita"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rabdomyolyysin varhaisia merkkejä ovat raajan tai lihasaition pinkeys, heikentyneet pulssit sekä kohonneet myoglobiini- ja kreatiniinikinaasiarvot – tila voi johtaa myös munuaisvaurioon."
+  },
+  {
+    "id": "hus-q8",
+    "type": "truefalse",
+    "question": "Syanoosi (ihon sinertyminen) on varhainen ja luotettava merkki elimistön hapenpuutteesta.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Syanoosi ilmaantuu vasta myöhäisessä vaiheessa hapenpuutetta ja on epäluotettava merkki – happisaturaatiomittaus havaitsee hapetusongelman huomattavasti aiemmin."
+  },
+  {
+    "id": "hus-q9",
+    "type": "mcq",
+    "question": "Mitä tarkoitetaan niin kutsutulla \"5 sekunnin kierroksella\" (5-second round) potilaan ensiarviossa?",
+    "options": [
+      "Viiden minuutin mittainen täydellinen ABCDE-arvio",
+      "Nopea tarkistus välittömästi henkeä uhkaavan tilan, massiivisen verenvuodon ja pulssittomuuden varalta sekä hengitystien riittävyydestä",
+      "Viiden kysymyksen haastattelu potilaan taustasta",
+      "Viiden minuutin tauko ennen hoitotoimia"
+    ],
+    "correctIndex": 1,
+    "explanation": "5-second round on erittäin nopea alkutarkistus, jossa havaitaan välittömästi hengenvaaralliset löydökset (massiivinen vuoto, pulssittomuus, hengitystien tukos) ennen tarkempaa arviota."
+  },
+  {
+    "id": "hus-q10",
+    "type": "mcq",
+    "question": "Mitä pneumotoraksi tarkoittaa?",
+    "options": ["Keuhkopussin tulehdusta", "Ilmarintaa", "Keuhkokuumetta", "Keuhkoveritulppaa"],
+    "correctIndex": 1,
+    "explanation": "Pneumotoraksi tarkoittaa ilmarintaa – ilmaa on päässyt keuhkopussin väliin, mikä voi painaa keuhkoa kasaan."
+  },
+  {
+    "id": "hus-q11",
+    "type": "mcq",
+    "question": "Mitä keskiverenpaine (MAP) kuvaa?",
+    "options": [
+      "Sykkeen ja verenpaineen tulosta",
+      "Keskimääräistä verenpainetta yhden sydänsyklin aikana",
+      "Vain diastolista painetta",
+      "Verenpaineen vaihteluväliä vuorokauden aikana"
+    ],
+    "correctIndex": 1,
+    "explanation": "MAP (mean arterial pressure) kuvaa keskimääräistä verenpainetta yhden pulssisyklin aikana ja kertoo elinten verenkierron riittävyydestä paremmin kuin systolinen paine yksinään."
+  },
+  {
+    "id": "hus-q12",
+    "type": "truefalse",
+    "question": "Kapeneva pulssipaine (systolisen ja diastolisen paineen erotuksen pieneneminen) voi olla merkki hypovolemiasta tai sydäntamponaatiosta.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Pulssipaineen kapeneminen kertoo usein iskutilavuuden pienenemisestä, joka voi johtua hypovolemiasta tai sydämen täyttymistä rajoittavasta tamponaatiosta."
+  },
+  {
+    "id": "hus-q13",
+    "type": "mcq",
+    "question": "Mikä on basilaaritromboosi?",
+    "options": [
+      "Kallonpohjavaltimon tukos, vaikeasti tunnistettava neurologinen hätätilanne",
+      "Sydämen sepelvaltimon tukos",
+      "Alaraajan laskimotukos",
+      "Keuhkovaltimon tukos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Basilaaritromboosi on kallonpohjavaltimon (arteria basilaris) tukos. Oireet voivat olla vaihtelevia ja vaiheittain etenevia, mikä tekee diagnoosista haastavan, mutta tila on aina neurologinen hätätilanne."
+  },
+  {
+    "id": "hus-q14",
+    "type": "truefalse",
+    "question": "Keskuslaskimopaineen (CVP) trendin seuraaminen ajan myötä on usein kliinisesti hyödyllisempää kuin yksittäinen mitattu arvo.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "CVP vaihtelee monesta tekijästä riippuen, joten muutoksen suunta ajan myötä kertoo enemmän potilaan nestetilasta ja sydämen kuormituksesta kuin yksittäinen mittaustulos."
+  },
+  {
+    "id": "hus-q15",
+    "type": "mcq",
+    "question": "Mikä seuraavista kuvaa oikein verisuonten laajenemista (vasodilataatiota)?",
+    "options": [
+      "Nostaa verenpainetta ja supistaa suonia",
+      "On tyypillinen reaktio esimerkiksi kuumeeseen, infektioon tai nitroglyseriiniin ja laskee verenpainetta",
+      "Tapahtuu vain keuhkoverenkierrossa",
+      "Ei vaikuta verenpaineeseen lainkaan"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vasodilataatio tarkoittaa verisuonten laajenemista, joka laskee verenvastusta ja siten verenpainetta. Se on tyypillinen vaste esimerkiksi kuumeelle, infektiolle ja nitroglyseriinille."
+  },
+  {
+    "id": "hus-q16",
+    "type": "mcq",
+    "question": "Mikä on oikea ensivaste ulkoisen verenvuodon tyrehdyttämisessä?",
+    "options": [
+      "Odotetaan sairaalaan asti",
+      "Painetaan vuotokohtaa suoralla, jatkuvalla paineella",
+      "Nostetaan raajaa vain korkealle eikä muuta tehdä",
+      "Painetaan vuotokohtaa hetkittäisesti kevyesti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Suora, jatkuva paine vuotokohtaan on ensisijainen ja tehokkain keino hallita ulkoista verenvuotoa välittömästi."
+  },
+  {
+    "id": "hus-q17",
+    "type": "truefalse",
+    "question": "Kohonnut kallonsisäinen paine (ICP) voi aiheuttaa potilaalle bradykardiaa (hitaan sykkeen).",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Merkittävästi kohonnut kallonsisäinen paine voi laukaista Cushingin reaktion, jossa verenpaine nousee ja syke hidastuu – tämä on vakava hälytysmerkki."
+  },
+  {
+    "id": "hus-q18",
+    "type": "mcq",
+    "question": "Mitä tarkoittaa, jos monitoroitavan potilaan GCS-pisteet laskevat enemmän kuin kaksi pistettä tunnin aikana?",
+    "options": [
+      "Se on normaalia vaihtelua eikä vaadi toimia",
+      "Se on merkittävä hälytysmerkki tilan heikkenemisestä ja vaatii välittömän uudelleenarvion",
+      "Mittaus on tehty väärin ja se toistetaan huomenna",
+      "Se johtuu aina väsymyksestä"
+    ],
+    "correctIndex": 1,
+    "explanation": "GCS-pisteiden nopea lasku (yli kaksi pistettä tunnissa) on yksi tärkeimmistä neurologisen tilan heikkenemisen hälytysmerkeistä ja edellyttää välittömiä toimia."
+  },
+  {
+    "id": "hus-q19",
+    "type": "mcq",
+    "question": "Mihin D-dimeeri-verikoetta käytetään kliinisessä arvioinnissa?",
+    "options": [
+      "Munuaisten toiminnan arviointiin",
+      "Keuhkoembolian ja syvän laskimotukoksen poissulkemisen tukena",
+      "Verensokerin seurantaan",
+      "Maksan toiminnan arviointiin"
+    ],
+    "correctIndex": 1,
+    "explanation": "D-dimeeri on hyytymisjärjestelmän hajoamistuote, jonka kohoamista käytetään tukemaan keuhkoembolian ja syvän laskimotukoksen epäilyä, vaikka koe ei ole yksinään diagnostinen."
+  },
+  {
+    "id": "hus-q20",
+    "type": "truefalse",
+    "question": "Lievässä alilämpöisyydessä (ruumiinlämpö yli 34 asteen) elimistö pyrkii kompensoimaan supistamalla pintaverisuonia ja tuottamalla lämpöä lihasväristyksillä.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Lievässä hypotermiassa elimistö kompensoi vielä aktiivisesti: pintaverisuonet supistuvat lämpöhukan vähentämiseksi ja lihasväristykset tuottavat lämpöä."
+  },
+  {
+    "id": "hus-q21",
+    "type": "mcq",
+    "question": "Mitä NEWS-tyyppinen pisteytysjärjestelmä ohjaa käytännössä?",
+    "options": [
+      "Vain lääkelistan päivittämistä",
+      "Seurannan tihentämistä ja lääkärin konsultaatiota pisteiden trendin perusteella",
+      "Potilaan kotiutusaikataulua",
+      "Ruokavalion suunnittelua"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pisteytyksen tarkoitus on ohjata hoitohenkilökunnan toimintaa: nousevat pisteet johtavat seurannan tihentämiseen ja tarvittaessa lääkärin konsultaatioon ennen kuin tila on silminnähden kriittinen."
+  },
+  {
+    "id": "hus-q22",
+    "type": "mcq",
+    "question": "Mikä on epileptisen kohtauksen ja epilepsian välinen ero?",
+    "options": [
+      "Ne tarkoittavat täysin samaa asiaa",
+      "Epileptinen kohtaus on ohimenevä aivotoiminnan häiriö, epilepsia on sairaus joka altistaa toistuville kohtauksille",
+      "Epilepsia tarkoittaa yhtä yksittäistä kohtausta",
+      "Epileptinen kohtaus aiheuttaa aina pysyvän aivovaurion"
+    ],
+    "correctIndex": 1,
+    "explanation": "Epileptinen kohtaus on yksittäinen, ohimenevä aivosähkötoiminnan häiriö. Epilepsia on diagnoosi, joka tarkoittaa taipumusta saada toistuvia provosoitumattomia kohtauksia."
+  },
+  {
+    "id": "hus-q23",
+    "type": "truefalse",
+    "question": "Lapsella ja aikuisella sepsiksen varhaiset merkit ovat identtiset, ja molemmilla hypotensio on yleensä varhainen löydös.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Lapsen fysiologia kompensoi sepsiksessä pitkään nostamalla sykettä ja supistamalla ääreisverenkiertoa, jolloin hypotensio ilmaantuu vasta myöhäisessä ja huonoennusteisessa vaiheessa."
+  },
+  {
+    "id": "hus-q24",
+    "type": "mcq",
+    "question": "Mikä on asetonin hajuisen hengityksen taustalla oleva tila useimmiten?",
+    "options": [
+      "Maksakooma", "Ketoasidoosi", "Keuhkokuume", "Sydämen vajaatoiminta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Asetonin haju hengityksessä viittaa ketoasidoosiin, jossa elimistö tuottaa ketoaineita rasvojen hajotessa energiaksi insuliinin puutteessa."
+  }
+]

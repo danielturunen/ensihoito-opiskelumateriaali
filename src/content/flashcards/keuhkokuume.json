@@ -1,0 +1,17 @@
+[
+  { "id": "keuhkokuume-f1", "front": "Mikä on keuhkokuume (pneumonia)?", "back": "Bakteerin tai viruksen aiheuttama keuhkokudoksen tulehdus, jossa keuhkorakkulat täyttyvät tulehduseritteestä." },
+  { "id": "keuhkokuume-f2", "front": "Mikä on konsolidaatio?", "back": "Tila, jossa keuhkokudos muuttuu tiiviiksi ja ilmattomaksi tulehduseritteen täyttäessä keuhkorakkulat." },
+  { "id": "keuhkokuume-f3", "front": "Mikä auskultaatiolöydös on tyypillinen keuhkokuumeessa?", "back": "Paikalliset rahinat tai ritinä tulehtuneen alueen kohdalla, mahdollisesti myös vinkunaa." },
+  { "id": "keuhkokuume-f4", "front": "Miten keuhkokuumeen auskultaatiolöydös erottuu keuhkopöhöstä?", "back": "Keuhkokuumeessa rahinat ovat tyypillisesti paikallisia, keuhkopöhössä molemminpuolisia." },
+  { "id": "keuhkokuume-f5", "front": "Mitkä ovat sepsiksen red flag -löydökset keuhkokuumepotilaalla?", "back": "Hengitystaajuus yli 22–25/min, systolinen verenpaine alle 100 mmHg, tajunnan muutos, korkea kuume tai alilämpö, syke yli 100/min." },
+  { "id": "keuhkokuume-f6", "front": "Mikä voi olla iäkkäällä potilaalla ainoa havaittava sepsiksen merkki?", "back": "Sekavuus tai matala verenpaine, vaikka selvää kuumetta ei olisikaan." },
+  { "id": "keuhkokuume-f7", "front": "Miksi nestehoito on tärkeää keuhkokuumeen yhteydessä, jos epäillään sepsistä?", "back": "Kuume ja tihentynyt hengitys kuivattavat potilasta, ja sepsiksessä verisuonet laajenevat — nesteytys ylläpitää verenkiertoa." },
+  { "id": "keuhkokuume-f8", "front": "Miksi keuhkokuume ja keuhkopöhö ovat nestehoidon suhteen vastakohtia?", "back": "Keuhkokuumeessa/sepsiksessä nesteytys on usein tarpeen, keuhkopöhössä nesteen antaminen pahentaa tilaa vaarallisesti." },
+  { "id": "keuhkokuume-f9", "front": "Mikä on keuhkokuumeen happihoidon tyypillinen SpO2-tavoite?", "back": "Noin 92–96 %, annettuna viiksillä tai maskilla." },
+  { "id": "keuhkokuume-f10", "front": "Milloin CPAP/NIV-hoitoa harkitaan keuhkokuumeessa?", "back": "Kun hengitystyö on merkittävästi lisääntynyt tai happeutuminen ei korjaannu tavallisella happihoidolla." },
+  { "id": "keuhkokuume-f11", "front": "Mitkä riskiryhmät ovat erityisen alttiita vaikealle keuhkokuumeelle?", "back": "Hyvin nuoret, iäkkäät ja henkilöt, joilla on kroonisia perussairauksia (diabetes, keuhko- tai sydänsairaus, immuunipuutos)." },
+  { "id": "keuhkokuume-f12", "front": "Mikä on tyypillinen keuhkokuumeen aiheuttava bakteeri?", "back": "Streptococcus pneumoniae on yleinen esimerkki, mutta myös virukset voivat aiheuttaa keuhkokuumeen." },
+  { "id": "keuhkokuume-f13", "front": "Mikä tekee keuhkokuumeen rintakivusta tunnistettavan?", "back": "Se on usein pistävää ja pahenee sisäänhengityksessä (pleuraalinen kipu)." },
+  { "id": "keuhkokuume-f14", "front": "Mikä on ensihoidon päätavoite keuhkokuumepotilaan kohdalla?", "back": "Tukea elintoimintoja, tunnistaa mahdollinen sepsis ja varmistaa nopea pääsy sairaalaan antibioottihoitoon." },
+  { "id": "keuhkokuume-f15", "front": "Mitä tarkoittaa pleuraalinen kipu?", "back": "Terävä, pistävä rintakipu, joka pahenee sisäänhengityksen aikana — tyypillinen keuhkokuumeessa ja keuhkoemboliassa." }
+]

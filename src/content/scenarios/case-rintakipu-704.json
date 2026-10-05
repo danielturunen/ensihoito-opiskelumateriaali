@@ -1,0 +1,59 @@
+{
+  "id": "case-rintakipu-704",
+  "title": "Tapaus: Rintakipu",
+  "dispatchCode": "704",
+  "intro": "Hätäkeskus: tehtäväkoodi 704, rintakipu. 58-vuotias mies, kotona, valittaa voimakasta puristavaa rintakipua, joka alkoi levossa noin 40 minuuttia sitten. Puoliso on paikalla. Potilas on ottanut kotoa löytyneen nitraattisuihkeen kahdesti, kipu ei ole hellittänyt.",
+  "steps": [
+    {
+      "id": "step1",
+      "situation": "Saavutte paikalle. Potilas istuu keittiön tuolilla, hieman kalpeana ja hikisenä, puristaa toisella kädellä rintaansa. Hän pystyy puhumaan täysiä lauseita.",
+      "question": "Mikä on ensimmäinen ja tärkein toimenpide kohteessa?",
+      "choices": [
+        { "text": "Tehdään systemaattinen ensiarvio (ABCDE) ja rekisteröidään 15-kytkentäinen EKG mahdollisimman nopeasti.", "correct": true, "feedback": "Oikein. Rintakipu on aina riskioire, ja systemaattinen arvio sekä nopea EKG ovat perusta hoitolinjan valinnalle – kivun luonteen perusteella ei voi sulkea pois AKS:ää." },
+        { "text": "Pyydetään potilas kävelemään ambulanssiin, jotta kuljetus käynnistyy nopeammin.", "correct": false, "feedback": "Väärin. Rintakipupotilasta ei pidä kävelyttää – rasitus voi pahentaa iskemiaa ja laukaista rytmihäiriön. Potilas siirretään paareilla tai pyörätuolilla." },
+        { "text": "Annetaan lisää nitraattisuihkeita välittömästi, verenpainetta tarkistamatta.", "correct": false, "feedback": "Väärin. Nitraatti annetaan vain, kun systolinen verenpaine on riittävä (yli 100 mmHg). Verenpaine ja peruselintoiminnot on tarkistettava ensin." }
+      ]
+    },
+    {
+      "id": "step2",
+      "situation": "Ensiarvio: hengitystaajuus 18/min, SpO2 96 %, syke tuntuu hitaana ja epäsäännöllisenä noin 46/min, verenpaine 100/70 mmHg, iho kylmänhikinen. Kipu VAS 7/10, säteilee vasempaan käsivarteen. 15-kytkentäinen EKG: ST-nousua kytkennöissä II, III ja aVF.",
+      "question": "Mikä on tärkein seuraava toimenpide ennen hoitolinjan päättämistä?",
+      "choices": [
+        { "text": "Rekisteröidään lisäksi V4R-kytkentä oikean kammion infarktin poissulkemiseksi, ennen nitraatin antoa.", "correct": true, "feedback": "Oikein. Ala-/takaseinäinfarktiin liittyy usein oikean sepelvaltimon tukos, joka voi aiheuttaa myös oikean kammion infarktin. V4R-kytkennän tarkistaminen on tärkeää, koska nitraatti voi romahduttaa verenpaineen oikean kammion infarktissa." },
+        { "text": "Annetaan nitraattisuihke protokollan mukaisesti heti, koska kipu on voimakasta.", "correct": false, "feedback": "Väärin tässä tilanteessa. Potilaalla on bradykardiaa ja ala-/takaseinäinfarktiin viittaava EKG – oikean kammion infarkti on mahdollinen, ja nitraatti voisi laukaista vaarallisen hypotension esikuorman vähenemisen myötä." },
+        { "text": "Annetaan morfiinia kivun hoitoon ensimmäisenä toimenpiteenä.", "correct": false, "feedback": "Väärin. Ennen kipulääkitystä on tärkeämpää varmistaa, ettei hoidolla pahenneta hemodynaamisesti herkkää tilannetta (bradykardia, mahdollinen oikean kammion infarkti)." }
+      ]
+    },
+    {
+      "id": "step3",
+      "situation": "V4R-kytkennässä on lievä ST-nousu, joka tukee oikean kammion osallisuutta. Syke on edelleen 44/min, verenpaine laskenut 92/64 mmHg:iin. Potilas on hieman sekava.",
+      "question": "Mikä on oikea hoito tässä vaiheessa?",
+      "choices": [
+        { "text": "Atropiini 0,5 mg i.v., toistettavissa tarpeen mukaan 3-5 min välein.", "correct": true, "feedback": "Oikein. Oireinen bradykardia (matala verenpaine, tajunnan muutos) alaseinäinfarktin yhteydessä on tyypillisesti vagaalisperäistä ja vastaa usein hyvin atropiiniin." },
+        { "text": "Lisätään nitraattia verenpaineen laskusta huolimatta, koska kipu jatkuu.", "correct": false, "feedback": "Väärin. Verenpaine on jo laskussa ja oikean kammion osallisuus on todettu – nitraatti pahentaisi hypotensiota entisestään." },
+        { "text": "Annetaan beetasalpaajaa sykkeen ja verenpaineen hoitoon.", "correct": false, "feedback": "Väärin ja vaarallista. Beetasalpaaja on vasta-aiheinen bradykardiassa ja hypotensiossa – se laskisi sykettä ja verenpainetta entisestään." }
+      ]
+    },
+    {
+      "id": "step4",
+      "situation": "Atropiinin jälkeen syke nousee 62/min:iin ja verenpaine 112/70 mmHg:iin, potilas virkeämpi. ASA 250 mg on annettu pureskellen. Oireiden alusta on kulunut noin 55 minuuttia. Lähin PCI-keskus on noin 70 minuutin ajomatkan päässä, sairaalaan ilmoitetaan ennakkoon.",
+      "question": "Mikä on oikea reperfuusiohoidon linjaus tässä tilanteessa?",
+      "choices": [
+        { "text": "Kuljetetaan välittömästi PCI-keskukseen ennakkoilmoituksella, kun hemodynamiikka on saatu vakautettua.", "correct": true, "feedback": "Oikein. STEMI:n ensisijainen hoito on pallolaajennus (PCI), kun se on saavutettavissa kohtuullisessa viiveessä. Tässä tapauksessa PCI on saatavilla, ja vakautettu potilas voidaan kuljettaa turvallisesti." },
+        { "text": "Aloitetaan liuotushoito kohteessa, koska kipu on jatkunut yli 40 minuuttia.", "correct": false, "feedback": "Väärin. Liuotushoitoa harkitaan ensisijaisesti, kun PCI-viive olisi liian pitkä. Tässä PCI on saavutettavissa kohtuullisessa ajassa, joten se on ensisijainen valinta." },
+        { "text": "Jäädään kohteeseen odottamaan kivun täydellistä helpottumista ennen kuljetuksen aloittamista.", "correct": false, "feedback": "Väärin. STEMI:ssä aika on lihasta – kuljetus kohti reperfuusiohoitoa ei saa viivästyä kivun täydellisen helpottumisen odottelun vuoksi." }
+      ]
+    },
+    {
+      "id": "step5",
+      "situation": "Kuljetus on käynnissä. Potilaan vointi on vakaa, syke 64/min, verenpaine 115/74 mmHg, kipu VAS 3/10 pienen opioidiannoksen jälkeen. EKG-monitorointi on jatkuvaa.",
+      "question": "Mitä tehdään ennen sairaalaan saapumista?",
+      "choices": [
+        { "text": "Lähetetään EKG etukäteen vastaanottavaan PCI-yksikköön ja annetaan ISBAR-raportti, jotta sydänlab voi valmistautua.", "correct": true, "feedback": "Oikein. Ennakkoilmoitus ja EKG:n sähköinen siirto lyhentävät viivettä oireiden alusta reperfuusioon ja ovat osa STEMI-potilaan laadukasta hoitoketjua." },
+        { "text": "Lopetetaan EKG-monitorointi, koska potilas on jo vakaa.", "correct": false, "feedback": "Väärin. Jatkuva EKG-monitorointi on pidettävä päällä koko kuljetuksen ajan – rytmihäiriöriski on suurimmillaan juuri infarktin ensimmäisten tuntien aikana." },
+        { "text": "Annetaan lisäannos nitraattia varmuuden vuoksi, vaikka oireet ovat helpottaneet.", "correct": false, "feedback": "Väärin. Potilaalla todettiin oikean kammion osallisuus, joten ylimääräistä nitraattia ei anneta varmuuden vuoksi – se voisi laukaista uuden hypotensiojakson." }
+      ]
+    }
+  ],
+  "debrief": "Tapaus havainnollistaa alaseinä-/oikean kammion infarktin tunnistamista ja hoitoa: bradykardia ja hypotensio ovat tyypillisiä, ja nitraatin käytössä on oltava varovainen V4R-löydöksen varmistumiseen asti. Atropiini on ensilinjan hoito oireiseen, vagaalisperäiseen bradykardiaan. Kun hemodynamiikka on vakautettu, reperfuusiohoidon linjaus (PCI vs. liuotushoito) tehdään saavutettavan viiveen ja oireiden keston perusteella. Ennakkoilmoitus ja EKG:n siirto sairaalaan nopeuttavat jatkohoitoa merkittävästi."
+}

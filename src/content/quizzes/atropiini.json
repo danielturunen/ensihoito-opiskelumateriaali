@@ -1,0 +1,82 @@
+[
+  {
+    "id": "atropiini-q1",
+    "type": "mcq",
+    "question": "Mikä on atropiinin vaikutusmekanismi?",
+    "options": ["Beeta-1-reseptorien salpaus", "Muskariinireseptorien salpaus (asetyylikoliinin vaikutuksen esto)", "Kaliumkanavien salpaus", "Natriumkanavien avaaminen"],
+    "correctIndex": 1,
+    "explanation": "Atropiini salpaa muskariinireseptorit, jolloin asetyylikoliinin vagaalinen, sykettä hidastava vaikutus sydämessä kumoutuu ja syke nousee."
+  },
+  {
+    "id": "atropiini-q2",
+    "type": "mcq",
+    "question": "Mikä on tavallinen atropiinin aikuisannos oireisessa bradykardiassa?",
+    "options": ["0,05 mg i.v.", "0,5 mg i.v., toistettavissa 3-5 min välein", "5 mg i.v. kerta-annoksena", "50 mg i.v."],
+    "correctIndex": 1,
+    "explanation": "Aikuiselle annetaan 0,5 mg i.v., ja annos voidaan toistaa 3-5 minuutin välein enimmäisannokseen (yleensä 3 mg) asti."
+  },
+  {
+    "id": "atropiini-q3",
+    "type": "truefalse",
+    "question": "Alle 0,5 mg:n kerta-annos atropiinia voi paradoksaalisesti hidastaa sykettä entisestään.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Liian pieni annos voi stimuloida presynaptisia reseptoreita ja lisätä asetyylikoliinin vapautumista, mikä aiheuttaa paradoksaalisen bradykardian. Siksi kerta-annos on aina vähintään 0,5 mg."
+  },
+  {
+    "id": "atropiini-q4",
+    "type": "mcq",
+    "question": "Minkä tyyppisessä infarktissa atropiini tehoaa tyypillisesti parhaiten bradykardiaan?",
+    "options": ["Etuseinäinfarkti", "Alaseinäinfarkti", "Väliseinäinfarkti", "Korkea lateraalinen infarkti"],
+    "correctIndex": 1,
+    "explanation": "Alaseinäinfarktiin liittyvä bradykardia on usein vagaalisperäinen, jolloin atropiini tehoaa hyvin. Etuseinäinfarktin johtumishäiriö on usein rakenteellinen ja vastaa atropiinille huonommin."
+  },
+  {
+    "id": "atropiini-q5",
+    "type": "truefalse",
+    "question": "Atropiinia voidaan antaa turvallisesti potilaalle, jonka syke on 120/min ja rytmi sinustakykardia.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Atropiini on vasta-aiheinen, jos potilaalla on jo takykardia (syke yli 100/min), koska se nostaisi sykettä entisestään ja voisi pahentaa tilannetta."
+  },
+  {
+    "id": "atropiini-q6",
+    "type": "mcq",
+    "question": "Mikä seuraavista on atropiinin tavallinen haittavaikutus?",
+    "options": ["Bradykardia", "Suun kuivuminen ja pupillien laajeneminen", "Keuhkoputkien supistuminen", "Lisääntynyt syljeneritys"],
+    "correctIndex": 1,
+    "explanation": "Antikolinergisenä lääkkeenä atropiini kuivattaa limakalvoja ja laajentaa pupilleja (mydriaasi) muskariinireseptorien salpauksen seurauksena. Vaikutus sydämeen on päinvastoin takykardisoiva, ei bradykardisoiva."
+  },
+  {
+    "id": "atropiini-q7",
+    "type": "mcq",
+    "question": "Mikä on erityinen huomioitava käyttöaihe atropiinille, jossa tarvitaan tavanomaista huomattavasti suurempia annoksia?",
+    "options": ["Eteisvärinä", "Organofosfaattimyrkytys", "Kuume", "Lievä hypotensio"],
+    "correctIndex": 1,
+    "explanation": "Organofosfaattimyrkytyksessä (esim. torjunta-aineet, hermokaasut) tarvitaan usein moninkertaisia annoksia tavalliseen bradykardian hoitoon verrattuna, jopa useita milligrammoja toistetusti."
+  },
+  {
+    "id": "atropiini-q8",
+    "type": "mcq",
+    "question": "Potilaalla on oireinen bradykardia, mutta syke ei nouse riittävästi kahden atropiiniannoksen jälkeen. Mikä on seuraava toimenpide?",
+    "options": ["Annetaan lisää atropiinia rajattomasti", "Valmistaudutaan ulkoiseen tahdistukseen tai harkitaan isoprenaliini-infuusiota", "Lopetetaan hoito ja seurataan", "Annetaan amiodaronia"],
+    "correctIndex": 1,
+    "explanation": "Jos atropiini ei riitä nostamaan sykettä riittävästi annostoistoista huolimatta, seuraava askel on ulkoinen tahdistus tai isoprenaliini-infuusio – amiodaroni ei sovi bradykardian hoitoon."
+  },
+  {
+    "id": "atropiini-q9",
+    "type": "truefalse",
+    "question": "Iäkkäillä potilailla atropiinin käyttöön liittyy suurentunut deliriumin (sekavuustilan) riski.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Antikolinergiset lääkkeet, kuten atropiini, voivat aiheuttaa sekavuutta erityisesti iäkkäillä, joten annostelussa ja seurannassa on syytä olla varovainen."
+  },
+  {
+    "id": "atropiini-q10",
+    "type": "mcq",
+    "question": "Kuinka nopeasti atropiini vaikuttaa laskimoon annettuna?",
+    "options": ["Välittömästi, alle 10 sekunnissa", "1-2 minuutissa", "15-20 minuutissa", "Vasta 1 tunnin kuluttua"],
+    "correctIndex": 1,
+    "explanation": "Laskimoon annettu atropiini alkaa vaikuttaa noin 1-2 minuutissa, ja vaikutus kestää tyypillisesti 30-60 minuuttia."
+  }
+]

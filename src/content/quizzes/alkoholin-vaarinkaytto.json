@@ -1,0 +1,138 @@
+[
+  {
+    "id": "alkoholin-vaarinkaytto-q1",
+    "type": "mcq",
+    "question": "Milloin alkoholivieroitusoireet tyypillisesti alkavat juomisen lopettamisen jälkeen?",
+    "options": [
+      "Välittömästi, minuuttien kuluessa",
+      "1-6 (useimmin 3-4) vuorokauden kuluttua",
+      "Vasta kahden viikon kuluttua",
+      "Vain, jos potilas on alle 30-vuotias"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vieroitusoireet ilmaantuvat tyypillisesti 1-6 vuorokauden, useimmin 3-4 vuorokauden kuluttua juomisen loppumisesta, ja kestävät tavallisesti 3-7 vuorokautta."
+  },
+  {
+    "id": "alkoholin-vaarinkaytto-q2",
+    "type": "truefalse",
+    "question": "Delirium tremens on hengenvaarallinen tila, joka voi hoitamattomana johtaa potilaan kuolemaan.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Oikein. Delirium tremensiin kuuluu voimakas sympaattisen hermoston ylivilkkaus, sekavuus, kuume, kouristelu ja neste-suolatasapainon häiriöt - hoitamattomana se voi johtaa kuolemaan."
+  },
+  {
+    "id": "alkoholin-vaarinkaytto-q3",
+    "type": "mcq",
+    "question": "Miksi tiamiini annetaan alkoholin suurkuluttajalle ennen glukoosia?",
+    "options": [
+      "Tiamiini tehostaa glukoosin vaikutusta",
+      "Hiilihydraatit ilman tiamiinia voivat laukaista Wernicken taudin",
+      "Tiamiini estää antabusreaktion",
+      "Tiamiini nostaa verenpainetta nopeammin kuin glukoosi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tiamiinivajeisen potilaan hiilihydraattikuormitus (esim. glukoosi-infuusio) voi laukaista Wernicken enkefalopatian, joten tiamiini annetaan ennen glukoosia tai samanaikaisesti."
+  },
+  {
+    "id": "alkoholin-vaarinkaytto-q4",
+    "type": "mcq",
+    "question": "Mitkä oireet kuuluvat Wernicken taudin tyyppikuvaan?",
+    "options": [
+      "Silmien liikehäiriöt (nystagmus), tajunnan häiriö, kävely- ja tasapainovaikeudet",
+      "Vain ihottuma ja ripuli",
+      "Pelkkä hidas syke",
+      "Kuulon heikkeneminen"
+    ],
+    "correctIndex": 0,
+    "explanation": "Wernicken taudin tyyppioireet ovat silmien liikehäiriöt (nystagmus), tajunnan häiriö, kävely- ja tasapainovaikeudet sekä ääreishermoston tuntohäiriöt. Hoitamattomana kuolleisuus on lähes 20 %."
+  },
+  {
+    "id": "alkoholin-vaarinkaytto-q5",
+    "type": "truefalse",
+    "question": "Korsakovin psykoosiin kuuluva muistihäiriö ja konfabulaatio (muistin aukkojen täyttäminen satuilulla) ovat parannettavissa, kun tila on kerran kehittynyt.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Väärin. Kun tila on edennyt Korsakovin psykoosiksi, parantavaa hoitoa ei enää ole - ennaltaehkäisy (tiamiini) on ratkaisevaa."
+  },
+  {
+    "id": "alkoholin-vaarinkaytto-q6",
+    "type": "mcq",
+    "question": "Alkoholin suurkuluttajalla todetaan tajuttomuus kaatumisen jälkeen. Miksi humalatilan ei saa olettaa selittävän tajuttomuutta sellaisenaan?",
+    "options": [
+      "Koska humala ei koskaan aiheuta tajuttomuutta",
+      "Koska suurkuluttajalla on kohonnut riski aivovammoihin, kuten subduraalihematoomaan",
+      "Koska tajuttomuus johtuu aina hypoglykemiasta",
+      "Koska alkoholi ei vaikuta aivoihin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Alkoholin suurkuluttajalla on huomattavasti kohonnut riski aivovammoihin (mm. subduraalihematooma) kaatumisten ja tasapainovaikeuksien vuoksi, joten muut syyt tajuttomuudelle on aina suljettava pois."
+  },
+  {
+    "id": "alkoholin-vaarinkaytto-q7",
+    "type": "mcq",
+    "question": "Mikä on akuutin pankreatiitin yleisin yksittäinen syy?",
+    "options": [
+      "Sappikivet",
+      "Alkoholi (noin 70 % tapauksista)",
+      "Virusinfektio",
+      "Lääkkeiden sivuvaikutus"
+    ],
+    "correctIndex": 1,
+    "explanation": "Alkoholi on syynä noin 70 %:ssa akuutin haimatulehduksen tapauksista, ja sairastumista edeltävän alkoholinkäytön määrä korreloi taudin vaikeusasteen kanssa."
+  },
+  {
+    "id": "alkoholin-vaarinkaytto-q8",
+    "type": "truefalse",
+    "question": "Antabusreaktio (disulfiraami + alkoholi) voi olla hengenvaarallinen erityisesti sepelvaltimotautipotilaalla.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Oikein. Vaikka vakavat reaktiot ovat harvinaisia, runsas alkoholimäärä tai taustalla oleva sepelvaltimotauti voi tehdä antabusreaktiosta (takykardia, hypotensio) vaarallisen."
+  },
+  {
+    "id": "alkoholin-vaarinkaytto-q9",
+    "type": "mcq",
+    "question": "Mitä kahta mittausta ei pidä unohtaa päihtyneeltä potilaalta?",
+    "options": [
+      "Kehon pituus ja paino",
+      "Verenpaine ja verensokeri",
+      "Näöntarkkuus ja kuulo",
+      "Ihon väri ja hiusten pituus"
+    ],
+    "correctIndex": 1,
+    "explanation": "Verenpaineen ja verensokerin mittaus ja kirjaaminen ovat tärkein tapa erottaa pelkkä humalatila vakavammasta, hoitoa vaativasta tilasta."
+  },
+  {
+    "id": "alkoholin-vaarinkaytto-q10",
+    "type": "truefalse",
+    "question": "Alle 2,5-3,0 promillea puhaltava, tajuissaan oleva potilas, jonka peruselintoiminnot ovat kunnossa, tarvitsee aina sairaalaseurannan pelkän humalatilan vuoksi.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Väärin. Tällainen potilas ei tarvitse pelkän humalatilan vuoksi sairaalahoitoa. Seurantaa tarvitaan, jos tajunta on alentunut, promillemäärä on suurempi (ei-suurkuluttajalla) tai on muita hoidon tarpeita."
+  },
+  {
+    "id": "alkoholin-vaarinkaytto-q11",
+    "type": "mcq",
+    "question": "Mikä alkoholin aiheuttama tila voi muistuttaa oireiltaan diabeettista ketoasidoosia?",
+    "options": [
+      "Alkoholin aiheuttama ketoasidoosi",
+      "Alkoholipolyneuropatia",
+      "Antabusreaktio",
+      "Alkoholikardiomyopatia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Alkoholin suurkulutus ja huono syöminen voivat johtaa ketoasidoosiin, jonka oireet (tajunnan lasku, kiivas hengitys, matala verenpaine) muistuttavat diabeettista ketoasidoosia, vaikka verensokeri ei ole koholla."
+  },
+  {
+    "id": "alkoholin-vaarinkaytto-q12",
+    "type": "mcq",
+    "question": "Mikä on hoidon kulmakivi vaikeissa alkoholivieroitusoireissa?",
+    "options": [
+      "Pelkkä kipulääkitys",
+      "Sympaattisen ylivilkkauden hillitseminen, kouristusten esto, neste-suolatasapainon ja vitamiinien korvaus",
+      "Antibioottihoito kaikille potilaille",
+      "Täydellinen nesteytyksen välttäminen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vieroitusoireiden hoidon kulmakiviä ovat sympaattisen ylivilkkauden ja agitaation hillitseminen (usein bentsodiatsepiinilla), kouristusten esto, neste- ja suolatasapainon korjaus sekä vitamiinien (erityisesti tiamiinin) korvaaminen."
+  }
+]

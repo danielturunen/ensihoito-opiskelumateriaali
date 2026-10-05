@@ -1,0 +1,20 @@
+[
+  { "id": "lapsi-ensihoidossa-f1", "front": "Mikä ikäraja määrittää lapsipotilaan tässä yhteydessä?", "back": "Alle 16-vuotias." },
+  { "id": "lapsi-ensihoidossa-f2", "front": "Miksi lapsen pää pidetään neutraalissa asennossa naamariventilaatiossa/intubaatiossa?", "back": "Suuri takaraivo kallistaa päätä jo valmiiksi eteenpäin; taaksetaivutus siirtäisi kurkunpäätä eteen ja litistäisi henkitorvea." },
+  { "id": "lapsi-ensihoidossa-f3", "front": "Missä sijaitsee hengitysteiden kapein kohta alle 10-vuotiaalla lapsella?", "back": "Äänenraon jälkeen, sormusruston kohdalla (ei äänenraossa kuten aikuisella)." },
+  { "id": "lapsi-ensihoidossa-f4", "front": "Mikä on laryngospasmi ja miksi se on vaarallinen?", "back": "Äänihuulten reflektorinen sulkeutuminen, joka estää ilmavirtauksen täysin ja aiheuttaa nopean happeutumishäiriön." },
+  { "id": "lapsi-ensihoidossa-f5", "front": "Miksi naamariventilaatio ja nieluputki ovat ensisijaisia keinoja lapsen hengityksen turvaamiseen?", "back": "Koska ensihoitajien on vaikea ylläpitää riittävää kokemusta lasten intubaatiosta, ja naamariventilaatio on yleensä helppoa ja tehokasta." },
+  { "id": "lapsi-ensihoidossa-f6", "front": "Minkä tyyppinen vamma on Suomessa lähes ainoa lapseen kohdistuva vammamekanismi?", "back": "Tylppä vamma." },
+  { "id": "lapsi-ensihoidossa-f7", "front": "Miksi lapsi voi saada vakavan sisäelinvamman pienemmällä energialla kuin aikuinen?", "back": "Lasten lihakset ovat ohuemmat, luusto joustavampaa ja rintakehä suurelta osin rustoa." },
+  { "id": "lapsi-ensihoidossa-f8", "front": "Kuinka suuren osan verivolyymista lapsi voi menettää ennen verenpaineen laskua?", "back": "Jopa 50 %." },
+  { "id": "lapsi-ensihoidossa-f9", "front": "Onko lapsen verenpaineen lasku varhainen vai myöhäinen sokin merkki?", "back": "Myöhäinen merkki – ennakoi pian tapahtuvaa elvytystilannetta." },
+  { "id": "lapsi-ensihoidossa-f10", "front": "Mikä on sokin nestehoidon alkuannos lapselle?", "back": "20 ml/kg isotonista nestettä (Ringer tai 0,9 % keittosuola) boluksena." },
+  { "id": "lapsi-ensihoidossa-f11", "front": "Mitkä nesteet eivät sovi vammapotilaan sokin hoitoon lapsella?", "back": "Sokeriliuokset ja hypotoninen keittosuolaliuos." },
+  { "id": "lapsi-ensihoidossa-f12", "front": "Mitä tehdään, jos lapsen suoniyhteyttä ei saada avattua muutamalla yrityksellä sokissa?", "back": "Siirrytään luunsisäiseen (intraosseaali-) infuusioon." },
+  { "id": "lapsi-ensihoidossa-f13", "front": "Mikä on huolestuttava red flag -löydös lapsen kanyloinnin/mittauksen yhteydessä?", "back": "Jos lapsi ei vastustele toimenpidettä tai nukahtaa heti sen jälkeen – viittaa vakavaan sairauteen." },
+  { "id": "lapsi-ensihoidossa-f14", "front": "Mikä on morfiinin suonensisäinen annos lapselle?", "back": "0,1 mg/kg." },
+  { "id": "lapsi-ensihoidossa-f15", "front": "Minkä ikäisellä lapsella kuume vaatii aina viiveettömän päivystysarvion?", "back": "Alle 3 kuukauden ikäisellä, kun kuume on yli 38 °C." },
+  { "id": "lapsi-ensihoidossa-f16", "front": "Mitkä löydökset herättävät epäilyn lapsen pahoinpitelystä?", "back": "Vamma on vakavampi kuin kerrottu mekanismi selittää, kertomus muuttuu, avun hälyttämistä on viivytelty, eri-ikäisiä tai selittämättömiä vammoja." },
+  { "id": "lapsi-ensihoidossa-f17", "front": "Koskeeko lastensuojeluilmoituksen tekovelvollisuus kaikkia ensihoitajia?", "back": "Kyllä – velvollisuus koskee kaikkia ensihoidossa työskenteleviä työnantajasta riippumatta, eikä sitä voi siirtää tai jättää tekemättä toisen ilmoituksen perusteella." },
+  { "id": "lapsi-ensihoidossa-f18", "front": "Mitä lisäksi ilmoitetaan poliisille lastensuojeluilmoituksen ohella?", "back": "Alle 18-vuotiaaseen kohdistunut pahoinpitely- tai seksuaalirikosepäily." }
+]

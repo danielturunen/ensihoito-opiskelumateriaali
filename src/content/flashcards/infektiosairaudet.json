@@ -1,0 +1,18 @@
+[
+  { "id": "infektiosairaudet-f1", "front": "Mikä on kolonisaatio?", "back": "Mikrobin siirtyminen kasvamaan uuteen paikkaan aiheuttamatta oireita tai löydöksiä – eri asia kuin infektio." },
+  { "id": "infektiosairaudet-f2", "front": "Mitkä kolme mekanismia aiheuttavat infektio-oireita?", "back": "Elimistön tulehdusvaste, taudinaiheuttajan suora kudostuho ja taudinaiheuttajan erittämä toksiini – usein yhdessä." },
+  { "id": "infektiosairaudet-f3", "front": "Mikä on sepsis?", "back": "Infektioon liittyvä yleisoireisto, jossa elimistön oma vaste infektioon aiheuttaa henkeä uhkaavia elintoimintahäiriöitä." },
+  { "id": "infektiosairaudet-f4", "front": "Mikä on vaikea sepsis?", "back": "Sepsis, johon liittyy elintoimintahäiriö, hypoperfuusio tai hypotensio." },
+  { "id": "infektiosairaudet-f5", "front": "Mikä on septinen sokki?", "back": "Sepsis, jossa matala verenpaine ja hypoperfuusion merkit jatkuvat riittävästä nestehoidosta huolimatta." },
+  { "id": "infektiosairaudet-f6", "front": "Nimeä kolme SIRS-löydöstä.", "back": "Esimerkiksi: ydinlämpö yli 38 °C tai alle 36 °C, syke yli 90/min, hengitystaajuus yli 20/min, kohonnut laktaatti (yli 2 mmol/l), tai nopea sekavuus." },
+  { "id": "infektiosairaudet-f7", "front": "Miksi hengitystaajuus kannattaa mitata kaikilta infektioepäilypotilailta?", "back": "Se nousee usein varhaisessa vaiheessa sepsiksen kehittyessä, ennen muita selviä löydöksiä." },
+  { "id": "infektiosairaudet-f8", "front": "Mitä tarkoittaa 'lämmin sokki'?", "back": "Septiseen sokkiin liittyvä tila, jossa ääreisverenkierron vastus on alentunut ja iho poikkeavan lämmin – eroaa kylmästä hypovoleemisesta sokista." },
+  { "id": "infektiosairaudet-f9", "front": "Millä nesteellä ja kuinka nopeasti sepsispotilaan nesteytys aloitetaan ensihoidossa?", "back": "Kirkkailla liuoksilla (esim. Ringerin liuos), nopeasti, suuntaa-antavasti noin 20 ml/kg, vastetta seuraten." },
+  { "id": "infektiosairaudet-f10", "front": "Mitä tehdään, jos 1000–2000 ml nestetäyttöä ei korjaa sepsispotilaan sokkia?", "back": "Aloitetaan vasopressorihoito, ensisijaisesti noradrenaliinilla." },
+  { "id": "infektiosairaudet-f11", "front": "Missä ajassa sepsiksen hoito tulisi käynnistää, jotta kuolleisuus pienenee merkittävästi?", "back": "Kahden tunnin sisällä sepsiksen kehittymisestä (nesteytys + antibioottihoito)." },
+  { "id": "infektiosairaudet-f12", "front": "Mikä oire erottaa henkeä uhkaavan nekrotisoivan pehmytkudosinfektion lievemmästä tulehduksesta?", "back": "Poikkeuksellisen kova kipu infektioalueella suhteessa näkyviin, mahdollisesti vain lieviin ihomuutoksiin." },
+  { "id": "infektiosairaudet-f13", "front": "Miten HIV-tartunta vaikuttaa ensihoidon toimintatapoihin, kun potilas käyttää tehokasta lääkitystä?", "back": "Tehokkaasti lääkittyä potilasta hoidetaan normaalisti tavanomaista veritartunnan varotoimea noudattaen; erityistoimia ei tarvita." },
+  { "id": "infektiosairaudet-f14", "front": "Miten tuberkuloosi tarttuu, ja mitä suojausta ensihoidossa käytetään?", "back": "Tarttuu ilmateitse yskimisen/puhumisen yhteydessä; käytetään FFP2/FFP3-hengityssuojainta ja varmistetaan hyvä ilmanvaihto kuljetuksessa." },
+  { "id": "infektiosairaudet-f15", "front": "Milloin malariaa pitää epäillä?", "back": "Aina kuumeisella potilaalla, joka on matkustanut malaria-alueelle – erityisesti jos mukana sekavuutta, hengitysvaikeutta tai kouristuksia." },
+  { "id": "infektiosairaudet-f16", "front": "Mikä rokotus on erityisesti suositeltava ensihoitohenkilöstölle?", "back": "Influenssarokotus, sekä ajantasainen jäykkäkouristusrokotus (uusittava noin 10 vuoden välein)." }
+]

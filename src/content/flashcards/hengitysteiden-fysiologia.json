@@ -1,0 +1,17 @@
+[
+  { "id": "hengitysteiden-fysiologia-f1", "front": "Mitkä rakenteet kuuluvat ylähengitysteihin?", "back": "Nenäontelo, suuontelo, nielu, kurkunpää, epiglottis ja äänihuulet." },
+  { "id": "hengitysteiden-fysiologia-f2", "front": "Mitkä rakenteet kuuluvat alahengitysteihin?", "back": "Henkitorvi, pääbronkukset, pienemmät bronkukset ja bronkiolit sekä alveolit (keuhkorakkulat)." },
+  { "id": "hengitysteiden-fysiologia-f3", "front": "Mihin hengitystieongelmaan stridor viittaa?", "back": "Ylähengitystien ongelmaan — ahtauma kurkunpään tai sitä ylempänä olevissa rakenteissa." },
+  { "id": "hengitysteiden-fysiologia-f4", "front": "Mihin hengitystieongelmaan vinkuna viittaa?", "back": "Alahengitysteiden ongelmaan, kuten bronkospasmiin (keuhkoputkien supistumiseen)." },
+  { "id": "hengitysteiden-fysiologia-f5", "front": "Mitä ventilaatio tarkoittaa?", "back": "Ilman fyysistä liikettä sisään ja ulos keuhkoista. Huono ventilaatio johtaa hiilidioksidin kertymiseen." },
+  { "id": "hengitysteiden-fysiologia-f6", "front": "Mitä hapetus (oksygenaatio) tarkoittaa?", "back": "Hapen siirtymistä alveoleista verenkiertoon. Mitataan käytännössä pulssioksimetrillä (SpO2)." },
+  { "id": "hengitysteiden-fysiologia-f7", "front": "Miksi hyvä SpO2 ei riitä todistamaan riittävää hengitystä?", "back": "Koska SpO2 kuvaa vain hapetusta. Potilas voi ventiloida huonosti ja kerryttää hiilidioksidia, vaikka saturaatio näyttäisi vielä hyvältä." },
+  { "id": "hengitysteiden-fysiologia-f8", "front": "Mitkä neljä tekijää vaaditaan kaasujenvaihtoon alveoleissa?", "back": "Ilma pääsee alveoleihin, alveolit ovat auki, keuhkoverenkierto toimii ja hemoglobiini pystyy sitomaan happea." },
+  { "id": "hengitysteiden-fysiologia-f9", "front": "Miksi tajunnan lasku vaarantaa hengitystien?", "back": "Suojarefleksit (nieleminen, yskiminen) ja nielun lihastonus heikkenevät, kieli voi painua taakse ja aspiraatioriski kasvaa." },
+  { "id": "hengitysteiden-fysiologia-f10", "front": "Nimeä neljä päämekanismia, joilla hengitystiestä tulee hätätila.", "back": "Mekaaninen tukos, turvotus, tajunnan lasku ja hengitysväsymys/lihasheikkous." },
+  { "id": "hengitysteiden-fysiologia-f11", "front": "Mikä on erityisen vaarallinen käänne hengitysvaikeuspotilaalla?", "back": "Kun aluksi levoton ja voimakkaasti hengitystyötä tekevä potilas alkaa hiljetä — tämä voi tarkoittaa uupumista, ei paranemista." },
+  { "id": "hengitysteiden-fysiologia-f12", "front": "Mitä aspiraatio tarkoittaa?", "back": "Vieraan aineen, kuten eritteen, veren tai oksennuksen, joutumista hengitysteihin." },
+  { "id": "hengitysteiden-fysiologia-f13", "front": "Mitkä löydökset kertovat vaikeasta hengitystyöstä?", "back": "Apuhengityslihasten käyttö, kylkiluuvälien vetäytyminen, sieraimien laajentuminen ja kyvyttömyys puhua kokonaisia lauseita." },
+  { "id": "hengitysteiden-fysiologia-f14", "front": "Milloin hengitystieongelmainen potilas kuuluu päivystykseen eikä terveysasemalle?", "back": "Kun on stridoria, kuolaamista, äänen muutosta, nielemiskyvyttömyyttä, anafylaksiaepäily, heikentynyt ilmatien suojaus tai nopeasti paheneva oirekuva." },
+  { "id": "hengitysteiden-fysiologia-f15", "front": "Mikä on epiglottis ja miksi se on tärkeä?", "back": "Kurkunkansi, joka sulkeutuu nielemisen aikana ja estää ruuan/nesteen joutumisen henkitorveen. Sen turpoaminen (epiglottiitti) uhkaa koko ilmatietä." }
+]

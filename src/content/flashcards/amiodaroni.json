@@ -1,0 +1,16 @@
+[
+  { "id": "amiodaroni-f1", "front": "Mihin lääkeluokkaan amiodaroni kuuluu?", "back": "III-luokan antiarytminen lääke (kaliumkanavan salpaaja), joka pidentää toimintapotentiaalin kestoa ja refraktaariaikaa." },
+  { "id": "amiodaroni-f2", "front": "Amiodaronin pääasiallinen vaikutusmekanismi", "back": "Salpaa kaliumkanavia, mikä pidentää refraktaariaikaa. Lisäksi lievää natrium- ja kalsiumkanavien sekä alfa-/beetareseptorien salpausta." },
+  { "id": "amiodaroni-f3", "front": "Amiodaronin käyttöaiheet ensihoidossa", "back": "Kammiovärinä/pulssiton kammiotakykardia defibrilloinnin jälkeen, hemodynaamisesti merkittävä kammiotakykardia vakaalla potilaalla, eteisvärinän kammiovasteen hidastus kun beetasalpaaja on vasta-aiheinen." },
+  { "id": "amiodaroni-f4", "front": "Amiodaronin annostus elvytyksessä", "back": "300 mg i.v. nopeana boluksena (poikkeus), tarvittaessa lisäannos 150 mg." },
+  { "id": "amiodaroni-f5", "front": "Amiodaronin annostus vakaalla kammiotakykardiapotilaalla", "back": "150-300 mg i.v. 10-20 minuutin aikana – ei koskaan nopeana boluksena elvytyksen ulkopuolella." },
+  { "id": "amiodaroni-f6", "front": "Mihin nesteeseen amiodaroni laimennetaan?", "back": "5-prosenttiseen glukoosiliuokseen – ei keittosuolaan." },
+  { "id": "amiodaroni-f7", "front": "Minkä rytmihäiriön hoidossa amiodaroni on vasta-aiheinen?", "back": "Kääntyvien kärkien kammiotakykardia (torsades de pointes) ja muut pitkän QT-ajan tilat, koska amiodaroni itse pidentää QT-aikaa." },
+  { "id": "amiodaroni-f8", "front": "Amiodaronin yleisin akuutti haittavaikutus", "back": "Hypotensio (noin 15-20 %:lla), myös bradykardiaa ja AV-katkoksia voi esiintyä." },
+  { "id": "amiodaroni-f9", "front": "Miten bradykardia hoidetaan amiodaronin annon aikana?", "back": "Atropiinilla tai tarvittaessa ulkoisella tahdistuksella; infuusion jatkamista arvioidaan uudelleen." },
+  { "id": "amiodaroni-f10", "front": "Amiodaronin merkittävä lääkeinteraktio varfariinin kanssa", "back": "Amiodaroni voimistaa varfariinin vaikutusta, INR voi nousta merkittävästi – verenvuotoriski kasvaa." },
+  { "id": "amiodaroni-f11", "front": "Miksi amiodaroni tehoaa kiertoaktivaatiolla syntyviin rytmihäiriöihin?", "back": "Se pidentää refraktaariaikaa, jolloin kiertävän impulssin edessä olevat solut eivät ole ärtyviä ja kierto pysähtyy." },
+  { "id": "amiodaroni-f12", "front": "Mitkä ovat amiodaronin ehdottomat vasta-aiheet?", "back": "Hoitamaton sinussolmukesairaus, II-III asteen eteis-kammiokatkos ilman tahdistinta ja vaikea bradykardia." },
+  { "id": "amiodaroni-f13", "front": "Miksi amiodaronia ei anneta nopeana boluksena (paitsi elvytyksessä)?", "back": "Nopea anto voi aiheuttaa merkittävän hypotension." },
+  { "id": "amiodaroni-f14", "front": "Mitä on seurattava amiodaronin annon aikana?", "back": "Verenpainetta, sykettä, EKG:tä (rytmi ja QT-aika) jatkuvasti koko annon ajan." }
+]

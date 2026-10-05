@@ -1,0 +1,98 @@
+[
+  {
+    "id": "rytmihairiot-q1",
+    "type": "mcq",
+    "question": "Mitkä ovat rytmihäiriöiden kaksi päämekanismia?",
+    "options": ["Impulssin muodostumisen poikkeavuus ja johtumisen häiriö", "Korkea verenpaine ja matala verenpaine", "Hapenpuute ja ylihapetus", "Nopea syke ja hidas syke"],
+    "correctIndex": 0,
+    "explanation": "Kaikki rytmihäiriöt johtuvat joko sähköisen impulssin muodostumisen poikkeavuudesta (esim. lisääntynyt automatismi), johtumisen häiriöstä (useimmiten kiertoaktivaatio) tai näiden yhdistelmästä."
+  },
+  {
+    "id": "rytmihairiot-q2",
+    "type": "mcq",
+    "question": "Mikä on yleisin rytmihäiriöiden syntymekanismi ensihoidossa kohdattavissa tilanteissa?",
+    "options": ["Lisääntynyt automatismi", "Kiertoaktivaatio (re-entry)", "Triggeröity aktiivisuus", "Tahdistimen toimintahäiriö"],
+    "correctIndex": 1,
+    "explanation": "Valtaosa ensihoidossa kohdattavista rytmihäiriöistä syntyy kiertoaktivaatiomekanismilla, jossa sähköinen impulssi jää kiertämään ympyrää sydämen johtoradassa tai lihaksessa."
+  },
+  {
+    "id": "rytmihairiot-q3",
+    "type": "truefalse",
+    "question": "Kiertoaktivaatio voi jatkua loputtomiin, jos kierroksen kesto on lyhyempi kuin solujen refraktaariaika.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Kiertoaktivaatio jatkuu, kun kierroksen kesto on PIDEMPI kuin solujen refraktaariaika – silloin kierroksen alkupään solut ovat ehtineet palautua ärtyvään tilaan ja impulssi pääsee etenemään uudelleen."
+  },
+  {
+    "id": "rytmihairiot-q4",
+    "type": "mcq",
+    "question": "Millä kahdella tavalla kiertoaktivaatio voidaan katkaista?",
+    "options": ["Nostamalla verenpainetta tai laskemalla sykettä", "Pysäyttämällä johtuminen (esim. adenosiini, defibrillaatio) tai pidentämällä refraktaariaikaa (esim. amiodaroni)", "Antamalla happea ja nestettä", "Vain kirurgisella toimenpiteellä"],
+    "correctIndex": 1,
+    "explanation": "Kiertoaktivaatio katkeaa, kun johtuminen pysäytetään kokonaan (adenosiini salpaa AV-solmukkeen, defibrillaatio depolarisoi solut samanaikaisesti) tai kun refraktaariaikaa pidennetään lääkkeellä, jolloin edessä olevat solut eivät ole ärtyviä."
+  },
+  {
+    "id": "rytmihairiot-q5",
+    "type": "truefalse",
+    "question": "Aberraatiossa supraventrikulaarinen (kammioiden yläpuolelta alkava) rytmihäiriö voi näyttää EKG:ssä leveäkompleksiselta.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Aberraatiossa korkea syke estää toista päähaaraa johtamasta impulssia normaalisti, mikä leventää QRS-kompleksia, vaikka rytmihäiriö olisi alkanut kammioiden yläpuolelta."
+  },
+  {
+    "id": "rytmihairiot-q6",
+    "type": "mcq",
+    "question": "Mikä rytmihäiriöpotilaan löydös johtaa suoraan sedaatiossa tehtävään synkronoituun kardioversioon?",
+    "options": ["Lievä rytmihäiriötuntemus levossa", "Sokki, tajunnanmenetys, merkittävä iskemia tai vaikea sydämen vajaatoiminta", "Normaali verenpaine ja hyvä vointi", "Potilaan oma toivomus"],
+    "correctIndex": 1,
+    "explanation": "Hengenvaaran merkit (sokki, tajunnanmenetys, merkittävä sydänlihasiskemia, vaikea vajaatoiminta) ovat aihe välittömälle synkronoidulle kardioversiolle sedaatiossa, koska se on nopein ja varmin tapa palauttaa sinusrytmi."
+  },
+  {
+    "id": "rytmihairiot-q7",
+    "type": "mcq",
+    "question": "Mikä on eteisvärinän ja eteislepatuksen keskeinen ero EKG:ssä?",
+    "options": ["Eteisvärinässä kammiovaste on aina alle 60/min", "Eteisvärinässä eteistoiminta on järjestäytymätöntä, eteislepatuksessa järjestäytynyt (n. 300/min)", "Eteislepatuksessa ei ole lainkaan kammiovastetta", "Ne ovat täysin samat tila, eri nimellä"],
+    "correctIndex": 1,
+    "explanation": "Eteisvärinässä eteisten sähköinen toiminta on nopeaa ja järjestäytymätöntä. Eteislepatuksessa aktivaatio kiertää järjestäytyneesti yhtä ympyrää noin 300/min taajuudella, ja kammiovaste on usein melko vakiotaajuinen (esim. 2:1-johto)."
+  },
+  {
+    "id": "rytmihairiot-q8",
+    "type": "truefalse",
+    "question": "Kohtauksittainen (paroksysmaalinen) eteisvärinä ei lisää aivohalvauksen riskiä, koska se korjaantuu itsestään.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Myös kohtauksittaiseen eteisvärinään liittyy aivohalvauksen riski. Antikoagulaation tarve arvioidaan CHA2DS2-VASc-pisteytyksellä riippumatta siitä, onko eteisvärinä kohtauksittaista tai pysyvää."
+  },
+  {
+    "id": "rytmihairiot-q9",
+    "type": "mcq",
+    "question": "Mikä menetelmä on suositeltava ensilinjan hoito PSVT:n (paroksysmaalinen supraventrikulaarinen takykardia) katkaisuun hemodynaamisesti vakaalla potilaalla?",
+    "options": ["Defibrillaatio", "Modifioitu Valsalvan menetelmä, tarvittaessa adenosiini", "Suuriannoksinen beetasalpaaja suun kautta", "Nesteytys yksinään"],
+    "correctIndex": 1,
+    "explanation": "Vagaalinen stimulaatio, käytännössä modifioitu Valsalvan menetelmä, on suositeltava ensilinjan keino PSVT:n katkaisuun. Jos se ei tehoa, käytetään adenosiinia, joka pysäyttää johtumisen eteis-kammiosolmukkeessa."
+  },
+  {
+    "id": "rytmihairiot-q10",
+    "type": "mcq",
+    "question": "Vakaalla potilaalla on kammiotakykardia. Mikä on ensisijainen lääkehoito?",
+    "options": ["Atropiini", "Amiodaroni infuusiona", "Insuliini", "Magnesium"],
+    "correctIndex": 1,
+    "explanation": "Hemodynaamisesti vakaan kammiotakykardian ensisijainen lääkehoito on amiodaroni infuusiona. Jos se ei tehoa, tehdään synkronoitu kardioversio sedaatiossa."
+  },
+  {
+    "id": "rytmihairiot-q11",
+    "type": "mcq",
+    "question": "Mikä lääke on vasta-aiheinen kääntyvien kärkien kammiotakykardian hoidossa, ja mikä on sen sijaan oikea hoito?",
+    "options": ["Amiodaroni on vasta-aiheinen, oikea hoito on magnesium", "Magnesium on vasta-aiheinen, oikea hoito on amiodaroni", "Atropiini on vasta-aiheinen, oikea hoito on happi", "Adenosiini on vasta-aiheinen, oikea hoito on nitraatti"],
+    "correctIndex": 0,
+    "explanation": "Amiodaroni pidentää QT-aikaa ja on siksi vasta-aiheinen kääntyvien kärkien kammiotakykardiassa, joka liittyy juuri pitkään QT-aikaan. Oikea, spesifinen hoito on magnesium 2 g i.v., joka voidaan toistaa."
+  },
+  {
+    "id": "rytmihairiot-q12",
+    "type": "truefalse",
+    "question": "Oireisen bradykardian ensisijainen lääkehoito on atropiini 0,5 mg i.v.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Jos oireinen bradykardia osoittaa hengenvaaran merkkejä, ensilinjan hoito on atropiini 0,5 mg i.v. Jos vaste jää riittämättömäksi, siirrytään ulkoiseen tahdistukseen."
+  }
+]

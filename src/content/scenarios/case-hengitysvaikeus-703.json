@@ -1,0 +1,49 @@
+{
+  "id": "case-hengitysvaikeus-703",
+  "title": "Tapaus: Hengitysvaikeus",
+  "dispatchCode": "703",
+  "intro": "Hätäkeskus: \"703, hengitysvaikeus. 68-vuotias mies, hengitysvaikeus pahentunut parin päivän aikana, omainen soittanut hätäkeskukseen. Potilaalla tiedossa keuhkosairaus. Ei muuta tarkennettua tietoa matkan aikana.\"",
+  "steps": [
+    {
+      "id": "step1",
+      "situation": "Saavutte asuntoon. Potilas istuu olohuoneen tuolissa etukumartuneena, kädet polvilla (tripod-asento). Hän on levoton ja puhuu vain muutaman sanan kerrallaan. Apuhengityslihakset ovat selvästi käytössä. Pulssioksimetri näyttää SpO2 88 %, hengitystaajuus 28/min.",
+      "question": "Mikä on tässä vaiheessa oikea ensitoimi happihoidon ja asennon suhteen?",
+      "choices": [
+        { "text": "Anna hallittu happihoito pienellä virtauksella (tavoite SpO2 noin 88–92 %) ja anna potilaan pysyä itse valitsemassaan istuvassa asennossa.", "correct": true, "feedback": "Oikein. Potilaalla on tiedossa keuhkosairaus, joten happi annetaan titraten liiallisen hapen aiheuttaman hiilidioksidinarkoosin välttämiseksi. Tripod-asento on potilaan itse löytämä hengitystä helpottava asento, jota ei pidä muuttaa." },
+        { "text": "Anna välittömästi suurivirtauksista happea varaajamaskilla, koska saturaatio on matala.", "correct": false, "feedback": "Riski: jos kyseessä on COPD-potilas, liiallinen happi voi poistaa viimeisen hengitystä ylläpitävän ärsykkeen ja johtaa hengityksen lamaantumiseen. Happi titrataan, ei anneta automaattisesti täysillä." },
+        { "text": "Siirrä potilas makuuasentoon, jotta hengitysäänet on helpompi kuunnella.", "correct": false, "feedback": "Virhe: makuuasento usein pahentaa hengenahdistusta hengitysvaikeuspotilaalla. Anna potilaan pysyä asennossa, jossa hengitys on helpointa." }
+      ]
+    },
+    {
+      "id": "step2",
+      "situation": "Haastattelussa selviää, että potilaalla on diagnosoitu keuhkoahtaumatauti (COPD) ja hän tupakoi. Oireet ovat pahentuneet kolmen vuorokauden aikana, yskä on muuttunut limaisemmaksi. Ei rintakipua, ei merkittävää kuumetta. Auskultaatiossa kuuluu molemminpuolista vinkunaa ja pidentynyt uloshengitysvaihe, ei paikallisia rahinoita.",
+      "question": "Mikä on todennäköisin työdiagnoosi, ja mikä on sen mukainen ensisijainen lääkehoito?",
+      "choices": [
+        { "text": "COPD:n pahenemisvaihe — anna inhaloitava bronkodilataattori (beeta-2-agonisti ja antikolinergi) ja harkitse systeemistä kortikosteroidia hoito-ohjeen mukaan.", "correct": true, "feedback": "Oikein. Oirekuva (tunnettu COPD, vähittäinen paheneminen, molemminpuolinen vinkuna, ei kuumetta) sopii parhaiten COPD-pahenemaan. Bronkodilataattori avaa keuhkoputkia nopeasti, kortisoni hoitaa taustatulehdusta." },
+        { "text": "Epäilet sydänperäistä keuhkopöhöä ja annat nitraatin kielen alle.", "correct": false, "feedback": "Keuhkopöhön auskultaatiolöydös on tyypillisesti molemminpuolisia rahinoita, ei vinkunaa, ja tausta on usein sydänsairaus. Tässä kuva sopii paremmin obstruktiiviseen sairauteen." },
+        { "text": "Epäilet keuhkokuumetta ja aloitat suonensisäisen nestehoidon.", "correct": false, "feedback": "Keuhkokuumeessa auskultaatiolöydös on tyypillisesti paikallinen ja usein esiintyy kuumetta — tässä tapauksessa löydökset viittaavat obstruktioon, ei infektioon." }
+      ]
+    },
+    {
+      "id": "step3",
+      "situation": "Kymmenen minuutin kuluttua lääkityksestä potilas on edelleen levoton, mutta hengitysäänet alkavat yllättäen hiljentyä ja puhe vähenee entisestään. Hengitystaajuus on nyt 32/min ja liikkeet näyttävät pinnallisemmilta.",
+      "question": "Miten tulkitset tämän muutoksen ja mitä teet seuraavaksi?",
+      "choices": [
+        { "text": "Tunnistat hiljenemisen merkiksi hengitysväsymyksestä — valmistaudut tehostettuun hengityksen tukeen (esim. CPAP) ja hälytät lisäapua/kiirehdit kuljetusta.", "correct": true, "feedback": "Oikein. Hengitysäänten hiljeneminen levottomalla ja uupuvalla potilaalla on vaaran merkki, ei paranemista — potilas ei enää jaksa siirtää ilmaa. Tilanne vaatii nopeaa reagointia ja lisäavun hälyttämistä." },
+        { "text": "Tulkitset hiljenevän hengityksen merkiksi siitä, että lääkitys on tehonnut ja potilas rauhoittuu — jatkat seurantaa samalla hoidolla.", "correct": false, "feedback": "Vaarallinen virhetulkinta. Yhdistettynä levottomuuteen ja pinnalliseen, tiheään hengitykseen hiljeneminen viittaa uupumiseen, ei helpottumiseen." },
+        { "text": "Lopetat happihoidon, koska potilas vaikuttaa rauhoittuvan.", "correct": false, "feedback": "Virhe: happihoitoa ei pidä lopettaa tässä tilanteessa. Tila on päinvastoin huonontumassa, ja hapetuksesta on huolehdittava entistä tarkemmin." }
+      ]
+    },
+    {
+      "id": "step4",
+      "situation": "Hoidosta huolimatta SpO2 pysyttelee 86 %:ssa ja hengitystyö on edelleen raskasta. Potilas on hereillä mutta väsynyt.",
+      "question": "Mikä on oikea kuljetuspäätös tässä tilanteessa?",
+      "choices": [
+        { "text": "Kiireellinen kuljetus päivystykseen, ja sairaalaan ilmoitetaan etukäteen huonosti hoitoon vastaavasta COPD-paheneman epäilystä.", "correct": true, "feedback": "Oikein. Heikko hoitovaste, pysyvästi matala SpO2 ja jatkuva hengitystyö ovat selviä merkkejä vaikeasta pahenemisesta, joka kuuluu päivystykseen — etukäteisilmoitus mahdollistaa vastaanottavan yksikön valmistautumisen." },
+        { "text": "Kuljetus terveysasemalle, koska potilaalla on tiedossa oleva krooninen sairaus.", "correct": false, "feedback": "Virhe. Heikko hoitovaste ja jatkuvasti matala saturaatio tarkoittavat, että terveysasema ei pysty tarjoamaan tarvittavaa hoitoa — kohteen tulee olla päivystys." },
+        { "text": "Jätetään potilas kotiin seurantaan, koska lääkitys on jo annettu.", "correct": false, "feedback": "Vaarallinen päätös. Potilaan tila ei ole parantunut annetusta hoidosta huolimatta, ja hengitysvajaus voi edelleen edetä hengenvaaralliseksi kotona." }
+      ]
+    }
+  ],
+  "debrief": "Tapaus kuvaa tyypillistä COPD-paheneman etenemistä: hallittu happihoito, bronkodilataattori ja kortikosteroidi ovat hoidon perusta, mutta hoitovastetta on seurattava jatkuvasti. Hengitysäänten hiljeneminen levottomalla ja uupuvalla potilaalla on aina vaaran merkki, ei paranemista. Kun hoitovaste jää heikoksi ja happeutuminen ei korjaannu, potilas kuuluu kiireellisesti päivystykseen, jossa on valmius tehostettuun hengityksen tukeen."
+}

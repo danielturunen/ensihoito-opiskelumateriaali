@@ -1,0 +1,117 @@
+[
+  {
+    "id": "infektiosairaudet-q1",
+    "type": "mcq",
+    "question": "Mikä ero on kolonisaation ja infektion välillä?",
+    "options": [
+      "Kolonisaatio on aina vaarallisempi kuin infektio",
+      "Kolonisaatiossa mikrobi kasvaa aiheuttamatta oireita, infektiossa mikrobin kasvu aiheuttaa sairauden",
+      "Kolonisaatio tarkoittaa virusta ja infektio bakteeria",
+      "Niillä ei ole eroa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kolonisaatiossa mikrobi siirtyy kasvamaan uuteen paikkaan aiheuttamatta oireita tai löydöksiä. Infektiossa mikrobin kasvu aiheuttaa sairauden oireita."
+  },
+  {
+    "id": "infektiosairaudet-q2",
+    "type": "truefalse",
+    "question": "Kuumeen puuttuminen sulkee pois vaikean infektion mahdollisuuden.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Kuume voi puuttua esimerkiksi immuunipuutteisella, monisairaalla, tulehduskipulääkettä käyttävällä tai vauvaikäisellä potilaalla, vaikka kyseessä olisi vaikea infektio tai sepsis."
+  },
+  {
+    "id": "infektiosairaudet-q3",
+    "type": "mcq",
+    "question": "Mikä on sepsis?",
+    "options": [
+      "Mikä tahansa bakteerien aiheuttama tulehdus iholla",
+      "Infektioon liittyvä yleisoireisto, jossa elimistön oma vaste infektioon aiheuttaa henkeä uhkaavia elintoimintahäiriöitä",
+      "Pelkkä eläviä bakteereja veressä -löydös laboratoriossa",
+      "Infektio, joka on tarttunut sairaalassa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sepsiksessä ratkaisevaa on elimistön oma, ylivoimainen tulehdusvaste infektiota vastaan – se aiheuttaa elintoimintahäiriöitä, ei suoraan mikrobi itse."
+  },
+  {
+    "id": "infektiosairaudet-q4",
+    "type": "mcq",
+    "question": "Mitä tarkoittaa septinen sokki?",
+    "options": [
+      "Sepsis, johon liittyy kuume yli 40 asteen",
+      "Pelkkä infektio ilman elintoimintahäiriöitä",
+      "Sepsis, jossa matala verenpaine ja hypoperfuusio jatkuvat riittävästä nestehoidosta huolimatta",
+      "Infektio, joka on todettu veriviljelyssä"
+    ],
+    "correctIndex": 2,
+    "explanation": "Septinen sokki on sepsiksen vaikein muoto: hypotensio ja hypoperfuusion merkit pysyvät, vaikka potilasta on nesteytetty riittävästi."
+  },
+  {
+    "id": "infektiosairaudet-q5",
+    "type": "mcq",
+    "question": "Minkä elintoiminnon mittaaminen kannattaa muistaa kaikilla infektioepäilypotilailla, koska se nousee usein varhain sepsiksen kehittyessä?",
+    "options": [
+      "Hengitystaajuus",
+      "Ruumiinlämpö peräsuolesta",
+      "Virtsan määrä",
+      "Ihon kosteus"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hengitystaajuuden nousu on usein yksi varhaisimmista ja herkimmistä löydöksistä sepsiksen kehittyessä, ja se on hyvä mitata kaikilta infektiopotilailta."
+  },
+  {
+    "id": "infektiosairaudet-q6",
+    "type": "truefalse",
+    "question": "Septiseen sokkiin liittyy tyypillisesti 'lämmin sokki', jossa ääreisverenkierron vastus on alentunut, toisin kuin tyypillisessä kylmässä hypovoleemisessa sokissa.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Septisessä sokissa iho on usein poikkeavan lämmin ja ääreisverenkierron vastus alentunut (lämmin sokki), kun hypovoleemisessa sokissa iho on tyypillisesti kylmä ja kalpea."
+  },
+  {
+    "id": "infektiosairaudet-q7",
+    "type": "mcq",
+    "question": "Minkä ajan sisällä sepsiksen kehittymisestä nesteytyksen ja antibioottihoidon aloitus merkittävästi vähentää kuolleisuutta ja komplikaatioita?",
+    "options": [
+      "30 minuutin",
+      "2 tunnin",
+      "6 tunnin",
+      "24 tunnin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nesteytyksen ja antibioottihoidon aloitus kahden tunnin sisällä sepsiksen kehittymisestä pienentää merkittävästi kuolleisuutta ja komplikaatioita."
+  },
+  {
+    "id": "infektiosairaudet-q8",
+    "type": "mcq",
+    "question": "Mitä tehdään sepsispotilaalle ensihoidossa, jos 1000–2000 ml:n nestetäyttö ei poista sokin merkkejä?",
+    "options": [
+      "Lopetetaan nesteytys kokonaan",
+      "Aloitetaan vasopressorihoito, ensisijaisesti noradrenaliinilla",
+      "Annetaan suuri kertaboluss morfiinia",
+      "Odotetaan sairaalaan pääsyä ennen lisätoimia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Jos riittävä nestetäyttö ei korjaa sokin merkkejä, aloitetaan vasopressorihoito ensisijaisesti noradrenaliinilla hypoperfuusion hoitamiseksi."
+  },
+  {
+    "id": "infektiosairaudet-q9",
+    "type": "mcq",
+    "question": "Mikä löydös viittaa vahvasti nopeasti etenevään, henkeä uhkaavaan pehmytkudosinfektioon (esim. nekrotisoiva faskiitti)?",
+    "options": [
+      "Lievä paikallinen punoitus ilman kipua",
+      "Poikkeuksellisen kova kipu infektioalueella suhteessa näkyviin ihomuutoksiin",
+      "Pieni, vähän erittävä haava raajassa",
+      "Lievä kuume ilman muita oireita"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nekrotisoiva faskiitti ja kaasukuolio leviävät nopeasti syvissä kudoksissa, ja usein päältä näkyvät muutokset ovat lievempiä kuin kipu antaa olettaa – poikkeuksellinen kipu on tärkein hälytysmerkki."
+  },
+  {
+    "id": "infektiosairaudet-q10",
+    "type": "truefalse",
+    "question": "Tuberkuloosi tarttuu ensisijaisesti ilmateitse, joten hengityssuojaimen (FFP2/FFP3) käyttö on tärkeää epäiltäessä tautia.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Tuberkuloosi tarttuu pääasiassa hengitysteiden kautta, kun sairastunut yskii, aivastaa tai puhuu, joten hengityssuojaimen käyttö ja hyvä ilmanvaihto kuljetuksen aikana ovat tärkeitä suojautumiskeinoja."
+  }
+]

@@ -1,0 +1,131 @@
+[
+  {
+    "id": "lapsi-ensihoidossa-q1",
+    "type": "mcq",
+    "question": "Miten pieni lapsi asemoidaan päästä naamariventilaatiota tai intubaatiota varten?",
+    "options": [
+      "Pää taivutetaan voimakkaasti taaksepäin kuten aikuisella",
+      "Pää pidetään neutraalissa asennossa",
+      "Pää käännetään täysin sivulle",
+      "Asennolla ei ole merkitystä lapsella"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lapsen suuri takaraivo aiheuttaa jo valmiiksi niskan taipumista eteenpäin selinmakuulla, ja taaksetaivutus siirtäisi kurkunpäätä eteen ja litistäisi henkitorvea. Siksi pää pidetään neutraalissa asennossa."
+  },
+  {
+    "id": "lapsi-ensihoidossa-q2",
+    "type": "truefalse",
+    "question": "Alle 10-vuotiailla lapsilla hengitysteiden kapein kohta on äänirako, aivan kuten aikuisilla.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Lapsilla kapein kohta on vasta äänenraon jälkeen sormusruston kohdalla, mikä poikkeaa aikuisen anatomiasta ja vaikeuttaa vierasesineen havaitsemista."
+  },
+  {
+    "id": "lapsi-ensihoidossa-q3",
+    "type": "mcq",
+    "question": "Mikä voi laueta pienen lapsen nielun tai kurkunpään manipuloinnista, esimerkiksi turhasta imemisestä?",
+    "options": [
+      "Takykardia",
+      "Laryngospasmi eli äänihuulten reflektorinen sulkeutuminen",
+      "Hypoglykemia",
+      "Kuumekouristus"
+    ],
+    "correctIndex": 1,
+    "explanation": "Laryngospasmi estää ilmavirtauksen täysin ja aiheuttaa nopean happeutumishäiriön. Turhia imuja pinnallisesti tajuttoman lapsen hengitysteihin on siksi vältettävä."
+  },
+  {
+    "id": "lapsi-ensihoidossa-q4",
+    "type": "truefalse",
+    "question": "Vakava sisäelinvamma, esimerkiksi keuhkovamma, voi esiintyä lapsella ilman kylkiluun murtumia tai muita ulkoisia vamman merkkejä.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Lapsen joustava rintakehä (paljon rustoa) sallii voiman siirtyä sisäelimiin ilman, että luut murtuvat tai ulkoisia merkkejä syntyy."
+  },
+  {
+    "id": "lapsi-ensihoidossa-q5",
+    "type": "mcq",
+    "question": "Kuinka suuren osan verivolyymista lapsi voi menettää ennen kuin verenpaine alkaa laskea?",
+    "options": ["10 %", "20 %", "50 %", "Verenpaine laskee heti pienelläkin verenhukalla"],
+    "correctIndex": 2,
+    "explanation": "Lapsen elimistö kykenee kompensoimaan niin tehokkaasti ääreisverenkierron supistuksella, että verenpaine voi pysyä normaalina, vaikka jopa 50 % verivolyymista olisi menetetty."
+  },
+  {
+    "id": "lapsi-ensihoidossa-q6",
+    "type": "truefalse",
+    "question": "Lapsen verenpaineen lasku on vuotosokissa yleensä varhainen ja luotettava hälytysmerkki.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Verenpaineen lasku on lapsella vuotosokin myöhäinen merkki, joka voi ennakoida pian tapahtuvaa elvytystilannetta – siksi jatkuva monitorointi on tärkeää jo ennen verenpaineen laskua."
+  },
+  {
+    "id": "lapsi-ensihoidossa-q7",
+    "type": "mcq",
+    "question": "Mikä on sokin nestehoidon alkuannos lapselle?",
+    "options": [
+      "5 ml/kg hypotonista keittosuolaa",
+      "20 ml/kg isotonista nestettä (Ringer tai 0,9 % NaCl) boluksena",
+      "500 ml sokeriliuosta",
+      "1000 ml/h kiinteänä infuusiona iästä riippumatta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sokin perushoito on 20 ml/kg isotonista nestettä boluksena, toistettavissa tarpeen mukaan – sokeriliuokset tai hypotoninen keittosuola eivät sovi vammapotilaan sokin hoitoon."
+  },
+  {
+    "id": "lapsi-ensihoidossa-q8",
+    "type": "mcq",
+    "question": "Mitä tehdään, jos sokkisen lapsen suoniyhteyttä ei saada avattua muutamalla yrityksellä?",
+    "options": [
+      "Yritetään loputtomiin samaa kohtaa",
+      "Siirrytään luunsisäiseen (intraosseaali-) infuusioon",
+      "Luovutaan nestehoidosta kokonaan",
+      "Annetaan neste suun kautta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Jos suoniyhteyden avaaminen on vaikeaa tai mahdotonta, siirrytään luunsisäiseen infuusioon intraosseaalineulan avulla."
+  },
+  {
+    "id": "lapsi-ensihoidossa-q9",
+    "type": "truefalse",
+    "question": "Jos leikki-ikäinen lapsi ei vastustele kanylointia ja nukahtaa heti toimenpiteen jälkeen, se on yleensä hyvä merkki rauhallisesta lapsesta.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Tämä on päinvastoin huolestuttava red flag -löydös: lapsi, joka ei vastustele toimenpiteitä tai nukahtaa heti niiden jälkeen, on todennäköisesti vakavasti sairas."
+  },
+  {
+    "id": "lapsi-ensihoidossa-q10",
+    "type": "mcq",
+    "question": "Mikä on fentanyylin suonensisäinen annos lapselle?",
+    "options": ["0,1 mg/kg", "1 µg/kg", "10 mg/kg", "100 µg/kg"],
+    "correctIndex": 1,
+    "explanation": "Fentanyylin suonensisäinen annos lapsella on 1 µg/kg. Morfiinin annos on 0,1 mg/kg ja S-ketamiinin 0,125-0,25 mg/kg."
+  },
+  {
+    "id": "lapsi-ensihoidossa-q11",
+    "type": "truefalse",
+    "question": "Yli 38 °C:n kuume alle kolmen kuukauden ikäisellä lapsella vaatii aina viiveettömän päivystysarvion.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Alle 3 kuukauden ikäisillä kuume on tavallista useammin vakavan yleisinfektion merkki, joten he kuuluvat aina viiveettä päivystykseen."
+  },
+  {
+    "id": "lapsi-ensihoidossa-q12",
+    "type": "mcq",
+    "question": "Mikä löydös erityisesti herättää epäilyn lapsen pahoinpitelystä?",
+    "options": [
+      "Lapsella on yksi tuore mustelma polvessa",
+      "Vamma on huomattavasti vakavampi kuin ilmoitettu vammamekanismi selittäisi",
+      "Lapsi itkee pistoksen yhteydessä",
+      "Lapsella on nuha"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pahoinpitelyä on syytä epäillä, kun vamma on vakavampi kuin kerrottu mekanismi selittää, kertomus muuttuu, apua on viivytelty hälyttää, tai lapsella on eri-ikäisiä selittämättömiä vammoja."
+  },
+  {
+    "id": "lapsi-ensihoidossa-q13",
+    "type": "truefalse",
+    "question": "Lastensuojeluilmoituksen tekemisen voi jättää tekemättä, jos ensihoitaja tietää hätäkeskuksen jo tehneen ilmoituksen samasta tilanteesta.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Toisen tahon ilmoitusvelvollisuus ei poista ensihoitajan omaa ilmoitusvelvollisuutta. Jokainen, joka saa tiedon lastensuojelun tarpeesta, on itse velvollinen ilmoittamaan."
+  }
+]

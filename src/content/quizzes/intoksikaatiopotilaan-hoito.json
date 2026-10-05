@@ -1,0 +1,138 @@
+[
+  {
+    "id": "intoksikaatiopotilaan-hoito-q1",
+    "type": "mcq",
+    "question": "Mitä tarkoittaa periaate \"hoida potilasta, älä myrkkyä\"?",
+    "options": [
+      "Antidootit annetaan aina ensimmäisenä",
+      "Peruselintoimintojen tukeminen ABCDE-mallin mukaisesti on aina ensisijaista, erityishoidot toissijaisia",
+      "Myrkyn tunnistaminen on tärkeämpää kuin potilaan tutkiminen",
+      "Lääkehiiltä annetaan kaikille myrkytyspotilaille"
+    ],
+    "correctIndex": 1,
+    "explanation": "Peruselintoimintojen arviointi ja tukeminen on aina ensisijaista. Spesifiset hoidot kuten antidootit annetaan vain selkeän käyttöaiheen perusteella, usein vasta peruselintoimintojen turvaamisen jälkeen."
+  },
+  {
+    "id": "intoksikaatiopotilaan-hoito-q2",
+    "type": "truefalse",
+    "question": "Jos kohteesta löytyy tyhjä lääkepakkaus, voidaan olettaa, että kyseessä on varmasti vain yhden aineen myrkytys.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Väärin. Myrkytykset ovat usein sekamyrkytyksiä, vaikka kohteesta löytyisi vain yksi tyhjä pakkaus. Alkoholi tai muut ilmoittamattomat aineet voivat olla mukana, mikä vaikuttaa esimerkiksi antidoottien turvalliseen käyttöön."
+  },
+  {
+    "id": "intoksikaatiopotilaan-hoito-q3",
+    "type": "mcq",
+    "question": "Miksi pulssioksimetri voi antaa harhaanjohtavan tuloksen häkämyrkytyksessä?",
+    "options": [
+      "Laite ei toimi lainkaan tajuttomalla potilaalla",
+      "Se ei erota happihemoglobiinia karboksihemoglobiinista ja voi näyttää virheellisen normaalin arvon",
+      "Häkä nostaa aina saturaatiolukemaa liian matalaksi",
+      "Pulssioksimetri mittaa vain sykettä, ei happisaturaatiota"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pulssioksimetri ei erota tavallista happihemoglobiinia hiilimonoksidiin sitoutuneesta hemoglobiinista (karboksihemoglobiini), joten se voi näyttää normaalin tai korkean saturaation, vaikka potilas kärsisi vakavasta hapenpuutteesta."
+  },
+  {
+    "id": "intoksikaatiopotilaan-hoito-q4",
+    "type": "mcq",
+    "question": "Potilaalla on hengityslama, pienet pupillit (mioosi) ja matala verenpaine. Mikä toksidromi on kyseessä?",
+    "options": [
+      "Sympatomimeettinen",
+      "Antikolinerginen",
+      "Opioidi",
+      "Kolinerginen"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hengityslama, pienet pupillit ja matala verenpaine/syke ovat opioidimyrkytyksen klassinen oirekolmio."
+  },
+  {
+    "id": "intoksikaatiopotilaan-hoito-q5",
+    "type": "truefalse",
+    "question": "Kiihtynyt, takykardinen potilas, jolla on laajat pupillit ja kuiva, punoittava iho, kärsii todennäköisemmin antikolinergisesta kuin sympatomimeettisestä myrkytyksestä.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Oikein. Molemmissa esiintyy kiihtymystä, takykardiaa ja laajoja pupilleja, mutta ihon kuivuus/punoitus viittaa antikolinergiseen myrkytykseen, kun hikinen iho viittaisi sympatomimeettiseen."
+  },
+  {
+    "id": "intoksikaatiopotilaan-hoito-q6",
+    "type": "mcq",
+    "question": "Mikä aine EI sitoudu tehokkaasti lääkehiileen?",
+    "options": [
+      "Parasetamoli",
+      "Trisykliset masennuslääkkeet",
+      "Etanoli",
+      "Bentsodiatsepiinit"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lääkehiili ei sido alkoholeja (kuten etanolia, metanolia tai etyleeniglykolia), metalleja, syanidia eikä happoja/emäksiä."
+  },
+  {
+    "id": "intoksikaatiopotilaan-hoito-q7",
+    "type": "truefalse",
+    "question": "Lääkehiiltä voidaan antaa turvallisesti syövyttävän aineen (esim. vahvan hapon) nielemisen jälkeen.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Väärin. Syövyttävän aineen nieleminen on lääkehiilen vasta-aihe - se peittäisi tähystysnäkymän sairaalassa eikä suojaa limakalvovauriolta."
+  },
+  {
+    "id": "intoksikaatiopotilaan-hoito-q8",
+    "type": "mcq",
+    "question": "Miksi naloksonin annon jälkeen opioidimyrkytyspotilas on aina kuljetettava sairaalaan, vaikka hän heräisi täysin kentällä?",
+    "options": [
+      "Naloksonin vaikutusaika on usein lyhyempi kuin myrkytyksen aiheuttaneen opioidin, ja hengityslama voi uusiutua",
+      "Naloksoni aiheuttaa aina vakavia sivuvaikutuksia, joita täytyy seurata",
+      "Lainsäädäntö vaatii aina kuljetuksen antidootin annon jälkeen riippumatta tilasta",
+      "Naloksoni ei tehoa lainkaan, jos potilas on herännyt"
+    ],
+    "correctIndex": 0,
+    "explanation": "Naloksonin vaikutusaika (noin 20-90 min) on usein lyhyempi kuin monien opioidien, joten hengityslama voi palata potilaan jäädessä ilman valvontaa."
+  },
+  {
+    "id": "intoksikaatiopotilaan-hoito-q9",
+    "type": "mcq",
+    "question": "Miksi flumatseniilia vältetään ensihoidossa sekamyrkytyksissä?",
+    "options": [
+      "Se ei toimi bentsodiatsepiineihin lainkaan",
+      "Se voi laukaista vaikeahoitoisen kouristustilan, erityisesti trisyklisten masennuslääkkeiden yhteiskäytössä",
+      "Se nostaa verenpainetta vaarallisen korkeaksi",
+      "Se aiheuttaa aina hengityslaman"
+    ],
+    "correctIndex": 1,
+    "explanation": "Flumatseniili voi laukaista vaikean, vaikeahoitoisen kouristelun, jos potilas on käyttänyt myös kouristuskynnystä laskevia aineita, kuten trisyklisiä masennuslääkkeitä, tai on bentsodiatsepiineista riippuvainen."
+  },
+  {
+    "id": "intoksikaatiopotilaan-hoito-q10",
+    "type": "truefalse",
+    "question": "Myrkytyspotilaan hypertermiaa kannattaa hoitaa ensisijaisesti parasetamolilla.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Väärin. Myrkytyksen aiheuttama hypertermia johtuu eri mekanismista kuin infektiokuume, eivätkä kuumelääkkeet tehoa siihen. Hoito on aktiivinen fyysinen viilennys."
+  },
+  {
+    "id": "intoksikaatiopotilaan-hoito-q11",
+    "type": "mcq",
+    "question": "Miksi verensokeri mitataan aina myrkytyspotilaalta, jonka tajunta on alentunut?",
+    "options": [
+      "Koska kaikki myrkytykset nostavat verensokeria",
+      "Koska hypoglykemia voi muistuttaa myrkytystä tai esiintyä sen rinnalla, ja se on nopeasti korjattavissa",
+      "Koska se on ainoa luotettava tapa tunnistaa aineen laatu",
+      "Mittaus ei ole tarpeellinen, jos potilas ei ole diabeetikko"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hypoglykemia on nopeasti korjattavissa oleva tajunnan häiriön syy, joka voi muistuttaa myrkytystä tai esiintyä samanaikaisesti sen kanssa (esim. alkoholin vaikutuksesta), joten se tulee aina sulkea pois."
+  },
+  {
+    "id": "intoksikaatiopotilaan-hoito-q12",
+    "type": "mcq",
+    "question": "Mikä kuvaa parasetamolimyrkytyksen erityispiirrettä?",
+    "options": [
+      "Oireet ovat aina heti voimakkaita ja selkeitä",
+      "Alkuoireet voivat olla lieviä tai puuttua, vaikka vakava maksavaurio kehittyy 1-4 vuorokauden kuluessa",
+      "Parasetamoli ei koskaan aiheuta vakavaa myrkytystä",
+      "Myrkytys näkyy aina välittömästi EKG-muutoksina"
+    ],
+    "correctIndex": 1,
+    "explanation": "Parasetamolimyrkytys on petollinen, koska alkuvaiheen oireettomuus ei sulje pois etenevää maksavauriota - potilas tarvitsee aina sairaala-arvion ja mahdollisen antidoottihoidon."
+  }
+]

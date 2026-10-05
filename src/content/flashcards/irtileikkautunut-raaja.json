@@ -1,0 +1,16 @@
+[
+  { "id": "irtileikkautunut-raaja-f1", "front": "Mikä on amputaatiovamma?", "back": "Raajan tai sen osan täydellinen tai osittainen irtoaminen kehosta." },
+  { "id": "irtileikkautunut-raaja-f2", "front": "Mikä ero on täydellisellä ja osittaisella amputaatiolla?", "back": "Täydellisessä raaja on kokonaan irti, osittaisessa se roikkuu kiinni kudoskielekkeellä." },
+  { "id": "irtileikkautunut-raaja-f3", "front": "Mikä on iskemia-aikaraja lihaskudosta sisältävälle amputaatiolle?", "back": "Noin 8 tuntia." },
+  { "id": "irtileikkautunut-raaja-f4", "front": "Mikä on iskemia-aikaraja muulle kudokselle (esim. sormen kärkijäsen)?", "back": "Noin 16 tuntia." },
+  { "id": "irtileikkautunut-raaja-f5", "front": "Mitkä kaupungit tarjoavat Suomessa ympärivuorokautista replantaatiopäivystystä?", "back": "Tampere, Oulu ja Helsinki." },
+  { "id": "irtileikkautunut-raaja-f6", "front": "Missä järjestyksessä amputaatiotyngän verenvuotoa hoidetaan?", "back": "Kohoasento, paineside, hemostaattinen side, ja vasta tarvittaessa kiristysside." },
+  { "id": "irtileikkautunut-raaja-f7", "front": "Miten amputaatio-osa säilytetään oikein?", "back": "Kääritään puhtaaseen, kosteaan liinaan, suljetaan muovipussiin ja asetetaan jäähän/kylmään veteen – ei suoraan jäähän tai kuivajäähän." },
+  { "id": "irtileikkautunut-raaja-f8", "front": "Saako osittaisen amputaation kudoskielekkeen leikata irti?", "back": "Ei koskaan – kieleke voi sisältää tärkeitä verisuonia replantaatiota varten." },
+  { "id": "irtileikkautunut-raaja-f9", "front": "Kuka arvioi replantaatiomahdollisuuden?", "back": "Vastaanottava kirurgi – ei ensihoitaja kentällä." },
+  { "id": "irtileikkautunut-raaja-f10", "front": "Mitkä tekijät ennustavat hyvää replantaatiotulosta?", "back": "Puhdas leikkaava vammamekanismi, lyhyt iskemia-aika, nuori ikä, distaalinen amputaatiotaso." },
+  { "id": "irtileikkautunut-raaja-f11", "front": "Milloin kiristyssidettä käytetään amputaatiovammassa?", "back": "Vasta, kun lievemmät keinot (kohoasento, paineside, hemostaattinen side) eivät riitä henkeä uhkaavan vuodon tyrehdyttämiseen." },
+  { "id": "irtileikkautunut-raaja-f12", "front": "Milloin henkeä uhkaava kiristysside vapautetaan?", "back": "Ei vapauteta, ennen kuin vuoto on varmasti saatu hallintaan." },
+  { "id": "irtileikkautunut-raaja-f13", "front": "Mitä ennakkoilmoitukseen kannattaa sisällyttää amputaatiovammassa?", "back": "Amputaatiotaso ja -mekanismi, potilaan tila, amputaatio-osan kunto ja arvioitu saapumisaika." },
+  { "id": "irtileikkautunut-raaja-f14", "front": "Miksi amputaatiopotilaalta tutkitaan koko keho, ei vain vammautunut raaja?", "back": "Amputaatioon liittyy usein tylppä vammamekanismi, joka voi aiheuttaa myös muita vammoja." }
+]

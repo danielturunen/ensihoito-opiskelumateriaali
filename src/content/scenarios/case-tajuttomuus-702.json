@@ -1,0 +1,59 @@
+{
+  "id": "case-tajuttomuus-702",
+  "title": "Tapaus: Tajuton potilas",
+  "dispatchCode": "702",
+  "intro": "Hätäkeskus: tehtäväkoodi 702, tajuttomuus. 68-vuotias nainen, puoliso löytänyt hänet tajuttomana olohuoneen lattialta kotiin tultuaan. Puoliso ei tiedä, kuinka pitkään vaimo on maannut lattialla eikä ole nähnyt tapahtumaa. Ei tiedossa olevia perussairauksia puolison mukaan.",
+  "steps": [
+    {
+      "id": "step1",
+      "situation": "Saavutte asuntoon. Potilas makaa selällään olohuoneen lattialla, silmät kiinni, ei reagoi puhutteluun. Vieressä on kaatunut tuoli. Puoliso on järkyttynyt ja seisoo vierellä.",
+      "question": "Mikä on ensimmäinen toimenpide?",
+      "choices": [
+        { "text": "Arvioidaan nopeasti reagoiko potilas puhutteluun ja ravisteluun, ja tarkistetaan samalla hengitystie ja hengitys – varaudutaan tarvittaessa elvytykseen.", "correct": true, "feedback": "Oikein. Tajuttomana tavattua potilasta on varauduttava hoitamaan elottomana, kunnes toisin todetaan. Ensiarvio alkaa reagoinnin, hengitystien ja hengityksen tarkistamisesta." },
+        { "text": "Nostetaan potilas istuma-asentoon, jotta hänet saadaan nopeammin kantopaarille.", "correct": false, "feedback": "Väärin. Potilaan asentoa ei pidä muuttaa hallitsemattomasti ennen ensiarviota – kaatunut tuoli viittaa mahdolliseen putoamiseen/kaatumiseen, joten kaularanka- ja pään vamma on mahdollinen." },
+        { "text": "Kysytään puolisolta ensin pitkään taustatietoja ja aloitetaan tutkiminen vasta sen jälkeen.", "correct": false, "feedback": "Väärin. Peruselintoimintojen arviointi ei saa odottaa anamneesia – elottomuuden poissulkeminen ja hengitystien tarkistus tehdään ensin, taustatietoja kerätään rinnalla." }
+      ]
+    },
+    {
+      "id": "step2",
+      "situation": "Potilas ei reagoi ravisteluun. Hengitystie on auki, hengitys on korahtelevaa ja näkyy rintakehän nousevan epäsäännöllisesti, taajuus 10/min, SpO2 86 %. Radialissyke on heikko mutta tunnettavissa, noin 58/min.",
+      "question": "Mikä on tärkein seuraava toimenpide?",
+      "choices": [
+        { "text": "Avataan hengitystie leukakulmien nostolla (jaw thrust) niskaa liikuttamatta, imetään eritteet ja avustetaan hengitystä hapella/naamariventilaatiolla, kunnes riittävä hapetus saadaan.", "correct": true, "feedback": "Oikein. Kaatumisen mahdollisuus (kaatunut tuoli) edellyttää kaularangan huomioimista avausotteessa. Korahteleva, riittämätön hengitys ja matala SpO2 vaativat välittömän avustamisen ennen muuta tutkimusta." },
+        { "text": "Siirretään potilas suoraan kylkiasentoon ja jatketaan muuta tutkimista odottaen hengityksen korjaantuvan itsekseen.", "correct": false, "feedback": "Väärin. SpO2 86 % ja riittämätön hengitystaajuus vaativat aktiivista avustamista, ei vain passiivista asentohoitoa – hapenpuute pahentaa mahdollista kallonsisäistä vauriota nopeasti." },
+        { "text": "Mitataan ensin verenpaine ja otetaan EKG, hengityksen avustaminen voi odottaa.", "correct": false, "feedback": "Väärin. ABCDE-järjestyksessä hengitystie ja riittävä hengitys turvataan ennen kuin siirrytään verenkierron tarkempaan arviointiin." }
+      ]
+    },
+    {
+      "id": "step3",
+      "situation": "Hengitystä on avustettu, SpO2 on nousussa (94 %). Verensokeri on 6,2 mmol/l. Pupillit: vasen laaja ja valojäykkä, oikea normaalikokoinen ja reagoi valoon. Verenpaine 178/100 mmHg, syke 52/min. Potilas ei paikanna kipuärsykettä (GCS noin 6).",
+      "question": "Mitä löydökset yhdessä viittaavat, ja miten toimitaan?",
+      "choices": [
+        { "text": "Löydökset (anisokoria, hypertensio + bradykardia, matala GCS) viittaavat kallonsisäiseen prosessiin ja uhkaavaan herniaatioon – vältetään hypoksiaa ja hypotensiota, hälytetään lisäapua/lääkäriyksikkö ja valmistaudutaan hengitystien määritellympään turvaamiseen.", "correct": true, "feedback": "Oikein. Anisokoria yhdessä hypertension ja bradykardian (Cushingin vaste) kanssa on klassinen kohonneen kallonsisäisen paineen ja uhkaavan herniaation merkki. Verensokeri on normaali, joten hypoglykemia on poissuljettu syynä." },
+        { "text": "Koska verensokeri on normaali, kyseessä on todennäköisesti psykogeeninen tajuttomuus eikä aktiivisia toimenpiteitä tarvita.", "correct": false, "feedback": "Väärin ja vaarallista. Anisokoria ja Cushingin vaste ovat vakavia, orgaanisia löydöksiä, jotka sulkevat käytännössä pois psykogeenisen selityksen." },
+        { "text": "Korkea verenpaine hoidetaan ensin verenpainelääkkeellä, jotta kallonsisäinen paine ei nouse lisää.", "correct": false, "feedback": "Väärin. Hypertensio on tässä tilanteessa elimistön kompensaatiomekanismi, joka pyrkii ylläpitämään aivojen perfuusiopainetta kohonneesta kallonsisäisestä paineesta huolimatta – sitä ei pidä hoitaa aktiivisesti kentällä." }
+      ]
+      },
+    {
+      "id": "step4",
+      "situation": "Tila ei korjaannu. GCS pysyy noin 6:ssa, hengitys on edelleen epäsäännöllistä avustamisesta huolimatta, eikä potilas suojaa hengitysteitään. Lääkäriyksikkö on hälytetty mutta on vielä matkalla.",
+      "question": "Mikä on oikea linjaus hengitystien ja ventilaation suhteen?",
+      "choices": [
+        { "text": "Hengitystie on turvattava määritellymmin (tarvittaessa intubaatio hoito-ohjeen mukaisesti), koska GCS on selvästi alentunut eikä potilas suojaa hengitysteitään – toteutus mahdollisimman hallitusti verenpaineen ja hapetuksen äkillisiä muutoksia välttäen.", "correct": true, "feedback": "Oikein. GCS noin 6-8 ja kyvyttömyys suojata hengitysteitä on yleisesti hyväksytty intubaation aihe. Koska epäillään kohonnutta kallonsisäistä painetta, toimenpide tehdä hallitusti hypoksiaa ja verenpaineen heittelyä välttäen." },
+        { "text": "Odotetaan lääkäriyksikön saapumista tekemättä mitään hengitystielle, koska intubaatio ei kuulu kentällä tehtäväksi.", "correct": false, "feedback": "Väärin. Hengitystien turvaaminen ja riittävän hapetuksen varmistaminen ei saa viivästyä – jatkuva hypoksia pahentaa aivovauriota nopeasti odottelun aikana." },
+        { "text": "Hyperventiloidaan potilasta voimakkaasti jatkuvana hoitona kallonsisäisen paineen alentamiseksi.", "correct": false, "feedback": "Väärin. Voimakas, jatkuva hyperventilaatio supistaa aivoverisuonia liikaa ja voi aiheuttaa aivoiskemiaa. Lievää, kontrolloitua hyperventilaatiota käytetään vain tilapäisenä siltahoitona selvässä herniaatiouhassa, ei jatkuvana linjana." }
+      ]
+    },
+    {
+      "id": "step5",
+      "situation": "Hengitystie on turvattu, ventilaatio ja hapetus ovat hallinnassa, verenpaine pidetään riittävällä tasolla. Lääkäriyksikkö on tavoitettu konsultaatioon.",
+      "question": "Mikä on oikea kuljetus- ja konsultaatiolinjaus?",
+      "choices": [
+        { "text": "Konsultoidaan kohonneen kallonsisäisen paineen/aivoverenvuodon mahdollisuudesta ja kuljetetaan kiireellisesti yksikköön, jossa on neurokirurginen ja TT-kuvausvalmius, ennakkoilmoituksella.", "correct": true, "feedback": "Oikein. Löydökset viittaavat kallonsisäiseen, mahdollisesti leikkaushoitoa vaativaan prosessiin (esim. kallonsisäinen verenvuoto). Nopea kuljetus TT-kuvaus- ja neurokirurgiavalmiuteen on ensisijainen linjaus, ja ennakkoilmoitus nopeuttaa jatkohoitoa." },
+        { "text": "Kuljetetaan lähimpään yksikköön ilman ennakkoilmoitusta, koska hengitystie on jo turvattu.", "correct": false, "feedback": "Väärin. Oikean hoitopaikan valinta (neurokirurginen valmius) ja ennakkoilmoitus ovat edelleen tärkeitä, vaikka hengitystie on turvattu – viive diagnostiikkaan ja hoitoon on minimoitava." },
+        { "text": "Jäädään kohteeseen seuraamaan tilannetta pidempään, kunnes tajunta mahdollisesti palautuu itsekseen.", "correct": false, "feedback": "Väärin. Löydökset (anisokoria, matala GCS, Cushingin vaste) viittaavat etenevään, mahdollisesti henkeä uhkaavaan prosessiin, joka vaatii kiireellistä kuljetusta eikä paikalla odottelua." }
+      ]
+    }
+  ],
+  "debrief": "Tapaus havainnollistaa kallonsisäiseen syyhyn viittaavan tajuttomuuden tunnistamista: anisokoria, hypertensio yhdistettynä bradykardiaan (Cushingin vaste) ja alentunut GCS viittaavat kohonneeseen kallonsisäiseen paineeseen ja uhkaavaan herniaatioon, vaikka verensokeri on normaali ja intoksikaatio tai hypoglykemia voidaan sulkea pois. Hengitystien turvaaminen ja hypoksian/hypotension välttäminen ovat ensihoidon tärkeimmät keinot estää sekundaarivaurion syntyminen. Oikea hoitopaikka – TT-kuvaus- ja neurokirurgiavalmiudella oleva yksikkö – ja ennakkoilmoitus nopeuttavat olennaisesti jatkohoitoa."
+}

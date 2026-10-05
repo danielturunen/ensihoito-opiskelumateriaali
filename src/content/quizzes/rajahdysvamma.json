@@ -1,0 +1,112 @@
+[
+  {
+    "id": "rajahdysvamma-q1",
+    "type": "mcq",
+    "question": "Mitkä neljä vammamekanismia esiintyvät räjähdyksessä samanaikaisesti?",
+    "options": [
+      "Pelkkä paineaalto ja lämpö",
+      "Primaari (paineaalto), sekundaari (sirpaleet), tertiaari (heittovaikutus) ja kvaternaari (kuumuus/kemikaalit)",
+      "Vain tylppä ja lävistävä vamma",
+      "Paineaalto, meluvamma ja kaatuminen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Räjähdysvammassa on tyypillisesti neljä samanaikaista mekanismia: paineaalto, sirpaleet, heittovaikutus ja kuumuus/kemikaalit."
+  },
+  {
+    "id": "rajahdysvamma-q2",
+    "type": "truefalse",
+    "question": "Ensihoitaja voi mennä suoraan räjähdyspaikalle potilaan luo, jos ambulanssi ehtii paikalle ensimmäisenä.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Oma turvallisuus varmistetaan aina ensin: kohteeseen mennään vasta pelastusviranomaisten luvalla, koska räjähdys-, sortuma- tai kemikaaliriski voi jatkua."
+  },
+  {
+    "id": "rajahdysvamma-q3",
+    "type": "mcq",
+    "question": "Minkä elinjärjestelmän vauriot ovat tyypillisiä primaarivammalle (paineaalto)?",
+    "options": [
+      "Luusto ja nivelet",
+      "Keuhkot ja suolisto (kaasu-neste-rajapinnat)",
+      "Iho ja ihonalaiskudos",
+      "Hampaat ja silmät"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paineaalto vaurioittaa erityisesti elimiä, joissa on kaasu-neste-rajapintoja, kuten keuhkoja ja suolistoa, ja vauriot voivat olla vaikeasti havaittavissa ulkoisesti."
+  },
+  {
+    "id": "rajahdysvamma-q4",
+    "type": "truefalse",
+    "question": "Räjähdyksen jälkeen potilas saattaa olla tilapäisesti kuulovammautunut, mikä vaikeuttaa kommunikaatiota.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Räjähdyksen paineaalto voi aiheuttaa ohimenevän kuulovamman, jolloin kommunikaatiossa kannattaa käyttää näkyviä eleitä ja katsekontaktia."
+  },
+  {
+    "id": "rajahdysvamma-q5",
+    "type": "mcq",
+    "question": "Mikä löydös liittyy räjähdysvammassa lisääntyneeseen keuhko- ja suolistorepeämän riskiin?",
+    "options": [
+      "Verenvuoto korvista",
+      "Pinnallinen naarmu kädessä",
+      "Lievä päänsärky",
+      "Kuumeen nousu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Verenvuoto korvista viittaa painevammaan, joka liittyy lisääntyneeseen riskiin keuhko- ja suolistorepeämille – löydös on otettava vakavasti."
+  },
+  {
+    "id": "rajahdysvamma-q6",
+    "type": "mcq",
+    "question": "Miksi painehengitystä (PEEP, CPAP) käytetään erityisen harkiten räjähdysvammapotilaalla?",
+    "options": [
+      "Se nostaa aina verenpainetta liikaa",
+      "Se voi pahentaa paineaallon aiheuttamaa keuhkovauriota",
+      "Se estää kapnografian käytön",
+      "Sillä ei ole mitään yhteyttä räjähdysvammaan"
+    ],
+    "correctIndex": 1,
+    "explanation": "Painehengitys voi pahentaa paineaallon aiheuttamaa keuhkovauriota, joten sen käyttöä harkitaan tarkkaan räjähdysvammapotilaalla."
+  },
+  {
+    "id": "rajahdysvamma-q7",
+    "type": "truefalse",
+    "question": "Ilman aivovammaepäilyä räjähdysvammapotilaalla voidaan sallia lievä permissiivinen hypotensio (SAP < 100 mmHg), jos tajunta on riittävä ja radialissyke tuntuu.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Maltillinen nestehoito ja lievä permissiivinen hypotensio ovat hyväksyttäviä, kun tajunta on riittävä ja radialissyke tuntuu, ellei aivovammaa epäillä."
+  },
+  {
+    "id": "rajahdysvamma-q8",
+    "type": "mcq",
+    "question": "Miten sirpaleiden aiheuttamia pieniä lävistäviä vammoja tulee suhtautua tutkimisessa?",
+    "options": [
+      "Ne voidaan jättää huomiotta, koska ne ovat harmittomia",
+      "Ne etsitään huolellisesti, koska pienikin sirpale voi aiheuttaa merkittävän sisäisen vaurion",
+      "Niitä tutkitaan vain, jos potilas valittaa kipua",
+      "Ne hoidetaan vasta sairaalassa kuvantamisen jälkeen eikä niitä tarvitse etsiä kentällä"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pienetkin sirpaleiden aiheuttamat lävistävät vammat on syytä etsiä huolellisesti, koska ne voivat aiheuttaa piilevän, mutta vakavan vaurion."
+  },
+  {
+    "id": "rajahdysvamma-q9",
+    "type": "truefalse",
+    "question": "Räjähdysvamman jälkeen potilas kuljetetaan ensihoidossa aina, vaikka ulkoisia vammoja ei alkuun havaittaisi.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Piilevien vammojen riski on räjähdysvammassa niin suuri, että potilas kuljetetaan ensihoidossa aina hoitoon arvioitavaksi."
+  },
+  {
+    "id": "rajahdysvamma-q10",
+    "type": "mcq",
+    "question": "Miksi räjähdysvammapotilasta kutsutaan monivammapotilaaksi, kunnes toisin osoitetaan?",
+    "options": [
+      "Koska laki vaatii niin",
+      "Koska räjähdyksessä yhdistyvät samanaikaisesti useat eri vammamekanismit, jotka voivat vaurioittaa monia elinjärjestelmiä",
+      "Koska räjähdyspotilaat ovat aina tajuttomia",
+      "Koska vamma vaikuttaa aina vain yhteen raajaan"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paineaalto, sirpaleet, heittovaikutus ja kuumuus voivat kaikki vaurioittaa potilasta samanaikaisesti, mikä tekee räjähdysvammapotilaasta tyypillisesti monivammapotilaan."
+  }
+]

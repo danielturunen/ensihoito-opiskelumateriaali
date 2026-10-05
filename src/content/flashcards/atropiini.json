@@ -1,0 +1,16 @@
+[
+  { "id": "atropiini-f1", "front": "Atropiinin vaikutusmekanismi", "back": "Salpaa muskariinireseptorit, kumoaa asetyylikoliinin vagaalisen jarrutuksen sydämessä – syke nousee ja AV-johtuminen parantuu." },
+  { "id": "atropiini-f2", "front": "Atropiinin käyttöaiheet ensihoidossa", "back": "Oireinen bradykardia, vagaalinen bradykardia (esim. oksentelu, intubaatio), alaseinäinfarktiin liittyvä bradykardia, organofosfaattimyrkytys." },
+  { "id": "atropiini-f3", "front": "Atropiinin aikuisannos bradykardiassa", "back": "0,5 mg i.v., toistettavissa 3-5 min välein, enimmäisannos yleensä 3 mg." },
+  { "id": "atropiini-f4", "front": "Miksi atropiinia ei anneta alle 0,5 mg kerta-annoksina?", "back": "Liian pieni annos voi aiheuttaa paradoksaalisen bradykardian stimuloimalla presynaptisia reseptoreita, jotka lisäävät asetyylikoliinin vapautumista." },
+  { "id": "atropiini-f5", "front": "Missä infarktityypissä atropiini tehoaa tyypillisesti parhaiten bradykardiaan?", "back": "Alaseinäinfarktissa, koska bradykardia on usein vagaalisperäinen. Etuseinäinfarktin johtumishäiriö on usein rakenteellinen ja vastaa huonommin." },
+  { "id": "atropiini-f6", "front": "Atropiinin vasta-aiheet", "back": "Takykardia (syke yli 100/min), tuore eteisvärinä (voi lisätä kammiovastetta), kapeakulmaglaukooma, eturauhashyperplasia virtsaumpineen." },
+  { "id": "atropiini-f7", "front": "Atropiinin tavalliset haittavaikutukset", "back": "Takykardia, suun kuivuminen, pupillien laajeneminen (mydriaasi), näön sumentuminen, virtsaumpi." },
+  { "id": "atropiini-f8", "front": "Organofosfaattimyrkytyksen atropiiniannos", "back": "Huomattavasti suurempi kuin bradykardiassa: 2-5 mg i.v., toistetaan tarpeen mukaan." },
+  { "id": "atropiini-f9", "front": "Mitä tehdään, jos atropiini ei nosta sykettä riittävästi?", "back": "Valmistaudutaan ulkoiseen tahdistukseen tai harkitaan isoprenaliini-infuusiota." },
+  { "id": "atropiini-f10", "front": "Atropiinin vaikutuksen alku ja kesto laskimoon annettuna", "back": "Alku 1-2 minuutissa, kesto noin 30-60 minuuttia." },
+  { "id": "atropiini-f11", "front": "Miksi iäkkäillä on syytä olla varovainen atropiinin kanssa?", "back": "Suurentunut riski deliriumiin (sekavuustilaan) ja muihin antikolinergisiin haittoihin." },
+  { "id": "atropiini-f12", "front": "Lapsen atropiiniannos", "back": "0,02 mg/kg i.v., vähintään 0,1 mg ja enintään 0,5 mg kerta-annoksena." },
+  { "id": "atropiini-f13", "front": "Mitä atropiini tekee pupilleille?", "back": "Laajentaa pupillit (mydriaasi) muskariinireseptorien salpauksen seurauksena." },
+  { "id": "atropiini-f14", "front": "Miksi atropiini on vasta-aiheinen tuoreessa eteisvärinässä?", "back": "Se voi kiihdyttää kammiovastetta entisestään, kun AV-johtuminen helpottuu." }
+]

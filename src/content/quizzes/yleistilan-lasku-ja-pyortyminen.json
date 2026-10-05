@@ -1,0 +1,138 @@
+[
+  {
+    "id": "yleistilan-lasku-ja-pyortyminen-q1",
+    "type": "mcq",
+    "question": "Mikä on paras tapa tarkentaa potilaan epämääräistä \"yleistila on laskenut\" -ilmoitusta?",
+    "options": [
+      "Kirjataan oire sellaisenaan ja edetään suoraan kuljetukseen",
+      "Kysytään aktiivisesti, mikä voinnissa tarkalleen on muuttunut ja miten se ilmenee",
+      "Oletetaan kyseessä olevan ikääntymiseen liittyvä normaali muutos",
+      "Odotetaan, että potilas itse tarkentaa oiretta kysymättä"
+    ],
+    "correctIndex": 1,
+    "explanation": "Potilas tai omainen pystyy lähes aina tarkentamaan oirekuvaa, kunhan asiaa kysytään suoraan ja konkreettisesti - tämä auttaa pääsemään epäspesifisen oireen takaa työdiagnoosiin."
+  },
+  {
+    "id": "yleistilan-lasku-ja-pyortyminen-q2",
+    "type": "truefalse",
+    "question": "Mitä nopeammin yleistilan heikkeneminen on tapahtunut, sitä todennäköisemmin taustalla on vakava sairaus.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Yleistilan romahtaminen alle tunnissa on lähes aina merkki vakavasta akuutista sairaudesta, kun taas viikkojen aikana kehittynyt hitaampi heikkeneminen vaatii harvemmin päivystyksellisiä toimia, vaikka taustasyy voisi olla vakava."
+  },
+  {
+    "id": "yleistilan-lasku-ja-pyortyminen-q3",
+    "type": "mcq",
+    "question": "Mikä löydösyhdistelmä viittaa alkavaan verenkiertosokkiin, vaikka verenpaine olisi vielä normaali?",
+    "options": [
+      "Rauhallisuus, hidas hengitys ja lämmin iho",
+      "Levottomuus, hapennälkä ja tiheä hengitys",
+      "Normaali syke ja normaali hengitystaajuus",
+      "Kylläisyyden tunne ja hidas syke"
+    ],
+    "correctIndex": 1,
+    "explanation": "Normaali verenpaine ei takaa riittävää verenkiertoa. Levottomuuden, hapennälän ja tiheän hengityksen yhdistelmä on usein ensimmäinen merkki sokista, ennen kuin verenpaine ehtii laskea."
+  },
+  {
+    "id": "yleistilan-lasku-ja-pyortyminen-q4",
+    "type": "mcq",
+    "question": "Mikä vatsan alueen hätätilanne on erityisen vaikea tunnistaa, koska kliiniset löydökset voivat olla vähäiset voimakkaasta kivusta huolimatta?",
+    "options": [
+      "Akuutti suoli-iskemia",
+      "Ummetus",
+      "Närästys",
+      "Lievä maha-suolitulehdus"
+    ],
+    "correctIndex": 0,
+    "explanation": "Akuutissa suoli-iskemiassa kliiniset tutkimuslöydökset ovat ennen sokin kehittymistä vähäiset, vaikka potilaan vatsakipu on yleensä voimakas. Riskiryhmänä ovat vanhukset, valtimotautiset ja eteisvärinäpotilaat, ja kuolleisuus on suuri."
+  },
+  {
+    "id": "yleistilan-lasku-ja-pyortyminen-q5",
+    "type": "truefalse",
+    "question": "Äkillisesti, alle vuorokaudessa kehittynyt sekavuus dementoituneella potilaalla tulisi ensisijaisesti tulkita dementian normaaliksi etenemiseksi.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Vaikka potilaalla olisi dementia, äkillisen sekavuuden (deliriumin) ensisijainen selitys on akuutti somaattinen sairaus. Dementia toki altistaa deliriumille, mutta nopea muutos vaatii aina akuutin syyn poissulun."
+  },
+  {
+    "id": "yleistilan-lasku-ja-pyortyminen-q6",
+    "type": "mcq",
+    "question": "Mikä harvinainen mutta vakava ääreishermoston sairaus voi edetä tunneissa hengityslihasten heikkouteen ja hengityskonehoidon tarpeeseen?",
+    "options": [
+      "Myastenia gravis",
+      "Polyradikuliitti",
+      "Jännepäänsärky",
+      "Karpaalitunnelioireyhtymä"
+    ],
+    "correctIndex": 1,
+    "explanation": "Polyradikuliitissa (hermojuuritulehdus) oireet alkavat tyypillisesti alaraajojen pistelyllä, jota seuraa vähitellen ylöspäin leviävä lihasheikkous, joka voi edetä tunneissa hengityslihasten pettämiseen."
+  },
+  {
+    "id": "yleistilan-lasku-ja-pyortyminen-q7",
+    "type": "mcq",
+    "question": "Minkä oireen voi päihtyneellä potilaalla olla ainoa helposti havaittava merkki selkäydinvammasta ja alaraajahalvauksesta?",
+    "options": [
+      "Rintakipu",
+      "Jalkojen kantamattomuus",
+      "Pahoinvointi",
+      "Kuume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Päihtyneellä potilaalla jalkojen kantamattomuus voi olla ainoa havaittava oire selkäydinvammasta ja alaraajojen halvaantumisesta, minkä takia huolellinen tutkiminen ja tarkka anamneesi on erityisen tärkeää."
+  },
+  {
+    "id": "yleistilan-lasku-ja-pyortyminen-q8",
+    "type": "truefalse",
+    "question": "Pyörtyminen (synkope) johtuu ohimenevästä aivojen verenkierron häiriöstä ja on useimmiten seurausta heijasteperäisestä, vaarattomasta mekanismista.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Pyörtymisen taustasyy on useimmiten vaaraton heijasteperäinen (vasovagaalinen tai ortostaattinen) mekanismi, mutta osalla potilaista taustalla on hengenvaarallinen rytmihäiriö tai muu sydänperäinen syy."
+  },
+  {
+    "id": "yleistilan-lasku-ja-pyortyminen-q9",
+    "type": "mcq",
+    "question": "Mikä seuraavista viittaa vahvimmin sydänperäiseen pyörtymiseen eikä tavalliseen vasovagaaliseen pyörtymiseen?",
+    "options": [
+      "Pyörtyminen tapahtui pitkän seisomisen jälkeen kuumassa tilassa",
+      "Pyörtyminen tapahtui fyysisen rasituksen aikana ja potilaalla on tiedossa oleva sydänsairaus",
+      "Pyörtymistä edelsi selvä pahoinvoinnin ja kylmän hien tunne",
+      "Potilas toipui täysin muutamassa sekunnissa ilman jälkioireita"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rasitukseen liittyvä pyörtyminen ja tiedossa oleva sydänsairaus ovat molemmat vakavaan, todennäköisesti sydänperäiseen syyhyn viittaavia tekijöitä, jotka vaativat nopeaa lisäselvitystä."
+  },
+  {
+    "id": "yleistilan-lasku-ja-pyortyminen-q10",
+    "type": "mcq",
+    "question": "Minkä ikäisellä potilaalla ensimmäistä kertaa tapahtuva pyörtyminen tulee aina tutkia nopeasti sydänperäisen syyn poissulkemiseksi?",
+    "options": [
+      "Lapsella",
+      "Nuorella aikuisella",
+      "Iäkkäällä",
+      "Ei kenelläkään, pyörtyminen on aina vaaratonta ensimmäisellä kerralla"
+    ],
+    "correctIndex": 2,
+    "explanation": "Jos pyörtyminen tapahtuu ensimmäisen kerran vasta iäkkäänä, sydänperäisen syyn mahdollisuus on aina tutkittava pikaisesti, koska rakenteelliset sydänviat ja rytmihäiriöt yleistyvät iän myötä."
+  },
+  {
+    "id": "yleistilan-lasku-ja-pyortyminen-q11",
+    "type": "truefalse",
+    "question": "Hauraus-raihnausoireyhtymän (gerastenia) kriteerit täyttävän, päivystyksellistä hoitoa vaativan iäkkään potilaan ennuste on hyvä.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Gerastenian kriteerit täyttävien päivystyspotilaiden ennuste on huono: päivystyskäynnin jälkeen vuoden kuluessa noin neljännes heistä on kuollut."
+  },
+  {
+    "id": "yleistilan-lasku-ja-pyortyminen-q12",
+    "type": "mcq",
+    "question": "Mikä toimenpide tehdään jokaiselle potilaalle, jonka yleistila on äkillisesti heikentynyt, riippumatta epäillystä syystä?",
+    "options": [
+      "Lääkehiilen anto varmuuden vuoksi",
+      "12-kanavainen EKG",
+      "Antibioottihoidon aloitus kentällä",
+      "Nestehoidon lopettaminen"
+    ],
+    "correctIndex": 1,
+    "explanation": "EKG otetaan kaikilta potilailta, joiden yleistila on heikentynyt, koska siitä voidaan arvioida iskemialöydökset, rytmihäiriöt ja viitteet keuhkoemboliasta tai elektrolyyttihäiriöistä."
+  }
+]

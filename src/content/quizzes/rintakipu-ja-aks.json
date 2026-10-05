@@ -1,0 +1,98 @@
+[
+  {
+    "id": "rintakipu-ja-aks-q1",
+    "type": "truefalse",
+    "question": "Rintakivun luonteen (esim. puristava vs. pistävä) perusteella voidaan luotettavasti sulkea pois akuutti sepelvaltimotautikohtaus.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Kivun luonne auttaa alustavassa arviossa, mutta sen perusteella ei voida sulkea pois AKS:ää. Osalla potilaista, varsinkin naisilla, diabeetikoilla ja iäkkäillä, oirekuva on epätyypillinen."
+  },
+  {
+    "id": "rintakipu-ja-aks-q2",
+    "type": "mcq",
+    "question": "Mikä EKG-löydös erottaa STEMI:n NSTEMI:stä?",
+    "options": ["STEMI:ssä on aina rytmihäiriö, NSTEMI:ssä ei", "STEMI näkyy ST-nousuina, NSTEMI:ssä ST-nousuja ei ole", "STEMI:ssä syke on aina hitaampi", "NSTEMI näkyy vain naisilla"],
+    "correctIndex": 1,
+    "explanation": "STEMI syntyy sepelvaltimon täydellisestä tukoksesta ja näkyy EKG:ssä ST-nousuina, kun koko seinämä on vaurioitunut. NSTEMI syntyy osittaisesta tukoksesta, ja vaurio rajoittuu sisimpään lihaskerrokseen ilman ST-nousuja."
+  },
+  {
+    "id": "rintakipu-ja-aks-q3",
+    "type": "mcq",
+    "question": "Potilaalla on ST-nousut kytkennöissä II, III ja aVF. Minkä alueen infarktista on kyse, ja mitä komplikaatiota kannattaa erityisesti varautua hoitamaan?",
+    "options": ["Etuseinäinfarkti, varaudu takykardiaan", "Ala-/takaseinäinfarkti, varaudu bradykardiaan", "Väliseinäinfarkti, varaudu hypertensioon", "Korkea lateraalinen infarkti, ei erityistä varautumista"],
+    "correctIndex": 1,
+    "explanation": "ST-nousut II, III ja aVF viittaavat ala-/takaseinäinfarktiin, joka johtuu useimmiten oikean sepelvaltimon tukoksesta. Samainen suoni huoltaa usein myös sinus- ja AV-solmukkeen verenkiertoa, joten bradykardia on tyypillinen komplikaatio."
+  },
+  {
+    "id": "rintakipu-ja-aks-q4",
+    "type": "truefalse",
+    "question": "Kaikilta rintakipupotilailta tulee rekisteröidä 15-kytkentäinen EKG riippumatta muista löydöksistä.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "EKG on rintakipupotilaan tutkimuksen kulmakivi. Muut löydökset, kuten palpaatioarkuus, eivät saa johtaa EKG:n laiminlyöntiin, koska vakavan taudin oireisto voi olla epätyypillinen."
+  },
+  {
+    "id": "rintakipu-ja-aks-q5",
+    "type": "mcq",
+    "question": "Milloin happea annetaan rintakipupotilaalle ensihoidossa?",
+    "options": ["Aina, kaikille rintakipupotilaille ennaltaehkäisevästi", "Vain, jos SpO2 on alle 90 % tai potilaalla on hengitysvajaus", "Vain yli 60-vuotiaille", "Happea ei tule koskaan antaa rintakipupotilaalle"],
+    "correctIndex": 1,
+    "explanation": "Rutiininomaisesta hapenannosta ei ole hyötyä, ja normaali hapetus voi jopa suurentaa infarktin kokoa vasokonstriktion kautta. Happea annetaan vain todellisessa hypoksiassa (SpO2 alle 90 %) tai hengitysvajauksessa, tavoitteena 94-98 %."
+  },
+  {
+    "id": "rintakipu-ja-aks-q6",
+    "type": "mcq",
+    "question": "Mikä on nitraatin anto-edellytys sepelvaltimoperäisessä rintakivussa?",
+    "options": ["Systolinen verenpaine yli 100 mmHg", "Syke yli 100/min", "SpO2 yli 98 %", "Potilas on pystyasennossa"],
+    "correctIndex": 0,
+    "explanation": "Nitraatti laajentaa suonia ja laskee verenpainetta, joten sitä annetaan vain, kun systolinen verenpaine on yli 100 mmHg – muuten riski vaikealle hypotensiolle ('nitrokollapsi') kasvaa."
+  },
+  {
+    "id": "rintakipu-ja-aks-q7",
+    "type": "truefalse",
+    "question": "Oikean kammion infarktissa nitraatin anto voi laukaista vaikean hypotension.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Oikea kammio on riippuvainen riittävästä esikuormasta, ja nitraatti vähentää esikuormaa laajentamalla laskimoita. Tämä voi romahduttaa verenpaineen oikean kammion infarktissa, joten V4R-kytkennän löydös kannattaa tarkistaa herkästi."
+  },
+  {
+    "id": "rintakipu-ja-aks-q8",
+    "type": "mcq",
+    "question": "Mikä kuvaa suuren vaaran AKS:n työdiagnoosiin johtavaa tilannetta?",
+    "options": ["Kipu helpottaa täysin yhdellä nitraattiannoksella", "EKG:ssä on ST-laskuja, verenkierto on epävakaa tai kipu jatkuu hoidosta huolimatta", "Potilas on alle 40-vuotias", "EKG on normaali ja potilas oireeton"],
+    "correctIndex": 1,
+    "explanation": "Suuren vaaran AKS:n työdiagnoosiin päädytään, kun EKG:ssä on iskeemisiä muutoksia (esim. ST-laskuja), hemodynamiikka on epävakaa tai voimakas kipu ei helpotu perushoidolla."
+  },
+  {
+    "id": "rintakipu-ja-aks-q9",
+    "type": "mcq",
+    "question": "Milloin STEMI-potilaalle valitaan ensisijaisesti liuotushoito pallolaajennuksen (PCI) sijaan?",
+    "options": ["Kun potilas on yli 80-vuotias", "Kun PCI-viive olisi liian pitkä ja oireet ovat alkaneet alle 2-3 tuntia sitten", "Kun potilaalla on kardiogeeninen sokki", "Aina ensisijaisesti, PCI on vara-vaihtoehto"],
+    "correctIndex": 1,
+    "explanation": "PCI on ensisijainen hoitomuoto, kun se on saatavilla kohtuullisessa viiveessä. Liuotushoitoa harkitaan, kun PCI-viive olisi liian pitkä ja oireiden alusta on kulunut vain vähän aikaa (parhaimmillaan alle 2-3 h)."
+  },
+  {
+    "id": "rintakipu-ja-aks-q10",
+    "type": "mcq",
+    "question": "Potilaalla epäillään aortan dissekaatiota rintakivun syynä. Mitä hoitoa EI saa antaa?",
+    "options": ["Kipulääkitys morfiinilla", "Verenpaineen lasku beetasalpaajalla", "Liuotushoito", "Nopea kuljetus sairaalaan"],
+    "correctIndex": 2,
+    "explanation": "Liuotushoito on vasta-aiheinen, jos epäillään aortan dissekaatiota – väärä hoito voi johtaa kuolemaan. Dissekaation hoito perustuu kivunhoitoon, verenpaineen laskuun ja nopeaan kuljetukseen leikkaushoitoon."
+  },
+  {
+    "id": "rintakipu-ja-aks-q11",
+    "type": "truefalse",
+    "question": "Perimyokardiitin EKG-löydökset noudattavat tyypillisesti sepelvaltimoanatomiaa ja niihin liittyy vastakkaisten kytkentöjen ST-laskuja, kuten infarktissa.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Perimyokardiitissa ST-nousut ovat laaja-alaisia eivätkä noudata sepelvaltimoanatomiaa, ja tyypillisesti resiprokaaliset (vastakkaisten kytkentöjen) ST-laskut puuttuvat – tämä erottaa sen infarktista."
+  },
+  {
+    "id": "rintakipu-ja-aks-q12",
+    "type": "mcq",
+    "question": "Suomalaisia sairaankuljettajia koskevan tutkimuksen mukaan, kuinka suuri osuus tunnisti oikein alaseinäinfarktin EKG-kytkennät (II, III, aVF)?",
+    "options": ["Alle 20 %", "Noin 50 %", "84-92 %", "Tasan 100 %"],
+    "correctIndex": 2,
+    "explanation": "Tutkimuksessa 84-92 % sairaankuljettajista tiesi oikeat alaseinäinfarktin kytkennät, mutta osa yhdisti virheellisesti myös muita kytkentöjä samaan löydökseen. Alaseinäinfarktin tunnistaminen on tärkeää, koska siihen liittyy usein hidasrytmisyyttä."
+  }
+]

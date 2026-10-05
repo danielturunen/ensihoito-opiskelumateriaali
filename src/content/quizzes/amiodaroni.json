@@ -1,0 +1,82 @@
+[
+  {
+    "id": "amiodaroni-q1",
+    "type": "mcq",
+    "question": "Mihin lääkeluokkaan amiodaroni kuuluu?",
+    "options": ["I-luokan natriumkanavan salpaaja", "II-luokan beetasalpaaja", "III-luokan kaliumkanavan salpaaja", "IV-luokan kalsiumkanavan salpaaja"],
+    "correctIndex": 2,
+    "explanation": "Amiodaroni on pääasiassa III-luokan rytmilääke: se salpaa kaliumkanavia ja pidentää siten toimintapotentiaalin kestoa ja refraktaariaikaa. Sillä on myös lievää I, II ja IV -luokan vaikutusta, mutta pääasiallinen mekanismi on kaliumkanavan salpaus."
+  },
+  {
+    "id": "amiodaroni-q2",
+    "type": "mcq",
+    "question": "Miksi amiodaroni tehoaa useimpiin kiertoaktivaatiolla syntyviin rytmihäiriöihin?",
+    "options": ["Se nopeuttaa sinussolmukkeen toimintaa", "Se pidentää solujen refraktaariaikaa, jolloin kiertävä impulssi ei pääse etenemään", "Se salpaa asetyylikoliinin vaikutuksen sydämessä", "Se lisää verihiutaleiden aggregaatiota"],
+    "correctIndex": 1,
+    "explanation": "Kiertoaktivaatio (re-entry) jatkuu, jos sähköinen impulssi ehtii kiertää takaisin soluihin, jotka ovat jo palautuneet ärtyvään tilaan. Amiodaroni pidentää refraktaariaikaa, jolloin edessä olevat solut eivät ole ärtyviä ja kierto pysähtyy."
+  },
+  {
+    "id": "amiodaroni-q3",
+    "type": "mcq",
+    "question": "Mikä on tyypillinen amiodaronin latausannos vakaalla potilaalla, jolla on kammiotakykardia (ei elvytystilanne)?",
+    "options": ["10 mg i.v. nopeana boluksena", "150-300 mg i.v. 10-20 minuutin aikana", "1 g i.v. kerta-annoksena", "5 mg/kg i.m."],
+    "correctIndex": 1,
+    "explanation": "Vakaalla potilaalla amiodaroni annetaan hidasti laimennettuna infuusiona 10-20 minuutin aikana, koska nopea bolus voi aiheuttaa merkittävän hypotension. Elvytystilanteessa käytetään poikkeuksellisesti 300 mg nopeaa bolusta."
+  },
+  {
+    "id": "amiodaroni-q4",
+    "type": "truefalse",
+    "question": "Amiodaroni laimennetaan keittosuolaliuokseen ennen antoa.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Amiodaroni laimennetaan 5-prosenttiseen glukoosiliuokseen, ei keittosuolaan. Väärä laimennusneste voi vaikuttaa lääkkeen stabiiliuteen."
+  },
+  {
+    "id": "amiodaroni-q5",
+    "type": "mcq",
+    "question": "Minkä rytmihäiriön hoidossa amiodaroni on vasta-aiheinen?",
+    "options": ["Kammiovärinä", "Hemodynaamisesti vakaa kammiotakykardia", "Kääntyvien kärkien kammiotakykardia (torsades de pointes)", "Eteisvärinä"],
+    "correctIndex": 2,
+    "explanation": "Amiodaroni pidentää QT-aikaa, ja kääntyvien kärkien kammiotakykardia liittyy juuri pidentyneeseen QT-aikaan. QT-aikaa pidentävä lääke voi pahentaa tilannetta – oikea hoito on magnesium."
+  },
+  {
+    "id": "amiodaroni-q6",
+    "type": "truefalse",
+    "question": "Amiodaronin anto voi aiheuttaa hypotensiota ja bradykardiaa, joten verenpainetta ja sykettä on seurattava jatkuvasti annon aikana.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Hypotensio on amiodaronin yleisin akuutti haittavaikutus (noin 15-20 %:lla), ja myös bradykardiaa ja AV-katkoksia voi esiintyä. Jatkuva seuranta annon aikana on välttämätöntä."
+  },
+  {
+    "id": "amiodaroni-q7",
+    "type": "mcq",
+    "question": "Potilaalle kehittyy bradykardiaa amiodaronin infuusion aikana. Mikä on ensisijainen hoito?",
+    "options": ["Nopeutetaan amiodaronin antonopeutta", "Annetaan atropiinia tai harkitaan ulkoista tahdistusta", "Annetaan lisää amiodaronia", "Ei tarvita toimenpiteitä, jatketaan seurantaa"],
+    "correctIndex": 1,
+    "explanation": "Amiodaronin aiheuttama bradykardia hoidetaan atropiinilla tai tarvittaessa ulkoisella tahdistuksella, ja infuusion jatkamista tai nopeutta on syytä arvioida uudelleen."
+  },
+  {
+    "id": "amiodaroni-q8",
+    "type": "mcq",
+    "question": "Mikä on yksi amiodaronin ehdottomista vasta-aiheista?",
+    "options": ["Lievä hypertensio", "II-III asteen eteis-kammiokatkos ilman tahdistinta", "Astma", "Nuori ikä"],
+    "correctIndex": 1,
+    "explanation": "Amiodaroni hidastaa johtumista eteis-kammiosolmukkeessa entisestään, joten se on vasta-aiheinen vaikeassa johtumishäiriössä, jos potilaalla ei ole tahdistinta tilanteen varalta."
+  },
+  {
+    "id": "amiodaroni-q9",
+    "type": "truefalse",
+    "question": "Elvytystilanteessa amiodaronia voidaan antaa poikkeuksellisesti nopeana laskimonsisäisenä boluksena.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Sydänpysähdyksen aikana defibrilloinnille resistentissä kammiovärinässä/pulssittomassa kammiotakykardiassa amiodaroni annetaan 300 mg:n nopeana boluksena – muissa tilanteissa annos annetaan aina hidaasti."
+  },
+  {
+    "id": "amiodaroni-q10",
+    "type": "mcq",
+    "question": "Mikä lääkeinteraktio on kliinisesti merkittävä amiodaronin kanssa?",
+    "options": ["Parasetamoli – ei interaktiota", "Varfariini – INR voi nousta merkittävästi", "C-vitamiini – tehostaa amiodaronin tehoa", "Ibuprofeeni – kumoaa amiodaronin vaikutuksen"],
+    "correctIndex": 1,
+    "explanation": "Amiodaroni voimistaa varfariinin vaikutusta merkittävästi, mikä nostaa INR-arvoa ja lisää verenvuotoriskiä. Myös digoksiinin pitoisuus voi kaksinkertaistua amiodaronin vaikutuksesta."
+  }
+]

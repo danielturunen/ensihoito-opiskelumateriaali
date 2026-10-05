@@ -1,0 +1,97 @@
+[
+  {
+    "id": "keuhkoembolia-q1",
+    "type": "mcq",
+    "question": "Mikä on tyypillinen auskultaatiolöydös keuhkoemboliassa?",
+    "options": ["Molemminpuoliset rahinat", "Paikalliset rahinat", "Toispuolisesti puuttuvat äänet", "Usein täysin normaali löydös"],
+    "correctIndex": 3,
+    "explanation": "Keuhkoembolian auskultaatiolöydös on usein täysin normaali, mikä on tärkeä diagnostinen vihje — oireet ja löydökset eivät täsmää."
+  },
+  {
+    "id": "keuhkoembolia-q2",
+    "type": "truefalse",
+    "question": "Keuhkoembolia on ensisijaisesti hengityselimistön, ei verenkierron, ongelma.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Väärin. Keuhkoembolia on ensisijaisesti verenkierron ongelma — tukos estää verenkierron osassa keuhkoja ja kuormittaa sydämen oikeaa puolta, vaikka se ilmenee hengenahdistuksena."
+  },
+  {
+    "id": "keuhkoembolia-q3",
+    "type": "mcq",
+    "question": "Mikä EKG-löydös voi viitata keuhkoemboliaan?",
+    "options": ["ST-nousu II, III ja aVF-kytkennöissä", "S1Q3T3-kuvio", "Leveä QRS-kompleksi", "Lyhentynyt PR-aika"],
+    "correctIndex": 1,
+    "explanation": "S1Q3T3-kuvio (syvä S-aalto I-kytkennässä, Q-aalto ja T-inversio III-kytkennässä) on klassinen, vaikkei aina esiintyvä, keuhkoembolian EKG-löydös, joka viittaa sydämen oikean puolen kuormitukseen."
+  },
+  {
+    "id": "keuhkoembolia-q4",
+    "type": "truefalse",
+    "question": "Pitkä lentomatka ja tuore leikkaus ovat keuhkoembolialle altistavia riskitekijöitä.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Oikein. Immobilisaatio (esim. pitkät matkat) ja iso leikkaus viimeisen kahden viikon aikana ovat tunnettuja keuhkoembolian riskitekijöitä."
+  },
+  {
+    "id": "keuhkoembolia-q5",
+    "type": "mcq",
+    "question": "Miksi nestehoitoa annetaan keuhkoemboliapotilaalle varovasti?",
+    "options": [
+      "Koska neste nostaa aina verenpainetta liikaa",
+      "Koska liiallinen neste voi venyttää oikeaa kammiota ja pahentaa tilannetta",
+      "Koska neste laukaisee aina uuden embolian",
+      "Koska nestehoito on kokonaan vasta-aiheista"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oikea kammio on keuhkoemboliassa jo kuormittunut tukoksen takia. Liiallinen nestemäärä voi venyttää sitä entisestään ja heikentää pumppaustoimintaa lisää."
+  },
+  {
+    "id": "keuhkoembolia-q6",
+    "type": "truefalse",
+    "question": "Keuhkoemboliaepäilyssä potilas voi itse kävellä ambulanssiin, jos hän tuntee olonsa kohtalaiseksi.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Väärin. Potilas ei saa kävellä, koska rasitus voi laukaista uuden embolisaation. Potilas kuljetetaan aina paareilla tai pyörätuolilla."
+  },
+  {
+    "id": "keuhkoembolia-q7",
+    "type": "mcq",
+    "question": "Mikä seuraavista on kriittisen, massiivisen keuhkoembolian red flag -löydös?",
+    "options": [
+      "SpO2 97 % ja syke 80/min",
+      "Systolinen verenpaine alle 100 mmHg ja syke yli 110/min",
+      "Normaali verenpaine ja rauhallinen syke",
+      "Lievä yskä ilman muita oireita"
+    ],
+    "correctIndex": 1,
+    "explanation": "Matala verenpaine (alle 100 mmHg) yhdistettynä tiheään sykkeeseen (yli 110/min) on merkki massiivisesta, hengenvaarallisesta keuhkoemboliasta."
+  },
+  {
+    "id": "keuhkoembolia-q8",
+    "type": "truefalse",
+    "question": "Keuhkoembolia voi olla sydänpysähdyksen korjattavissa oleva syy.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Oikein. Keuhkoembolia on yksi korjattavista sydänpysähdyksen syistä, ja elottomuus johtuu usein PEA-rytmistä (sykkeetön sähköinen toiminta)."
+  },
+  {
+    "id": "keuhkoembolia-q9",
+    "type": "mcq",
+    "question": "Mikä löydös erottaa keuhkoembolian jänniteilmarinnasta parhaiten?",
+    "options": [
+      "Rintakivun sijainti",
+      "Potilaan ikä",
+      "Auskultaatiolöydös — keuhkoemboliassa usein normaali, jänniteilmarinnassa toispuolisesti puuttuva",
+      "Hengitystaajuus"
+    ],
+    "correctIndex": 2,
+    "explanation": "Molemmat voivat aiheuttaa obstruktiivisen sokin ja äkillisen hengenahdistuksen, mutta auskultaatiolöydös erottaa niitä: jänniteilmarinnassa hengitysäänet puuttuvat toispuolisesti, keuhkoemboliassa löydös on usein normaali."
+  },
+  {
+    "id": "keuhkoembolia-q10",
+    "type": "truefalse",
+    "question": "Keuhkoemboliapotilaan vointi voi korjaantua nopeasti ensihoidon saapuessa, vaikka alkutilanne olisi ollut vakava.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Oikein. Akuutin alkutilanteen jälkeen oireet voivat helpottaa nopeasti ja potilas voi vaikuttaa jopa oireettomalta — tämän vuoksi huolellinen haastattelu ja riskitekijöiden kartoitus on tärkeää."
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "id": "keuhkopoho-q1",
+    "type": "mcq",
+    "question": "Mikä on sydänperäisen keuhkopöhön keskeinen mekanismi?",
+    "options": [
+      "Keuhkoputkien bronkospasmi",
+      "Vasemman kammion pumppausvoiman pettäminen ja paineen nousu keuhkoverenkierrossa",
+      "Pleuratilan ilmantäyttö",
+      "Keuhkorakkuloiden bakteeri-infektio"
+    ],
+    "correctIndex": 1,
+    "explanation": "Keuhkopöhössä sydämen vasen kammio ei pumppaa verta riittävän tehokkaasti, mikä nostaa painetta keuhkoverenkierrossa ja aiheuttaa nesteen tihkumisen keuhkorakkuloihin."
+  },
+  {
+    "id": "keuhkopoho-q2",
+    "type": "truefalse",
+    "question": "Keuhkopöhöpotilaalle tulee antaa runsaasti suonensisäistä nestettä verenkierron tukemiseksi.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Väärin. Nesteen anto on vasta-aiheista, koska potilas on jo nesteylikuormitteinen. Nestehoito pahentaa tilaa hengenvaarallisesti."
+  },
+  {
+    "id": "keuhkopoho-q3",
+    "type": "mcq",
+    "question": "Mitkä ovat keuhkopöhön hoidon kaksi tehokkainta kulmakiveä?",
+    "options": [
+      "Antibiootti ja nestehoito",
+      "Nitraatti ja CPAP",
+      "Adrenaliini ja antihistamiini",
+      "Bronkodilataattori ja kortisoni"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nitraatti vähentää sydämen esi- ja jälkikuormaa laajentamalla verisuonia, ja CPAP vähentää esikuormaa sekä työntää nestettä pois alveoleista. Yhdistelmä on erittäin tehokas."
+  },
+  {
+    "id": "keuhkopoho-q4",
+    "type": "truefalse",
+    "question": "Keuhkopöhössä auskultaatiolöydös on tyypillisesti molemminpuolisia, hienojakoisia rahinoita.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Oikein. Nestettä kertyy molempiin keuhkoihin, joten rahinat kuuluvat tyypillisesti symmetrisesti, usein alaosista alkaen."
+  },
+  {
+    "id": "keuhkopoho-q5",
+    "type": "mcq",
+    "question": "Mikä asento helpottaa keuhkopöhöpotilaan hengitystä ja vähentää esikuormaa?",
+    "options": ["Selinmakuu, jalat koholla", "Kylkiasento", "Istuva asento, jalat alhaalla", "Vatsamakuu"],
+    "correctIndex": 2,
+    "explanation": "Istuva asento jalat alhaalla vähentää veren paluuta sydämeen (esikuormaa) ja helpottaa hengitystyötä."
+  },
+  {
+    "id": "keuhkopoho-q6",
+    "type": "truefalse",
+    "question": "Keuhkopöhö ja keuhkokuume voivat molemmat aiheuttaa hengitysvaikeutta ja rahinoita, mutta niiden nestehoito on täysin päinvastainen.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Oikein. Keuhkokuumeessa/sepsiksessä nesteytys on usein tarpeen, keuhkopöhössä se on vaarallista — oikea erotusdiagnoosi on kriittinen hoitopäätöksen kannalta."
+  },
+  {
+    "id": "keuhkopoho-q7",
+    "type": "mcq",
+    "question": "Mitä yskösmuutosta pidetään klassisena keuhkopöhön löydöksenä?",
+    "options": ["Keltainen, märkäinen yskös", "Vaahtoava, verensekainen yskös", "Veriyskä ilman limaa", "Täysin kuiva yskä ilman eritettä"],
+    "correctIndex": 1,
+    "explanation": "Vaahtoava, verensekainen yskös on klassinen keuhkopöhön löydös, joka syntyy kun plasma ja veri sekoittuvat alveoleihin tihkuneeseen nesteeseen."
+  },
+  {
+    "id": "keuhkopoho-q8",
+    "type": "truefalse",
+    "question": "Ortopnea tarkoittaa hengenahdistusta, joka pahenee makuulla ja helpottaa istumalla.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Oikein. Ortopnea on tyypillinen keuhkopöhön oire, joka johtuu nesteen uudelleenjakautumisesta makuuasennossa."
+  },
+  {
+    "id": "keuhkopoho-q9",
+    "type": "mcq",
+    "question": "Miksi nitraattia tulee antaa keuhkopöhössä varoen?",
+    "options": [
+      "Se voi aiheuttaa liiallisen hypotensio",
+      "Se nostaa verenpainetta liikaa",
+      "Se aiheuttaa aina bronkospasmin",
+      "Se heikentää happeutumista"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nitraatti laajentaa verisuonia ja voi laskea verenpainetta merkittävästi, joten verenpainetta on seurattava tarkasti annon aikana."
+  },
+  {
+    "id": "keuhkopoho-q10",
+    "type": "truefalse",
+    "question": "Rauhallinen ja määrätietoinen kohtaaminen on osa keuhkopöhöpotilaan hoitoa, koska ahdistus pahentaa hapenkulutusta.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Oikein. Potilas on usein voimakkaassa kuolemanhädässä, ja rauhoittelu vähentää ahdistusta ja siten hapenkulutusta, mikä tukee muuta hoitoa."
+  }
+]

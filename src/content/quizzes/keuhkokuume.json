@@ -1,0 +1,92 @@
+[
+  {
+    "id": "keuhkokuume-q1",
+    "type": "mcq",
+    "question": "Mikä on keuhkokuumeen keskeinen patofysiologinen tapahtuma?",
+    "options": [
+      "Keuhkoputkien bronkospasmi",
+      "Keuhkorakkuloiden täyttyminen tulehduseritteestä (konsolidaatio)",
+      "Pleuratilaan kertyvä ilma",
+      "Sydämen vasemman kammion vajaatoiminta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Keuhkokuumeessa keuhkorakkulat täyttyvät tulehduseritteestä (nestettä, kuolleita soluja, bakteereita), mikä tekee kudoksesta tiiviin ja estää kaasujenvaihdon alueella."
+  },
+  {
+    "id": "keuhkokuume-q2",
+    "type": "truefalse",
+    "question": "Keuhkokuumeen auskultaatiolöydös on tyypillisesti paikallinen, toisin kuin keuhkopöhön molemminpuolinen löydös.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Oikein. Keuhkokuumeessa rahinat kuuluvat tyypillisesti paikallisesti tulehtuneen alueen kohdalla, kun keuhkopöhössä rahinat ovat molemminpuolisia."
+  },
+  {
+    "id": "keuhkokuume-q3",
+    "type": "mcq",
+    "question": "Mikä löydös voi olla iäkkäällä keuhkokuumepotilaalla ainoa havaittava sepsiksen merkki?",
+    "options": ["Korkea kuume", "Sekavuus tai hypotensio", "Voimakas yskä", "Normaali hengitystaajuus"],
+    "correctIndex": 1,
+    "explanation": "Iäkkäällä potilaalla sekavuus tai matala verenpaine voi olla ainoa merkki sepsiksestä, vaikka selvää kuumetta ei olisikaan. Tämän aliarvioiminen on yleinen virhe."
+  },
+  {
+    "id": "keuhkokuume-q4",
+    "type": "truefalse",
+    "question": "Keuhkokuume ja keuhkopöhö ovat nestehoidon suhteen samankaltaisia tiloja.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Väärin. Ne ovat nestehoidon suhteen toistensa vastakohtia: keuhkokuumeessa/sepsiksessä nesteytys on usein tarpeen, keuhkopöhössä se on vaarallista."
+  },
+  {
+    "id": "keuhkokuume-q5",
+    "type": "mcq",
+    "question": "Mikä hengitystaajuus viittaa mahdolliseen sepsikseen keuhkokuumepotilaalla?",
+    "options": ["8/min", "14/min", "yli 22–25/min", "18/min"],
+    "correctIndex": 2,
+    "explanation": "Hengitystaajuus yli 22–25/min on yksi sepsiksen red flag -löydöksistä, jotka tulee tunnistaa nopeasti kentällä."
+  },
+  {
+    "id": "keuhkokuume-q6",
+    "type": "truefalse",
+    "question": "Keuhkokuumeen yskös on usein kellertävää, vihertävää tai ruosteenväristä.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Oikein. Tuottava yskä, jossa yskös on värjäytynyttä, on tyypillinen keuhkokuumeen löydös."
+  },
+  {
+    "id": "keuhkokuume-q7",
+    "type": "mcq",
+    "question": "Mitä happihoidon tavoitetta tavoitellaan tyypillisesti keuhkokuumepotilaalla ilman muuta keuhkosairautta?",
+    "options": ["SpO2 70–80 %", "SpO2 92–96 %", "SpO2 100 % aina", "Happea ei tarvita lainkaan"],
+    "correctIndex": 1,
+    "explanation": "Tavoitteena on yleensä SpO2 92–96 %, annettuna viiksillä tai maskilla tarpeen mukaan."
+  },
+  {
+    "id": "keuhkokuume-q8",
+    "type": "truefalse",
+    "question": "Keuhkokuumeen vaikeat muodot korostuvat erityisesti hyvin nuorilla, iäkkäillä ja perussairailla.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Oikein. Nämä ryhmät ovat alttiimpia vaikealle taudinkulolle ja epätyypillisille oireille."
+  },
+  {
+    "id": "keuhkokuume-q9",
+    "type": "mcq",
+    "question": "Miksi CPAP/NIV-hoitoa voidaan harkita keuhkokuumepotilaalla?",
+    "options": [
+      "Se poistaa infektion suoraan",
+      "Se avaa kasaan painuneita keuhkorakkuloita ja vähentää hengitystyötä",
+      "Se korvaa antibioottihoidon",
+      "Se estää sepsiksen kehittymisen kokonaan"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ylipainehoito (CPAP/NIV) voi avata kasaan painuneita alveoleja ja helpottaa hengitystyötä, jos happeutuminen ei korjaannu pelkällä happihoidolla."
+  },
+  {
+    "id": "keuhkokuume-q10",
+    "type": "truefalse",
+    "question": "Keuhkokuumeen puuttuminen ja oikea tunnistaminen ovat tärkeitä, koska se voi johtaa sepsikseen.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Oikein. Vakavassa infektiossa tulehdus voi levitä koko elimistöön ja johtaa sepsikseen, jossa verenkierto ja elintoiminnot pettävät."
+  }
+]

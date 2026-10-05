@@ -1,0 +1,97 @@
+[
+  {
+    "id": "astma-ja-copd-q1",
+    "type": "mcq",
+    "question": "Mikä hengitysvaihe on astmassa ja COPD:ssa tyypillisesti vaikein?",
+    "options": ["Sisäänhengitys", "Uloshengitys", "Molemmat yhtä vaikeita", "Hengityksen pidättäminen"],
+    "correctIndex": 1,
+    "explanation": "Bronkospasmi, limakalvoturvotus ja lima ahtauttavat keuhkoputkia erityisesti uloshengityksen aikana, jolloin ilma jää loukkuun keuhkoihin."
+  },
+  {
+    "id": "astma-ja-copd-q2",
+    "type": "truefalse",
+    "question": "Vinkunan väheneminen vaikeassa astmakohtauksessa on aina merkki paranemisesta.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Väärin. Hiljenevä hengitys ('hiljainen keuhko') voi tarkoittaa, ettei ilmaa enää liiku riittävästi edes vinkunan tuottamiseksi — tämä on vaaran merkki, ei paranemisen merkki."
+  },
+  {
+    "id": "astma-ja-copd-q3",
+    "type": "mcq",
+    "question": "Mikä on COPD-potilaan happihoidon yleinen tavoite SpO2-taso?",
+    "options": ["Mahdollisimman korkea, yli 98 %", "Noin 88–92 %", "Alle 80 %", "SpO2:lla ei ole väliä COPD:ssa"],
+    "correctIndex": 1,
+    "explanation": "COPD-potilaalla happi annetaan titraten, tavoitteena yleensä SpO2 88–92 %, koska liiallinen happi voi poistaa hengitystä ylläpitävän ärsykkeen ja johtaa hiilidioksidinarkoosiin."
+  },
+  {
+    "id": "astma-ja-copd-q4",
+    "type": "truefalse",
+    "question": "Beeta-2-agonistit ja antikolinergit vaikuttavat saman reseptorin kautta.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Väärin. Beeta-2-agonistit stimuloivat beeta-2-reseptoreita, kun taas antikolinergit salpaavat muskariinireseptoreita. Eri mekanismien vuoksi lääkkeet täydentävät toisiaan."
+  },
+  {
+    "id": "astma-ja-copd-q5",
+    "type": "mcq",
+    "question": "Kumpi lääkeryhmä vaikuttaa tyypillisesti nopeammin, beeta-2-agonisti vai antikolinergi?",
+    "options": ["Beeta-2-agonisti", "Antikolinergi", "Molemmat yhtä nopeasti", "Kumpikaan ei vaikuta nopeasti"],
+    "correctIndex": 0,
+    "explanation": "Beeta-2-agonistit avaavat keuhkoputkia tyypillisesti minuuteissa, kun taas antikolinergien vaikutus alkaa hitaammin — siksi beeta-2-agonisti on usein ensilääke akuutissa tilanteessa."
+  },
+  {
+    "id": "astma-ja-copd-q6",
+    "type": "mcq",
+    "question": "Mikä seuraavista kuvaa parhaiten COPD:n taustaa verrattuna astmaan?",
+    "options": [
+      "COPD alkaa tyypillisesti lapsuudessa",
+      "COPD on usein krooninen, tupakointiin liittyvä ja vain osittain palautuva",
+      "COPD on aina täysin palautuva hoidolla",
+      "COPD ei koskaan liity hengitysteiden ahtautumiseen"
+    ],
+    "correctIndex": 1,
+    "explanation": "COPD on hitaasti etenevä, usein tupakoinnin aiheuttama sairaus, jossa ilmavirran rajoitus on pysyvää eikä täysin palaudu, toisin kuin astman kohtauksittainen ja pääosin palautuva ahtauma."
+  },
+  {
+    "id": "astma-ja-copd-q7",
+    "type": "truefalse",
+    "question": "Systeeminen kortikosteroidi kannattaa antaa astman pahenemassa varhain, vaikka sen vaikutus näkyy vasta tuntien kuluttua.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Oikein. Kortikosteroidi hoitaa taustalla olevaa tulehdusta, ja sen vaikutus alkaa vasta viiveellä, joten se kannattaa antaa mahdollisimman varhain pahenemisen aikana."
+  },
+  {
+    "id": "astma-ja-copd-q8",
+    "type": "mcq",
+    "question": "Mikä seuraavista on vaikean astma- tai COPD-paheneman red flag -löydös?",
+    "options": [
+      "Potilas puhuu normaalisti kokonaisia lauseita",
+      "Hengitysäänet hiljenevät ja potilas uupuu",
+      "SpO2 on 98 % levossa",
+      "Potilas pystyy kävelemään normaalisti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hengitysäänten hiljeneminen yhdistettynä uupumiseen on vakava merkki heikkenevästä ilmavirtauksesta ja hengitysväsymyksestä."
+  },
+  {
+    "id": "astma-ja-copd-q9",
+    "type": "truefalse",
+    "question": "Beeta-2-agonistin ja antikolinergin yhdistelmä on usein tehokkaampi kuin kumpikaan lääke yksinään vaikeassa obstruktiossa.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Oikein. Koska lääkkeet vaikuttavat eri reseptoreiden kautta, yhdistelmä tuottaa usein paremman bronkodilataation kuin kumpikaan lääke erikseen."
+  },
+  {
+    "id": "astma-ja-copd-q10",
+    "type": "mcq",
+    "question": "Mitkä löydökset viittaavat erityisesti COPD-paheneman vaikeutumiseen hiilidioksidin kertymisen vuoksi?",
+    "options": [
+      "Reipas ja virkeä olotila",
+      "Sekavuus ja uneliaisuus",
+      "Normaali hengitystaajuus",
+      "Lisääntynyt fyysinen aktiivisuus"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sekavuus, väsymys ja uneliaisuus voivat olla merkki hiilidioksidin (CO2) kertymisestä elimistöön eli hyperkapniasta, joka on vakava COPD-paheneman löydös."
+  }
+]

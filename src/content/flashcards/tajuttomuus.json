@@ -1,0 +1,20 @@
+[
+  { "id": "tajuttomuus-f1", "front": "Mikä rakenne ylläpitää tajunnan vireystilaa?", "back": "Aivorungon valvekeskus (reticular activating system, RAS), joka stimuloi aivokuorta aistiratojen kautta." },
+  { "id": "tajuttomuus-f2", "front": "Miksi pienikin vaurio aivorungossa voi aiheuttaa syvän tajuttomuuden, mutta aivokuoren vaurio ei?", "back": "Valvekeskus on pieni ja keskeinen rakenne, jonka vaurio sammuttaa koko järjestelmän. Aivokuoriperäinen tajuttomuus vaatii laajan, molemminpuolisen toimintahäiriön." },
+  { "id": "tajuttomuus-f3", "front": "CPP-kaava", "back": "CPP = MAP - ICP (aivojen perfuusiopaine = keskivaltimopaine - kallonsisäinen paine). Tavoite yleensä vähintään n. 50-60 mmHg." },
+  { "id": "tajuttomuus-f4", "front": "Mitkä löydökset viittaavat kallonsisäiseen tajuttomuuden syyhyn?", "back": "Hypertensio (etenkin bradykardian kanssa, Cushingin vaste), toispuoliset oireet, katsedeviaatio ja pupillien epäsymmetria (anisokoria)." },
+  { "id": "tajuttomuus-f5", "front": "MIDAS-muistisääntö", "back": "Meningiitti, Intoksikaatio, Diabetes, Anoksia, Subduraalihematooma/Stroke." },
+  { "id": "tajuttomuus-f6", "front": "AEIOU TIPS -muistisääntö", "back": "Alkoholi, Epilepsia, Insuliini (hypoglykemia), Opiaatti/lääke, Uremia - Trauma, Infektio, Psykogeeninen, Stroke/SAV." },
+  { "id": "tajuttomuus-f7", "front": "Mitä tutkimusta ei saa koskaan jättää tekemättä tajuttomalle potilaalle?", "back": "Verensokerin pikamittaus - hypoglykemia on nopeasti todettava ja korjattavissa oleva hengenvaara." },
+  { "id": "tajuttomuus-f8", "front": "Bakteerimeningiitin tyypilliset oireet", "back": "Nopea yleistilan lasku, kova päänsärky, korkea kuume, niskajäykkyys, oksentelu ja ihon petekiat." },
+  { "id": "tajuttomuus-f9", "front": "Miksi bakteerimeningiitissä antibioottihoidon viive on erityisen vaarallinen?", "back": "Viive on suoraan yhteydessä ennusteeseen - tunnin viive voi merkittävästi lisätä huonon toipumisen todennäköisyyttä." },
+  { "id": "tajuttomuus-f10", "front": "Opioidimyrkytyksen toksidromi", "back": "Pistemäiset pupillit, hengityslama ja tajunnantason lasku. Vastalääke naloksoni." },
+  { "id": "tajuttomuus-f11", "front": "Miksi naloksonin antamisen jälkeen potilasta on seurattava edelleen?", "back": "Naloksonin vaikutusaika voi olla lyhyempi kuin opioidin, jolloin potilas voi vaipua uudelleen tajuttomuuteen ja hengityslamaan." },
+  { "id": "tajuttomuus-f12", "front": "Flumatseniilin käyttöön liittyvä riski", "back": "Kouristusriski, erityisesti sekamyrkytyksissä ja bentsodiatsepiineja epilepsian hoitoon käyttävillä potilailla." },
+  { "id": "tajuttomuus-f13", "front": "Mikä on epiduraalihematoomalle tyypillinen kulku?", "back": "Vapaa väli (lucid interval): potilas vaikuttaa hetken oireettomalta vamman jälkeen, kunnes kasvava verenvuoto romahduttaa tajunnan nopeasti." },
+  { "id": "tajuttomuus-f14", "front": "Aivovamman sekundaarivaurion kaksi tärkeintä pahentajaa", "back": "Hypotensio ja hypoksia - jo lyhytaikainenkin esiintyminen huonontaa ennustetta merkittävästi." },
+  { "id": "tajuttomuus-f15", "front": "Mikä on uhkaavan aivoherniaation kolmikko?", "back": "Nopeasti laskeva tajunta (GCS putoaa useilla pisteillä), toispuolinen laaja ja valojäykkä pupilli, ja usein hypertensio-bradykardia-yhdistelmä (Cushingin triadi)." },
+  { "id": "tajuttomuus-f16", "front": "Miksi hengitystie turvataan erityisen hallitusti, jos epäillään kohonnutta kallonsisäistä painetta?", "back": "Koska intubaatioon liittyvä verenpaineen ja kallonsisäisen paineen nousu voi pahentaa aivovauriota - vältetään hypoksiaa ja hypotensiota samalla." },
+  { "id": "tajuttomuus-f17", "front": "Mitä tarkoittaa rapid sequence intubation (RSI)?", "back": "Nopea sarja-induktio: potilas esihapetetaan, jonka jälkeen annetaan käytännössä samanaikaisesti kipulääke, anesteetti ja lihasrelaksantti, ja intuboidaan heti relaksaation alkaessa." },
+  { "id": "tajuttomuus-f18", "front": "Mitä yhteyttä on kallonsisäisten ja systeemisten syiden jaolla hoitoon?", "back": "Jako ohjaa työdiagnoosia, hoitostrategiaa ja kuljetuspäätöstä - esimerkiksi epäilty kallonsisäinen syy ohjaa kuljetuksen neurokirurgiseen yksikköön." }
+]

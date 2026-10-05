@@ -1,0 +1,20 @@
+[
+  { "id": "rytmihairiot-f1", "front": "Rytmihäiriöiden kaksi päämekanismia", "back": "Impulssin muodostumisen poikkeavuus (esim. lisääntynyt automatismi) ja impulssin johtumisen häiriö (useimmiten kiertoaktivaatio)." },
+  { "id": "rytmihairiot-f2", "front": "Mikä on kiertoaktivaatio (re-entry)?", "back": "Sähköinen impulssi jää pyörimään ympyrää sydämen alueella, kun kierroksen kesto on pidempi kuin solujen refraktaariaika." },
+  { "id": "rytmihairiot-f3", "front": "Kaksi tapaa katkaista kiertoaktivaatio", "back": "Pysäyttämällä johtuminen (adenosiini, defibrillaatio) tai pidentämällä refraktaariaikaa lääkkeellä (esim. amiodaroni)." },
+  { "id": "rytmihairiot-f4", "front": "Mikä on aberraatio?", "back": "Ilmiö, jossa korkealla sykkeellä toinen kammioiden päähaara ei ehdi johtaa impulssia, jolloin QRS leventyy – supraventrikulaarinen rytmihäiriö voi näyttää leveäkompleksiselta." },
+  { "id": "rytmihairiot-f5", "front": "Milloin tehdään sedaatiossa synkronoitu kardioversio?", "back": "Kun potilaalla on hengenvaaran merkkejä: sokki, tajunnanmenetys, merkittävä sydänlihasiskemia tai vaikea sydämen vajaatoiminta." },
+  { "id": "rytmihairiot-f6", "front": "Modifioitu Valsalvan menetelmä – mihin sitä käytetään ja miten se tehdään?", "back": "Käytetään nopean rytmihäiriön (esim. PSVT) katkaisuun: potilas puhaltaa 10 ml:n ruiskuun 15 s, käännetään selälleen ja jalat nostetaan koholle." },
+  { "id": "rytmihairiot-f7", "front": "Eteisvärinän tunnusmerkit", "back": "Yleisin rytmihäiriö (2-4 % aikuisista). Eteisten sähköinen toiminta on nopeaa ja järjestäytymätöntä, kammiotaajuus tyypillisesti 100-180/min." },
+  { "id": "rytmihairiot-f8", "front": "Eteislepatuksen tunnusmerkit", "back": "Järjestäytynyt eteisaktivaatio noin 300/min (F-aallot), kammiovaste usein melko vakiotaajuinen (esim. 2:1-johto)." },
+  { "id": "rytmihairiot-f9", "front": "Mikä pisteytys arvioi aivohalvausriskiä eteisvärinässä?", "back": "CHA2DS2-VASc-pisteytys. Antikoagulaatiota suositellaan, kun pisteitä on kaksi tai enemmän." },
+  { "id": "rytmihairiot-f10", "front": "PSVT:n yleisin syntymekanismi", "back": "Eteis-kammiosolmukkeen sisäinen kiertoaktivaatio solmukkeen synnynnäisen kaksijakoisuuden vuoksi." },
+  { "id": "rytmihairiot-f11", "front": "Mikä on delta-aalto ja mihin se liittyy?", "back": "WPW-oireyhtymän oikoradan aiheuttama ylimääräinen heilahdus EKG:ssä ennen QRS-kompleksia." },
+  { "id": "rytmihairiot-f12", "front": "Kammiotakykardian määritelmä", "back": "Yli kolmen peräkkäisen leveän kammioperäisen kompleksin sarja, taajuus yli 100/min." },
+  { "id": "rytmihairiot-f13", "front": "Vakaan kammiotakykardian ensisijainen lääkehoito", "back": "Amiodaroni infuusiona. Jos teho riittämätön, synkronoitu kardioversio sedaatiossa." },
+  { "id": "rytmihairiot-f14", "front": "Mikä aiheuttaa kääntyvien kärkien kammiotakykardian?", "back": "Varhainen jälkidepolarisaatio pitkän QT-ajan pohjalta." },
+  { "id": "rytmihairiot-f15", "front": "Pidentyneen QTc-ajan raja-arvot", "back": "Yli 440 ms miehillä ja yli 460 ms naisilla; yli 500 ms liittyy merkittävään kääntyvien kärkien kammiotakykardian riskiin." },
+  { "id": "rytmihairiot-f16", "front": "Kääntyvien kärkien kammiotakykardian hoito", "back": "Magnesium 2 g i.v., voidaan toistaa. Amiodaroni on vasta-aiheinen, koska se pidentää QT-aikaa." },
+  { "id": "rytmihairiot-f17", "front": "Oireisen bradykardian hoitoalgoritmin kaksi vaihetta", "back": "1) Hengenvaaran merkit → atropiini 0,5 mg i.v. tai ulkoinen tahdistus. 2) Asystolen riski (Mobitz II, totaali AV-katkos, tauko >3s) → lääkehoito tai tahdistus." },
+  { "id": "rytmihairiot-f18", "front": "Mitä on huomioitava kardioversiossa/defibrilloinnissa tahdistinpotilaalla?", "back": "Elektrodia ei saa sijoittaa tahdistimen tai ICD:n päälle; kammiotahdistus voi vaikeuttaa iskemian tunnistamista EKG:stä." }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "id": "paan-vamma-q1",
+    "type": "mcq",
+    "question": "Mikä on ensihoidon ensisijainen tavoite pään vamman hoidossa?",
+    "options": [
+      "Primaarivaurion korjaaminen kentällä",
+      "Sekundaarivaurion estäminen turvaamalla happeutuminen ja verenkierto",
+      "Kivunhoidon välttäminen",
+      "Potilaan nukuttaminen mahdollisimman nopeasti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Primaarivaurio on syntynyt vammahetkellä eikä sitä voida kentällä korjata. Ensihoidon tavoite on estää sekundaarivaurion kehittyminen turvaamalla riittävä happeutuminen, verenkierto ja kallonsisäisen paineen hallinta."
+  },
+  {
+    "id": "paan-vamma-q2",
+    "type": "truefalse",
+    "question": "GCS alle 8 on merkki siitä, että potilaan hengitystie on uhattuna ja vaatii erityistä huomiota.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "GCS < 8 on yksi vakavan aivovamman hälytysmerkeistä, joka ennakoi hengitystien uhkaa ja usein tarvetta anestesiaintubaatioon."
+  },
+  {
+    "id": "paan-vamma-q3",
+    "type": "mcq",
+    "question": "Mikä verenpainetavoite (SAP) pätee aivovammapotilaalla?",
+    "options": [
+      "SAP > 80 mmHg",
+      "SAP > 100 mmHg",
+      "SAP > 120 mmHg",
+      "SAP ei vaikuta aivovammaan"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tavoitteena on SAP > 120 mmHg, jotta aivojen perfuusiopaine pysyy riittävänä ja sekundaarivaurio vältetään."
+  },
+  {
+    "id": "paan-vamma-q4",
+    "type": "truefalse",
+    "question": "Aivovamma itsessään aiheuttaa lähtökohtaisesti hypotensiota (matalaa verenpainetta).",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Aivovamma ei lähtökohtaisesti aiheuta hypotensiota. Jos aivovammapotilaalla todetaan matala verenpaine, on etsittävä muita vammoja tai verenvuotoa."
+  },
+  {
+    "id": "paan-vamma-q5",
+    "type": "mcq",
+    "question": "Miksi hyperventilaatiota vältetään aivovammapotilaalla?",
+    "options": [
+      "Se nostaa verenpainetta liikaa",
+      "Se laskee hiilidioksidipitoisuutta ja supistaa aivoverisuonia, mikä voi aiheuttaa aivoiskemiaa",
+      "Se aiheuttaa aina pneumotoraksin",
+      "Hyperventilaatiolla ei ole yhteyttä aivovammaan"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hyperventilaatio laskee EtCO2:ta, joka supistaa aivoverisuonia ja voi aiheuttaa aivoiskemiaa – tavoitteena on normoventilaatio (EtCO2 4-4,5 kPa)."
+  },
+  {
+    "id": "paan-vamma-q6",
+    "type": "truefalse",
+    "question": "Kovakauluria vältetään aivovammapotilaalla, koska se voi nostaa kallonsisäistä painetta kiristämällä kaulalaskimoita.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Kovakauluri voi kiristää kaulalaskimoita ja nostaa kallonsisäistä painetta, joten kaularangan tuenta toteutetaan käsin, sivutuilla tai tyhjiöpatjan reunoilla."
+  },
+  {
+    "id": "paan-vamma-q7",
+    "type": "mcq",
+    "question": "Miten kuljetuksen aikana voidaan tukea laskimopaluuta aivoista, kun verenpaine on tavoitetasolla?",
+    "options": [
+      "Paarien pääpuoli lasketaan alas",
+      "Paarien pääpuoli nostetaan 20-30° koholle, pää pidetään suorassa ja kaulalaskimot vapaina",
+      "Potilas käännetään jatkuvasti kylkiasentoon",
+      "Käytetään mahdollisimman tiukkaa kovakaulurin otetta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Laskimopaluu turvataan pitämällä pää suorassa, kaulalaskimot vapaina kiristyksestä, ja kuljetuksessa paarien pääpuoli voidaan nostaa 20-30°, kunhan verenpaine pysyy riittävänä."
+  },
+  {
+    "id": "paan-vamma-q8",
+    "type": "mcq",
+    "question": "Mitä tehdään ensisijaisesti, jos aivovammapotilaan verenpaine nousee yli 180 mmHg:iin?",
+    "options": [
+      "Annetaan suuri nestebolus välittömästi",
+      "Hoidetaan kipu ja sedatoidaan potilas, ja jos paine pysyy korkeana, pyydetään hoito-ohje lääkäriltä",
+      "Lopetetaan kaikki hoito ja odotetaan",
+      "Annetaan verenpainetta nostavaa lääkettä"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ensisijainen hoito korkeaan verenpaineeseen on riittävä kivunhoito ja sedaatio; jos verenpaine pysyy edelleen korkeana, pyydetään ohje hoidosta vastaavalta lääkäriltä."
+  },
+  {
+    "id": "paan-vamma-q9",
+    "type": "truefalse",
+    "question": "Verensokeri ja ydinlämpötila mitataan aina pään vamman saaneelta potilaalta.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Hypoglykemia voi muistuttaa aivovamman oireita ja hypotermia pahentaa ennustetta, joten molemmat mitataan systemaattisesti."
+  },
+  {
+    "id": "paan-vamma-q10",
+    "type": "mcq",
+    "question": "Mikä GCS-liikevasteen pisteytys tarkoittaa, että potilas paikantaa kipua?",
+    "options": ["6 pistettä", "5 pistettä", "3 pistettä", "1 piste"],
+    "correctIndex": 1,
+    "explanation": "GCS-liikevasteessa 6 pistettä tarkoittaa käskyjen tottelua, 5 pistettä kivun paikantamista, 4 pistettä kivun väistämistä, 3 fleksiota, 2 ekstensiota ja 1 ei vastetta."
+  },
+  {
+    "id": "paan-vamma-q11",
+    "type": "mcq",
+    "question": "Milloin traneksaamihappoa (1 g i.v.) harkitaan pään vamman potilaalle?",
+    "options": [
+      "Kaikille päähän kolahtaneille potilaille rutiinisti",
+      "Aikuisen vaikeassa aivovammassa, ensihoitolääkärin konsultaation perusteella",
+      "Vain lapsipotilaille",
+      "Vasta sairaalassa, ei koskaan ensihoidossa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Traneksaamihappoa voidaan antaa aikuisen vaikeassa aivovammassa ensihoitolääkärin konsultaation perusteella."
+  }
+]

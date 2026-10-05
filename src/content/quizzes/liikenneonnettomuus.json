@@ -1,0 +1,138 @@
+[
+  {
+    "id": "liikenneonnettomuus-q1",
+    "type": "mcq",
+    "question": "Mikä seuraavista täyttää korkeaenergisen vammamekanismin kriteerin liikenneonnettomuudessa?",
+    "options": [
+      "Auton korin kasaanpainuminen alle 10 cm",
+      "Auton korin kasaanpainuminen yli 40 cm",
+      "Ajoneuvo pysähtyi normaalisti liikennevaloihin",
+      "Potilas oli matkustajana istuimella koko ajan ilman törmäystä"
+    ],
+    "correctIndex": 1,
+    "explanation": "Auton korin kasaanpainuminen yli 40 cm on yksi korkeaenergisen vammamekanismin kriteereistä, samoin kuin sinkoutuminen ulos autosta tai kanssamatkustajan kuolema."
+  },
+  {
+    "id": "liikenneonnettomuus-q2",
+    "type": "truefalse",
+    "question": "Potilas luokitellaan korkeaenergiseksi, jos yksikin kolmesta kriteeriryhmästä (peruselintoiminnon häiriö, vammalöydös, mekanismi) täyttyy.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Riittää, että yksikin kriteeri jostain kolmesta ryhmästä täyttyy, jotta potilas luokitellaan korkeaenergisesti vammautuneeksi."
+  },
+  {
+    "id": "liikenneonnettomuus-q3",
+    "type": "mcq",
+    "question": "Mikä on PTT (Prehospital Trauma Team) -protokollan tavoiteaika kuljetuksen aloittamiselle?",
+    "options": [
+      "1 minuutti",
+      "5 minuuttia",
+      "10 minuuttia ambulanssiin siirtymisestä",
+      "30 minuuttia"
+    ],
+    "correctIndex": 2,
+    "explanation": "PTT-protokollan tavoitteena on aloittaa kuljetus 10 minuutin sisällä siitä, kun potilas on siirretty ambulanssiin."
+  },
+  {
+    "id": "liikenneonnettomuus-q4",
+    "type": "mcq",
+    "question": "Missä järjestyksessä RiVaLAiSeR-menetelmä tutkii kehon alueet?",
+    "options": [
+      "Raajat, selkä, aivot, lantio, vatsa, rintakehä",
+      "Rintakehä, vatsa, lantio, aivot, selkä, raajat",
+      "Aivot, rintakehä, raajat, selkä, vatsa, lantio",
+      "Satunnaisessa järjestyksessä potilaan valituksen mukaan"
+    ],
+    "correctIndex": 1,
+    "explanation": "RiVaLAiSeR tutkii kehon kriittisyysjärjestyksessä: rintakehä, vatsa, lantio, aivot, selkä ja raajat."
+  },
+  {
+    "id": "liikenneonnettomuus-q5",
+    "type": "truefalse",
+    "question": "Sokki-indeksi lasketaan jakamalla syke systolisella verenpaineella, ja arvo yli 0,9 viittaa mahdolliseen sokkiin.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Sokki-indeksi = syke / systolinen verenpaine. Normaali on alle 0,9; sitä korkeampi arvo viittaa piilevään sokkiin, vaikka verenpaine olisi vielä normaalirajoissa."
+  },
+  {
+    "id": "liikenneonnettomuus-q6",
+    "type": "mcq",
+    "question": "Potilaan syke on 130/min ja systolinen verenpaine 90 mmHg. Mikä on sokki-indeksi ja mitä se kertoo?",
+    "options": [
+      "0,7 - normaali",
+      "1,0 - rajatapaus, viittaa sokin mahdollisuuteen",
+      "1,44 - viittaa selvään sokkiin",
+      "Sokki-indeksiä ei voi laskea näistä luvuista"
+    ],
+    "correctIndex": 2,
+    "explanation": "130 / 90 = 1,44, mikä on selvästi yli normaalirajan (0,9) ja viittaa todennäköiseen sokkiin."
+  },
+  {
+    "id": "liikenneonnettomuus-q7",
+    "type": "truefalse",
+    "question": "Kiristyssiteen ollessa paikallaan yli 8 tuntia, amputaatioriski kasvaa merkittävästi.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Kiristyssiteen aikarajojen mukaan 8 tunnin jälkeen amputaatioriski on merkittävä ja 12 tunnin jälkeen amputaatio on todennäköinen."
+  },
+  {
+    "id": "liikenneonnettomuus-q8",
+    "type": "mcq",
+    "question": "Mitkä kolme tekijää muodostavat vammapotilaan \"kuoleman kolmion\"?",
+    "options": [
+      "Kipu, pelko, stressi",
+      "Koagulopatia, asidoosi, hypotermia",
+      "Takykardia, hypotensio, tajuttomuus",
+      "Murtuma, verenvuoto, turvotus"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kuoleman kolmio muodostuu koagulopatiasta (hyytymishäiriö), asidoosista ja hypotermiasta, jotka pahentavat toisiaan runsaan verenvuodon yhteydessä."
+  },
+  {
+    "id": "liikenneonnettomuus-q9",
+    "type": "mcq",
+    "question": "Mitä HOTT-muistisääntö kuvaa?",
+    "options": [
+      "Traumapotilaan kuljetuspäätöksen kriteerit",
+      "Traumaperäisen sydänpysähdyksen korjattavissa olevat syyt: hypotensio, hapenpuute, tensiopneumothorax, tamponaatio",
+      "Kivunhoidon lääkevalikoiman",
+      "Palovamman laajuuden arviointitavan"
+    ],
+    "correctIndex": 1,
+    "explanation": "HOTT muistuttaa traumaperäisen elottomuuden neljästä tärkeimmästä korjattavasta syystä: Hypotensio, O2 eli hapenpuute, Tensiopneumothorax ja Tamponaatio."
+  },
+  {
+    "id": "liikenneonnettomuus-q10",
+    "type": "truefalse",
+    "question": "\"Load and go\" -taktiikkaa suositaan esimerkiksi lävistävässä vammassa tai sisäelinvuodossa, kun taas \"stay and play\" sopii paremmin tajuttomalle aivovammapotilaalle.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Load and go -taktiikassa nopea kuljetus on ratkaisevampaa kuin kentän toimenpiteet (esim. sisäelinvuoto), kun taas stay and play -tilanteissa kentällä tehtävä stabilointi on tarpeen (esim. tajuton aivovammapotilas)."
+  },
+  {
+    "id": "liikenneonnettomuus-q11",
+    "type": "mcq",
+    "question": "Mikä seuraavista EI kuulu immobilisaation lisäkriteereihin liikenneonnettomuudessa?",
+    "options": [
+      "Auto pyörinyt katon kautta ympäri",
+      "Ajonopeus yli 80 km/h",
+      "Potilaan ikä 30-40 vuotta",
+      "Pään aksiaalinen vamma"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lisäkriteereihin kuuluvat mm. ikä alle 8 tai yli 65 vuotta, ei 30-40 vuoden ikähaarukka, auton pyöriminen katon kautta, yli 80 km/h nopeus ja pään aksiaalinen vamma."
+  },
+  {
+    "id": "liikenneonnettomuus-q12",
+    "type": "mcq",
+    "question": "Kenelle tukikauluria ei tule käyttää, vaikka kaularankavammaa epäiltäisiin?",
+    "options": [
+      "Kenellekään, tukikauluri sopii aina kaikille",
+      "Aivovammapotilaalle, jonka GCS on alle 9",
+      "Yli 65-vuotiaille",
+      "Lapsille"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tukikauluria ei käytetä aivovammapotilaalla, jonka GCS on alle 9, koska se voi nostaa kallonsisäistä painetta."
+  }
+]

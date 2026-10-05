@@ -1,0 +1,105 @@
+[
+  {
+    "id": "konsultaatiomallit-q1",
+    "type": "mcq",
+    "question": "Mitä SOAP-mallin kirjain \"A\" tarkoittaa?",
+    "options": ["Allergiat", "Analyysi", "Arviointiaika", "Avoin hengitystie"],
+    "correctIndex": 1,
+    "explanation": "SOAP: Subjektiivinen, Objektiivinen, Analyysi, Suunnitelma. Analyysi yhdistää subjektiivisen ja objektiivisen tiedon erotusdiagnostisiksi vaihtoehdoiksi."
+  },
+  {
+    "id": "konsultaatiomallit-q2",
+    "type": "truefalse",
+    "question": "AMPLE-mallissa kirjain \"L\" tarkoittaa potilaan lääkelistaa.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "L tarkoittaa Last meal, viimeisintä ateriaa. Lääkitys katetaan M-kirjaimella (Medikaatio)."
+  },
+  {
+    "id": "konsultaatiomallit-q3",
+    "type": "mcq",
+    "question": "Mikä ISBAR-raportin osa sisältää ehdotuksen siitä, mitä toivot tapahtuvan seuraavaksi?",
+    "options": ["Identify", "Background", "Assessment", "Recommendation"],
+    "correctIndex": 3,
+    "explanation": "Recommendation on raportin viimeinen osa, jossa esitetään selkeä toimintaehdotus (esim. konsultaatio, vastaanottava yksikkö, kiireellisyys)."
+  },
+  {
+    "id": "konsultaatiomallit-q4",
+    "type": "mcq",
+    "question": "Miksi ISBAR-raportin Assessment- ja Recommendation-osat kannattaa muotoilla erityisen selkeiksi?",
+    "options": [
+      "Koska ne ovat pakollisia vain puhelinraportissa",
+      "Koska kuulija muistaa raportin alun ja lopun parhaiten",
+      "Koska niitä ei kirjata potilasasiakirjoihin",
+      "Koska ne eivät vaikuta hoitopäätökseen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Raportin loppuosa jää parhaiten mieleen, joten selkeä arvio ja suositus kannattaa sanoa ääneen eikä jättää kuulijan pääteltäväksi."
+  },
+  {
+    "id": "konsultaatiomallit-q5",
+    "type": "truefalse",
+    "question": "NEWS2-pisteytyksessä korkea pistemäärä yhdessäkin parametrissa voi riittää nostamaan tilanteen kiireelliseksi, vaikka kokonaispisteet olisivat maltilliset.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Esimerkiksi hyvin matala tai korkea hengitystaajuus antaa korkeimman mahdollisen pistemäärän yksinään, ja tämä nostaa tilanteen kiireellisyyttä riippumatta kokonaispisteistä."
+  },
+  {
+    "id": "konsultaatiomallit-q6",
+    "type": "mcq",
+    "question": "Mitkä vitaaliparametrit kuuluvat NEWS2-pisteytykseen?",
+    "options": [
+      "Hengitystaajuus, happisaturaatio, lisähapen käyttö, verenpaine, syke, tajunta ja lämpötila",
+      "Vain hengitystaajuus ja happisaturaatio",
+      "Pelkästään syke ja verenpaine",
+      "GCS, pupillit ja verensokeri"
+    ],
+    "correctIndex": 0,
+    "explanation": "NEWS2 yhdistää seitsemän mitattavaa suuretta (hengitystaajuus, SpO₂, lisähappi, verenpaine, syke, tajunta, lämpötila) yhdeksi kokonaispisteeksi."
+  },
+  {
+    "id": "konsultaatiomallit-q7",
+    "type": "mcq",
+    "question": "Mistä kolmesta osa-alueesta Glasgow Coma Scale (GCS) muodostuu?",
+    "options": [
+      "Silmien avaaminen, puhevaste, liikevaste",
+      "Pupillireaktio, hengitystaajuus, syke",
+      "AVPU, verensokeri, lämpötila",
+      "Orientaatio, muisti, puhe"
+    ],
+    "correctIndex": 0,
+    "explanation": "GCS koostuu silmien avaamisesta (1-4 p), puhevasteesta (1-5 p) ja liikevasteesta (1-6 p), yhteensä 3-15 pistettä."
+  },
+  {
+    "id": "konsultaatiomallit-q8",
+    "type": "truefalse",
+    "question": "GCS-pisteiden lasku kahdella pisteellä tunnin aikana on merkittävä hälytysmerkki, vaikka kokonaispistemäärä olisi vielä kohtuullinen.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Nopea muutos pisteissä on kliinisesti usein tärkeämpi tieto kuin yksittäinen absoluuttinen pistemäärä, koska se kertoo tilan nopeasta heikkenemisestä."
+  },
+  {
+    "id": "konsultaatiomallit-q9",
+    "type": "mcq",
+    "question": "Minkä rajan alittava GCS tarkoittaa, että potilas ei luotettavasti kykene pitämään hengitystietään itse auki?",
+    "options": ["GCS ≤8", "GCS ≤12", "GCS ≤14", "GCS ≤5"],
+    "correctIndex": 0,
+    "explanation": "GCS 8 tai alle on vakiintunut raja, jolloin hengitystien hallinta nousee ensisijaiseksi huoleksi, koska suojaheijasteet ovat usein heikentyneet."
+  },
+  {
+    "id": "konsultaatiomallit-q10",
+    "type": "mcq",
+    "question": "Mihin oireeseen liittyvä arviointimalli on RACER?",
+    "options": ["Hengenahdistus", "Kouristus", "Allerginen reaktio ja anafylaksia", "Aivohalvausepäily"],
+    "correctIndex": 2,
+    "explanation": "RACER (Reaction onset, Airway involvement, Circulatory signs, Exposure/trigger, Respiratory symptoms) on suunnattu allergisten reaktioiden ja anafylaksian arviointiin."
+  },
+  {
+    "id": "konsultaatiomallit-q11",
+    "type": "truefalse",
+    "question": "Oirekohtaiset mallit (kuten BREATH, FAINT, STROKE) korvaavat SOCRATES-mallin kaikessa kipuun liittyvässä haastattelussa.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Oirekohtaiset mallit täydentävät yleisiä malleja oman oireensa osalta, mutta eivät korvaa SOCRATES:ia kivun systemaattisessa arvioinnissa."
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "socrates-kivun-arviointi-q1",
+    "type": "mcq",
+    "question": "Mitä SOCRATES-muistisäännön kirjain \"R\" tarkoittaa?",
+    "options": ["Relief (helpotus)", "Radiation (säteily)", "Recovery (toipuminen)", "Risk (riski)"],
+    "correctIndex": 1,
+    "explanation": "R tarkoittaa Radiation, eli säteileekö kipu muualle kehoon kuin alkuperäiseen sijaintiin."
+  },
+  {
+    "id": "socrates-kivun-arviointi-q2",
+    "type": "truefalse",
+    "question": "Äkillisesti, sekunneissa huipentuva kipu on tyypillisesti vähemmän huolestuttava kuin hitaasti päivien kuluessa paheneva kipu.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Päinvastoin – äkillinen, sekunneissa maksimaaliseksi yltyvä kipu on aina vakavampi hälytysmerkki, koska se liittyy usein äkillisiin verisuonitapahtumiin tai elimen puhkeamiseen."
+  },
+  {
+    "id": "socrates-kivun-arviointi-q3",
+    "type": "mcq",
+    "question": "Potilas kuvaa kipunsa \"repiväksi ja riuhtovaksi\". Mihin tämä kivun luonne viittaa tyypillisimmin?",
+    "options": [
+      "Lihasvenähdykseen",
+      "Aortan dissekaatioon tai repeämään",
+      "Refluksitautiin",
+      "Jännityspäänsärkyyn"
+    ],
+    "correctIndex": 1,
+    "explanation": "Repivä, riuhtova kipu on klassinen kuvaus aortan dissekaatiosta tai repeämästä, ja se vaatii aina kiireellistä arviota."
+  },
+  {
+    "id": "socrates-kivun-arviointi-q4",
+    "type": "mcq",
+    "question": "Mitä kouristava, aaltoileva vatsakipu useimmiten kuvaa?",
+    "options": [
+      "Onton elimen (esim. suolen tai virtsanjohtimen) tukosta",
+      "Sydänperäistä iskemiaa",
+      "Ihon pintainfektiota",
+      "Nivelrikkoa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kouristava, aaltoileva kipu syntyy tyypillisesti onton elimen (suoli, virtsanjohdin) peristalttisesta liikkeestä tukoksen takana."
+  },
+  {
+    "id": "socrates-kivun-arviointi-q5",
+    "type": "truefalse",
+    "question": "Vasempaan käsivarteen tai leukaan säteilevä rintakipu viittaa tyypillisesti sydänperäiseen syyhyn.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Säteily vasempaan käsivarteen tai leukaan on klassinen sydänperäisen kivun löydös, joka liittyy usein akuuttiin sepelvaltimotautikohtaukseen."
+  },
+  {
+    "id": "socrates-kivun-arviointi-q6",
+    "type": "mcq",
+    "question": "Mikä SOCRATES:in kohta kartoittaa oireita kuten pahoinvointi, hikoilu ja hengenahdistus kivun rinnalla?",
+    "options": ["Character", "Associations", "Severity", "Time course"],
+    "correctIndex": 1,
+    "explanation": "Associations (liitännäisoireet) -kohdassa selvitetään muut samanaikaiset oireet, jotka auttavat erotusdiagnostiikassa."
+  },
+  {
+    "id": "socrates-kivun-arviointi-q7",
+    "type": "mcq",
+    "question": "Potilaan rintakipu on kestänyt jatkuvana yli 20 minuuttia ja pahenee koko ajan. Mikä SOCRATES-osio tätä tietoa erityisesti kuvaa?",
+    "options": ["Site", "Onset", "Time course", "Exacerbating/relieving factors"],
+    "correctIndex": 2,
+    "explanation": "Time course käsittelee kivun kestoa ja sen muuttumista ajan myötä – pitkittynyt, paheneva kipu yli 20 minuutin ajan on tyypillinen AKS:n piirre."
+  },
+  {
+    "id": "socrates-kivun-arviointi-q8",
+    "type": "mcq",
+    "question": "Mikä löydös pahentavissa/helpottavissa tekijöissä (E) viittaa perikardiittiin?",
+    "options": [
+      "Kipu helpottaa eteenpäin nojatessa",
+      "Kipu helpottaa syömisen jälkeen",
+      "Kipu pahenee levossa mutta helpottaa rasituksessa",
+      "Kipu häviää kokonaan asentoa vaihtamalla makuuasentoon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Perikardiitissa kipu tyypillisesti helpottaa eteenpäin nojatessa ja pahenee makuulla, koska sydän painautuu tulehtunutta sydänpussia vasten makuuasennossa."
+  },
+  {
+    "id": "socrates-kivun-arviointi-q9",
+    "type": "truefalse",
+    "question": "Kipu, joka on selvästi voimakkaampi kuin kliiniset löydökset antaisivat olettaa, voidaan yleensä sivuuttaa, jos vitaalit ovat normaalit.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Löydöksiin nähden suhteeton kipu on itsenäinen hälytysmerkki, joka voi viitata alkavaan iskemiaan tai kudosvaurioon, vaikka vitaalit vielä näyttäisivät normaaleilta."
+  },
+  {
+    "id": "socrates-kivun-arviointi-q10",
+    "type": "mcq",
+    "question": "Miksi SOCRATES-haastattelua ei tule käyttää ABCDE-arvion korvaajana?",
+    "options": [
+      "Koska SOCRATES on tarkoitettu vain sairaalakäyttöön",
+      "Koska SOCRATES ei sisällä kipuasteikkoa",
+      "Koska kipuhaastattelu ei kerro peruselintoimintojen tilasta, joka on arvioitava erikseen",
+      "Koska SOCRATES soveltuu vain traumapotilaille"
+    ],
+    "correctIndex": 2,
+    "explanation": "SOCRATES syventää kipuoireen ymmärtämistä, mutta peruselintoimintojen tila (hengitystie, hengitys, verenkierto, tajunta) on aina arvioitava erikseen ABCDE-mallilla."
+  }
+]

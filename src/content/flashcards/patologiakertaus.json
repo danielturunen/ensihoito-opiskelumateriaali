@@ -1,0 +1,18 @@
+[
+  { "id": "patologiakertaus-f1", "front": "Mikä on Charcot'n triadi ja mihin se viittaa?", "back": "Kipu + kuume + keltaisuus; viittaa kollangiittiin, joka voi edetä sepsikseen nopeasti." },
+  { "id": "patologiakertaus-f2", "front": "Miksi äkillinen, sekunneissa maksimaalinen kipu on vakavampi merkki kuin hiipivä kipu?", "back": "Se liittyy usein äkillisiin verisuonitapahtumiin (repeämä, tukos) tai elimen puhkeamiseen." },
+  { "id": "patologiakertaus-f3", "front": "Miten pankreatiitin kipu tyypillisesti käyttäytyy?", "back": "Säteilee selkään, pahenee makuulla ja helpottaa eteenpäin nojaten." },
+  { "id": "patologiakertaus-f4", "front": "Mikä erottaa aorttadissekaation kivun AKS:n kivusta?", "back": "Dissekaation kipu on maksimaalinen heti alussa, AKS:n kipu kasvaa tyypillisesti vähitellen minuuttien aikana." },
+  { "id": "patologiakertaus-f5", "front": "Mitä löydöksiä jännityspneumotoraksissa on?", "back": "Yksipuoliset puuttuvat/heikot hengitysäänet, hengitysvaikeus ja etenevä verenkierron romahdus." },
+  { "id": "patologiakertaus-f6", "front": "Millainen päänsärky viittaa subaraknoidaalivuotoon?", "back": "Sekunneissa maksimaaliseksi yltyvä, \"elämän pahin\" päänsärky." },
+  { "id": "patologiakertaus-f7", "front": "Mitkä löydökset viittaavat cauda equina -oireyhtymään?", "back": "Satulaanestesia, virtsaretentio/inkontinenssi ja molemminpuolinen alaraajaheikkous." },
+  { "id": "patologiakertaus-f8", "front": "Mikä on keuhkoembolian klassinen kliininen vihje kuuntelulöydösten suhteen?", "back": "Hypoksia on usein suhteettoman vaikea normaaleihin keuhkojen kuuntelulöydöksiin nähden." },
+  { "id": "patologiakertaus-f9", "front": "Miksi lapsella normaali verenpaine ei sulje pois vakavaa sepsistä?", "back": "Lapsi kompensoi pitkään nostamalla sykettä ja supistamalla ääreisverenkiertoa; hypotensio on myöhäinen merkki." },
+  { "id": "patologiakertaus-f10", "front": "Miksi näkyvä verenvuoto ei kerro koko totuutta istukan irtoamisessa?", "back": "Verenvuoto voi kerääntyä piiloon istukan taakse (retroplasentaarinen hematooma), jolloin sisäinen vuoto voi olla massiivinen vaikka ulkoinen vuoto vaikuttaa vähäiseltä." },
+  { "id": "patologiakertaus-f11", "front": "Mikä on status epilepticus?", "back": "Kouristus, joka kestää yli 5 minuuttia tai toistuu ilman tajunnan palautumista – neurologinen hätätilanne." },
+  { "id": "patologiakertaus-f12", "front": "Mikä aiheuttaa appendisiitin kivun etenemisen?", "back": "Umpilisäkkeen ontelon tukkeutuminen aiheuttaa paineen nousun ja tulehduksen, joka etenee hoitamattomana puhkeamiseen." },
+  { "id": "patologiakertaus-f13", "front": "Mikä on suolitukoksen klassinen oirekokonaisuus?", "back": "Kouristava kipu, oksentelu, vatsan turvotus ja ulosteen/kaasujen poistumisen loppuminen." },
+  { "id": "patologiakertaus-f14", "front": "Mitä löydöksiä AAA-repeämässä on tyypillisesti?", "back": "Repivä vatsa- tai selkäkipu, mahdollinen pulsoiva vatsamassa ja nopeasti kehittyvät sokin merkit." },
+  { "id": "patologiakertaus-f15", "front": "Mikä erottaa temporaaliarteriitin tavallisesta päänsärystä?", "back": "Potilas on tyypillisesti yli 50-vuotias, oireena leukaklaudikaatio (kipu pureskellessa) ja hoito on aloitettava kiireellisesti näönmenetyksen estämiseksi." },
+  { "id": "patologiakertaus-f16", "front": "Mitä kouristuksen taustalla pitää aina sulkea pois ensin kentällä?", "back": "Korjattavat metaboliset syyt, kuten hypoglykemia ja hyponatremia." }
+]

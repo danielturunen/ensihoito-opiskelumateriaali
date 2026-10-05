@@ -1,0 +1,138 @@
+[
+  {
+    "id": "akuutti-vatsa-q1",
+    "type": "mcq",
+    "question": "Mikä seikka on ensihoidossa tärkeintä akuutin vatsakivun arvioinnissa?",
+    "options": [
+      "Tarkan diagnoosin tekeminen kentällä",
+      "Kivun voimakkuuden mittaaminen asteikolla 1-10",
+      "Kiireellistä sairaala- tai leikkaushoitoa tarvitsevien potilaiden tunnistaminen",
+      "Potilaan ruokailuhistorian selvittäminen"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sairaalan ulkopuolella ei pyritä tarkkaan diagnoosiin, vaan arvioimaan nopeasti kliinisen kokonaiskuvan perusteella, kuuluuko potilas kiireellisen hoidon piiriin. Kivun voimakkuus on apuväline, ei itsenäinen mittari tilan vakavuudesta."
+  },
+  {
+    "id": "akuutti-vatsa-q2",
+    "type": "truefalse",
+    "question": "Vatsakivun voimakkuus korreloi luotettavasti taudin vakavuuteen.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Väärin. Esimerkiksi mesenteriaali-iskemiassa potilas voi olla erittäin kivulias, vaikka vatsa tunnustellen on pehmeä. Myös iäkkäillä henkeä uhkaava tila voi oireilla vain lievänä kipuna."
+  },
+  {
+    "id": "akuutti-vatsa-q3",
+    "type": "mcq",
+    "question": "Mikä kuvaa parietaalista (somaattista) vatsakipua?",
+    "options": [
+      "Laaja-alainen, aaltomainen ja vaikeasti paikallistettava kipu",
+      "Tarkasti paikannettava, terävä kipu, joka pahenee liikkeessä ja painettaessa",
+      "Kipu, joka tuntuu kaukana sairaasta elimestä ihoalueella",
+      "Kipu, joka liittyy aina pelkästään sydänperäisiin syihin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Parietaalinen kipu johtuu suorasta vatsakalvon ärsytyksestä ja on tarkasti paikannettavissa siihen kohtaan, missä sairas elin sijaitsee. Viskeraalinen kipu on sen sijaan laaja-alaista ja vaikeasti paikannettavaa."
+  },
+  {
+    "id": "akuutti-vatsa-q4",
+    "type": "mcq",
+    "question": "70-vuotiaalla miehellä on äkillinen, repivä selkä- ja vatsakipu, joka säteilee nivusiin. Hän on kalpea, hikinen ja verenpaine on laskenut. Mitä epäilet ensisijaisesti?",
+    "options": [
+      "Umpilisäkkeen tulehdus",
+      "Aortta-aneurysman repeämä",
+      "Virtsatiekivi",
+      "Gastroenteriitti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Iäkäs mies, repivä selkään/nivusiin säteilevä kipu ja nopeasti kehittyvä sokki ovat aortta-aneurysman repeämän tyyppioireet. Tila vaatii välittömän kuljetuksen ja ennakkoilmoituksen - mikään toimenpide ei saa viivyttää leikkaukseen pääsyä."
+  },
+  {
+    "id": "akuutti-vatsa-q5",
+    "type": "truefalse",
+    "question": "Mesenteriaali-iskemiassa tyypillinen löydös on, että potilas on erittäin kivulias, mutta vatsa on tunnustellen pehmeä.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Oikein. Tämä ristiriita kivun voimakkuuden ja vähäisten palpaatiolöydösten välillä on tyypillinen mesenteriaali-iskemialle, ja usein taustalla on eteisvärinä. Hoidon viivästyminen muutamalla tunnilla nostaa kuolleisuuden merkittävästi."
+  },
+  {
+    "id": "akuutti-vatsa-q6",
+    "type": "mcq",
+    "question": "Mikä verenpainetavoite on ensihoidossa järkevä vuotavalle (esim. repeävä aortta-aneurysma) potilaalle?",
+    "options": [
+      "Systolinen verenpaine 70-80 mmHg (rannesyke tuntuu)",
+      "Systolinen verenpaine yli 140 mmHg",
+      "Systolinen verenpaine tasan 120 mmHg",
+      "Verenpainetta ei pidä seurata lainkaan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Vuotavalla potilaalla käytetään permissiivistä hypotensiota: riittää, että rannesyke tuntuu (noin 70-80 mmHg systolinen). Liian korkea verenpaine lisää vuotoa entisestään."
+  },
+  {
+    "id": "akuutti-vatsa-q7",
+    "type": "mcq",
+    "question": "Mikä on yleisin syy ruoansulatuskanavan yläosan verenvuotoon?",
+    "options": [
+      "Divertikuloosi",
+      "Maha- tai pohjukaissuolihaava",
+      "Peräpukamat",
+      "Paksusuolisyöpä"
+    ],
+    "correctIndex": 1,
+    "explanation": "Maha- tai pohjukaissuolihaava on yleisin ylemmän ruoansulatuskanavan verenvuodon syy. Divertikuloosi ja peräpukamat ovat sen sijaan tyypillisiä alemman ruoansulatuskanavan vuodon syitä."
+  },
+  {
+    "id": "akuutti-vatsa-q8",
+    "type": "truefalse",
+    "question": "Kirkas verenvuoto peräsuolesta tarkoittaa aina, että vuoto on peräisin ruoansulatuskanavan alaosasta.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Väärin. Noin 10-15 % kirkkaista peräsuolivuodoista johtuu todellisuudessa rajusta ylemmän ruoansulatuskanavan vuodosta, joka kulkee suoliston läpi nopeasti. Tällöin potilaalla on usein myös sokin oireita."
+  },
+  {
+    "id": "akuutti-vatsa-q9",
+    "type": "mcq",
+    "question": "Nuorella naisella on äkillinen alavatsakipu, kuukautiset ovat myöhässä ja hänellä on sokin oireita. Mitä pitää epäillä?",
+    "options": [
+      "Umpilisäkkeen tulehdus",
+      "Kohdunulkoinen raskaus",
+      "Munuaiskivi",
+      "Ruokamyrkytys"
+    ],
+    "correctIndex": 1,
+    "explanation": "Alavatsakipu, myöhässä olevat kuukautiset ja sokin oireet viittaavat vahvasti kohdunulkoiseen raskauteen, joka voi aiheuttaa hengenvaarallisen sisäisen verenvuodon. Potilas tulee kuljettaa viiveettä sairaalaan."
+  },
+  {
+    "id": "akuutti-vatsa-q10",
+    "type": "mcq",
+    "question": "Miksi diabeetikon verensokeri ja ketoaineet kannattaa mitata aina vatsakipuisella potilaalla?",
+    "options": [
+      "Koska vatsakipu aiheuttaa aina hyperglykemiaa",
+      "Koska diabeettinen ketoasidoosi voi aiheuttaa vatsakipua, joka muistuttaa kirurgista hätätilaa",
+      "Koska mittaus ei ole tarpeellinen, jos potilas kieltää diabeteksen",
+      "Koska insuliini parantaa vatsakivun aina"
+    ],
+    "correctIndex": 1,
+    "explanation": "Diabeettinen ketoasidoosi on yksi vatsaontelon ulkopuolisista vatsakivun syistä, ja sen oireet voivat matkia kirurgista akuuttia vatsaa. Tämän vuoksi verensokerin ja ketoaineiden mittaus on tärkeä osa erotusdiagnostiikkaa."
+  },
+  {
+    "id": "akuutti-vatsa-q11",
+    "type": "truefalse",
+    "question": "Kureutunutta tyrää saa yrittää reponoida (painaa takaisin) kentällä, jos se ei aiheuta kovaa kipua.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Väärin. Reponointia ei pidä yrittää tehdä kohteessa, koska suolen kunto ei ole arvioitavissa kentällä - mahdollinen kuolioituminen vaatii aina sairaalan arvion ja tarvittaessa leikkauksen."
+  },
+  {
+    "id": "akuutti-vatsa-q12",
+    "type": "mcq",
+    "question": "Miksi vatsan tutkiminen tehdään järjestyksessä inspektio - auskultaatio - palpaatio?",
+    "options": [
+      "Järjestyksellä ei ole merkitystä",
+      "Palpaatio tehdään viimeiseksi, jotta kipureaktio ei vääristä muita löydöksiä, kuten suoliääniä",
+      "Auskultaatio on mahdoton tehdä, jos palpaatio on tehty ensin",
+      "Inspektio vaatii aina erikoisvälineitä"
+    ],
+    "correctIndex": 1,
+    "explanation": "Palpaatio voi provosoida kipua ja muuttaa suoliäänten laatua, joten se tehdään viimeisenä, jotta aiemmat havainnot (ulkoinen olemus, suoliäänet) jäävät mahdollisimman luotettaviksi."
+  }
+]

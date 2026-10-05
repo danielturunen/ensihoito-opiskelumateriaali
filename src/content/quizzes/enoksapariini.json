@@ -1,0 +1,70 @@
+[
+  {
+    "id": "enoksapariini-q1",
+    "type": "mcq",
+    "question": "Mihin hyytymistekijään enoksapariinin vaikutus painottuu?",
+    "options": [
+      "Tekijä Xa",
+      "Tekijä VIII",
+      "Trombiini (tekijä IIa) ensisijaisesti",
+      "Von Willebrand -tekijä"
+    ],
+    "correctIndex": 0,
+    "explanation": "Enoksapariini tehostaa antitrombiini III:n kykyä inaktivoida erityisesti tekijä Xa:ta, trombiinin eston jäädessä vähäisemmäksi. Tämä erottaa sen fraktioimattomasta hepariinista, joka vaikuttaa tasapainoisemmin molempiin."
+  },
+  {
+    "id": "enoksapariini-q2",
+    "type": "truefalse",
+    "question": "Enoksapariini on fraktioimattomasta hepariinista valmistettu pienimolekyylinen johdannainen.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Enoksapariini on pienimolekyylinen hepariini (LMWH), joka valmistetaan pilkkomalla fraktioimaton hepariini (UFH) pienemmiksi molekyyleiksi."
+  },
+  {
+    "id": "enoksapariini-q3",
+    "type": "mcq",
+    "question": "Missä tilanteessa enoksapariinia käytetään ensihoidossa/akuuttihoidossa?",
+    "options": [
+      "Astmakohtauksen hoidossa",
+      "Osana sepelvaltimotautikohtauksen antitromboottista hoitoa",
+      "Kouristelun hoidossa",
+      "Anafylaksian hoidossa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Enoksapariinia käytetään STEMI-, NSTEMI- ja epästabiilin angina pectoriksen hoidossa osana antitromboottista kokonaishoitoa, hoito-ohjeen mukaisesti."
+  },
+  {
+    "id": "enoksapariini-q4",
+    "type": "mcq",
+    "question": "Mikä on keskeinen ero enoksapariinin ja fraktioimattoman hepariinin (UFH) välillä seurannan osalta?",
+    "options": [
+      "Enoksapariini vaatii tiiviimpää aPTT-seurantaa kuin UFH",
+      "Enoksapariini ei yleensä vaadi rutiininomaista hyytymisen seurantaa, toisin kuin UFH",
+      "Molemmat vaativat identtisen seurannan",
+      "UFH:ta ei voida seurata lainkaan"
+    ],
+    "correctIndex": 1,
+    "explanation": "Enoksapariinin ennustettavampi vaikutus mahdollistaa annostelun ilman rutiiniseurantaa, kun UFH:ta seurataan tarkasti esimerkiksi aPTT-mittauksin."
+  },
+  {
+    "id": "enoksapariini-q5",
+    "type": "truefalse",
+    "question": "Enoksapariinin vaikutus voidaan kumota protamiinilla täysin, samoin kuin fraktioimattoman hepariinin vaikutus.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Protamiini kumoaa UFH:n vaikutuksen tehokkaasti, mutta enoksapariinin vaikutuksesta se neutraloi vain osan. Tämä on tärkeä huomio akuutissa verenvuototilanteessa."
+  },
+  {
+    "id": "enoksapariini-q6",
+    "type": "mcq",
+    "question": "Kenellä potilasryhmällä enoksapariinin annosta tulee pienentää suurentuneen verenvuotoriskin vuoksi?",
+    "options": [
+      "Nuorilla, terveillä potilailla",
+      "Iäkkäillä ja munuaisten vajaatoimintaa sairastavilla",
+      "Potilailla, joilla on astma",
+      "Potilailla, joilla on migreeni"
+    ],
+    "correctIndex": 1,
+    "explanation": "Iäkkäillä ja munuaisten vajaatoimintaa sairastavilla verenvuotoriski on suurentunut, joten annosta pienennetään näillä potilasryhmillä."
+  }
+]

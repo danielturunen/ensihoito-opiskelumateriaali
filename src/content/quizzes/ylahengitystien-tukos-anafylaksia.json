@@ -1,0 +1,107 @@
+[
+  {
+    "id": "ylahengitystien-tukos-anafylaksia-q1",
+    "type": "mcq",
+    "question": "Mikä on anafylaksian tärkein ja ensisijainen lääke?",
+    "options": ["Antihistamiini", "Hydrokortisoni", "Adrenaliini", "Parasetamoli"],
+    "correctIndex": 2,
+    "explanation": "Adrenaliini supistaa verisuonia, laajentaa keuhkoputkia ja vähentää turvotusta. Antihistamiini ja kortisoni ovat tärkeitä lisähoitoja, mutta eivät korvaa adrenaliinia vaikeassa reaktiossa."
+  },
+  {
+    "id": "ylahengitystien-tukos-anafylaksia-q2",
+    "type": "truefalse",
+    "question": "Anafylaksian diagnoosi edellyttää aina ihottumaa.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Väärin. Diagnoosi perustuu oireisiin vähintään kahdessa elinjärjestelmässä (iho, hengitys, verenkierto, maha-suolikanava) — ihottuma ei ole pakollinen löydös."
+  },
+  {
+    "id": "ylahengitystien-tukos-anafylaksia-q3",
+    "type": "mcq",
+    "question": "Mikä löydös on epiglottiitille erityisen tyypillinen?",
+    "options": [
+      "Molemminpuolinen vinkuna",
+      "Kova kurkkukipu, kuolaaminen ja stridor",
+      "Yksipuolinen rintakipu",
+      "Pistävä rintakipu sisäänhengityksessä"
+    ],
+    "correctIndex": 1,
+    "explanation": "Epiglottiitissa kurkunkansi turpoaa, jolloin tyypillisiä löydöksiä ovat kova kurkkukipu, nielemisvaikeus, kuolaaminen, äänen muutos ja stridor."
+  },
+  {
+    "id": "ylahengitystien-tukos-anafylaksia-q4",
+    "type": "truefalse",
+    "question": "Epiglottiittia epäiltäessä potilas kannattaa asettaa makuulle tutkimisen helpottamiseksi.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Väärin. Potilaan pakottaminen makuulle ja ilmatien tarpeeton ärsyttäminen voivat nopeuttaa tukkeutumista. Anna potilaan olla itselleen parhaassa asennossa, usein istuvassa."
+  },
+  {
+    "id": "ylahengitystien-tukos-anafylaksia-q5",
+    "type": "mcq",
+    "question": "Mitä tarkoittaa anafylaksian bifaasinen reaktio?",
+    "options": [
+      "Oireet häviävät eivätkä koskaan palaa",
+      "Oireet voivat uusiutua tuntien kuluttua, vaikka alkuoireet olisivat helpottaneet",
+      "Reaktio vaikuttaa vain ihoon",
+      "Reaktio etenee aina hitaasti useiden päivien kuluessa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bifaasinen reaktio tarkoittaa, että oireet voivat palata useiden tuntien kuluttua ensihoidon jälkeen. Tämän vuoksi kaikki anafylaksiapotilaat kuljetetaan sairaalaseurantaan."
+  },
+  {
+    "id": "ylahengitystien-tukos-anafylaksia-q6",
+    "type": "mcq",
+    "question": "Potilaalla on äkillinen tukehtumisen tunne, hän ei pysty puhumaan eikä yskimään tehokkaasti. Mistä tämä viittaa?",
+    "options": [
+      "Lievään astmakohtaukseen",
+      "Osittaiseen vierasesinetukokseen, jossa yskiminen riittää",
+      "Täydelliseen hengitystietukokseen",
+      "Keuhkopöhöön"
+    ],
+    "correctIndex": 2,
+    "explanation": "Puhumattomuus, tehoton yskiminen ja tukehtumisen eleet viittaavat täydelliseen tukokseen, joka vaatii välittömän toiminnan vieraan esineen poistamiseksi."
+  },
+  {
+    "id": "ylahengitystien-tukos-anafylaksia-q7",
+    "type": "truefalse",
+    "question": "Anafylaksiassa voi esiintyä samanaikaisesti hengitystieturvotusta, bronkospasmia ja verenkierron romahdusta.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Oikein. Anafylaksia on sekä ilmatie- että verenkiertohätätila: limakalvoturvotus, bronkospasmi ja laaja-alainen verisuonten laajeneminen voivat tapahtua yhtä aikaa."
+  },
+  {
+    "id": "ylahengitystien-tukos-anafylaksia-q8",
+    "type": "mcq",
+    "question": "Miksi adrenaliinin antamista ei pidä viivyttää epäiltäessä vaikeaa anafylaksiaa?",
+    "options": [
+      "Koska adrenaliini ei aiheuta haittavaikutuksia",
+      "Koska tila voi huonontua nopeasti ja viive kasvattaa riskiä olennaisesti",
+      "Koska adrenaliini on ainoa saatavilla oleva lääke",
+      "Koska kortisoni toimii vain adrenaliinin kanssa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Anafylaksia voi edetä minuuteissa hengenvaaralliseksi. Adrenaliinin viivästyttäminen on yleisin ja vaarallisin hoitovirhe — mahdolliset lievät sivuvaikutukset ovat vähäisiä verrattuna hoidon hyötyyn."
+  },
+  {
+    "id": "ylahengitystien-tukos-anafylaksia-q9",
+    "type": "truefalse",
+    "question": "Lievä allerginen reaktio ilman hengitys- tai verenkierto-oireita voidaan joissain tilanteissa hoitaa terveysasematasoisesti.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Oikein. Lievä reaktio, jossa on vain iho-oireita ja potilas on koko ajan vakaa, voidaan joissain tilanteissa arvioida terveysasemalla tai hoitaa kotiseurannassa oireiden helpotuttua."
+  },
+  {
+    "id": "ylahengitystien-tukos-anafylaksia-q10",
+    "type": "mcq",
+    "question": "Mikä yhdistelmä löydöksiä kuvaa parhaiten keskivaikeaa allergista reaktiota?",
+    "options": [
+      "Tajuttomuus ja matala verenpaine",
+      "Vain urtikaria ja limakalvojen kutina",
+      "Vinkuna ja hengenahdistus, mutta verenpaine normaali ja tajunta kunnossa",
+      "Täydellinen hengitystietukos"
+    ],
+    "correctIndex": 2,
+    "explanation": "Keskivaikeassa reaktiossa tajunta on kunnossa ja verenpaine normaali, mutta esiintyy hengitysoireita kuten vinkunaa ja hengenahdistusta — tämä erottaa sen lievästä (vain iho-oireet) ja vaikeasta (hypotensio/tajunnan lasku) reaktiosta."
+  }
+]

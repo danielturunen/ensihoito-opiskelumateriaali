@@ -1,0 +1,138 @@
+[
+  {
+    "id": "tajuttomuus-q1",
+    "type": "mcq",
+    "question": "Mikä rakenne vastaa ensisijaisesti tajunnan vireystilan ylläpidosta?",
+    "options": [
+      "Aivokuori",
+      "Aivorungon valvekeskus (RAS)",
+      "Pikkuaivot",
+      "Selkäydin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Aivorungon valvekeskus (reticular activating system) ylläpitää aivokuoren vireystilaa. Aivokuorella tapahtuvat varsinaiset kognitiiviset toiminnot, mutta niiden edellytys on valvekeskuksen aktiivisuus."
+  },
+  {
+    "id": "tajuttomuus-q2",
+    "type": "truefalse",
+    "question": "Aivokuoriperäinen tajuttomuus edellyttää tyypillisesti laajaa ja molemminpuolista toimintahäiriötä, kun taas pienikin vaurio valvekeskuksen alueella voi aiheuttaa syvän tajuttomuuden.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Valvekeskus on tajunnan kannalta niin keskeinen rakenne, että pienikin paikallinen vaurio siinä voi sammuttaa tajunnan. Aivokuorelta lähtevä tajuttomuus vaatii laajan, molemminpuolisen häiriön, joka on usein seurausta kallon ulkopuolisesta syystä."
+  },
+  {
+    "id": "tajuttomuus-q3",
+    "type": "mcq",
+    "question": "Mikä löydösyhdistelmä viittaa vahvimmin kallonsisäiseen tajuttomuuden syyhyn?",
+    "options": [
+      "Takykardia ja matala verenpaine",
+      "Hypertensio, bradykardia, katsedeviaatio ja anisokoria",
+      "Nopea hengitys ja kuume",
+      "Symmetriset, normaalit liikevasteet"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hypertensio yhdessä bradykardian kanssa (Cushingin vaste), katsedeviaatio ja pupillien epäsymmetria (anisokoria) viittaavat kallonsisäiseen paikalliseen prosessiin ja kohonneeseen kallonsisäiseen paineeseen."
+  },
+  {
+    "id": "tajuttomuus-q4",
+    "type": "mcq",
+    "question": "Mitä kaavaa käytetään aivojen perfuusiopaineen (CPP) arviointiin?",
+    "options": [
+      "CPP = ICP - MAP",
+      "CPP = MAP x ICP",
+      "CPP = MAP - ICP",
+      "CPP = SpO2 - EtCO2"
+    ],
+    "correctIndex": 2,
+    "explanation": "Aivojen perfuusiopaine lasketaan kaavalla CPP = MAP - ICP, jossa MAP on keskivaltimopaine ja ICP kallonsisäinen paine. Riittävän happeutumisen turvaamiseksi CPP:n tulisi pysyä vähintään noin 50-60 mmHg:ssa."
+  },
+  {
+    "id": "tajuttomuus-q5",
+    "type": "truefalse",
+    "question": "Verensokerin mittaus kuuluu jokaisen tajuttoman potilaan perustutkimuksiin.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Hypoglykemia on helposti todettava ja nopeasti korjattavissa oleva tajuttomuuden syy, joten verensokeri mitataan aina osana tajuttoman potilaan ensiarviota."
+  },
+  {
+    "id": "tajuttomuus-q6",
+    "type": "mcq",
+    "question": "Mikä oirekuva on tyypillinen bakteerimeningiitille?",
+    "options": [
+      "Hidas, viikkojen kuluessa etenevä päänsärky ilman kuumetta",
+      "Nopea yleistilan lasku, kova päänsärky, korkea kuume, niskajäykkyys ja petekiat",
+      "Yksipuolinen raajaheikkous ja puheen puuroutuminen ilman kuumetta",
+      "Pistemäiset pupillit ja hengityslama"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bakteerimeningiitin tyypillinen kuva kehittyy nopeasti: kova päänsärky, korkea kuume, tajunnantason lasku, niskajäykkyys ja usein ihon petekiat. Antibioottihoidon viive heikentää ennustetta merkittävästi."
+  },
+  {
+    "id": "tajuttomuus-q7",
+    "type": "mcq",
+    "question": "Mikä vastalääke liittyy opioidimyrkytyksen hoitoon, ja mikä riski siihen liittyy?",
+    "options": [
+      "Flumatseniili; voi laukaista kouristuksia",
+      "Naloksoni; vaikutus voi loppua opioidia nopeammin, ja potilas voi vaipua uudelleen tajuttomuuteen",
+      "Atropiini; voi aiheuttaa vaikean bradykardian",
+      "Glukagoni; voi aiheuttaa hyperglykemian"
+    ],
+    "correctIndex": 1,
+    "explanation": "Naloksoni kumoaa opioidien vaikutuksen, mutta sen vaikutusaika voi olla lyhyempi kuin opioidin, jolloin potilas voi vaipua uudelleen tajuttomuuteen ja hengityslamaan ilman seurantaa."
+  },
+  {
+    "id": "tajuttomuus-q8",
+    "type": "truefalse",
+    "question": "Bentsodiatsepiinimyrkytyksen vastalääkkeen flumatseniilin antoon liittyy kouristusriski, erityisesti sekamyrkytyksissä.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Flumatseniili voi laukaista kouristuksia, erityisesti potilailla, joilla on sekamyrkytys tai jotka käyttävät bentsodiatsepiineja muusta syystä, esimerkiksi epilepsian hoitoon."
+  },
+  {
+    "id": "tajuttomuus-q9",
+    "type": "mcq",
+    "question": "Mikä seuraavista kuvaa parhaiten epiduraalihematooman tyypillistä kulkua?",
+    "options": [
+      "Oireet alkavat hitaasti viikkojen kuluessa vammasta",
+      "Potilas on koko ajan syvästi tajuton vamman hetkestä alkaen",
+      "Potilaalla voi olla vapaa väli (lucid interval), jonka jälkeen tajunta romahtaa",
+      "Tila ei koskaan vaadi leikkaushoitoa"
+    ],
+    "correctIndex": 2,
+    "explanation": "Epiduraalihematoomaan liittyy usein niin kutsuttu vapaa väli: potilas vaikuttaa hetken suhteellisen hyvävointiselta, kunnes kasvava verenvuoto nostaa kallonsisäistä painetta ja tajunta romahtaa nopeasti."
+  },
+  {
+    "id": "tajuttomuus-q10",
+    "type": "mcq",
+    "question": "Mitkä tekijät pahentavat erityisesti aivovammapotilaan sekundaarivauriota?",
+    "options": [
+      "Hypertensio ja hyperventilaatio",
+      "Hypotensio ja hypoksia",
+      "Bradykardia ja hyperglykemia",
+      "Korkea happisaturaatio ja normotensio"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hypotensio ja hypoksia ovat aivovamman sekundaarivaurion keskeisimmät pahentajat – jo lyhytaikainenkin esiintyminen huonontaa ennustetta merkittävästi, minkä takia niiden välttäminen on ensihoidon tärkeimpiä tavoitteita."
+  },
+  {
+    "id": "tajuttomuus-q11",
+    "type": "truefalse",
+    "question": "Syvästi tajuttomalla potilaalla, joka ei paikanna kipuärsykettä (viitteellisesti GCS 8 pistettä tai alle), hengitystie tulee yleensä turvata määritellymmin, usein intuboimalla.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Kun tajunta on näin alentunut, hengitysteiden suojaheijasteet eivät yleensä toimi riittävästi, ja aspiraatioriski kasvaa – tällöin tarvitaan määritellympi hengitystien hallinta."
+  },
+  {
+    "id": "tajuttomuus-q12",
+    "type": "mcq",
+    "question": "Mitä muistisääntöä VOI IHME! kuvaa?",
+    "options": [
+      "Traumapotilaan tutkimisjärjestystä",
+      "Sydänpysähdyksen palautuvia syitä",
+      "Yleisimpiä tajuttomuuden syitä",
+      "Hengitysvaikeuden erotusdiagnostiikkaa"
+    ],
+    "correctIndex": 2,
+    "explanation": "VOI IHME! on yksi tajuttomuuden erotusdiagnostiikan muistisäännöistä (Vuoto, O2-puute, Intoksikaatio, Infektiot, Hypoglykemia, Matala verenpaine, Epilepsia, teeskentely), muiden ohella MIDAS ja AEIOU TIPS."
+  }
+]

@@ -1,0 +1,125 @@
+[
+  {
+    "id": "patologiakertaus-q1",
+    "type": "mcq",
+    "question": "Mikä yhdistelmä löydöksiä on Charcot'n triadi ja mihin se viittaa?",
+    "options": [
+      "Kipu, kuume ja keltaisuus – viittaa kollangiittiin",
+      "Kipu, oksentelu ja ripuli – viittaa gastroenteriittiin",
+      "Kuume, ihottuma ja niskajäykkyys – viittaa meningiittiin",
+      "Hikoilu, kalpeus ja takykardia – viittaa sokkiin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Charcot'n triadi (kipu + kuume + keltaisuus) on klassinen kollangiitin löydös, joka voi edetä sepsikseen nopeasti."
+  },
+  {
+    "id": "patologiakertaus-q2",
+    "type": "truefalse",
+    "question": "Äkillinen, sekunneissa maksimaaliseksi yltyvä kipu on tyypillisesti vakavampi merkki kuin tuntien kuluessa hiipien paheneva kipu.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Äkillinen maksimaalinen alku liittyy usein verisuonitapahtumiin tai elimen puhkeamiseen ja on siksi aina vakavasti otettava hälytysmerkki."
+  },
+  {
+    "id": "patologiakertaus-q3",
+    "type": "mcq",
+    "question": "Mikä on pankreatiitin (haimatulehduksen) tyypillinen kipukuvio?",
+    "options": [
+      "Oikeaan alavatsaan siirtyvä kipu",
+      "Selkään säteilevä, poraava ylävatsakipu, joka pahenee makuulla",
+      "Rintakehän seinämän arkuus, joka pahenee liikkeessä",
+      "Kouristava alavatsakipu, joka helpottaa ulostamisen jälkeen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pankreatiitissa kipu säteilee tyypillisesti suoraan selkään, pahenee makuulla ja helpottaa eteenpäin nojaten."
+  },
+  {
+    "id": "patologiakertaus-q4",
+    "type": "mcq",
+    "question": "Mikä löydös erottaa aorttadissekaation akuutista koronaarisyndroomasta (AKS)?",
+    "options": [
+      "AKS:ssa kipu on aina lievempi",
+      "Dissekaatiossa kipu on maksimaalinen heti alussa, AKS:ssa kipu kasvaa vähitellen",
+      "Dissekaatiota ei esiinny koskaan rintakipuna",
+      "AKS:ssa pulssit ovat aina epäsymmetriset"
+    ],
+    "correctIndex": 1,
+    "explanation": "Aorttadissekaatiossa kipu on tyypillisesti maksimaalisen voimakas heti alkaessaan, kun AKS:ssa kipu useimmiten kasvaa minuuttien kuluessa."
+  },
+  {
+    "id": "patologiakertaus-q5",
+    "type": "truefalse",
+    "question": "Jännityspneumotoraksissa hengitysäänet kuuluvat tyypillisesti molemmin puolin yhtä vahvoina.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Jännityspneumotoraksissa hengitysäänet puuttuvat tai ovat selvästi heikommat vaikuttuneella puolella, mikä yhdistettynä hengitysvaikeuteen ja verenkierron romahdukseen on red flag -yhdistelmä."
+  },
+  {
+    "id": "patologiakertaus-q6",
+    "type": "mcq",
+    "question": "Mikä päänsäryn kuvaus viittaa vahvimmin subaraknoidaalivuotoon?",
+    "options": [
+      "Molemminpuolinen, tiukka vannemainen kipu, joka pahenee stressistä",
+      "Yksipuolinen, sykkivä kipu jota edeltää näköhäiriö",
+      "Sekunneissa maksimaaliseksi yltyvä \"elämän pahin\" päänsärky",
+      "Tylppä paineen tunne poskiontelojen alueella, joka pahenee eteenpäin kumartuessa"
+    ],
+    "correctIndex": 2,
+    "explanation": "Subaraknoidaalivuodon tunnusmerkki on äkillinen, sekunneissa huipentuva \"salamannopea\" päänsärky, joka kuvataan usein pahimpana ikinä koettuna."
+  },
+  {
+    "id": "patologiakertaus-q7",
+    "type": "mcq",
+    "question": "Mitkä löydökset viittaavat cauda equina -oireyhtymään selkäkivun yhteydessä?",
+    "options": [
+      "Lievä, paikallinen selkäkipu joka helpottaa levolla",
+      "Satulaanestesia, virtsaretentio ja molemminpuolinen jalkaheikkous",
+      "Yksipuolinen pistely, joka seuraa tarkkaa dermatomia",
+      "Yökipu joka herättää potilaan, mutta ei liity rakon toimintaan"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cauda equina -oireyhtymän kirurgista hätätilaa osoittavat satulaanestesia, rakon/suolen toimintahäiriö ja molemminpuolinen alaraajaheikkous."
+  },
+  {
+    "id": "patologiakertaus-q8",
+    "type": "truefalse",
+    "question": "Keuhkoembolian yhteydessä rintakehän kuuntelulöydökset ovat usein täysin normaalit, vaikka hypoksia olisi vaikea.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Keuhkoembolia voi aiheuttaa vaikean hypoksian, vaikka keuhkot kuulostaisivat auskultoitaessa normaaleilta – tämä epäsuhta on tärkeä kliininen vihje."
+  },
+  {
+    "id": "patologiakertaus-q9",
+    "type": "mcq",
+    "question": "Miksi normaali verenpaine ei lapsella sulje pois vakavaa sepsistä?",
+    "options": [
+      "Lapsilla verenpaine ei liity verenkiertoon",
+      "Lapsi kompensoi nostamalla sykettä ja supistamalla ääreisverenkiertoa pitkään ennen kuin verenpaine laskee",
+      "Lapsilla sepsis ei vaikuta verenkiertoon",
+      "Verenpainetta ei voida luotettavasti mitata lapsilta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lapsen fysiologiset kompensaatiomekanismit pitävät verenpaineen pitkään normaalina, jolloin hypotensio on vasta myöhäinen ja huono ennustemerkki."
+  },
+  {
+    "id": "patologiakertaus-q10",
+    "type": "mcq",
+    "question": "Miksi näkyvä emätinverenvuoto ei välttämättä kuvaa todellista verenhukkaa raskaana olevalla potilaalla?",
+    "options": [
+      "Koska raskaana olevilla on aina enemmän verta kuin muilla",
+      "Koska esimerkiksi istukan irtoamisessa verenvuoto voi kerääntyä piiloon istukan taakse",
+      "Koska emätinverenvuoto ei liity koskaan vakavaan tilaan",
+      "Koska raskaana olevan verenpaine ei reagoi verenhukkaan"
+    ],
+    "correctIndex": 1,
+    "explanation": "Istukan irtoamisessa verenvuoto voi jäädä osittain tai kokonaan piiloon retroplasentaariseen tilaan, jolloin ulkoinen vuoto aliarvioi todellisen verenhukan määrän."
+  },
+  {
+    "id": "patologiakertaus-q11",
+    "type": "truefalse",
+    "question": "Status epilepticus tarkoittaa kouristusta, joka kestää yli 5 minuuttia tai toistuu ilman tajunnan palautumista, ja se on neurologinen hätätilanne.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Status epilepticus on määritelmän mukainen hätätilanne, jossa jatkuva sähköinen purkaus lisää aivovaurion riskiä jokaisen kuluvan minuutin myötä."
+  }
+]

@@ -1,0 +1,125 @@
+[
+  {
+    "id": "abcde-arviointi-q1",
+    "type": "mcq",
+    "question": "Missä järjestyksessä ABCDE-arviointi tehdään?",
+    "options": [
+      "Circulation, Airway, Breathing, Disability, Exposure",
+      "Airway, Breathing, Circulation, Disability, Exposure",
+      "Breathing, Airway, Disability, Circulation, Exposure",
+      "Exposure, Airway, Breathing, Circulation, Disability"
+    ],
+    "correctIndex": 1,
+    "explanation": "Järjestys perustuu siihen, mikä uhka vie hengen nopeimmin: tukkeutunut hengitystie tappaa minuuteissa, siksi Airway arvioidaan ensin, sitten Breathing, Circulation, Disability ja viimeisenä Exposure."
+  },
+  {
+    "id": "abcde-arviointi-q2",
+    "type": "truefalse",
+    "question": "Kun ABCDE-arvioinnin kaikki kirjaimet on käyty läpi kerran, arviointia ei tarvitse toistaa, jos potilaan tila ei muutu paljon.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "ABCDE on jatkuva kehä. Se toistetaan aina toimenpiteen jälkeen, tilan muuttuessa ja potilasta siirrettäessä – ei vain kertaalleen alussa."
+  },
+  {
+    "id": "abcde-arviointi-q3",
+    "type": "mcq",
+    "question": "Mikä seuraavista on oikea periaate löydösten korjaamisessa ABCDE-arvioinnissa?",
+    "options": [
+      "Kaikki löydökset kirjataan ylös ja korjataan vasta E-vaiheen jälkeen",
+      "Löydös korjataan heti kun se havaitaan, ennen seuraavaan kirjaimeen siirtymistä",
+      "Löydökset korjataan sairaalassa, ensihoidossa vain arvioidaan",
+      "Korjausjärjestyksen määrää potilaan oma toivomus"
+    ],
+    "correctIndex": 1,
+    "explanation": "Periaate on \"treat as you go\": esimerkiksi tukkeutunut hengitystie avataan välittömästi, ei vasta kun koko ABCDE on käyty teoriassa läpi."
+  },
+  {
+    "id": "abcde-arviointi-q4",
+    "type": "mcq",
+    "question": "Potilaalla on yksipuolisesti puuttuvat hengitysäänet, hengitysvaikeus ja laskeva verenpaine. Mitä tämä yhdistelmä erityisesti epäilyttää?",
+    "options": [
+      "Astmakohtaus",
+      "Jännityspneumotoraksi",
+      "Hyperventilaatio",
+      "Nielun vierasesine"
+    ],
+    "correctIndex": 1,
+    "explanation": "Yksipuoliset hengitysäänet yhdistettynä hengitysvaikeuteen ja verenkierron romahtamiseen ovat jännityspneumotoraksin red flag -yhdistelmä."
+  },
+  {
+    "id": "abcde-arviointi-q5",
+    "type": "truefalse",
+    "question": "Syanoosi on varhainen ja luotettava merkki elimistön hapenpuutteesta.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Syanoosi ilmaantuu vasta myöhäisessä vaiheessa ja on epäluotettava merkki – happisaturaatiomittari antaa luotettavamman ja aiemman tiedon hapetuksesta."
+  },
+  {
+    "id": "abcde-arviointi-q6",
+    "type": "mcq",
+    "question": "Mikä on jaw thrust -otteen käytön erityisperuste chin lift -otteeseen verrattuna?",
+    "options": [
+      "Se on nopeampi tehdä",
+      "Se ei vaadi suojakäsineitä",
+      "Sitä käytetään, kun epäillään niska- tai kaularankavammaa",
+      "Se sopii vain lapsipotilaille"
+    ],
+    "correctIndex": 2,
+    "explanation": "Jaw thrust avaa hengitystien nostamalla leukakulmia liikuttamatta niskaa, minkä takia sitä suositaan epäiltäessä kaularankavammaa."
+  },
+  {
+    "id": "abcde-arviointi-q7",
+    "type": "mcq",
+    "question": "Miksi massiivinen ulkoinen verenvuoto tyrehdytetään käytännössä jo hengitystien tarkistuksen yhteydessä traumapotilaalla?",
+    "options": [
+      "Koska verenvuoto ei liity ABCDE-malliin lainkaan",
+      "Koska C-vaihe tehdään vain sairaalassa",
+      "Koska massiivinen verenvuoto on yhtä nopeasti hengenvaarallinen kuin tukkeutunut hengitystie",
+      "Koska se ei vaadi erillistä arviointia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Trauman ensiarviossa puhutaan usein cABCDE:stä, jossa massiivinen verenvuoto (catastrophic haemorrhage) tyrehdytetään samanaikaisesti hengitystien varmistamisen kanssa, koska se vie hengen yhtä nopeasti."
+  },
+  {
+    "id": "abcde-arviointi-q8",
+    "type": "truefalse",
+    "question": "Matala verenpaine on usein varhainen merkki verenkierron vajauksesta nuorella, aiemmin terveellä potilaalla.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Elimistö kompensoi pitkään supistamalla ääreisverenkiertoa ja nostamalla sykettä, jolloin verenpaine pysyy usein normaalina pitkälle edenneeseenkin sokkiin asti – siksi se on tyypillisesti myöhäinen merkki."
+  },
+  {
+    "id": "abcde-arviointi-q9",
+    "type": "mcq",
+    "question": "Mitä D-vaiheessa tulee aina muistaa mitata tajunnan häiriön yhteydessä?",
+    "options": [
+      "Veren hemoglobiiniarvo",
+      "Verensokeri",
+      "Kehon lämpötila peräsuolesta",
+      "Virtsan määrä"
+    ],
+    "correctIndex": 1,
+    "explanation": "Verensokeri mitataan aina tajunnan häiriössä, koska hypoglykemia on yleinen ja nopeasti korjattavissa oleva tajunnan heikkenemisen syy."
+  },
+  {
+    "id": "abcde-arviointi-q10",
+    "type": "mcq",
+    "question": "Mitä AVPU-asteikon kirjain \"P\" tarkoittaa?",
+    "options": [
+      "Potilas on tajuissaan ja puhuu asiallisesti",
+      "Potilas reagoi vain kipuun",
+      "Potilas on täysin reagoimaton",
+      "Potilaalla on normaali pulssi"
+    ],
+    "correctIndex": 1,
+    "explanation": "AVPU: Alert (hereillä), Voice (reagoi puheeseen), Pain (reagoi kipuun), Unresponsive (ei reagoi mihinkään). P tarkoittaa reagointia vain kivulle annettuun ärsykkeeseen."
+  },
+  {
+    "id": "abcde-arviointi-q11",
+    "type": "truefalse",
+    "question": "E-vaiheessa (Exposure) riittää, että tarkistetaan vain potilaan valittama kipupaikka, muu keho voidaan jättää paljastamatta.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Exposure-vaiheessa potilas paljastetaan riittävästi kokonaiskuvan saamiseksi, jotta piilossa olevat vammat, ihottumat tai muut löydökset eivät jää huomaamatta – samalla muistetaan lämpöhukan ehkäisy."
+  }
+]

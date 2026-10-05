@@ -1,0 +1,19 @@
+[
+  { "id": "konsultaatiomallit-f1", "front": "Mitä SOAP tarkoittaa?", "back": "Subjektiivinen, Objektiivinen, Analyysi, Suunnitelma – potilaskertomuksen ja kliinisen päättelyn runko." },
+  { "id": "konsultaatiomallit-f2", "front": "Mitä AMPLE tarkoittaa?", "back": "Allergiat, Medikaatio, Potilashistoria, Last meal, Events – nopea esitietojen kartoitus." },
+  { "id": "konsultaatiomallit-f3", "front": "Mitä ISBAR tarkoittaa?", "back": "Identify, Situation, Background, Assessment, Recommendation – strukturoitu suullinen raportointimalli." },
+  { "id": "konsultaatiomallit-f4", "front": "Mitä ISBAR:in Recommendation-osa sisältää?", "back": "Selkeän ehdotuksen siitä, mitä toivot tapahtuvan seuraavaksi (esim. konsultaatio, kiireellisyys, vastaanottava yksikkö)." },
+  { "id": "konsultaatiomallit-f5", "front": "Mikä on NEWS2?", "back": "National Early Warning Score 2 – pisteytysjärjestelmä, joka yhdistää seitsemän vitaalisuuretta yhdeksi kokonaispisteeksi elintoimintojen heikkenemisen tunnistamiseksi." },
+  { "id": "konsultaatiomallit-f6", "front": "Mitkä suureet kuuluvat NEWS2-pisteytykseen?", "back": "Hengitystaajuus, happisaturaatio, lisähapen käyttö, verenpaine, syke, tajunnan taso ja lämpötila." },
+  { "id": "konsultaatiomallit-f7", "front": "Mitä tarkoittaa, että yksittäinen parametri saa korkeimman NEWS2-pisteen?", "back": "Se voi yksinään riittää nostamaan tilanteen kiireelliseksi, vaikka kokonaispistemäärä olisi maltillinen." },
+  { "id": "konsultaatiomallit-f8", "front": "Mistä kolmesta osa-alueesta GCS koostuu?", "back": "Silmien avaaminen (1-4), puhevaste (1-5), liikevaste (1-6) – yhteensä 3-15 pistettä." },
+  { "id": "konsultaatiomallit-f9", "front": "Mikä on GCS:n hengitystien hallinnan kannalta kriittinen raja?", "back": "GCS 8 tai alle – potilas ei luotettavasti kykene pitämään hengitystietään itse auki." },
+  { "id": "konsultaatiomallit-f10", "front": "Miksi GCS-pisteiden nopea muutos on tärkeä huomata?", "back": "Pisteiden lasku jo kahdella pisteellä tunnissa on merkittävä hälytysmerkki tilan heikkenemisestä, vaikka kokonaispistemäärä pysyisi kohtuullisena." },
+  { "id": "konsultaatiomallit-f11", "front": "Mihin oireeseen BREATH-muistisääntö liittyy?", "back": "Hengenahdistuksen systemaattiseen arviointiin." },
+  { "id": "konsultaatiomallit-f12", "front": "Mihin oireeseen FAINT-muistisääntö liittyy?", "back": "Tajunnanmenetyksen ja kollapsin arviointiin." },
+  { "id": "konsultaatiomallit-f13", "front": "Mihin oireeseen RACER-muistisääntö liittyy?", "back": "Allergisen reaktion ja anafylaksian arviointiin." },
+  { "id": "konsultaatiomallit-f14", "front": "Mihin oireeseen STROKE-muistisääntö liittyy?", "back": "Heikkouden ja aivohalvausepäilyn arviointiin." },
+  { "id": "konsultaatiomallit-f15", "front": "Mihin potilasryhmään PAEDIATRIC-muistisääntö liittyy?", "back": "Lapsipotilaan systemaattiseen arviointiin." },
+  { "id": "konsultaatiomallit-f16", "front": "Mihin potilasryhmään PREGNANT-muistisääntö liittyy?", "back": "Raskaana olevan potilaan akuuttien oireiden arviointiin." },
+  { "id": "konsultaatiomallit-f17", "front": "Mikä erottaa SOAP:in muista malleista?", "back": "SOAP jäsentää koko kliinisen päättelyn ja kirjaamisen rakenteen, ei vain yksittäisen haastattelun osaa." }
+]

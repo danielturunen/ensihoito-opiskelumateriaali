@@ -1,0 +1,17 @@
+[
+  { "id": "rajahdysvamma-f1", "front": "Mikä on räjähdysvamma?", "back": "Räjähdyksen aiheuttama monivamma, joka syntyy paineaallon, kuumuuden, sirpaleiden ja mahdollisen sortuman yhteisvaikutuksesta." },
+  { "id": "rajahdysvamma-f2", "front": "Mikä on primaarivamma räjähdyksessä?", "back": "Paineaallon aiheuttama vaurio, erityisesti kaasu-neste-rajapinnoissa kuten keuhkoissa ja suolistossa." },
+  { "id": "rajahdysvamma-f3", "front": "Mikä on sekundaarivamma räjähdyksessä?", "back": "Lentävien sirpaleiden aiheuttama lävistävä vamma." },
+  { "id": "rajahdysvamma-f4", "front": "Mikä on tertiaarivamma räjähdyksessä?", "back": "Heittovaikutuksesta (sinkoutuminen, sortuma) aiheutuva tylppä vamma." },
+  { "id": "rajahdysvamma-f5", "front": "Mikä on kvaternaarivamma räjähdyksessä?", "back": "Kuumuuden ja kemikaalien aiheuttama vamma, esim. palovammat ja myrkytykset." },
+  { "id": "rajahdysvamma-f6", "front": "Miksi oma turvallisuus varmistetaan aina ennen räjähdyspaikalle menemistä?", "back": "Paikalla voi olla jatkuva räjähdys-, sortuma- tai kemikaaliriski; mennään vasta pelastusviranomaisten luvalla." },
+  { "id": "rajahdysvamma-f7", "front": "Miksi räjähdyspotilaan kanssa kannattaa käyttää visuaalista kommunikaatiota?", "back": "Potilas ei välttämättä kuule normaalisti räjähdyksen aiheuttaman ohimenevän kuulovamman takia." },
+  { "id": "rajahdysvamma-f8", "front": "Mitä verenvuoto korvista voi räjähdysvammassa merkitä?", "back": "Painevammaa, joka liittyy lisääntyneeseen riskiin keuhko- ja suolistorepeämille." },
+  { "id": "rajahdysvamma-f9", "front": "Miksi painehengitystä (PEEP/CPAP) käytetään harkiten räjähdysvammassa?", "back": "Se voi pahentaa paineaallon aiheuttamaa keuhkovauriota." },
+  { "id": "rajahdysvamma-f10", "front": "Mikä verenpainetavoite sallitaan räjähdysvammassa ilman aivovammaepäilyä?", "back": "Riittävä tajunta tai radialissyke tuntuu, sallitaan lievä permissiivinen hypotensio SAP < 100 mmHg." },
+  { "id": "rajahdysvamma-f11", "front": "Mikä verenpainetavoite pätee aivovammapotilaalle räjähdysvammassa?", "back": "SAP > 120 mmHg." },
+  { "id": "rajahdysvamma-f12", "front": "Saako lävistäneitä esineitä poistaa räjähdysvammassa?", "back": "Ei – lävistäneitä esineitä ei poisteta pään, kaulan tai vartalon alueelta." },
+  { "id": "rajahdysvamma-f13", "front": "Kuljetetaanko räjähdysvamman saanut potilas aina ensihoidossa hoitoon?", "back": "Kyllä – piilevien vammojen riski on niin suuri, että kuljetus tapahtuu aina." },
+  { "id": "rajahdysvamma-f14", "front": "Milloin traneksaamihappoa (1 g i.v.) harkitaan räjähdysvammassa?", "back": "Epäiltäessä runsasta verenvuotoa." },
+  { "id": "rajahdysvamma-f15", "front": "Miksi räjähdysvammapotilaan tila vaatii toistuvaa seurantaa kuljetuksen aikana?", "back": "Piilevät sisäelinvauriot voivat ilmetä viiveellä, vaikka alkutilanne näyttäisi rauhalliselta." }
+]

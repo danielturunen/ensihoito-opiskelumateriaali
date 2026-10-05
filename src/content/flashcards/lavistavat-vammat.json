@@ -1,0 +1,17 @@
+[
+  { "id": "lavistavat-vammat-f1", "front": "Mikä on lävistävä vamma?", "back": "Vamma, jossa ulkoinen esine tai voima rikkoo ihon ja tunkeutuu kehon sisään." },
+  { "id": "lavistavat-vammat-f2", "front": "Mitkä ovat tyypillisiä lävistävän vamman aiheuttajia?", "back": "Teräaseet, ampuma-aseet, työkalut ja koneet, lasinsirut, luonnolliset esineet kuten oksat." },
+  { "id": "lavistavat-vammat-f3", "front": "Mikä määrää lävistävän vamman vakavuuden?", "back": "Esineen koko, nopeus, kulkureitti ja vaurioittamat rakenteet – ei ulkoisen haavan koko." },
+  { "id": "lavistavat-vammat-f4", "front": "Saako kehoon lävistäneen ja kiinni olevan esineen poistaa kentällä?", "back": "Ei pääsääntöisesti – esine voi tamponoida verisuonivuotoa, ja poisto tehdään hallitusti leikkaussalissa." },
+  { "id": "lavistavat-vammat-f5", "front": "Saako lävistävää haavaa sondeerata ensihoidossa?", "back": "Ei – sondeeraaminen voi laukaista hallitsemattoman verenvuodon." },
+  { "id": "lavistavat-vammat-f6", "front": "Mitkä löydökset viittaavat sydäntamponaatioon?", "back": "Matala verenpaine, takykardia, pullottavat kaulalaskimot, vaimentuneet sydänäänet, pulsus paradoxus." },
+  { "id": "lavistavat-vammat-f7", "front": "Miten raajan lävistävän vamman verenvuoto tyrehdytetään ensin?", "back": "Suoralla painamisella tai syöttävän valtimon painamisella, henkeä uhkaavassa vuodossa kiristyssiteellä raajan tyveen." },
+  { "id": "lavistavat-vammat-f8", "front": "Miten vartalon lävistävän vamman verenvuoto hoidetaan?", "back": "Vuotokohta pakataan hemostaattisella sidoksella ja sidotaan painesiteellä." },
+  { "id": "lavistavat-vammat-f9", "front": "Mikä on verenpainetavoite lävistävässä vammassa ilman aivovammaepäilyä?", "back": "Rannesyke tunnettavissa tai SAP > 80 mmHg." },
+  { "id": "lavistavat-vammat-f10", "front": "Mikä on verenpainetavoite aivovammaepäilyssä?", "back": "SAP > 120 mmHg." },
+  { "id": "lavistavat-vammat-f11", "front": "Milloin traneksaamihappoa (1 g i.v.) harkitaan?", "back": "Epäiltäessä runsasta verenvuotoa lävistävässä vammassa." },
+  { "id": "lavistavat-vammat-f12", "front": "Mikä lävistävä vamma voidaan harkiten jättää ilman ensihoidon kuljetusta?", "back": "Raajan pinnallinen viiltohaava, jossa ei ole hermo-, jänne- tai verisuonivaurion merkkejä." },
+  { "id": "lavistavat-vammat-f13", "front": "Kuljetetaanko oireettomat lävistävät vammat pääsääntöisesti ensihoidossa?", "back": "Kyllä – lähes kaikki lävistävät vammat kuljetetaan, myös oireettomat, koska piilevä vaurio ei aina näy heti." },
+  { "id": "lavistavat-vammat-f14", "front": "Mikä hoitoperiaate ohjaa lävistävän vamman kuljetuspäätöstä?", "back": "Vain henkeä pelastavat toimenpiteet saavat viivästyttää vakavasti loukkaantuneen kuljetusta oikeaan hoitopaikkaan." },
+  { "id": "lavistavat-vammat-f15", "front": "Mikä on ensimmäisen intranasaalisen kipulääkeannoksen vaihtoehdot?", "back": "Fentanyyli 100–200 µg i.n. tai esketamiini 50–100 mg i.n., jaettuna molempiin sieraimiin." }
+]

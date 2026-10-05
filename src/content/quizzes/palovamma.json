@@ -1,0 +1,120 @@
+[
+  {
+    "id": "palovamma-q1",
+    "type": "mcq",
+    "question": "Mikä kehon pinta-alaprosentti luokitellaan laajaksi palovammaksi aikuisella?",
+    "options": ["Yli 5 %", "Yli 10 %", "Yli 20 %", "Yli 50 %"],
+    "correctIndex": 2,
+    "explanation": "Aikuisella laaja palovamma kattaa yli 20 % kehon pinta-alasta; lapsella raja on alempi, yli 10 %."
+  },
+  {
+    "id": "palovamma-q2",
+    "type": "truefalse",
+    "question": "Potilaan oma kämmen vastaa karkeasti noin 1 % kehon pinta-alasta, ja sitä voi käyttää pienten palovamma-alueiden arviointiin.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Kämmensääntö on käytännöllinen apuväline pienten, epäsäännöllisten palovamma-alueiden arviointiin."
+  },
+  {
+    "id": "palovamma-q3",
+    "type": "mcq",
+    "question": "Mikä löydös viittaa uhkaavaan hengitystieongelmaan palovammapotilaalla?",
+    "options": [
+      "Lievä ihon punoitus kädessä",
+      "Äänen käheys, stridor ja noki limakalvoilla",
+      "Normaali happisaturaatio ja rauhallinen puhe",
+      "Pieni haava sormessa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Äänen käheys, stridor, noki limakalvoilla ja kasvojen/kaulan turvotus ennakoivat nopeasti etenevää hengitystien ahtaumaa."
+  },
+  {
+    "id": "palovamma-q4",
+    "type": "mcq",
+    "question": "Mikä lääke annetaan vahvassa syanidimyrkytysepäilyssä palokaasuille altistuneelle potilaalle?",
+    "options": [
+      "Atropiini",
+      "Hydroksokobalamiini (Cyanokit) 5 g i.v.",
+      "Amiodaroni",
+      "Enoksapariini"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hydroksokobalamiini (Cyanokit) 5 g suonensisäisesti annetaan vahvassa syanidimyrkytysepäilyssä, joka liittyy esimerkiksi muovin ja silkin palamiseen."
+  },
+  {
+    "id": "palovamma-q5",
+    "type": "truefalse",
+    "question": "Kuuman veden aiheuttama palovamma vaatii yleensä runsaan suonensisäisen nestehoidon jo ensihoitotilanteessa.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Kuuman veden aiheuttamassa palovammassa ei yleensä tarvita nestehoitoa ensihoitotilanteessa – runsas nestehoito koskee vaikeampia, esim. liekin aiheuttamia palovammoja."
+  },
+  {
+    "id": "palovamma-q6",
+    "type": "mcq",
+    "question": "Mikä on suositeltu nestehoidon aloitusnopeus aikuiselle vaikeassa (ei kuuman veden aiheuttamassa) palovammassa?",
+    "options": [
+      "100 ml/h",
+      "500 ml vuorokaudessa",
+      "Noin 1000 ml/h, kunnes tarkempi annostelu on mahdollista",
+      "5000 ml/h"
+    ],
+    "correctIndex": 2,
+    "explanation": "Aikuisella aloitusnopeus on noin 1000 ml/h ja lapsella 20 ml/kg/h, kunnes tarkempi nestehoidon annostelu on laskettavissa."
+  },
+  {
+    "id": "palovamma-q7",
+    "type": "truefalse",
+    "question": "Hyvin laajoja palovamma-alueita kannattaa jäähdyttää pitkään jääkylmällä vedellä hypotermiariskistä huolimatta.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Hyvin laajoja palovammoja ei jäähdytetä, koska se lisää hypotermian riskiä merkittävästi. Jäähdytys (viileällä, ei jääkylmällä vedellä 10–20 min) sopii vain pienille alueille."
+  },
+  {
+    "id": "palovamma-q8",
+    "type": "mcq",
+    "question": "Mihin huomio kiinnitetään ensisijaisesti korkeajännitepalovammassa?",
+    "options": [
+      "Vain näkyvän ihovaurion kokoon",
+      "Elintoimintahäiriöihin, esimerkiksi sydämen rytmihäiriöihin ja sisäisiin vaurioihin",
+      "Potilaan vaatteiden värin",
+      "Haavan hajuun"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sähkövirta voi aiheuttaa sydämen rytmihäiriöitä ja sisäisiä vaurioita, joita ei voi arvioida ulkoisen palovamman laajuudesta – elintoiminnot ovat ensisijainen huomion kohde."
+  },
+  {
+    "id": "palovamma-q9",
+    "type": "truefalse",
+    "question": "Nivelten ja genitaalien alueen palovammat ohjataan päivystykseen pienestäkin koosta huolimatta.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Vaikka palovamma olisi pienikin, nivelten ja genitaalien alueen vammat ohjataan päivystykseen toiminnallisten ja infektioriskien vuoksi."
+  },
+  {
+    "id": "palovamma-q10",
+    "type": "mcq",
+    "question": "Mikä kuvaa III-asteen palovammaa?",
+    "options": [
+      "Vain pintaiho punoittaa",
+      "Pintaiho ja osa verinahkaa, rakkulat",
+      "Koko ihon paksuus vaurioitunut, iho valkoinen ja kovettunut",
+      "Vamma ei ulotu ihoon asti"
+    ],
+    "correctIndex": 2,
+    "explanation": "III-asteen palovammassa koko ihon paksuus on tuhoutunut, ja iho näyttää valkoiselta ja kovettuneelta."
+  },
+  {
+    "id": "palovamma-q11",
+    "type": "mcq",
+    "question": "Miksi häkämyrkytys on syytä epäillä tulipalon yhteydessä, vaikka potilaalla ei olisi näkyviä palovammoja?",
+    "options": [
+      "Häkä ei liity tulipaloihin lainkaan",
+      "Häkä voi aiheuttaa tajunnantason laskua ja päänsärkyä hengitysteitse ilman ulkoisia vammoja",
+      "Häkä vaikuttaa vain lapsiin",
+      "Häkämyrkytys näkyy aina ihon värinä"
+    ],
+    "correctIndex": 1,
+    "explanation": "Häkämyrkytys syntyy hengitysteitse suljetussa tilassa ja voi aiheuttaa tajunnantason laskua, päänsärkyä ja pahoinvointia ilman mitään näkyvää palovammaa."
+  }
+]

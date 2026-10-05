@@ -1,0 +1,112 @@
+[
+  {
+    "id": "ilmarinta-q1",
+    "type": "mcq",
+    "question": "Mikä on jänniteilmarinnan kardinaalilöydös?",
+    "options": [
+      "Molemminpuolinen vinkuna",
+      "Toispuolisesti täysin puuttuvat tai hyvin vaimeat hengitysäänet",
+      "Kuume ja tuottava yskä",
+      "Symmetriset rahinat molemmin puolin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Toispuolisesti puuttuvat tai vaimeat hengitysäänet yhdistettynä hengitysvaikeuteen ja sokkiin on jänniteilmarinnan tärkein diagnostinen löydös."
+  },
+  {
+    "id": "ilmarinta-q2",
+    "type": "truefalse",
+    "question": "Jänniteilmarinnan diagnoosi vaatii aina röntgenkuvan varmistuksen ennen hoitoa.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Väärin. Jänniteilmarinta on kliininen diagnoosi. Epäily riittää hoitotoimenpiteeseen, jos potilaan tila on heikko — kuvantamista ei odoteta."
+  },
+  {
+    "id": "ilmarinta-q3",
+    "type": "mcq",
+    "question": "Mikä on jänniteilmarinnan ainoa tehokas hoito?",
+    "options": [
+      "CPAP-hoito",
+      "Runsas nesteytys suonensisäisesti",
+      "Neulatorakosenteesi (dekompressio)",
+      "Antibioottihoito"
+    ],
+    "correctIndex": 2,
+    "explanation": "Jänniteilmarinta on mekaaninen ongelma, joka vaatii mekaanisen ratkaisun: paineen purkamisen neulalla rintaontelosta."
+  },
+  {
+    "id": "ilmarinta-q4",
+    "type": "truefalse",
+    "question": "Jänniteilmarintaa voidaan hoitaa turvallisesti CPAP:lla ennen dekompressiota.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Väärin. Ylipainehengitys pahentaa ilmavuotoa ja nopeuttaa paineen kertymistä pleuratilassa — se on vasta-aiheinen ennen dekompressiota."
+  },
+  {
+    "id": "ilmarinta-q5",
+    "type": "mcq",
+    "question": "Mikä mekanismi aiheuttaa jänniteilmarinnassa verenkierron romahduksen?",
+    "options": [
+      "Massiivinen verenhukka keuhkoista",
+      "Sydämen rytmihäiriö",
+      "Välikarsinan siirtymä ja suurten laskimoiden taittuminen, joka estää veren paluun sydämeen",
+      "Keuhkoembolian aiheuttama tukos"
+    ],
+    "correctIndex": 2,
+    "explanation": "Kasvava paine työntää välikarsinaa (sydän, suuret verisuonet) vastakkaiselle puolelle ja taivuttaa suuria laskimoita, mikä estää veren paluun sydämeen ja aiheuttaa obstruktiivisen sokin."
+  },
+  {
+    "id": "ilmarinta-q6",
+    "type": "truefalse",
+    "question": "Veririnnassa keskeinen ongelma liittyy usein myös verenvajaukseen (hypovolemiaan).",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Oikein. Veririnnassa pleuratilaan voi kertyä merkittävä määrä verta, mikä aiheuttaa hypovolemian merkkejä kuten hypotensiota ja takykardiaa."
+  },
+  {
+    "id": "ilmarinta-q7",
+    "type": "mcq",
+    "question": "Minkä potilasryhmän spontaani ilmarinta on tyypillinen?",
+    "options": [
+      "Iäkkäät naiset",
+      "Nuoret, hoikat miehet tai COPD-potilaat",
+      "Pienet lapset",
+      "Raskaana olevat"
+    ],
+    "correctIndex": 1,
+    "explanation": "Spontaani ilmarinta on tyypillinen nuorilla, hoikilla miehillä (primaarinen ilmarinta) sekä keuhkosairautta, erityisesti COPD:ta, sairastavilla keuhkorakkulan puhjetessa."
+  },
+  {
+    "id": "ilmarinta-q8",
+    "type": "mcq",
+    "question": "Mikä erottaa massiivisen keuhkoembolian jänniteilmarinnasta auskultaatiossa?",
+    "options": [
+      "Keuhkoembolia aiheuttaa aina toispuolisesti puuttuvat hengitysäänet",
+      "Keuhkoembolian auskultaatiolöydös on tyypillisesti normaali",
+      "Jänniteilmarinnassa auskultaatio on aina normaali",
+      "Molemmissa auskultaatio on identtinen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Massiivinen keuhkoembolia voi aiheuttaa obstruktiivisen sokin kuten jänniteilmarintakin, mutta auskultaatiolöydös on usein normaali, toisin kuin jänniteilmarinnassa."
+  },
+  {
+    "id": "ilmarinta-q9",
+    "type": "truefalse",
+    "question": "Henkitorven siirtymä on jänniteilmarinnan aikainen ja helposti havaittava löydös.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Väärin. Henkitorven siirtymä on myöhäinen ja vaikeasti havaittava löydös — hoitopäätöstä ei pidä viivyttää sen odottamiseksi."
+  },
+  {
+    "id": "ilmarinta-q10",
+    "type": "mcq",
+    "question": "Mikä on yleisin ja vaarallisin virhe jänniteilmarinnan hoidossa?",
+    "options": [
+      "Liian nopea dekompressio",
+      "Hoidon viivästyttäminen tai epäröinti",
+      "Liiallinen happihoito",
+      "Väärän puolen auskultointi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Jänniteilmarinta on hengenvaarallinen tila, jossa jokainen minuutti ratkaisee. Hoidon viivyttäminen varmuuden hakemiseksi on yleisin ja vaarallisin virhe."
+  }
+]

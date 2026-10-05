@@ -1,0 +1,18 @@
+[
+  { "id": "liikenneonnettomuus-f1", "front": "Mitä kolmea kriteeriryhmää käytetään korkeaenergisen vammapotilaan tunnistamiseen?", "back": "Peruselintoiminnon häiriö, korkeaenergisen vamman löydös, korkeaenergisen vammamekanismin kriteeri." },
+  { "id": "liikenneonnettomuus-f2", "front": "Anna esimerkki korkeaenergisen mekanismin kriteeristä liikenneonnettomuudessa.", "back": "Esim. auton korin kasaanpainuminen yli 40 cm, sinkoutuminen ulos autosta, kanssamatkustajan kuolema." },
+  { "id": "liikenneonnettomuus-f3", "front": "Mikä on monivammapotilaan määritelmä?", "back": "Potilas, jolla on vähintään kaksi vammaa, joista ainakin toinen on henkeä uhkaava." },
+  { "id": "liikenneonnettomuus-f4", "front": "Mitä tarkoittaa \"load and go\"?", "back": "Hoitotaktiikka, jossa nopea kuljetus on tärkeämpää kuin kentällä tehtävät toimenpiteet, esim. lävistävässä vammassa tai sisäelinvuodossa." },
+  { "id": "liikenneonnettomuus-f5", "front": "Mitä tarkoittaa \"stay and play\"?", "back": "Hoitotaktiikka, jossa kentällä tehtävä stabilointi on tarpeen, esim. tajuttomalla tai aivovammapotilaalla." },
+  { "id": "liikenneonnettomuus-f6", "front": "Mikä on PTT-protokollan tavoiteaika?", "back": "Kuljetus aloitetaan 10 minuutin sisällä ambulanssiin siirtymisestä." },
+  { "id": "liikenneonnettomuus-f7", "front": "Mitkä ovat PTT-protokollan roolit ambulanssissa?", "back": "Hengitys, passari, verenkierto ja traumajohtaja." },
+  { "id": "liikenneonnettomuus-f8", "front": "Mitä kirjaimet RiVaLAiSeR tarkoittavat tutkimisjärjestyksessä?", "back": "Rintakehä, Vatsa, Lantio, Aivot, Selkä, Raajat – kriittisyysjärjestyksessä." },
+  { "id": "liikenneonnettomuus-f9", "front": "Miten sokki-indeksi lasketaan?", "back": "Syke jaettuna systolisella verenpaineella (syke / SAP)." },
+  { "id": "liikenneonnettomuus-f10", "front": "Mikä on normaali sokki-indeksin raja-arvo?", "back": "Alle 0,9. Sitä suurempi arvo viittaa mahdolliseen sokkiin." },
+  { "id": "liikenneonnettomuus-f11", "front": "Kuinka paljon verivolyymia 70 kg aikuinen voi menettää ennen verenpaineen laskua?", "back": "Noin 30 % verivolyymista." },
+  { "id": "liikenneonnettomuus-f12", "front": "Mitkä ovat kiristyssiteen aikarajat?", "back": "Alle 2h: ei merkittävää haittaa. Alle 6h: ei yleensä pysyvää haittaa. 8h jälkeen: merkittävä amputaatioriski. 12h jälkeen: amputaatio todennäköinen." },
+  { "id": "liikenneonnettomuus-f13", "front": "Mistä kolmesta tekijästä \"kuoleman kolmio\" muodostuu?", "back": "Koagulopatia, asidoosi ja hypotermia." },
+  { "id": "liikenneonnettomuus-f14", "front": "Mitä HOTT-muistisääntö tarkoittaa?", "back": "Traumaperäisen sydänpysähdyksen korjattavat syyt: Hypotensio, O2 (hapenpuute), Tensiopneumothorax, Tamponaatio." },
+  { "id": "liikenneonnettomuus-f15", "front": "Milloin tukikauluria ei tule käyttää kaularankavamman tuennassa?", "back": "Aivovammapotilaalla, jonka GCS on alle 9 – kauluri voi nostaa kallonsisäistä painetta." },
+  { "id": "liikenneonnettomuus-f16", "front": "Mikä on elvytyskriteeri traumaattisessa elottomuudessa?", "back": "Alle 15 minuuttia elottomuudesta ja keho ei ole tuhoutunut." }
+]

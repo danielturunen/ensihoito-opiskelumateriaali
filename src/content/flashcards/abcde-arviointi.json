@@ -1,0 +1,18 @@
+[
+  { "id": "abcde-arviointi-f1", "front": "Mitä ABCDE-kirjaimet tarkoittavat?", "back": "Airway (hengitystie), Breathing (hengitys), Circulation (verenkierto), Disability (tajunta/neurologia), Exposure (paljastaminen)." },
+  { "id": "abcde-arviointi-f2", "front": "Miksi ABCDE käydään juuri tässä järjestyksessä?", "back": "Järjestys seuraa sitä, mikä uhka tappaa nopeimmin: hengitystien tukos nopeimmin, sitten hengitysvajaus, verenkierron pettäminen ja niin edelleen." },
+  { "id": "abcde-arviointi-f3", "front": "Mitä tarkoittaa \"treat as you go\" -periaate?", "back": "Löydetty ongelma korjataan välittömästi, ei vasta kun koko ABCDE on käyty teoriassa loppuun." },
+  { "id": "abcde-arviointi-f4", "front": "Chin lift vs. jaw thrust – milloin käytetään jaw thrustia?", "back": "Jaw thrust nostaa leukakulmia niskaa liikuttamatta, ja sitä käytetään aina kun epäillään niska- tai kaularankavammaa." },
+  { "id": "abcde-arviointi-f5", "front": "Mitä stridor kertoo hengitystiestä?", "back": "Stridor on vinkuva, korkeataajuuksinen äänilöydös, joka viittaa ylähengitystien ahtaumaan." },
+  { "id": "abcde-arviointi-f6", "front": "Mitkä ovat normaalit hengitystaajuuden hälytysrajat aikuisella?", "back": "Alle 8/min tai yli 30/min on hälyttävä löydös, joka vaatii välitöntä huomiota." },
+  { "id": "abcde-arviointi-f7", "front": "Mitä yksipuolisesti puuttuvat hengitysäänet + hypotensio yhdessä voivat viitata?", "back": "Jännityspneumotoraksiin – henkeä uhkaavaan tilaan, joka vaatii välittömän purkamisen." },
+  { "id": "abcde-arviointi-f8", "front": "Miksi syanoosi ei ole luotettava hapenpuutteen merkki?", "back": "Se ilmaantuu vasta myöhäisessä vaiheessa hapenpuutetta – happisaturaatiomittari havaitsee ongelman aiemmin." },
+  { "id": "abcde-arviointi-f9", "front": "Mitä C-vaiheessa (Circulation) arvioidaan?", "back": "Syke, ihon lämpö ja väri, kapillaaritäyttö, verenpaine ja mahdollinen ulkoinen verenvuoto." },
+  { "id": "abcde-arviointi-f10", "front": "Miksi matala verenpaine on usein myöhäinen sokin merkki?", "back": "Elimistö kompensoi pitkään supistamalla ääreisverenkiertoa ja nostamalla sykettä ennen kuin verenpaine lähtee laskemaan." },
+  { "id": "abcde-arviointi-f11", "front": "Mitä AVPU mittaa ja mitä kirjaimet tarkoittavat?", "back": "Nopea tajunnan tason seula: Alert, Voice, Pain, Unresponsive." },
+  { "id": "abcde-arviointi-f12", "front": "Mitä D-vaiheessa mitataan aina tajunnan häiriön yhteydessä?", "back": "Verensokeri, koska hypoglykemia on yleinen ja nopeasti korjattava tajunnan heikkenemisen syy." },
+  { "id": "abcde-arviointi-f13", "front": "Mitä tarkoitetaan cABCDE:llä trauman ensiarviossa?", "back": "C tarkoittaa catastrophic haemorrhage: massiivinen ulkoinen verenvuoto tyrehdytetään jo hengitystien tarkistuksen yhteydessä, ennen varsinaista C-vaihetta." },
+  { "id": "abcde-arviointi-f14", "front": "Mitä tarkoitetaan Exposure-vaiheella?", "back": "Potilaan riittävä paljastaminen kokonaiskuvan saamiseksi (vammat, ihottumat, verenvuoto) huomioiden samalla lämpöhukan ehkäisy ja yksityisyys." },
+  { "id": "abcde-arviointi-f15", "front": "Milloin ABCDE-arviointi toistetaan?", "back": "Aina toimenpiteen jälkeen, potilaan tilan muuttuessa ja ennen/jälkeen siirron tai kuljetuksen alkamista." },
+  { "id": "abcde-arviointi-f16", "front": "Mikä on kapillaaritäyttöajan hälyttävä raja-arvo?", "back": "Yli 2 sekuntia viittaa heikentyneeseen ääreisverenkierron perfuusioon." }
+]

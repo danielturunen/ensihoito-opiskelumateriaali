@@ -1,0 +1,20 @@
+[
+  { "id": "potilasviestinta-ruotsiksi-f1", "front": "Esittäydy potilaalle ruotsiksi nimelläsi ja ammatillasi", "back": "Jag heter [nimi]. Jag är sjukskötare. — Ääntäminen: Jaa heeter [nimi]. Jaa äär syyk-shöötare." },
+  { "id": "potilasviestinta-ruotsiksi-f2", "front": "Kerro potilaalle, että autat häntä tänään", "back": "Jag hjälper dig idag. — Ääntäminen: Jaa jälper dej iidaag." },
+  { "id": "potilasviestinta-ruotsiksi-f3", "front": "Kysy miten potilas voi", "back": "Hur mår du? — Ääntäminen: Huur moor du?" },
+  { "id": "potilasviestinta-ruotsiksi-f4", "front": "Kysy onko potilaalla kipua", "back": "Har du ont någonstans? — Ääntäminen: Haar du ont noogonstans?" },
+  { "id": "potilasviestinta-ruotsiksi-f5", "front": "Kysy onko hengitys vaikeaa", "back": "Har du svårt att andas? — Ääntäminen: Haar du svoort att andas?" },
+  { "id": "potilasviestinta-ruotsiksi-f6", "front": "Pyydä potilasta laittamaan käsivarsi esiin mittausta varten", "back": "Lägg armen här, tack. — Ääntäminen: Lägg armen häär, takk." },
+  { "id": "potilasviestinta-ruotsiksi-f7", "front": "Rauhoita potilasta verenpainemansetin kiristyksestä", "back": "Manschetten blir lite hård, men det gör inte ont. — Ääntäminen: Manshetten bliir liite hoord, men de jöör inte ont." },
+  { "id": "potilasviestinta-ruotsiksi-f8", "front": "Pyydä potilasta olemaan hiljaa mittauksen aikana", "back": "Prata inte nu, tack. Andas lugnt. — Ääntäminen: Praata inte nyy, takk. Andas lugnt." },
+  { "id": "potilasviestinta-ruotsiksi-f9", "front": "Kerro mittaavasi lämmön korvasta", "back": "Jag mäter temperaturen i örat. — Ääntäminen: Jaa määter temperatuuren i öörat." },
+  { "id": "potilasviestinta-ruotsiksi-f10", "front": "Kerro ettei potilaalla ole kuumetta", "back": "Du har ingen feber. — Ääntäminen: Du haar ingen feeber." },
+  { "id": "potilasviestinta-ruotsiksi-f11", "front": "Kerro, että kaikki mitatut arvot näyttävät hyvältä", "back": "Alla dina värden ser bra ut just nu. — Ääntäminen: Alla diina värden seer bra uut just nyy." },
+  { "id": "potilasviestinta-ruotsiksi-f12", "front": "Pyydä potilasta ilmoittamaan, jos vointi heikkenee", "back": "Om du mår sämre, säg till mig. — Ääntäminen: Om du moor sämre, seij till mej." },
+  { "id": "potilasviestinta-ruotsiksi-f13", "front": "Pyydä potilasta käyttämään hälytyspainiketta oireiden pahentuessa", "back": "Om du blir yr eller får svårt att andas, tryck på knappen. — Ääntäminen: Om du bliir yyr eller foor svoort att andas, trykk poo knappen." },
+  { "id": "potilasviestinta-ruotsiksi-f14", "front": "Kysy mihin kohtaan sattuu", "back": "Var gör det ont? — Ääntäminen: Vaar jöör de ont?" },
+  { "id": "potilasviestinta-ruotsiksi-f15", "front": "Pyydä arvioimaan kipu asteikolla 0-10", "back": "Hur ont gör det på en skala från noll till tio? — Ääntäminen: Huur ont jöör de poo en skaala fron noll till tiio?" },
+  { "id": "potilasviestinta-ruotsiksi-f16", "front": "Kysy onko potilaalla allergioita", "back": "Har du några allergier? — Ääntäminen: Haar du noogra aller-gii-er?" },
+  { "id": "potilasviestinta-ruotsiksi-f17", "front": "Kysy onko potilaalla säännöllistä lääkitystä", "back": "Tar du några mediciner? — Ääntäminen: Taar du noogra medisiiner?" },
+  { "id": "potilasviestinta-ruotsiksi-f18", "front": "Kehota potilasta lepäämään mittausten jälkeen", "back": "Försök vila nu. — Ääntäminen: Försöök viila nyy." }
+]

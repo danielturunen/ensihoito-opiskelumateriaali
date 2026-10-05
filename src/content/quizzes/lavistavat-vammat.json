@@ -1,0 +1,112 @@
+[
+  {
+    "id": "lavistavat-vammat-q1",
+    "type": "mcq",
+    "question": "Mikä määrittää lävistävän vamman?",
+    "options": [
+      "Potilaalla on mustelma iholla",
+      "Ulkoinen esine tai voima rikkoo ihon ja tunkeutuu kehon sisään",
+      "Potilas on pyörtynyt",
+      "Vamma on aina seurausta liikenneonnettomuudesta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lävistävässä vammassa ihon eheys rikkoutuu ja esine tunkeutuu kudoksiin, toisin kuin tylpässä vammassa, jossa iho pysyy ehjänä."
+  },
+  {
+    "id": "lavistavat-vammat-q2",
+    "type": "truefalse",
+    "question": "Kehoon lävistänyt ja kiinni oleva esine pyritään pääsääntöisesti poistamaan kentällä, jotta haava voidaan tutkia.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Lävistänyttä esinettä ei pääsääntöisesti poisteta, koska se voi tamponoida verisuonivuotoa. Poistaminen tapahtuu hallitusti leikkaussalissa."
+  },
+  {
+    "id": "lavistavat-vammat-q3",
+    "type": "mcq",
+    "question": "Mikä löydösyhdistelmä viittaa sydäntamponaatioon rintakehän lävistävässä vammassa?",
+    "options": [
+      "Korkea verenpaine ja hidas syke",
+      "Matala verenpaine, takykardia ja pullottavat kaulalaskimot",
+      "Normaali verenpaine ja rauhallinen hengitys",
+      "Pelkkä ihon kalpeus"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sydäntamponaatiossa tyypillinen löydös on matala verenpaine, takykardia ja kaulalaskimoiden pullotus, usein myös vaimentuneet sydänäänet ja pulsus paradoxus."
+  },
+  {
+    "id": "lavistavat-vammat-q4",
+    "type": "truefalse",
+    "question": "Lävistävää vammaa ei kuulu sondeerata eli tutkia sormin tai välineillä sen syvyyden selvittämiseksi.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Sondeeraaminen voi laukaista hallitsemattoman verenvuodon tai pahentaa vauriota. Haavan syvyys ja vaikutukset selvitetään sairaalassa kuvantamisella ja leikkauksessa."
+  },
+  {
+    "id": "lavistavat-vammat-q5",
+    "type": "mcq",
+    "question": "Miten henkeä uhkaava raajan verenvuoto tyrehdytetään lävistävässä vammassa ensivaiheessa?",
+    "options": [
+      "Odotetaan vuodon tyrehtymistä itsekseen",
+      "Suora painaminen ja tarvittaessa kiristysside raajan tyveen",
+      "Haavan huuhtelu runsaalla vedellä",
+      "Raajan immobilisointi ilman verenvuodon hoitoa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ensivaiheen hoito on vuotokohdan suora painaminen tai valtimorungon painaminen, ja henkeä uhkaavassa vuodossa kiristysside raajan tyveen."
+  },
+  {
+    "id": "lavistavat-vammat-q6",
+    "type": "mcq",
+    "question": "Mikä vartalon lävistävän vamman verenvuodon hoitotapa on oikea?",
+    "options": [
+      "Vuotokohdan pakkaaminen hemostaattisella sidoksella ja painesiteellä",
+      "Vuotokohdan jättäminen avoimeksi ilmavirtausta varten",
+      "Kiristyssiteen asettaminen vartalon ympäri",
+      "Vuotokohdan jäähdyttäminen jääpussilla"
+    ],
+    "correctIndex": 0,
+    "explanation": "Vartalon vuoto hoidetaan pakkaamalla vuotokohta hemostaattisella sidoksella ja kiinnittämällä paineside – kiristysside ei sovellu vartaloon."
+  },
+  {
+    "id": "lavistavat-vammat-q7",
+    "type": "truefalse",
+    "question": "Käytännössä lähes kaikki lävistävät vammat kuljetetaan hoitoon, myös oireettomat.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Piilevä sisäelin- tai verisuonivaurio ei aina anna oireita välittömästi, joten lävistävä vamma johtaa pääsääntöisesti kuljetukseen myös oireettomalla potilaalla."
+  },
+  {
+    "id": "lavistavat-vammat-q8",
+    "type": "mcq",
+    "question": "Minkä tyyppinen lävistävä vamma voidaan harkiten ohjata itsenäisesti päivystykseen ensihoidon kuljetuksen sijaan?",
+    "options": [
+      "Vatsan lävistävä vamma",
+      "Kaulan lävistävä vamma",
+      "Raajan pinnallinen viiltohaava, jossa ei ole hermo-, jänne- tai verisuonivaurion merkkejä",
+      "Rintakehän lävistävä vamma"
+    ],
+    "correctIndex": 2,
+    "explanation": "Raajan pinnallinen viilto ilman hermo-, jänne- tai verisuonivaurion merkkejä voidaan ohjata päivystykseen itsenäisesti; vartalon, kaulan ja pään lävistävät vammat kuljetetaan aina ensihoidossa."
+  },
+  {
+    "id": "lavistavat-vammat-q9",
+    "type": "mcq",
+    "question": "Mikä EtCO2-tavoite pätee lävistävän rintakehävamman potilaalla?",
+    "options": [
+      "2,0-3,0 kPa",
+      "4,0-4,5 kPa",
+      "6,0-7,0 kPa",
+      "EtCO2:lla ei ole merkitystä rintakehävammassa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tavoitteena on normoventilaatio, EtCO2 4,0–4,5 kPa, sama tavoite kuin muillakin vammapotilailla, erityisesti aivovammaepäilyssä."
+  },
+  {
+    "id": "lavistavat-vammat-q10",
+    "type": "truefalse",
+    "question": "Traneksaamihappoa 1 g i.v. voidaan harkita lävistävän vamman potilaalle, jos epäillään runsasta verenvuotoa.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Traneksaamihappo on osa vuotosokin hoitoa myös lävistävässä vammassa, kun epäillään runsasta verenvuotoa."
+  }
+]

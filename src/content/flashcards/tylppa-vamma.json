@@ -1,0 +1,18 @@
+[
+  { "id": "tylppa-vamma-f1", "front": "Mikä on tylppä vamma?", "back": "Ulkoisen voiman aiheuttama kudosvaurio, jossa ihon eheys säilyy – esim. törmäys, isku tai puristus." },
+  { "id": "tylppa-vamma-f2", "front": "Mitkä ovat tylpän vamman tavallisimmat mekanismit?", "back": "Kaatumiset ja putoamiset, liikenneonnettomuudet, urheilu- ja vapaa-ajan tapaturmat sekä väkivalta." },
+  { "id": "tylppa-vamma-f3", "front": "Mikä on tärkeä periaate, kun vammaenergiasta ei saada tarkkaa tietoa?", "back": "Potilasta hoidetaan korkeaenergisesti vammautuneena, kunnes toisin voidaan osoittaa." },
+  { "id": "tylppa-vamma-f4", "front": "Anna esimerkkejä korkean vammaenergian mekanismeista.", "back": "Nopeat liikenneonnettomuudet, putoaminen yli 3–4 metrin korkeudesta, moottoripyöräonnettomuus, jalankulkijan törmääminen autoon, räjähdys." },
+  { "id": "tylppa-vamma-f5", "front": "Mikä on tavoiteaika henkeä uhkaavan ulkoisen verenvuodon tyrehdyttämiselle?", "back": "1 minuutti." },
+  { "id": "tylppa-vamma-f6", "front": "Mikä on verenpainetavoite (SAP), kun aivovammaa ei epäillä?", "back": "Rannesyke tunnettavissa tai SAP > 80 mmHg." },
+  { "id": "tylppa-vamma-f7", "front": "Mikä on verenpainetavoite (SAP), kun aivovammaa epäillään?", "back": "SAP > 120 mmHg, riittävän aivoperfuusion turvaamiseksi." },
+  { "id": "tylppa-vamma-f8", "front": "Mitkä löydökset herättävät epäilyn paineilmarinnasta?", "back": "Kriittinen/paheneva hengitysvaikeus ja levottomuus, yhdessä poikkeavan rintakehän liikkeen tai puuttuvan hengitysäänen kanssa vauriopuolella." },
+  { "id": "tylppa-vamma-f9", "front": "Mikä on EtCO2-tavoite rintavammapotilaalla, erityisesti aivovammaepäilyssä?", "back": "4,0–4,5 kPa (normoventilaatio)." },
+  { "id": "tylppa-vamma-f10", "front": "Milloin traneksaamihappoa (1 g i.v.) annetaan tylpän vamman potilaalle?", "back": "Epäiltäessä runsasta verenvuotoa tai aikuisen vaikeaa aivovammaa." },
+  { "id": "tylppa-vamma-f11", "front": "Mitkä ovat NEXUS-kriteerit kaularangan tukemistarpeen arvioinnissa?", "back": "Kaularangan palpaatiokipu, neurologiset puolierot/puutosoireet, GCS < 15, päihtymyksen merkit, kivuliaat lisävammat – yksikin riittää tukemiseen." },
+  { "id": "tylppa-vamma-f12", "front": "Mikä tukemisväline on ensisijainen pitkässä kuljetuksessa?", "back": "Tyhjiöpatja, etenkin kun kuljetus kestää yli 30 minuuttia." },
+  { "id": "tylppa-vamma-f13", "front": "Mihin rankalautaa ja kauhapareja käytetään ensisijaisesti?", "back": "Potilaan evakuointiin ja siirtämiseen, ei pitkäaikaiseen kuljetustukemiseen." },
+  { "id": "tylppa-vamma-f14", "front": "Mikä on ensimmäisen intranasaalisen kipulääkeannoksen vaihtoehdot ja annokset?", "back": "Fentanyyli 100–200 µg i.n. tai esketamiini 50–100 mg i.n., molemmat jaettuna kumpaankin sieraimeen." },
+  { "id": "tylppa-vamma-f15", "front": "Miksi hypotermian ehkäisy on tärkeää vammapotilaalla?", "back": "Hypotermia heikentää veren hyytymistä ja sydämen pumppauskykyä, mikä pahentaa vuotosokkia." },
+  { "id": "tylppa-vamma-f16", "front": "Miksi tylpän vamman monivammapotilaalla epäillään aina aivovammaa?", "back": "Koska vammaenergia, joka aiheuttaa monivamman, aiheuttaa usein myös aivovamman – ja vuotosokin hyvä hoito on samalla aivovamman parasta ensihoitoa." }
+]

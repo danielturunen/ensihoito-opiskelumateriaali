@@ -1,0 +1,12 @@
+[
+  { "id": "ondansetroni-f1", "front": "Mikä lääkeryhmä on ondansetroni?", "back": "5-HT3-reseptorin salpaaja, antiemeetti (pahoinvointilääke)." },
+  { "id": "ondansetroni-f2", "front": "Miten ondansetroni estää pahoinvointia?", "back": "Salpaa serotoniinin (5-HT3) vaikutusta oksentelukeskuksessa keskushermostossa ja vagushermopäätteissä suolistossa." },
+  { "id": "ondansetroni-f3", "front": "Mikä on ondansetronin aikuisen perusannos ensihoidossa?", "back": "Tyypillisesti 4 mg iv/im hitaana boluksena (noin 2–5 min), hoito-ohjeen mukaan." },
+  { "id": "ondansetroni-f4", "front": "Mitkä ovat ondansetronin keskeiset käyttöaiheet ensihoidossa?", "back": "Opioidien aiheuttama pahoinvointi, vaikea pahoinvointi sepelvaltimotautikohtauksessa, ja oksentelu joka uhkaa aspiraatiota kuljetuksen aikana." },
+  { "id": "ondansetroni-f5", "front": "Mikä on ondansetronin tärkein turvallisuusriski?", "back": "Annoksesta riippuva QT-ajan pidentyminen, harvinaisena seurauksena torsades de pointes." },
+  { "id": "ondansetroni-f6", "front": "Mikä on ehdoton vasta-aihe ondansetronille?", "back": "Synnynnäinen pitkä QT -oireyhtymä (ja yliherkkyys lääkkeelle)." },
+  { "id": "ondansetroni-f7", "front": "Mitkä tekijät lisäävät QT-ajan pidentymisen riskiä ondansetronin käytössä?", "back": "Naissukupuoli, korkea ikä, elektrolyyttihäiriöt (matala K, Mg), bradykardia ja muut QT:tä pidentävät lääkkeet." },
+  { "id": "ondansetroni-f8", "front": "Lisääkö ondansetroni opioidien hengityslamaa?", "back": "Ei. Se hoitaa opioidien aiheuttamaa pahoinvointia vaikuttamatta hengitykseen." },
+  { "id": "ondansetroni-f9", "front": "Minkä lääkeryhmien kanssa ondansetronilla on serotoniinioireyhtymän riski?", "back": "Tramadoli ja SSRI-lääkkeet, sekä muut serotonergiset lääkkeet." },
+  { "id": "ondansetroni-f10", "front": "Kuinka nopeasti ondansetronin vaikutus alkaa ja kauan se kestää?", "back": "Vaikutus alkaa 15–30 minuutissa ja kestää 4–8 tuntia." }
+]

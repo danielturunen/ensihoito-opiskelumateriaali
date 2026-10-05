@@ -1,0 +1,59 @@
+{
+  "id": "case-vammapotilas-200",
+  "title": "Tapaus: Vammapotilas – putoaminen rakennustelineeltä",
+  "dispatchCode": "200",
+  "intro": "Hätäkeskus: \"Koodi 200, vammapotilas. Noin 45-vuotias mies pudonnut rakennustelineeltä arviolta 4 metrin korkeudesta. Potilas on työkaverien mukaan hereillä, valittaa kipua. Työmaa, osoite X. Lisätietoja ei ole.\"",
+  "steps": [
+    {
+      "id": "step1",
+      "situation": "Saavutte työmaalle. Näette potilaan makaamassa selällään asfaltilla telineen vierellä. Pari työkaveria on hänen vierellään, yläpuolella on vielä pystyssä oleva, osin purettu rakennustelinen.",
+      "question": "Mitä teet ensimmäiseksi kohteeseen tultaessa?",
+      "choices": [
+        { "text": "Teet nopean yleisarvion: varmistat, ettei telineestä putoa enää osia, arvioit vammamekanismin (4 metrin putoaminen) ja pyydät tarvittaessa lisäresursseja, ennen kuin menet aivan potilaan viereen.", "correct": true, "feedback": "Oikein. Työturvallisuuden ja kohteen yleisarvion tekeminen ennen potilaan luo menoa on aina ensimmäinen askel – rakennustelineellä voi olla putoamisvaaraa, ja tilanteen laajuus (muut loukkaantuneet, tarvittava kalusto) kannattaa arvioida jo tässä vaiheessa." },
+        { "text": "Juokset suoraan potilaan luo ja aloitat tutkimisen välittömästi huomioimatta ympäristöä.", "correct": false, "feedback": "Riskialtista. Jos telineestä putoaa lisää materiaalia tai alue on muuten vaarallinen, saatat itse vammautua eikä kukaan silloin pääse auttamaan potilasta. Yleisarvio vie vain muutaman sekunnin." },
+        { "text": "Jäätte odottamaan turvallisen matkan päähän, kunnes poliisi saapuu paikalle.", "correct": false, "feedback": "Liiallista varovaisuutta tässä tilanteessa – kyse ei ole väkivaltatilanteesta, vaan tapaturmasta. Tarpeeton viive vain pitkittää potilaan ilman hoitoa olemista." }
+      ]
+    },
+    {
+      "id": "step2",
+      "situation": "Yleisarvio on tehty, telineen alue on turvallinen lähestyä. Potilas on hereillä, valittaa voimakasta kipua selässä ja oikealla kyljessä. Et havaitse suurta näkyvää ulkoista verenvuotoa.",
+      "question": "Mikä on seuraava askel cABCDE-ensiarviossa?",
+      "choices": [
+        { "text": "Varmistat hengitystien avoimuuden kaularankaa tukien ja arvioit samalla hengityksen riittävyyden.", "correct": true, "feedback": "Oikein. Kun näkyvää massiivista verenvuotoa (c) ei ole, seuraava askel on aina hengitystie ja kaularangan tuki, sitten hengitys." },
+        { "text": "Avaat suoniyhteyden ja aloitat nestehoidon ennen muuta tutkimista.", "correct": false, "feedback": "Ennenaikaista. Suoniyhteys ja nestehoito tulevat vasta ABC-arvion jälkeen, eivätkä ne saa ohittaa hengitystien ja hengityksen arviointia." },
+        { "text": "Kysyt potilaalta yksityiskohtaisen tapahtumakuvauksen ja koko sairaushistorian ennen kliinistä tutkimista.", "correct": false, "feedback": "Pitkä haastattelu tässä vaiheessa viivyttää henkeä mahdollisesti uhkaavien löydösten havaitsemista. Lyhyt, kohdennettu kysely riittää alkuun." }
+      ]
+    },
+    {
+      "id": "step3",
+      "situation": "Hengitystie on auki ja potilas puhuu lyhyitä lauseita. Hengitystaajuus on 28/min, ja oikealla puolella hengitysäänet ovat selvästi heikentyneet verrattuna vasempaan. Happisaturaatio on 91 % huoneilmalla.",
+      "question": "Mitä epäilet ja miten toimit seuraavaksi?",
+      "choices": [
+        { "text": "Epäilet oikean puolen ilma- tai veririntaa, annat lisähappea, seuraat tarkasti verenkierron ja hengitysäänten kehitystä ja valmistaudut mahdolliseen nopeaan kuljetukseen.", "correct": true, "feedback": "Oikein. Toispuoliset hengitysäänet ja laskenut saturaatio putoamisvamman jälkeen viittaavat rintakehän sisäiseen vammaan. Lisähappi ja jänniteilmarinnan kehittymisen aktiivinen seuranta ovat tässä vaiheessa olennaisia." },
+        { "text": "Päätät, että kyseessä on vain kivun aiheuttama pinnallinen hengitys ja jätät lisähapen antamatta.", "correct": false, "feedback": "Väärin. Toispuolinen hengitysäänilöydös yhdessä matalan saturaation kanssa ei selity pelkällä kivulla – tämä vaatii aktiivista seurantaa ja lisähapen antoa." },
+        { "text": "Teet varmuuden vuoksi neulatorakosenteesin molemmin puolin heti paikalla.", "correct": false, "feedback": "Ylihoitoa. Neulatorakosenteesi on aiheellinen vasta, kun löydökset (esim. äkillisesti romahtava verenkierto, kaulalaskimoiden pullotus) viittaavat kehittyvään jänniteilmarintaan, ei jo pelkän toispuolisen hengitysäänilöydöksen perusteella." }
+      ]
+    },
+    {
+      "id": "step4",
+      "situation": "Muutaman minuutin kuluttua potilaan syke nousee 128/min, verenpaine on 92/58 mmHg, iho on kalpea ja nihkeä. Vatsa on pingottunut ja selvästi arka kosketettaessa.",
+      "question": "Mikä on todennäköisin selitys ja mitä teet?",
+      "choices": [
+        { "text": "Epäilet sisäistä verenvuotoa vatsan alueelta (mahdollisesti myös rintakehästä), avaat kaksi suoniyhteyttä, annat hoito-ohjeen mukaisen verenvuotolääkkeen ja valmistaudut nopeaan kuljetukseen.", "correct": true, "feedback": "Oikein. Nouseva syke, laskeva verenpaine ja arka, pingottunut vatsa putoamisvamman jälkeen ovat klassisia sisäisen verenvuodon merkkejä. Tilanne vaatii nopeaa toimintaa ja kuljetuksen priorisointia." },
+        { "text": "Annat runsaasti kirkasta nestettä suonensisäisesti, kunnes verenpaine on normaali (yli 120 mmHg).", "correct": false, "feedback": "Väärin. Kontrolloimattoman sisäisen vuodon yhteydessä tavoitellaan vain riittävää, ei normaalia verenpainetta – liiallinen kirkas neste laimentaa hyytymistekijöitä ja voi pahentaa vuotoa." },
+        { "text": "Jäätte kohteeseen odottamaan, että verenpaine korjaantuu itsestään ennen kuljetuksen aloittamista.", "correct": false, "feedback": "Vaarallista viivyttämistä. Epävakaa, mahdollisesti sisäisesti vuotava potilas tarvitsee nopean kuljetuksen kirurgista hoitoa tarjoavaan sairaalaan, ei odottelua kohteessa." }
+      ]
+    },
+    {
+      "id": "step5",
+      "situation": "Peruselintoiminnot on saatu tilapäisesti tuettua, mutta potilaan tila on edelleen epävakaa. On talvi, ja ulkona on pakkasta.",
+      "question": "Mikä on oikea toimintastrategia tästä eteenpäin?",
+      "choices": [
+        { "text": "Valitset \"load and go\" -strategian: suojaat potilaan jäähtymiseltä, teet ennakkoilmoituksen vastaanottavaan sairaalaan ja aloitat kuljetuksen viivyttelemättä.", "correct": true, "feedback": "Oikein. Epävakaa potilas, jolla epäillään hallitsematonta sisäistä verenvuotoa, hyötyy nopeasta kuljetuksesta lopulliseen hoitoon. Ennakkoilmoitus mahdollistaa traumatiimin valmistautumisen, ja jäähtymisen esto on edelleen tärkeä osa hoitoa kuljetuksen aikana." },
+        { "text": "Jäät kohteeseen tekemään perusteellisen koko kehon tutkimuksen ja odotat, että potilaan tila vakautuu täysin ennen kuljetusta.", "correct": false, "feedback": "Väärin. Tarkka täydennetty tilannearvio ei saa viivyttää kuljetusta, kun potilaalla on merkkejä hallitsemattomasta sisäisestä verenvuodosta. Loppuosa tutkimuksesta voidaan tehdä matkan aikana." },
+        { "text": "Aloitat kuljetuksen, mutta jätät ennakkoilmoituksen tekemättä, koska se ei tunnu kiireelliseltä.", "correct": false, "feedback": "Virhe. Ennakkoilmoitus suuririskisestä potilaasta on tärkeä, jotta sairaalan traumatiimi ja tarvittavat valmiudet (esim. verituotteet) saadaan käyntiin ennen potilaan saapumista." }
+      ]
+    }
+  ],
+  "debrief": "Tapaus havainnollistaa, miten tylpän, suurienergiaisen putoamisvamman jälkeen oireet voivat kehittyä ja pahentua minuuttien kuluessa, vaikka potilas on alkuun hereillä ja puhekykyinen. Ensiarvio (cABCDE) toistetaan säännöllisesti, koska tilanne muuttuu nopeasti. Kun löydökset viittaavat hallitsemattomaan sisäiseen verenvuotoon, nesteytyksessä pyritään permissiiviseen hypotensioon eikä normaaliin verenpaineeseen, ja toimintastrategiaksi valitaan \"load and go\" – nopea kuljetus kirurgista hoitoa tarjoavaan sairaalaan ennakkoilmoituksen kanssa. Jäähtymisen esto ja jatkuva seuranta kulkevat mukana koko tehtävän ajan."
+}

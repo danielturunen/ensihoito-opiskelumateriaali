@@ -1,0 +1,20 @@
+[
+  { "id": "akuutti-vatsa-f1", "front": "Akuutti vatsa, määritelmä", "back": "Äkillisesti alkanut, tunneista korkeintaan noin viikkoon kestävä voimakas tai paheneva vatsakipu, joka vaatii kliinistä arviointia." },
+  { "id": "akuutti-vatsa-f2", "front": "Parietaalinen kipu", "back": "Suorasta vatsakalvon ärsytyksestä johtuva terävä, tarkasti paikannettava kipu, joka pahenee liikkeessä ja painettaessa." },
+  { "id": "akuutti-vatsa-f3", "front": "Viskeraalinen kipu", "back": "Sisäelimen venymisestä tai iskemiasta johtuva laaja-alainen, aaltomainen tai tylppä kipu, jota on vaikea paikallistaa." },
+  { "id": "akuutti-vatsa-f4", "front": "Heijastekipu, esimerkki", "back": "Pallean ärsytys (esim. veri tai märkä pallean alla) voi aiheuttaa kipua hartiassa, kaukana varsinaisesta sairaasta elimestä." },
+  { "id": "akuutti-vatsa-f5", "front": "Aortta-aneurysman repeämän tyyppipotilas ja oireet", "back": "Iäkäs mies, äkillinen repivä selkä- tai vatsakipu, säteily nivusiin, nopeasti kehittyvä sokki. Vaatii välittömän kuljetuksen leikkaukseen." },
+  { "id": "akuutti-vatsa-f6", "front": "Mesenteriaali-iskemian tunnusmerkki", "back": "Potilas on erittäin kivulias, mutta vatsa on tunnustellen pehmeä - ristiriita kivun ja löydösten välillä. Taustalla usein eteisvärinä." },
+  { "id": "akuutti-vatsa-f7", "front": "Appendisiitin tyypillinen kivun kulku", "back": "Alkaa epämääräisenä navan seudun kipuna, siirtyy 1-2 vuorokauden kuluessa oikealle alavatsalle (McBurneyn piste)." },
+  { "id": "akuutti-vatsa-f8", "front": "Pankreatiitin yleisimmät syyt", "back": "Alkoholi (noin 60 %) ja sappikivet (noin 30 %). Oireena vyömäinen, selkään säteilevä ylävatsakipu ja merkittävä nestevajaus." },
+  { "id": "akuutti-vatsa-f9", "front": "Peritoniitin löydös vatsan tunnustelussa", "back": "Laudankova, koko vatsan kattava arkuus; pienikin liike pahentaa kipua ja suoliäänet ovat hiljenneet tai puuttuvat." },
+  { "id": "akuutti-vatsa-f10", "front": "Miksi kureutunutta tyrää ei saa reponoida kentällä?", "back": "Suolen verenkierron tilaa ei voi arvioida kentällä - mahdollinen kuolio vaatii sairaalan arvion ja leikkauksen." },
+  { "id": "akuutti-vatsa-f11", "front": "Permissiivinen hypotensio vuotavalla potilaalla", "back": "Tavoitteena systolinen verenpaine n. 70-80 mmHg (rannesyke tuntuu) - liian korkea paine lisää vuotoa." },
+  { "id": "akuutti-vatsa-f12", "front": "Hematemeesi", "back": "Verioksennus; kirkas veri kertoo tuoreesta vuodosta, kahvinporomainen tumma veri mahahapon vaikutuksesta." },
+  { "id": "akuutti-vatsa-f13", "front": "Meleena", "back": "Tervamainen, musta, pahanhajuinen uloste - kertoo tyypillisesti ylemmän ruoansulatuskanavan verenvuodosta." },
+  { "id": "akuutti-vatsa-f14", "front": "Hematoketsia", "back": "Kirkkaan veren vuoto peräsuolesta - viittaa yleensä alaosan vuotoon, mutta 10-15 % tapauksista on raju ylävuoto." },
+  { "id": "akuutti-vatsa-f15", "front": "Yleisin ylemmän ruoansulatuskanavan verenvuodon syy", "back": "Maha- tai pohjukaissuolihaava (noin 50 % tapauksista)." },
+  { "id": "akuutti-vatsa-f16", "front": "Yleisin alemman ruoansulatuskanavan verenvuodon syy", "back": "Divertikuloosi (noin 30 % tapauksista)." },
+  { "id": "akuutti-vatsa-f17", "front": "Miksi vatsa tutkitaan palpaatio viimeisenä?", "back": "Jotta kipureaktio ei vääristä aiempia havaintoja, kuten suoliäänten laatua tai yleisvaikutelmaa." },
+  { "id": "akuutti-vatsa-f18", "front": "Milloin diabeetikon vatsakipu vaatii erityistä huomiota?", "back": "Diabeettinen ketoasidoosi voi aiheuttaa vatsakipua, joka muistuttaa kirurgista akuuttia vatsaa - mittaa aina verensokeri ja ketoaineet." }
+]

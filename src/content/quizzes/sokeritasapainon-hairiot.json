@@ -1,0 +1,133 @@
+[
+  {
+    "id": "sokeritasapainon-hairiot-q1",
+    "type": "mcq",
+    "question": "Diabeetikon tajunta on alentunut ja syy on epäselvä. Mitä epäilet ensisijaisesti?",
+    "options": [
+      "Diabeettista ketoasidoosia",
+      "Hypoglykemiaa",
+      "Hyperosmolaarista oireyhtymää",
+      "Laktaattiasidoosia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hypoglykemia on diabeetikon akuutein ja nopeimmin kehittyvä hätätilanne, ja se on myös nopeimmin korjattavissa. Siksi se tulee sulkea pois ensimmäisenä, esim. mittaamalla verensokeri."
+  },
+  {
+    "id": "sokeritasapainon-hairiot-q2",
+    "type": "truefalse",
+    "question": "Kaikki diabeetikot saavat selkeät varoitusoireet (vapina, hikoilu) ennen vaikeaa hypoglykemiaa.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Väärin. Osalla potilaista on hypoglykemian tiedostamattomuus, jolloin autonomiset varoitusoireet puuttuvat ja tila voi edetä suoraan neuroglykopeenisiin oireisiin, kuten sekavuuteen tai tajuttomuuteen."
+  },
+  {
+    "id": "sokeritasapainon-hairiot-q3",
+    "type": "mcq",
+    "question": "Tajuton potilas, jolla epäillään hypoglykemiaa, mutta suoniyhteyttä ei saada. Mikä on oikea hoito?",
+    "options": [
+      "Odotetaan sairaalaan pääsyä",
+      "Annetaan glukagonia 1 mg lihakseen",
+      "Annetaan sokerijuomaa nieluun",
+      "Aloitetaan paineluelvytys"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kun suoniyhteyttä ei saada, glukagoni 1 mg lihakseen on varahoito. Sokerin antaminen suun kautta tajuttomalle potilaalle on vaarallista aspiraatioriskin vuoksi."
+  },
+  {
+    "id": "sokeritasapainon-hairiot-q4",
+    "type": "truefalse",
+    "question": "Glukagoni tehoaa hypoglykemiaan hyvin myös pitkään paastonneella tai runsaasti alkoholia käyttäneellä potilaalla.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Väärin. Glukagoni vapauttaa sokeria maksan glykogeenivarastoista, ja ne voivat olla tyhjät aliravitsemuksen, pitkän paaston tai runsaan alkoholinkäytön seurauksena - silloin glukagoni ei tehoa."
+  },
+  {
+    "id": "sokeritasapainon-hairiot-q5",
+    "type": "mcq",
+    "question": "Mikä on diabeettisen ketoasidoosin (DKA) ensihoidon tärkein ja kiireellisin toimenpide?",
+    "options": [
+      "Insuliinin anto ihon alle",
+      "Natriumbikarbonaatin anto",
+      "Nesteytys",
+      "Kaliumlisän anto suun kautta"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nesteytys on DKA:n ensihoidon kiireellisin ja hengenpelastavin toimenpide. Insuliinihoito aloitetaan vain lääkärikonsultaation perusteella, eikä sitä anneta ihon alle sokkipotilaalle."
+  },
+  {
+    "id": "sokeritasapainon-hairiot-q6",
+    "type": "truefalse",
+    "question": "DKA-potilaan Kussmaulin hengitystä (syvä, tiheä hengitys) tulee hoitaa hengittämällä paperipussiin, jotta hyperventilaatio helpottaa.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Väärin. Kussmaulin hengitys on elimistön tapa kompensoida metabolista asidoosia poistamalla hiilidioksidia. Paperipussihoito estäisi tätä kompensaatiota ja pahentaisi tilannetta."
+  },
+  {
+    "id": "sokeritasapainon-hairiot-q7",
+    "type": "mcq",
+    "question": "Mikä laboratoriolöydös erottaa DKA:n parhaiten paastoketoosista?",
+    "options": [
+      "Ketoaineiden esiintyminen virtsassa",
+      "Korkea verensokeri ja selvä metabolinen asidoosi",
+      "Pahoinvointi",
+      "Potilaan ikä"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paastoketoosissakin ketoaineet voivat olla koholla, mutta DKA:han liittyy aina korkea verensokeri ja selvä asidoosi, joita paastoketoosissa ei ole."
+  },
+  {
+    "id": "sokeritasapainon-hairiot-q8",
+    "type": "mcq",
+    "question": "Iäkkäällä tyypin 2 diabeetikolla on useiden päivien ajan kehittynyt sekavuus, voimakas kuivuminen ja verensokeri on 38 mmol/l. Hengitys on normaalia, ei asetonin hajua. Mikä tila on todennäköisin?",
+    "options": [
+      "Diabeettinen ketoasidoosi",
+      "Hyperosmolaarinen hyperglykeeminen tila (HHS)",
+      "Hypoglykemia",
+      "Alkoholivieroitusoireet"
+    ],
+    "correctIndex": 1,
+    "explanation": "Iäkäs tyypin 2 diabeetikko, hitaasti kehittyvä sekavuus, voimakas kuivuminen, erittäin korkea verensokeri ja asidoosin puuttuminen (ei Kussmaulin hengitystä) viittaavat HHS:ään DKA:n sijaan."
+  },
+  {
+    "id": "sokeritasapainon-hairiot-q9",
+    "type": "truefalse",
+    "question": "HHS:ssä insuliini tulee antaa aina ennen nesteytystä.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Väärin. HHS:ssä nesteytys on ensisijainen hoito. Insuliini annettuna liian aikaisin voi siirtää vettä soluihin ja pahentaa kuivumista sekä aiheuttaa aivoödeemaa."
+  },
+  {
+    "id": "sokeritasapainon-hairiot-q10",
+    "type": "mcq",
+    "question": "Mikä seikka tekee insuliinipumppupotilaan erityisen alttiiksi nopealle DKA:n kehittymiselle?",
+    "options": [
+      "Pumppu käyttää ainoastaan pika- tai lyhytvaikutteista insuliinia, joten vika keskeyttää insuliininsaannin kokonaan",
+      "Pumppupotilaat syövät enemmän hiilihydraatteja",
+      "Pumppu lisää aina riskiä hypoglykemiaan, ei hyperglykemiaan",
+      "Pumppupotilailla on aina tyypin 2 diabetes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Insuliinipumppu antaa jatkuvasti pika- tai lyhytvaikutteista insuliinia, eikä potilaalla ole pitkävaikutteista insuliinia taustalla. Jos pumppu hajoaa, insuliinin saanti loppuu kokonaan ja DKA voi kehittyä jo 3-5 tunnissa."
+  },
+  {
+    "id": "sokeritasapainon-hairiot-q11",
+    "type": "mcq",
+    "question": "Mikä lääkitykseen liittyvä tekijä kasvattaa hypoglykemian uusiutumisriskiä merkittävästi hoidon jälkeen?",
+    "options": [
+      "Potilas on käyttänyt pikainsuliinia tuntia aiemmin",
+      "Potilas on käyttänyt pitkävaikutteista insuliinia (esim. Tresiba)",
+      "Potilas on syönyt normaalisti",
+      "Potilaalla on tyypin 2 diabetes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pitkävaikutteinen insuliini (esim. Tresiba, vaikutus 24-42 h) jatkaa vaikutustaan kauan annetun glukoosin jälkeen, mikä tekee hypoglykemian uusiutumisesta todennäköistä - annettu glukoosi on vain tilapäinen \"laastari\"."
+  },
+  {
+    "id": "sokeritasapainon-hairiot-q12",
+    "type": "truefalse",
+    "question": "Runsas alkoholinkäyttö voi aiheuttaa hypoglykemiaa vielä vuorokauden kuluttua juomisesta.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Oikein. Alkoholi estää maksan glukoosin tuotantoa (glukoneogeneesiä) ja voi pienentää verensokeria jopa 36 tuntia nauttimisen jälkeen, mikä on tärkeä muistaa päihtyneen potilaan arvioinnissa."
+  }
+]

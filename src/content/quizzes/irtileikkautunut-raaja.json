@@ -1,0 +1,107 @@
+[
+  {
+    "id": "irtileikkautunut-raaja-q1",
+    "type": "mcq",
+    "question": "Mikä ero on täydellisen ja osittaisen amputaation välillä?",
+    "options": [
+      "Täydellisessä raaja on kokonaan irti, osittaisessa se roikkuu kiinni kudoskielekkeellä",
+      "Osittaisessa amputaatiossa ei ole verenvuotoa",
+      "Täydellinen amputaatio koskee vain sormia",
+      "Ero on vain vamman syntymekanismissa, ei lopputuloksessa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Täydellisessä amputaatiossa raaja on kokonaan irronnut, osittaisessa se on yhä kiinni kudoskielekkeellä."
+  },
+  {
+    "id": "irtileikkautunut-raaja-q2",
+    "type": "truefalse",
+    "question": "Osittaisessa amputaatiossa kiinni oleva kudoskieleke leikataan irti, jotta amputaatio-osa on helpompi kuljettaa.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Kudoskielekettä ei koskaan leikata irti – se voi sisältää verisuonia, jotka ovat tärkeitä replantaation onnistumiselle."
+  },
+  {
+    "id": "irtileikkautunut-raaja-q3",
+    "type": "mcq",
+    "question": "Mikä on likimääräinen iskemia-aikaraja lihaskudosta sisältävälle amputaatiolle?",
+    "options": ["2 tuntia", "8 tuntia", "24 tuntia", "48 tuntia"],
+    "correctIndex": 1,
+    "explanation": "Lihaskudosta sisältävä amputaatio on yleensä replantoitavissa noin 8 tunnin kuluessa, muu kudos noin 16 tunnin kuluessa."
+  },
+  {
+    "id": "irtileikkautunut-raaja-q4",
+    "type": "mcq",
+    "question": "Miten amputaatio-osa säilytetään oikein kuljetuksen ajan?",
+    "options": [
+      "Suoraan jäähän ilman suojausta",
+      "Kuivajäässä nopean jäähdytyksen varmistamiseksi",
+      "Kääritään kosteaan liinaan, suljetaan muovipussiin ja asetetaan jäähän tai kylmään veteen epäsuorasti",
+      "Huoneenlämpöisessä pakkauksessa ilman jäähdytystä"
+    ],
+    "correctIndex": 2,
+    "explanation": "Osa käärität kosteaan liinaan, suljetaan muovipussiin ja jäähdytetään epäsuorasti jään tai kylmän veden avulla. Suora kosketus jäähän tai kuivajäähän vaurioittaa kudosta."
+  },
+  {
+    "id": "irtileikkautunut-raaja-q5",
+    "type": "truefalse",
+    "question": "Verenvuodon hoidossa edetään lievimmästä keinosta kohti voimakkaampaa: kohoasento, paineside, hemostaattinen side ja vasta tarvittaessa kiristysside.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Verenvuoto hoidetaan lievintä mahdollista keinoa käyttäen, ja kiristyssidettä käytetään vasta, kun lievemmät keinot eivät riitä henkeä uhkaavan vuodon tyrehdyttämiseen."
+  },
+  {
+    "id": "irtileikkautunut-raaja-q6",
+    "type": "mcq",
+    "question": "Kuka arvioi lopullisen replantaatiomahdollisuuden?",
+    "options": [
+      "Ensihoitaja kentällä",
+      "Hätäkeskuspäivystäjä",
+      "Vastaanottava kirurgi",
+      "Potilas itse"
+    ],
+    "correctIndex": 2,
+    "explanation": "Replantaatiomahdollisuuden arvioi aina kirurgi sairaalassa – ensihoidossa ei tehdä arviota tilanteen toivottomuudesta, ja kaikki amputaatio-osat kuljetetaan mukana."
+  },
+  {
+    "id": "irtileikkautunut-raaja-q7",
+    "type": "mcq",
+    "question": "Mitkä kaupungit tarjoavat Suomessa ympärivuorokautista replantaatiopäivystystä?",
+    "options": [
+      "Tampere, Oulu, Helsinki",
+      "Turku, Vaasa, Rovaniemi",
+      "Jyväskylä, Lahti, Kuopio",
+      "Vain Helsinki"
+    ],
+    "correctIndex": 0,
+    "explanation": "Suomessa ympärivuorokautista replantaatiopäivystystä tarjoavat Tampere, Oulu ja Helsinki."
+  },
+  {
+    "id": "irtileikkautunut-raaja-q8",
+    "type": "truefalse",
+    "question": "Amputaatiovammaan liittyy usein muitakin vammoja, joten koko keho tulee tutkia systemaattisesti, ei vain vammautunutta raajaa.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Amputaatiovammaan liittyy usein tylppä vammamekanismi, esimerkiksi liikenneonnettomuudessa, joten muiden vammojen etsiminen koko kehosta on tärkeää."
+  },
+  {
+    "id": "irtileikkautunut-raaja-q9",
+    "type": "mcq",
+    "question": "Mikä tekijä vaikuttaa myönteisesti replantaation ennusteeseen?",
+    "options": [
+      "Pitkä iskemia-aika",
+      "Murskautunut vammapinta",
+      "Lyhyt iskemia-aika ja puhdas leikkaava vammamekanismi",
+      "Vanha potilaan ikä"
+    ],
+    "correctIndex": 2,
+    "explanation": "Puhdas, leikkaava vammamekanismi, lyhyt iskemia-aika, nuori ikä ja distaalinen amputaatiotaso ennustavat parempaa replantaatiotulosta."
+  },
+  {
+    "id": "irtileikkautunut-raaja-q10",
+    "type": "truefalse",
+    "question": "Ennakkoilmoitus vastaanottavaan hoitopaikkaan amputaatiotasosta, -mekanismista ja arvioidusta saapumisajasta ei ole tarpeellinen, kunhan potilas kuljetetaan nopeasti.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Ennakkoilmoitus on tärkeä, jotta vastaanottava hoitopaikka voi valmistautua replantaatioleikkaukseen etukäteen ja iskemia-aika saadaan minimoitua."
+  }
+]

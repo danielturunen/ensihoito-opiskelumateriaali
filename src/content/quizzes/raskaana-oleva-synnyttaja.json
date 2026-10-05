@@ -1,0 +1,117 @@
+[
+  {
+    "id": "raskaana-oleva-synnyttaja-q1",
+    "type": "mcq",
+    "question": "Miksi raskauden puolivälin jälkeen vältetään synnyttäjän selinmakuuta?",
+    "options": [
+      "Se lisää lapsiveden menon riskiä",
+      "Kasvanut kohtu painaa alaonttolaskimoa ja vähentää laskimopaluuta sydämeen",
+      "Se nostaa äidin verenpainetta vaarallisesti",
+      "Se altistaa napanuoran esiinluiskahdukselle"
+    ],
+    "correctIndex": 1,
+    "explanation": "Selinmakuulla kasvanut kohtu painaa vena cavaa, mikä vähentää laskimopaluuta ja voi romahduttaa äidin verenpaineen. Siksi hoito ja kuljetus tapahtuvat vasemmassa kylkiasennossa tai kohtu siirretään käsin vasemmalle."
+  },
+  {
+    "id": "raskaana-oleva-synnyttaja-q2",
+    "type": "truefalse",
+    "question": "Kyvyttömyys puhua supistuksen aikana viittaa siihen, että synnytys on todennäköisesti lähellä.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Puhekyvyn menetys supistuksen aikana on merkki voimakkaasta, todennäköisesti nopeasti etenevästä synnytyksestä ja yksi punaisista lipuista."
+  },
+  {
+    "id": "raskaana-oleva-synnyttaja-q3",
+    "type": "mcq",
+    "question": "Mikä löydös viittaa vahvimmin napanuoran esiinluiskahdukseen?",
+    "options": [
+      "Kirkas, kivuton verenvuoto loppuraskaudessa",
+      "Napanuora tuntuu tai näkyy emättimestä lapsivedenmenon jälkeen",
+      "Kohtu on jatkuvasti pehmeä supistusten välissä",
+      "Vastasyntyneen Apgar-pisteet ovat matalat"
+    ],
+    "correctIndex": 1,
+    "explanation": "Napanuoran tunteminen tai näkyminen emättimestä lapsivedenmenon jälkeen on napanuoran esiinluiskahduksen tunnusmerkki ja vaatii kiireellisen kuljetuksen ja asennon, joka vähentää tarjoutuvan osan painetta napanuoraan."
+  },
+  {
+    "id": "raskaana-oleva-synnyttaja-q4",
+    "type": "mcq",
+    "question": "Mitä tehdään, kun lapsen pää on syntynyt ja hartiat eivät synny normaalisti seuraavalla supistuksella (hartiadystokia)?",
+    "options": [
+      "Vedetään päätä voimakkaasti ulospäin",
+      "Painetaan voimakkaasti kohdun pohjasta",
+      "Asetetaan synnyttäjän jalat voimakkaaseen koukistukseen ja painetaan häpyluun yläpuolelta",
+      "Odotetaan rauhassa seuraavaa supistusta puuttumatta tilanteeseen"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hartiadystokiassa käytetään McRoberts-tyyppistä asentoa (jalat voimakkaassa koukistuksessa) ja suprapubista painantaa ylemmän hartian irrottamiseksi. Kohdun pohjasta ei saa painaa, koska se voi pahentaa tilannetta."
+  },
+  {
+    "id": "raskaana-oleva-synnyttaja-q5",
+    "type": "truefalse",
+    "question": "Etisistukkaa (placenta praevia) epäiltäessä sisätutkimus emättimeen on turvallista tehdä, jos vuoto on vähäistä.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Etisistukkaa epäiltäessä sisätutkimusta ei saa tehdä missään tilanteessa, koska se voi laukaista hallitsemattoman runsaan verenvuodon."
+  },
+  {
+    "id": "raskaana-oleva-synnyttaja-q6",
+    "type": "mcq",
+    "question": "Mikä löydös viittaa istukan ennenaikaiseen irtoamiseen (ablaatio) eikä etisistukkaan?",
+    "options": [
+      "Kivuton, kirkkaanpunainen vuoto",
+      "Jatkuva vatsakipu ja kova, aristava kohtu, vaikka ulkoista vuotoa olisi vähän",
+      "Supistukset, jotka tulevat yli 10 minuutin välein",
+      "Lapsivedenmeno kirkkaalla lapsivedellä"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ablaatiossa tyypillistä on jatkuva kipu ja kova/pinkeä, arka kohtu. Verenvuoto voi olla osittain piilevää kohdun sisällä, jolloin sokki voi kehittyä vaikka ulkoista vuotoa näkyy vähän. Etisistukalle on tyypillistä kivuton kirkas vuoto."
+  },
+  {
+    "id": "raskaana-oleva-synnyttaja-q7",
+    "type": "mcq",
+    "question": "Mikä on ensisijainen lääke raskaana olevan eklampsiakouristuksen hoidossa?",
+    "options": [
+      "Diatsepaami",
+      "Magnesium",
+      "Adrenaliini",
+      "Metoprololi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Magnesium on raskaana olevan eklampsiakouristuksen ensisijainen lääke, toteutus paikallisen hoito-ohjeen ja konsultaation mukaan."
+  },
+  {
+    "id": "raskaana-oleva-synnyttaja-q8",
+    "type": "truefalse",
+    "question": "Normaali verenvuoto synnytyksen jälkeen on yleensä alle 500 ml, mutta vuoto voi kertyä näkymättömästi kohtuun.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Vuotoa on aina seurattava aktiivisesti myös istukan synnyttyä, koska se voi kerääntyä kohtuun ja näyttää ulospäin yllättävän vähäiseltä, vaikka kokonaisvuoto olisi runsas."
+  },
+  {
+    "id": "raskaana-oleva-synnyttaja-q9",
+    "type": "mcq",
+    "question": "Huonokuntoinen vastasyntynyt ei hengitä riittävästi ja syke on alle 100/min. Mikä on tärkein ensitoimi?",
+    "options": [
+      "Adrenaliinin anto laskimoon",
+      "Tehokas ventilaatio vastasyntyneen maskilla",
+      "Paineluelvytyksen välitön aloitus",
+      "Napanuoran välitön katkaisu"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hengityksen avustaminen on tärkein huonokuntoisen vastasyntyneen virvoittelukeino. Paineluelvytys aloitetaan vasta, jos syke pysyy alle 60/min tehokkaasta ventiloinnista huolimatta."
+  },
+  {
+    "id": "raskaana-oleva-synnyttaja-q10",
+    "type": "mcq",
+    "question": "Raskaana olevan potilaan sydänpysähdystilanteessa mitä tehdään laskimopaluun turvaamiseksi?",
+    "options": [
+      "Potilas pidetään selinmakuulla, jotta paineluelvytys onnistuu paremmin",
+      "Kohtu siirretään tai kallistetaan vasemmalle",
+      "Jalat nostetaan koholle ja ylävartalo lasketaan alas",
+      "Potilas käännetään kokonaan vatsamakuulle"
+    ],
+    "correctIndex": 1,
+    "explanation": "Raskauden puolivälin jälkeen kohtu siirretään tai sitä kallistetaan vasemmalle manuaalisesti, jotta laskimopaluu sydämeen ei estyisi painelun aikana. Normaalit elvytysperiaatteet (paineluasento, defibrillointi, lääkkeet) pätevät muuten normaalisti."
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "ensihoitajan-ydinosaaminen-q1",
+    "type": "mcq",
+    "question": "Minä vuonna hoitotason ensihoidon valtakunnalliset vähimmäisosaamisvaatimukset kuvattiin Suomessa ensimmäisen kerran?",
+    "options": ["1995", "2001", "2010", "2016"],
+    "correctIndex": 1,
+    "explanation": "Hoitotason ensihoidon valtakunnalliset vähimmäisosaamisvaatimukset kuvattiin ensimmäisen kerran opetusministeriön raportissa vuonna 2001."
+  },
+  {
+    "id": "ensihoitajan-ydinosaaminen-q2",
+    "type": "truefalse",
+    "question": "Tutkimusten mukaan ensihoitajat hallitsevat yleensä paremmin sen, mitä tilanteessa pitää tehdä, kuin sen, miksi jokin ilmiö tapahtuu patofysiologisesti.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Toistuva havainto on, että toimintaohjeen mukainen 'mitä tehdä' -tieto hallitaan paremmin kuin patofysiologinen 'miksi'-tieto, joka auttaisi toimimaan oikein myös poikkeavissa tilanteissa."
+  },
+  {
+    "id": "ensihoitajan-ydinosaaminen-q3",
+    "type": "mcq",
+    "question": "Mikä seuraavista EI ole yksi ensihoitajan ydinosaamisen vakiintuneista pääalueista?",
+    "options": [
+      "Hoitotyön arvot, eettiset periaatteet ja säädökset",
+      "Ensihoitojärjestelmä ja viranomaisyhteistyö",
+      "Potilaan tilan arviointi ja peruselintoimintojen turvaaminen",
+      "Potilaan vakuutusasioiden selvittäminen"
+    ],
+    "correctIndex": 3,
+    "explanation": "Vakuutusasiat eivät kuulu ensihoitajan ydinosaamisalueisiin. Ydinosaaminen kattaa esimerkiksi etiikan ja säädökset, viranomaisyhteistyön, turvallisuuden ja välineistön, potilaan tilan arvioinnin, työdiagnoosin teon, hoidon toteutuksen ja johtamisosaamisen."
+  },
+  {
+    "id": "ensihoitajan-ydinosaaminen-q4",
+    "type": "mcq",
+    "question": "Miksi täydennyskoulutus on ensihoidossa erityisen tärkeää?",
+    "options": [
+      "Koska peruskoulutuksen tutkintotodistus vanhenee muutaman vuoden välein",
+      "Koska hoitosuositukset ja käytännöt muuttuvat jatkuvasti ja harvoin käytetyt taidot rapautuvat",
+      "Koska se on ainoa tapa saada palkankorotus",
+      "Koska laki vaatii sitä vain ensimmäisen työvuoden jälkeen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hoitosuositukset, lääkevalikoima ja käytännöt kehittyvät tutkimusnäytön myötä, ja harvoin tarvittavat taidot heikkenevät ajan myötä ilman kertausta. Täydennyskoulutus kohdistuu tunnistettuihin osaamispuutteisiin."
+  },
+  {
+    "id": "ensihoitajan-ydinosaaminen-q5",
+    "type": "mcq",
+    "question": "Minkä tyyppisiä kysymyksiä hyvä ensihoito-osaamista mittaava teoriakoe sisältää laatukriteerien mukaan?",
+    "options": [
+      "Vain dikotomisia kyllä/ei-kysymyksiä kaikista aiheista",
+      "Vain käytännön toimintaohjeita kysyviä kysymyksiä",
+      "Sekä 'mitä ja miten' että 'miksi' -tietoa mittaavia kysymyksiä",
+      "Vain hallinnollisia ja juridisia kysymyksiä"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hyvän osaamismittarin kriteereihin kuuluu sekä käytännön toiminnan ('mitä ja miten') että patofysiologisen ymmärryksen ('miksi') mittaaminen, ei vain ulkoa opitun toimintaohjeen toistamisen tarkistaminen."
+  },
+  {
+    "id": "ensihoitajan-ydinosaaminen-q6",
+    "type": "truefalse",
+    "question": "Tutkimuksissa havaittiin, että täydennyskoulutuspäivien jälkeen mitattu osaaminen parani selvästi aiemmin tunnistetuilla heikoilla osa-alueilla.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Kohdennettu, tunnistettuun osaamistarpeeseen perustuva täydennyskoulutus paransi mitattua osaamista selvästi juuri niillä osa-alueilla, joilla puutteita oli aiemmin havaittu."
+  },
+  {
+    "id": "ensihoitajan-ydinosaaminen-q7",
+    "type": "mcq",
+    "question": "EKG-tulkintatutkimuksessa havaittiin, että alaseinäinfarktin perustunnusmerkit tunnistettiin melko hyvin, mutta mikä seuraavista tunnistettiin huomattavasti heikommin?",
+    "options": [
+      "Potilaan sukupuoli",
+      "Onnistuneen kardioversion synkronoinnin merkki monitorilla",
+      "Se, että EKG otetaan rintakehän iholta",
+      "Elektrodien väri"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vain noin neljäsosa tunnisti onnistuneen synkronoinnin merkin (valopilkku R-aallon päällä) oikein, vaikka perusasiat kuten alaseinäinfarktin kytkennät hallittiin kohtalaisesti. Tämä kuvaa, miten harvemmin eteen tulevat, teknisesti vaativammat asiat jäävät herkemmin heikommiksi."
+  },
+  {
+    "id": "ensihoitajan-ydinosaaminen-q8",
+    "type": "mcq",
+    "question": "Mikä yleinen virhekäsitys on tutkimuksissa toistunut morfiinin vaikutusmekanismista?",
+    "options": [
+      "Luultu, että morfiini nostaa verenpainetta voimakkaasti",
+      "Luultu, että morfiini poistaa kivun kokonaan, vaikka se muuttaa kivun tulkintaa vähemmän epämiellyttäväksi",
+      "Luultu, että morfiini parantaa hengitystä",
+      "Luultu, että morfiini on antibiootti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Useissa tutkimuksissa suuri osa vastaajista on luullut virheellisesti, että morfiini poistaa kivun kokonaan. Todellisuudessa se muuttaa kivun aistimuksen tulkintaa vähemmän epämiellyttäväksi (euforisoiva vaikutus) sen sijaan, että poistaisi kivun tunteen."
+  },
+  {
+    "id": "ensihoitajan-ydinosaaminen-q9",
+    "type": "mcq",
+    "question": "Miksi lapsen hypovolemian (verenvolyymin vähyyden) arviointi pelkän verenpaineen perusteella on riskialtista?",
+    "options": [
+      "Lapsen verenpaine nousee aina sokissa",
+      "Lapsen verenpaine voi pysyä normaalina, vaikka hän olisi menettänyt jopa 50 % verivolyymistaan",
+      "Lapsilla ei voi mitata verenpainetta luotettavasti lainkaan",
+      "Lapsen verenpaine laskee ennen kuin sokki on edes alkanut"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lapsen tehokkaan sympaattisen kompensaation vuoksi verenpaine voi pysyä normaalina pitkään merkittävästäkin verenhukasta huolimatta — verenpaineen lasku on vuotosokin myöhäinen merkki lapsella."
+  },
+  {
+    "id": "ensihoitajan-ydinosaaminen-q10",
+    "type": "truefalse",
+    "question": "Ensihoitajan ammatillinen vastuu rajoittuu vain kliinisiin taitoihin, ei eettiseen päätöksentekoon tai dokumentaatioon.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Ammatillisuus ja etiikka ovat olennainen osa ydinosaamista: potilaan itsemääräämisoikeuden kunnioittaminen, päätösten huolellinen dokumentointi ja oman osaamisen rajojen tunnistaminen suojaavat sekä potilasta että ensihoitajaa."
+  }
+]

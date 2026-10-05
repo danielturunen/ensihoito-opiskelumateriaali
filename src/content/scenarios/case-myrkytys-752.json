@@ -1,0 +1,59 @@
+{
+  "id": "case-myrkytys-752",
+  "title": "Tapaus: Myrkytys",
+  "dispatchCode": "752",
+  "intro": "Hätäkeskus: \"Kohteena kerrostalon asunto. Ystävä soittanut hätäkeskukseen, koska 27-vuotias mies on löytynyt makaamasta kylpyhuoneen lattialta eikä herää. Vieressä tyhjä lääkepurkki ja ruisku. Hengitys hätäkeskuksen mukaan hidasta.\"",
+  "steps": [
+    {
+      "id": "step1",
+      "situation": "Saavutte rapun eteen. Ystävä odottaa ovella hermostuneena ja kertoo, että asunnossa saattaa olla muitakin käyttäjiä paikalla. Hän ei tiedä varmasti, mitä potilas on käyttänyt.",
+      "question": "Mikä on ensimmäinen oikea toimenpide ennen asuntoon menoa?",
+      "choices": [
+        { "text": "Arvioidaan kohteen turvallisuus: selvitetään onko asunnossa muita henkilöitä tai näkyviä vaaroja, ja pyydetään tarvittaessa poliisin virka-apua matalalla kynnyksellä", "correct": true, "feedback": "Oikein. Myrkytystehtävät voivat olla arvaamattomia - huumeiden käyttöpaikalla voi olla muita henkilöitä, neulanpistovaara ja mahdollista aggressiivisuutta. Oma turvallisuus arvioidaan aina ennen potilaan luo menemistä." },
+        { "text": "Mennään suoraan sisään ja aloitetaan elvytys, koska jokainen minuutti on tärkeä", "correct": false, "feedback": "Vaarallinen valinta. Vaikka kiire on todellinen, kohteen turvallisuutta ei saa ohittaa - ensihoitajan oma turvallisuus on edellytys sille, että potilasta voidaan ylipäätään auttaa." },
+        { "text": "Jäädään odottamaan ambulanssin ulkopuolelle, kunnes potilas kävelee itse ulos", "correct": false, "feedback": "Ei ole järkevä toimintatapa. Potilas on tajuton eikä pysty liikkumaan itse - tehtävä vaatii nopeaa mutta turvallista sisäänmenoa, ei passiivista odottelua." }
+      ]
+    },
+    {
+      "id": "step2",
+      "situation": "Kohde on turvallinen, muita henkilöitä ei ole paikalla. Löydätte potilaan kylpyhuoneen lattialta. Hän ei reagoi puhutteluun. Hengitystaajuus on 6/min ja pinnallinen, pupillit ovat pistemäisen pienet. Iho on viileä mutta ei kalpea. Vieressä on tyhjä lääkepurkki ja käytetty ruisku.",
+      "question": "Mitkä löydökset ohjaavat epäilyäsi ja mikä on seuraava toimenpide?",
+      "choices": [
+        { "text": "Hidas hengitys, pienet pupillit ja tajuttomuus viittaavat opioiditoksidromiin - varmista ensin ilmatie ja avusta hengitystä", "correct": true, "feedback": "Oikein. Hengityslama, mioosi (pienet pupillit) ja tajuttomuus ovat opioidimyrkytyksen klassinen oirekolmio. ABCDE-periaatteen mukaisesti ilmatie ja hengitys turvataan ennen muita toimenpiteitä, myös ennen naloksonin antoa." },
+        { "text": "Annetaan heti naloksoni ennen ilmatien ja hengityksen arviointia", "correct": false, "feedback": "Väärä järjestys. Ilmatie ja hengitys on aina varmistettava ja tarvittaessa avustettava ensin - naloksoni ei korvaa ilmatien hallintaa ja hengityksen tukea, jotka ovat ensisijaisia." },
+        { "text": "Todetaan, että pistemäiset pupillit viittaavat kolinergiseen myrkytykseen ja aloitetaan sen mukainen hoito", "correct": false, "feedback": "Väärä tulkinta. Vaikka kolinergisessakin myrkytyksessä pupillit voivat olla pienet, hidas hengitys ja ruisku viitteineen sopivat paljon paremmin opioiditoksidromiin." }
+      ]
+    },
+    {
+      "id": "step3",
+      "situation": "Olette avustaneet hengitystä ventilaatiopussilla ja saturaatio on noussut. Potilaalla on edelleen hengityslama eikä hän herää. Suoniyhteyttä ei ole vielä saatu.",
+      "question": "Mikä on seuraava oikea hoitotoimenpide?",
+      "choices": [
+        { "text": "Annetaan naloksoni lihakseen tai suonensisäisesti heti suoniyhteyden saamisen jälkeen, toistaen annos tarpeen mukaan, kunnes hengitys on riittävä", "correct": true, "feedback": "Oikein. Naloksoni on opioidimyrkytyksen antidootti, joka kumoaa hengityslaman. Annos toistetaan tarvittaessa, kunnes potilaan oma hengitys on riittävä. Ventilaatiotuki jatkuu annon rinnalla, kunnes vaste näkyy." },
+        { "text": "Odotetaan, että potilas herää itsestään, koska avustettu hengitys riittää hoidoksi", "correct": false, "feedback": "Ei ole paras ratkaisu. Naloksoni on spesifinen ja tehokas antidootti opioidimyrkytykseen, ja sen antamatta jättäminen pitkittää hengityslamaa ja viivästyttää potilaan toipumista tarpeettomasti." },
+        { "text": "Annetaan lääkehiiltä suun kautta hengityslaman korjaamiseksi", "correct": false, "feedback": "Väärä valinta. Lääkehiili ei sovellu tajuttomalle potilaalle, jonka ilmatietä ei ole varmistettu - aspiraatioriski on suuri, eikä lääkehiili korjaa jo tapahtunutta imeytymistä tai hengityslamaa." }
+      ]
+    },
+    {
+      "id": "step4",
+      "situation": "Naloksonin annon jälkeen potilas herää, hengitys normalisoituu ja hän alkaa puhua. Hän vaikuttaa ärtyneeltä ja sanoo haluavansa jäädä kotiin, koska \"on ihan kunnossa\".",
+      "question": "Miten toimitte potilaan kieltäytyessä kuljetuksesta?",
+      "choices": [
+        { "text": "Selitätte rauhallisesti, että naloksonin vaikutus on usein lyhyempi kuin opioidin, joten hengityslama voi uusiutua - pyritte saamaan potilaan suostumaan kuljetukseen ja arvioimaan tilanteen uudelleen, tarvittaessa konsultoiden", "correct": true, "feedback": "Oikein. Naloksonin vaikutusaika (noin 20-90 min) on usein lyhyempi kuin monien opioidien, joten hengityslama voi uusiutua potilaan jäädessä ilman valvontaa. Tämä on tärkeä perustella potilaalle, ja kieltäytymistilanteessa toimitaan paikallisen ohjeistuksen ja tarvittaessa konsultaation mukaisesti." },
+        { "text": "Annetaan potilaan jäädä kotiin heti, koska hän vaikuttaa tällä hetkellä täysin virkeältä", "correct": false, "feedback": "Vaarallinen valinta. Herääminen naloksonin jälkeen ei tarkoita, että myrkytys on ohi - hengityslama voi palata antidootin vaikutuksen hiipuessa, ja potilas voi menehtyä ilman valvontaa." },
+        { "text": "Poistutaan paikalta heti potilaan kieltäydyttyä, ilman tarkempaa keskustelua tai kirjaamista", "correct": false, "feedback": "Ei ole asianmukainen toimintatapa. Tilanne vaatii huolellisen keskustelun potilaan kanssa, riskien läpikäynnin, kirjaamisen ja tarvittaessa konsultaation ennen päätöstä - pelkkä poistuminen ei täytä hoitovastuuta." }
+      ]
+    },
+    {
+      "id": "step5",
+      "situation": "Potilas suostuu lopulta kuljetukseen. Valmistaudutte siirtymään ambulanssiin ja matkalle sairaalaan.",
+      "question": "Mitä teette ennen kuljetusta ja sen aikana?",
+      "choices": [
+        { "text": "Kerätte mukaan tyhjän lääkepurkin ja muut löydökset, teette ennakkoilmoituksen sairaalaan ja seuraatte hengitystä ja tajuntaa jatkuvasti kuljetuksen ajan mahdollisen uusiutuvan hengityslaman varalta", "correct": true, "feedback": "Oikein. Löydökset (tyhjä lääkepurkki, ruisku) auttavat sairaalaa tunnistamaan aineen. Ennakkoilmoitus valmistaa vastaanottavan yksikön, ja jatkuva seuranta on välttämätöntä, koska naloksonin vaikutus voi hävitä ennen opioidin vaikutusta." },
+        { "text": "Jätetään löydökset kohteeseen, koska niillä ei ole merkitystä hoidon kannalta", "correct": false, "feedback": "Väärin. Tyhjät lääkepakkaukset ja käyttövälineet ovat tärkeää tietoa sairaalalle aineen ja määrän arvioimiseksi - ne kerätään aina mukaan." },
+        { "text": "Lopetetaan seuranta heti, kun potilas vaikuttaa virkeältä kuljetuksen alkaessa", "correct": false, "feedback": "Vaarallinen valinta. Tilan seurantaa pitää jatkaa koko kuljetuksen ajan, koska naloksonin lyhyempi vaikutusaika voi johtaa hengityslaman uusiutumiseen matkan aikana." }
+      ]
+    }
+  ],
+  "debrief": "Tapaus kuvaa tyypillistä opioidimyrkytystä, jossa oman turvallisuuden arviointi, toksidromin tunnistaminen (hengityslama, mioosi) ja ABCDE-periaatteen mukainen ilmatien ja hengityksen tukeminen edelsivät naloksonin antoa. Potilaan herääminen antidootin jälkeen ei poista kuljetustarvetta, koska naloksonin vaikutusaika on usein lyhyempi kuin opioidin - hengityslama voi uusiutua. Löydösten kerääminen, ennakkoilmoitus ja jatkuva seuranta kuljetuksen aikana ovat olennainen osa turvallista hoitoketjua."
+}

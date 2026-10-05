@@ -1,0 +1,20 @@
+[
+  { "id": "alkoholin-vaarinkaytto-f1", "front": "Alkoholin suurkulutuksen riskiraja (alle 65v)", "back": "Miehet: 23-24 annosta/viikko. Naiset: 12-16 annosta/viikko. Yksi annos ≈ 12 g alkoholia (esim. pullo keskiolutta)." },
+  { "id": "alkoholin-vaarinkaytto-f2", "front": "Vieroitusoireiden alkamisajankohta", "back": "Tyypillisesti 1-6 (useimmin 3-4) vuorokauden kuluttua juomisen lopettamisesta, kestoltaan 3-7 vuorokautta." },
+  { "id": "alkoholin-vaarinkaytto-f3", "front": "Delirium tremens", "back": "Vaikea vieroitusoire: sekavuus, kiihtymys, kuume, voimakkaat harhat, kouristelu, neste-suolatasapainon häiriöt. Voi johtaa kuolemaan." },
+  { "id": "alkoholin-vaarinkaytto-f4", "front": "Wernicken tauti - oireet", "back": "Nystagmus (silmävärve), tajunnan häiriö, kävely- ja tasapainovaikeudet, ääreishermoston tuntohäiriöt. Hoitamattomana kuolleisuus lähes 20 %." },
+  { "id": "alkoholin-vaarinkaytto-f5", "front": "Miksi tiamiini ennen glukoosia?", "back": "Estää Wernicken taudin laukeamisen, kun tiamiinivajeiselle potilaalle annetaan hiilihydraatteja." },
+  { "id": "alkoholin-vaarinkaytto-f6", "front": "Korsakovin psykoosi", "back": "Wernicken taudin eteneminen: pysyvä muistihäiriö ja muistiaukkojen täyttäminen satuilulla (konfabulaatio). Ei parantavaa hoitoa." },
+  { "id": "alkoholin-vaarinkaytto-f7", "front": "Alkoholin suurkuluttajan tyypillinen aivovamma", "back": "Subduraalihematooma - riski on huomattavasti kohonnut kaatumisten ja tasapainovaikeuksien vuoksi." },
+  { "id": "alkoholin-vaarinkaytto-f8", "front": "Akuutin pankreatiitin yleisin syy", "back": "Alkoholi (noin 70 % tapauksista). Oireena vyömäinen ylävatsakipu, pahoinvointi, oksentelu." },
+  { "id": "alkoholin-vaarinkaytto-f9", "front": "Maksavaurion kolme vaihetta alkoholin suurkulutuksessa", "back": "Rasvamaksa → alkoholihepatiitti → maksakirroosi." },
+  { "id": "alkoholin-vaarinkaytto-f10", "front": "Antabusreaktio", "back": "Disulfiraami tai metronidatsoli + alkoholi estää asetaldehydin hajoamisen: päänsärky, pahoinvointi, kasvojen punoitus, takykardia, matala verenpaine." },
+  { "id": "alkoholin-vaarinkaytto-f11", "front": "Alkoholin aiheuttama ketoasidoosi", "back": "Voi muistuttaa diabeettista ketoasidoosia (tajunnan lasku, kiivas hengitys, matala verenpaine), mutta verensokeri voi olla matala tai normaali." },
+  { "id": "alkoholin-vaarinkaytto-f12", "front": "Alkoholipolyneuropatia", "back": "Tunto- ja liikehermojen sairaus, jota esiintyy jopa 80 %:lla alkoholin suurkuluttajista - alkaa raajojen ääreisosista." },
+  { "id": "alkoholin-vaarinkaytto-f13", "front": "Alkoholikardiomyopatia", "back": "Vasemman kammion laajeneminen ja heikentynyt supistuminen pitkäaikaisen suurkulutuksen seurauksena; suurin yksittäinen kardiomyopatian riskitekijä." },
+  { "id": "alkoholin-vaarinkaytto-f14", "front": "Mitkä kaksi mittausta tehdään aina päihtyneelle?", "back": "Verenpaine ja verensokeri - erottavat pelkän humalan vakavammasta tilasta." },
+  { "id": "alkoholin-vaarinkaytto-f15", "front": "Milloin päihtynyt ei tarvitse sairaalahoitoa pelkän humalan vuoksi?", "back": "Kun potilas on tajuissaan, puhaltaa alle n. 2,5-3,0 promillea ja peruselintoiminnot ovat kunnossa." },
+  { "id": "alkoholin-vaarinkaytto-f16", "front": "Muita sairaalaseurannan aiheita päihtyneellä", "back": "Myrkytysepäily, rintakipu, hengitysvaikeus, vatsakipu tai muu peruselintoimintojen häiriö." },
+  { "id": "alkoholin-vaarinkaytto-f17", "front": "Vieroitusoireiden hoidon kulmakivet", "back": "Sympaattisen ylivilkkauden hillitseminen (bentsodiatsepiini), kouristusten esto, neste-suolatasapainon korjaus, vitamiinien (tiamiini) korvaus." },
+  { "id": "alkoholin-vaarinkaytto-f18", "front": "Alkoholin vaikutus muiden lääkkeiden kanssa", "back": "Voimistaa opioidien ja rauhoittavien hengityslamaa, lisää parasetamolin maksatoksisuutta, tehostaa diabeteslääkkeiden vaikutusta (hypoglykemiariski)." }
+]

@@ -1,0 +1,20 @@
+[
+  { "id": "sokeritasapainon-hairiot-f1", "front": "Hypoglykemian raja-arvot", "back": "Hypoglykemia: ≤3,9 mmol/l. Merkittävä: ≤3,0 mmol/l. Vaikeat aivo-oireet mahdollisia: ≤2,5 mmol/l." },
+  { "id": "sokeritasapainon-hairiot-f2", "front": "Autonomiset vs. neuroglykopeeniset oireet", "back": "Autonomiset: vapina, hikoilu, sydämentykytys (varoittava). Neuroglykopeeniset: sekavuus, näköhäiriöt, kouristelu, tajuttomuus (aivojen energiavaje)." },
+  { "id": "sokeritasapainon-hairiot-f3", "front": "Hypoglykemian hoito tajuissaan olevalle", "back": "Nopeat hiilihydraatit suun kautta (sokerijuoma, glukoositabletit). Jos verensokeri <2,8 mmol/l, siirry suoraan IV-glukoosiin." },
+  { "id": "sokeritasapainon-hairiot-f4", "front": "Hypoglykemian hoito tajuttomalle", "back": "Suonensisäinen glukoosi (esim. 100 ml 10 % glukoosiliuosta). Jos suoniyhteyttä ei saada: glukagoni 1 mg lihakseen." },
+  { "id": "sokeritasapainon-hairiot-f5", "front": "Milloin glukagoni ei tehoa?", "back": "Kun maksan glykogeenivarastot ovat tyhjät: pitkä paasto, aliravitsemus tai runsas alkoholinkäyttö." },
+  { "id": "sokeritasapainon-hairiot-f6", "front": "DKA:n patofysiologia lyhyesti", "back": "Insuliinin puute → solut eivät saa glukoosia → keho polttaa rasvaa → syntyy happamia ketoaineita → veri happamoituu (metabolinen asidoosi)." },
+  { "id": "sokeritasapainon-hairiot-f7", "front": "DKA:n tyypilliset laukaisevat tekijät", "back": "Infektiot, insuliinihoidon laiminlyönti, insuliinipumpun vika, tyypin 1 diabeteksen ensi-ilmeneminen." },
+  { "id": "sokeritasapainon-hairiot-f8", "front": "Kussmaulin hengitys", "back": "Syvä, työläs hengitys, jolla elimistö pyrkii kompensoimaan metabolista asidoosia DKA:ssa. Ei saa hoitaa paperipussilla." },
+  { "id": "sokeritasapainon-hairiot-f9", "front": "DKA:n hoidon tärkeysjärjestys", "back": "1) Nesteytys (hengenpelastava), 2) insuliini (vain lääkärikonsultaation mukaan), 3) elektrolyyttien korjaus sairaalassa." },
+  { "id": "sokeritasapainon-hairiot-f10", "front": "Miksi DKA voi muistuttaa akuuttia vatsaa?", "back": "DKA aiheuttaa usein pahoinvointia, oksentelua ja vatsakipua - mittaa aina verensokeri ja ketoaineet vatsakipuiselta diabeetikolta." },
+  { "id": "sokeritasapainon-hairiot-f11", "front": "Ketoaineiden tulkinta", "back": "<1,5 mmol/l normaali, 1,5-3,0 mmol/l koholla, >3,0 mmol/l viittaa vahvasti DKA:han." },
+  { "id": "sokeritasapainon-hairiot-f12", "front": "Insuliinipumppupotilaan erityisriski", "back": "Pumppu sisältää vain pika-/lyhytvaikutteista insuliinia - jos se hajoaa, DKA voi kehittyä 3-5 tunnissa, koska pitkävaikutteista varajärjestelmää ei ole." },
+  { "id": "sokeritasapainon-hairiot-f13", "front": "HHS - tyypillinen potilas ja laukaisija", "back": "Iäkäs tyypin 2 diabeetikko, laukaisijana usein infektio tai kuivuminen." },
+  { "id": "sokeritasapainon-hairiot-f14", "front": "HHS vs. DKA - keskeinen ero", "back": "HHS:ssä ei ole merkittävää asidoosia eikä Kussmaulin hengitystä, verensokeri on erittäin korkea (yli 30 mmol/l) ja neurologiset oireet korostuvat." },
+  { "id": "sokeritasapainon-hairiot-f15", "front": "Miksi HHS:ssä nesteytys tulee ennen insuliinia?", "back": "Insuliini siirtää vettä soluihin ja voi pahentaa kuivumista sekä aiheuttaa aivoödeemaa, jos nestevaje ei ole korjattu ensin." },
+  { "id": "sokeritasapainon-hairiot-f16", "front": "Tyyppi 1 vs. tyyppi 2 diabetes - tyypillinen hätätila", "back": "Tyyppi 1: DKA (absoluuttinen insuliininpuute). Tyyppi 2: HHS (insuliiniresistenssi, osittainen insuliinin tuotanto jäljellä)." },
+  { "id": "sokeritasapainon-hairiot-f17", "front": "Turvallinen kotiin jättäminen hypoglykemian jälkeen - ehdot", "back": "Potilas oireeton ja neurologisesti normaali, syy selvillä ja hallinnassa, ruokaa saatavilla, joku paikalla, ei ensimmäinen vakava hypoglykemia." },
+  { "id": "sokeritasapainon-hairiot-f18", "front": "Alkoholin vaikutus verensokeriin", "back": "Alkoholi estää maksan glukoosin tuotantoa ja voi aiheuttaa hypoglykemiaa jopa 36 tuntia nauttimisen jälkeen." }
+]

@@ -1,0 +1,17 @@
+[
+  { "id": "ilmarinta-f1", "front": "Mikä on pleura?", "back": "Keuhkoa ja rintakehän sisäpintaa ympäröivä kaksikerroksinen kalvo. Niiden välissä on pleuratila." },
+  { "id": "ilmarinta-f2", "front": "Mitä tapahtuu, kun pleuratilaan kertyy ilmaa tai verta?", "back": "Se painaa keuhkoa kasaan, mikä heikentää keuhkon toimintaa ja hengitystä." },
+  { "id": "ilmarinta-f3", "front": "Mikä aiheuttaa jänniteilmarinnan paineen jatkuvan nousun?", "back": "Yksisuuntainen venttiilimekanismi: ilma pääsee pleuratilaan sisäänhengityksellä, mutta ei pääse ulos uloshengityksellä." },
+  { "id": "ilmarinta-f4", "front": "Mikä on jänniteilmarinnan kardinaalilöydös?", "back": "Toispuolisesti täysin puuttuvat tai hyvin vaimeat hengitysäänet." },
+  { "id": "ilmarinta-f5", "front": "Miksi jänniteilmarinta aiheuttaa verenkierron romahduksen?", "back": "Kasvava paine siirtää välikarsinaa ja taivuttaa suuria laskimoita, mikä estää veren paluun sydämeen (obstruktiivinen sokki)." },
+  { "id": "ilmarinta-f6", "front": "Mikä on jänniteilmarinnan ainoa tehokas hoito?", "back": "Neulatorakosenteesi (dekompressio) — paineen välitön purkaminen rintaontelosta neulalla." },
+  { "id": "ilmarinta-f7", "front": "Miksi jänniteilmarintaa ei saa hoitaa CPAP:lla ennen dekompressiota?", "back": "Ylipainehengitys pahentaa ilmavuotoa ja nopeuttaa paineen kertymistä pleuratilassa." },
+  { "id": "ilmarinta-f8", "front": "Millaisia muita löydöksiä jänniteilmarinnassa voi esiintyä kardinaalilöydöksen lisäksi?", "back": "Kaulalaskimoiden pullotus, henkitorven siirtymä terveen puolen suuntaan (myöhäinen löydös), ihonalainen ilmapahka, hypotensio ja takykardia." },
+  { "id": "ilmarinta-f9", "front": "Mikä erottaa veririnnan (hemothorax) ilmarinnasta?", "back": "Veririnnassa pleuratilaan kertyy verta ilman sijaan, ja siihen liittyy usein merkittävä hypovolemia (verenvajaus)." },
+  { "id": "ilmarinta-f10", "front": "Minkä potilasryhmän spontaani ilmarinta on tyypillinen?", "back": "Nuoret, hoikat miehet (primaarinen ilmarinta) ja keuhkosairautta, erityisesti COPD:ta, sairastavat." },
+  { "id": "ilmarinta-f11", "front": "Mikä erottaa massiivisen keuhkoembolian jänniteilmarinnasta?", "back": "Keuhkoembolian auskultaatiolöydös on tyypillisesti normaali, kun jänniteilmarinnassa hengitysäänet puuttuvat toispuolisesti." },
+  { "id": "ilmarinta-f12", "front": "Miksi diagnoosi tehdään kliinisesti, ei kuvantamisella?", "back": "Koska jänniteilmarinta on hengenvaarallinen ja etenee nopeasti — hoidon viivyttäminen kuvantamisen odottamiseksi voi olla kohtalokasta." },
+  { "id": "ilmarinta-f13", "front": "Mitä tarkoittaa obstruktiivinen sokki?", "back": "Verenkierron romahdus, joka johtuu mekaanisesta esteestä (esim. jänniteilmarinta tai sydänpussin tamponaatio), ei verenvajauksesta tai sydänlihaksen heikkoudesta." },
+  { "id": "ilmarinta-f14", "front": "Milloin jänniteilmarintaa pitää epäillä intuboidulla potilaalla?", "back": "Jos potilasta on yllättäen vaikea ventiloida ja verenkierto pettää samaan aikaan." },
+  { "id": "ilmarinta-f15", "front": "Mitä hoitoa veririnta ensisijaisesti vaatii?", "back": "Happihoitoa, nesteytystä hypovolemian hoitoon ja nopeaa kuljetusta traumakeskukseen." }
+]

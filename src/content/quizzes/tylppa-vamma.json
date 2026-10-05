@@ -1,0 +1,117 @@
+[
+  {
+    "id": "tylppa-vamma-q1",
+    "type": "mcq",
+    "question": "Mikä erottaa tylpän vamman lävistävästä vammasta?",
+    "options": [
+      "Tylpässä vammassa ei voi syntyä sisäelinvaurioita",
+      "Tylpässä vammassa iho pysyy ehjänä, vaikka kudosvaurio voi olla laaja",
+      "Tylppä vamma vaatii aina leikkaushoidon",
+      "Tylppä vamma syntyy vain liikenneonnettomuuksissa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tylpässä vammassa ihon eheys säilyy, mutta sisäinen kudosvaurio voi silti olla laaja ja hengenvaarallinen – ulkoinen löydös ei kerro vamman todellista vakavuutta."
+  },
+  {
+    "id": "tylppa-vamma-q2",
+    "type": "truefalse",
+    "question": "Jos vammaenergiasta ei saada tarkkaa tietoa, potilasta tulee hoitaa korkeaenergisesti vammautuneena, kunnes toisin voidaan osoittaa.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Tämä on tylpän vamman hoidon perusperiaate, koska korkea vammaenergia voi aiheuttaa vakavia piileviä vaurioita, vaikka potilas vaikuttaisi tutkimushetkellä vakaalta."
+  },
+  {
+    "id": "tylppa-vamma-q3",
+    "type": "mcq",
+    "question": "Mikä seuraavista kuuluu korkean vammaenergian merkkeihin?",
+    "options": [
+      "Kaatuminen samalta tasolta kävellessä",
+      "Putoaminen korkeudesta yli 3 metriä",
+      "Lievä nyrjähdys urheilusuorituksessa",
+      "Pieni ruhjevamma kädessä"
+    ],
+    "correctIndex": 1,
+    "explanation": "Putoaminen yli 3 metrin korkeudesta, nopeat liikenneonnettomuudet, moottoripyöräonnettomuudet ja räjähdykset luokitellaan korkean vammaenergian mekanismeiksi."
+  },
+  {
+    "id": "tylppa-vamma-q4",
+    "type": "mcq",
+    "question": "Mikä on verenpainetavoite tylpän vamman potilaalla, jolla epäillään samanaikaista aivovammaa?",
+    "options": [
+      "SAP > 80 mmHg",
+      "SAP > 100 mmHg",
+      "SAP > 120 mmHg",
+      "Verenpaineen tasolla ei ole merkitystä"
+    ],
+    "correctIndex": 2,
+    "explanation": "Aivovammaepäilyssä tavoitellaan korkeampaa verenpainetta (SAP > 120 mmHg), jotta aivojen perfuusiopaine pysyy riittävänä. Ilman aivovammaepäilyä riittää rannesykkeen tuntuminen tai SAP > 80 mmHg."
+  },
+  {
+    "id": "tylppa-vamma-q5",
+    "type": "truefalse",
+    "question": "Henkeä uhkaavassa raajan verenvuodossa kiristysside asetetaan raajan tyveen, ja sen poistamista harkitaan vasta, kun vuoto on varmasti saatu hallintaan.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Kiristysside on ensivaiheen keino henkeä uhkaavassa vuodossa. Hoitoa voidaan keventää painesiteeseen, kun tilanne sallii, mutta henkeä uhkaavaa vuotoa ei vapauteta hallitsematta vuototilannetta."
+  },
+  {
+    "id": "tylppa-vamma-q6",
+    "type": "mcq",
+    "question": "Mitkä löydökset yhdessä herättävät epäilyn paineilmarinnasta rintakehävammautuneella?",
+    "options": [
+      "Lievä yskä ja kuume",
+      "Kriittinen/paheneva hengitysvaikeus ja levottomuus, JA poikkeava rintakehän liike tai puuttuva hengitysääni vauriopuolella",
+      "Normaali SpO2 ja rauhallinen hengitys",
+      "Pelkkä ihon kalpeus"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paineilmarintaepäily herää, kun kriittinen tai paheneva hengitysvaikeus ja levottomuus yhdistyvät joko vauriopuolen poikkeavaan liikkeeseen (mahdollisesti ihonalainen ilma) tai puuttuvaan hengitysääneen."
+  },
+  {
+    "id": "tylppa-vamma-q7",
+    "type": "mcq",
+    "question": "Minkä kriteeristön avulla arvioidaan kaularangan tukemisen tarve tylpässä vammassa 15–65-vuotiaalla?",
+    "options": [
+      "GCS-asteikko",
+      "NEXUS-kriteerit",
+      "AVPU-asteikko",
+      "SOCRATES-muistisääntö"
+    ],
+    "correctIndex": 1,
+    "explanation": "NEXUS-kriteerit (kaularangan palpaatiokipu, neurologiset puolierot, alentunut tajunta, päihtymys, kivuliaat lisävammat) ohjaavat tukemistarpeen arviointia. Yksikin täyttyvä kriteeri johtaa koko rangan tukemiseen."
+  },
+  {
+    "id": "tylppa-vamma-q8",
+    "type": "truefalse",
+    "question": "Tyhjiöpatja on ensisijainen tukemisväline etenkin pitkissä, yli 30 minuutin kuljetuksissa, kun rankalautaa käytetään lähinnä siirtämiseen.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Tyhjiöpatja mukautuu potilaan muotoon ja on mukavampi pitkässä kuljetuksessa. Rankalauta ja kauhaparit ovat ensisijaisesti evakuointi- ja siirtovälineitä."
+  },
+  {
+    "id": "tylppa-vamma-q9",
+    "type": "mcq",
+    "question": "Miksi hypotermian ehkäisy on tärkeä osa tylpän vamman hoitoa?",
+    "options": [
+      "Koska se parantaa potilaan mielialaa",
+      "Koska hypotermia heikentää veren hyytymistä ja pahentaa sokkia",
+      "Koska se nostaa verenpainetta",
+      "Hypotermialla ei ole yhteyttä vammapotilaan hoitoon"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hypotermia heikentää hyytymistekijöiden toimintaa ja sydämen pumppauskykyä, mikä pahentaa vuotosokkia. Siksi aktiivinen lämmitys aloitetaan mahdollisimman varhain."
+  },
+  {
+    "id": "tylppa-vamma-q10",
+    "type": "mcq",
+    "question": "Milloin traneksaamihappoa (1 g i.v.) harkitaan tylpän vamman potilaalle?",
+    "options": [
+      "Kaikille vammapotilaille rutiinisti",
+      "Epäiltäessä runsasta verenvuotoa tai aikuisen vaikeaa aivovammaa",
+      "Vain lapsipotilaille",
+      "Vain, jos potilaalla on kuumetta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Traneksaamihappoa annetaan epäiltäessä runsasta verenvuotoa tai aikuisen vaikeaa aivovammaa, osana vuotosokin ja aivovamman hoitoa."
+  }
+]

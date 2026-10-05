@@ -1,0 +1,20 @@
+[
+  { "id": "intoksikaatiopotilaan-hoito-f1", "front": "\"Hoida potilasta, älä myrkkyä\"", "back": "Peruselintoimintojen tukeminen ABCDE-mallin mukaisesti on aina ensisijaista; antidootit ja erityishoidot ovat toissijaisia." },
+  { "id": "intoksikaatiopotilaan-hoito-f2", "front": "Miksi myrkytystä kannattaa lähestyä sekamyrkytyksenä?", "back": "Harvoin kyse on vain yhdestä aineesta - ilmoittamaton alkoholi tai muu aine voi muuttaa kliinistä kuvaa ja antidoottien turvallisuutta." },
+  { "id": "intoksikaatiopotilaan-hoito-f3", "front": "Pulssioksimetrin rajoitus häkämyrkytyksessä", "back": "Ei erota happihemoglobiinia karboksihemoglobiinista - voi näyttää virheellisen normaalin tai korkean saturaation." },
+  { "id": "intoksikaatiopotilaan-hoito-f4", "front": "Opioiditoksidromi", "back": "Hengityslama, pienet pupillit (mioosi), matala verenpaine ja syke, normaali/viileä iho." },
+  { "id": "intoksikaatiopotilaan-hoito-f5", "front": "Sympatomimeettinen toksidromi", "back": "Kiihtymys, takykardia, kohonnut verenpaine, laajat pupillit, hikoileva iho, hypertermia." },
+  { "id": "intoksikaatiopotilaan-hoito-f6", "front": "Antikolinerginen toksidromi", "back": "Kiihtymys, takykardia, laajat pupillit, KUIVA ja punoittava iho, hypertermia - erottuu sympatomimeettisestä ihon kautta." },
+  { "id": "intoksikaatiopotilaan-hoito-f7", "front": "Kolinerginen toksidromi (DUMBELS)", "back": "Diarrhea, Urination, Miosis, Bradycardia/Bronchospasmi, Emesis, Lacrimation, Salivation - potilas on \"märkä\"." },
+  { "id": "intoksikaatiopotilaan-hoito-f8", "front": "Lääkehiilen annostus", "back": "Aikuiset 50-100 g, lapset 1 g/kg. Tehokkain tunnin sisällä aineen nauttimisesta." },
+  { "id": "intoksikaatiopotilaan-hoito-f9", "front": "Mihin lääkehiili ei tehoa?", "back": "Alkoholit (etanoli, metanoli, etyleeniglykoli), metallit (rauta, litium), hapot, emäkset, syanidi." },
+  { "id": "intoksikaatiopotilaan-hoito-f10", "front": "Lääkehiilen vasta-aiheet", "back": "Alentunut tajunta ilman varmistettua ilmatietä, syövyttävän aineen nieleminen, suolen toimimattomuus." },
+  { "id": "intoksikaatiopotilaan-hoito-f11", "front": "Naloksoni - käyttöaihe ja huomio", "back": "Opioidimyrkytys. Vaikutusaika lyhyt (20-90 min) - hengityslama voi uusiutua, potilas kuljetetaan aina sairaalaan." },
+  { "id": "intoksikaatiopotilaan-hoito-f12", "front": "Flumatseniili - riski", "back": "Voi laukaista vaikean kouristelun sekamyrkytyksessä (esim. trisykliset masennuslääkkeet) - vältetään ensihoidossa." },
+  { "id": "intoksikaatiopotilaan-hoito-f13", "front": "Hydroksokobalamiini", "back": "Syanidimyrkytyksen antidootti (esim. palokaasut). Värjää ihon ja eritteet voimakkaan punaisiksi." },
+  { "id": "intoksikaatiopotilaan-hoito-f14", "front": "Natriumbikarbonaatti myrkytyksissä", "back": "Käytetään trisyklisten masennuslääkkeiden aiheuttamassa leveäkompleksisessa takykardiassa (QRS merkittävästi leventynyt)." },
+  { "id": "intoksikaatiopotilaan-hoito-f15", "front": "Miksi tiamiini annetaan ennen glukoosia alkoholistille?", "back": "Estää Wernicken enkefalopatian kehittymisen, kun hiilihydraatit annetaan tiamiinivajeiselle potilaalle." },
+  { "id": "intoksikaatiopotilaan-hoito-f16", "front": "Parasetamolimyrkytyksen petollisuus", "back": "Alkuoireet voivat olla lieviä tai puuttua, vaikka vakava maksavaurio kehittyy 1-4 vuorokauden kuluessa." },
+  { "id": "intoksikaatiopotilaan-hoito-f17", "front": "Myrkytyksen aiheuttaman hypertermian hoito", "back": "Aktiivinen fyysinen viilennys (riisu, kostuta, tuuleta). Kuumelääkkeet eivät tehoa, mekanismi on eri kuin infektiokuumeessa." },
+  { "id": "intoksikaatiopotilaan-hoito-f18", "front": "Kouristelevan myrkytyspotilaan ensisijainen lääkehoito", "back": "Bentsodiatsepiini (esim. diatsepaami tai midatsolaami) i.v., i.m. tai posken limakalvolle, peruselintoiminnot turvaten." }
+]

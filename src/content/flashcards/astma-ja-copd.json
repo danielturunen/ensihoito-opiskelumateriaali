@@ -1,0 +1,17 @@
+[
+  { "id": "astma-ja-copd-f1", "front": "Mikä hengitysvaihe vaikeutuu tyypillisesti astmassa ja COPD:ssa?", "back": "Uloshengitys — ilma jää loukkuun ahtautuneiden keuhkoputkien taakse." },
+  { "id": "astma-ja-copd-f2", "front": "Mitkä kolme mekanismia ahtauttavat keuhkoputkia astman kohtauksessa?", "back": "Bronkospasmi (sileän lihaksen supistuminen), limakalvon turpoaminen ja lisääntynyt limaneritys." },
+  { "id": "astma-ja-copd-f3", "front": "Mitä tarkoittaa 'hiljainen keuhko'?", "back": "Tila, jossa hengitysäänet (myös vinkuna) häviävät, koska ilmaa ei enää liiku riittävästi. Vakava vaaran merkki, ei paranemista." },
+  { "id": "astma-ja-copd-f4", "front": "Mikä on COPD-potilaan happihoidon yleinen SpO2-tavoite?", "back": "Noin 88–92 %, koska liiallinen happi voi johtaa hiilidioksidinarkoosiin (hengityksen lamaantumiseen)." },
+  { "id": "astma-ja-copd-f5", "front": "Miten beeta-2-agonisti vaikuttaa?", "back": "Stimuloi beeta-2-reseptoreita, jolloin keuhkoputken sileä lihas relaksoituu. Vaikutus alkaa nopeasti, minuuteissa." },
+  { "id": "astma-ja-copd-f6", "front": "Miten antikolinergi (esim. ipratropiumbromidi) vaikuttaa?", "back": "Salpaa muskariinireseptoreita ja estää hermoston aiheuttamaa bronkokonstriktiota sekä vähentää eritystä. Vaikutus alkaa hitaammin kuin beeta-2-agonistilla." },
+  { "id": "astma-ja-copd-f7", "front": "Miksi beeta-2-agonisti ja antikolinergi annetaan usein yhdessä?", "back": "Koska ne vaikuttavat eri reseptoreiden kautta ja täydentävät toisiaan, mikä tehostaa bronkodilataatiota vaikeassa obstruktiossa." },
+  { "id": "astma-ja-copd-f8", "front": "Mikä on keskeinen ero astman ja COPD:n taudinkulussa?", "back": "Astma on kohtauksittainen ja suurelta osin palautuva. COPD on krooninen, hitaasti etenevä ja vain osittain palautuva." },
+  { "id": "astma-ja-copd-f9", "front": "Miksi systeeminen kortikosteroidi annetaan astman/COPD:n pahenemassa mahdollisimman varhain?", "back": "Koska se hoitaa taustalla olevaa tulehdusta, mutta vaikutus näkyy vasta tuntien viiveellä." },
+  { "id": "astma-ja-copd-f10", "front": "Mitkä ovat yleisimmät COPD-potilaan tyypilliset taustatekijät?", "back": "Pitkäaikainen tupakointi, krooninen keuhkoputkitulehdus ja keuhkorakkuloiden vaurio (emfyseema)." },
+  { "id": "astma-ja-copd-f11", "front": "Mikä merkki kertoo mahdollisesta hiilidioksidin kertymisestä COPD-paheneman aikana?", "back": "Sekavuus ja uneliaisuus (hyperkapnian merkkejä)." },
+  { "id": "astma-ja-copd-f12", "front": "Milloin astma- tai COPD-potilas kuuluu päivystykseen?", "back": "Kun hengitys on selvästi vaikeutunut, puhuminen rajoittunutta, potilas uupunut, hoitovaste heikko tai tajunta muuttuu." },
+  { "id": "astma-ja-copd-f13", "front": "Miksi hengitysäänten hiljeneminen on vaarallinen löydös?", "back": "Se voi tarkoittaa, ettei potilas enää jaksa siirtää ilmaa — merkki uupumisesta, ei paranemisesta." },
+  { "id": "astma-ja-copd-f14", "front": "Mikä auskultaatiolöydös on tyypillinen astmassa ja COPD:ssa?", "back": "Vinkuna, erityisesti uloshengityksessä; COPD:ssa myös karkeampia rahinoita tai paikoin vaimentuneita ääniä." },
+  { "id": "astma-ja-copd-f15", "front": "Mikä riski liittyy liialliseen happeen COPD-potilaalla?", "back": "Se voi poistaa potilaan viimeisen hengitystä stimuloivan ärsykkeen ja johtaa hengityksen lamaantumiseen (hiilidioksidinarkoosi)." }
+]

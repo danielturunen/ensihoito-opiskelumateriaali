@@ -1,0 +1,83 @@
+[
+  {
+    "id": "ondansetroni-q1",
+    "type": "mcq",
+    "question": "Mihin reseptoriin ondansetroni vaikuttaa?",
+    "options": [
+      "Opioidireseptori",
+      "5-HT3-reseptori (serotoniini)",
+      "Beeta-adrenerginen reseptori",
+      "Muskariinireseptori"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ondansetroni on 5-HT3-reseptorin salpaaja, joka estää serotoniinin vaikutusta oksentelukeskuksessa ja suoliston vagushermopäätteissä."
+  },
+  {
+    "id": "ondansetroni-q2",
+    "type": "truefalse",
+    "question": "Ondansetroni lisää opioidien aiheuttamaa hengityslamaa.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 1,
+    "explanation": "Ondansetroni ei lisää opioidien hengityslamaa. Se hoitaa tehokkaasti opioidien aiheuttamaa pahoinvointia vaikuttamatta hengitykseen."
+  },
+  {
+    "id": "ondansetroni-q3",
+    "type": "mcq",
+    "question": "Mikä on tyypillinen aikuisen perusannos ondansetronia ensihoidossa?",
+    "options": [
+      "0,5 mg iv nopeana boluksena",
+      "4 mg iv/im hitaana boluksena",
+      "40 mg iv nopeana boluksena",
+      "4 mg suun kautta vain"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tyypillinen aikuisen perusannos on 4 mg laskimoon tai lihakseen annettuna hitaana boluksena noin 2–5 minuutin aikana, hoito-ohjeen mukaan."
+  },
+  {
+    "id": "ondansetroni-q4",
+    "type": "mcq",
+    "question": "Mikä on ondansetronin tärkein sydänturvallisuuteen liittyvä riski?",
+    "options": [
+      "Vakava bradykardia kaikilla potilailla",
+      "QT-ajan pidentyminen annoksesta riippuvasti",
+      "Verenpaineen nopea nousu",
+      "Sydämen vajaatoiminnan paheneminen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ondansetroni salpaa kaliumkanavia ja pidentää QT-aikaa annoksesta riippuvasti, mikä harvinaisena seurauksena voi johtaa torsades de pointes -rytmihäiriöön."
+  },
+  {
+    "id": "ondansetroni-q5",
+    "type": "truefalse",
+    "question": "Synnynnäinen pitkä QT -oireyhtymä on ehdoton vasta-aihe ondansetronin käytölle.",
+    "options": ["Oikein", "Väärin"],
+    "correctIndex": 0,
+    "explanation": "Synnynnäinen pitkä QT -oireyhtymä on ehdoton vasta-aihe, koska ondansetroni pidentää QT-aikaa edelleen ja lisää vaarallisen rytmihäiriön riskiä."
+  },
+  {
+    "id": "ondansetroni-q6",
+    "type": "mcq",
+    "question": "Miksi ondansetroni sopii hyvin yhteen morfiinin kanssa sepelvaltimotautikohtauksen hoidossa?",
+    "options": [
+      "Se tehostaa morfiinin kipua lievittävää vaikutusta",
+      "Se estää morfiinin aiheuttamaa pahoinvointia ja parantaa näin hoitomyöntyvyyttä",
+      "Se nopeuttaa morfiinin vaikutuksen alkamista",
+      "Se poistaa morfiinin tarpeen kokonaan"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ondansetroni estää tehokkaasti morfiinin tyypillisen sivuvaikutuksen, pahoinvoinnin, mikä parantaa potilaan kykyä sietää tarvittavaa kipulääkitystä."
+  },
+  {
+    "id": "ondansetroni-q7",
+    "type": "mcq",
+    "question": "Minkä yhdistelmän kanssa ondansetronilla on riski serotoniinioireyhtymään?",
+    "options": [
+      "Parasetamoli",
+      "Tramadoli ja SSRI-lääkkeet",
+      "Ibuprofeeni",
+      "Insuliini"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ondansetronin käyttö yhdessä muiden serotonergisten lääkkeiden, kuten tramadolin tai SSRI-lääkkeiden, kanssa lisää serotoniinioireyhtymän riskiä."
+  }
+]

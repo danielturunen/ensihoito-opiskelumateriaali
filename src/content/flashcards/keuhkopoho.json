@@ -1,0 +1,17 @@
+[
+  { "id": "keuhkopoho-f1", "front": "Mikä on sydänperäisen keuhkopöhön taustamekanismi?", "back": "Sydämen vasemman kammion pumppausvoiman pettäminen, jolloin paine nousee keuhkoverenkierrossa ja nestettä tihkuu keuhkorakkuloihin." },
+  { "id": "keuhkopoho-f2", "front": "Mitä ortopnea tarkoittaa?", "back": "Hengenahdistusta, joka pahenee makuulla ja helpottaa istuma-asennossa." },
+  { "id": "keuhkopoho-f3", "front": "Millainen yskös on klassinen keuhkopöhölle?", "back": "Vaahtoava, verensekainen yskös." },
+  { "id": "keuhkopoho-f4", "front": "Mikä on tyypillinen auskultaatiolöydös keuhkopöhössä?", "back": "Molemminpuoliset, hienojakoiset rahinat, tyypillisesti alaosista alkaen." },
+  { "id": "keuhkopoho-f5", "front": "Mitkä ovat keuhkopöhön hoidon neljä kulmakiveä?", "back": "Asentohoito (istuva, jalat alhaalla), happihoito, nitraatti kielen alle ja CPAP-hoito." },
+  { "id": "keuhkopoho-f6", "front": "Miksi nesteen antaminen on vasta-aiheista keuhkopöhössä?", "back": "Potilas on jo nesteylikuormitteinen — lisäneste pahentaa tilaa hengenvaarallisesti." },
+  { "id": "keuhkopoho-f7", "front": "Miten CPAP auttaa keuhkopöhössä?", "back": "Vähentää sydämen esikuormaa ja työntää nestettä pois keuhkorakkuloista — toimii fysiologisena tukihoitona nitraatin rinnalla." },
+  { "id": "keuhkopoho-f8", "front": "Miten nitraatti auttaa keuhkopöhössä?", "back": "Laajentaa laskimoita ja valtimoita, vähentäen sydämen esi- ja jälkikuormaa. Varo hypotensiota." },
+  { "id": "keuhkopoho-f9", "front": "Miksi istuva asento jalat alhaalla auttaa keuhkopöhössä?", "back": "Se vähentää veren paluuta sydämeen (esikuormaa) ja helpottaa hengitystä." },
+  { "id": "keuhkopoho-f10", "front": "Mikä erottaa keuhkopöhön keuhkokuumeesta?", "back": "Keuhkopöhö alkaa äkillisesti ja liittyy sydänsairauteen, auskultaatio on molemminpuolinen; keuhkokuumeessa on usein kuumetta ja paikallinen auskultaatiolöydös." },
+  { "id": "keuhkopoho-f11", "front": "Miksi oikea erotusdiagnoosi keuhkopöhön ja keuhkokuumeen välillä on kriittinen?", "back": "Niiden nestehoito on täysin päinvastainen: keuhkopöhössä neste on vaarallista, keuhkokuumeen sepsiksessä usein tarpeen." },
+  { "id": "keuhkopoho-f12", "front": "Millainen on tyypillinen keuhkopöhöpotilaan asento ja yleisvaikutelma?", "back": "Etukumartunut (tripod), kalpea, hikinen, voimakkaasti ahdistunut." },
+  { "id": "keuhkopoho-f13", "front": "Mikä on tyypillinen keuhkopöhön verenpaineen suunta?", "back": "Usein koholla (korkeapainepöhö), mutta nitraatti voi laskea sitä nopeasti." },
+  { "id": "keuhkopoho-f14", "front": "Mikä sydänsairaus on yleinen keuhkopöhön laukaisija?", "back": "Sydäninfarkti ja pitkäaikainen verenpainetauti, jotka heikentävät vasemman kammion pumppauskykyä." },
+  { "id": "keuhkopoho-f15", "front": "Miksi rauhallinen kohtaaminen on tärkeä osa keuhkopöhöpotilaan hoitoa?", "back": "Potilas on usein voimakkaassa ahdistuksessa ja kuolemanpelossa; ahdistus lisää hapenkulutusta ja pahentaa oloa." }
+]

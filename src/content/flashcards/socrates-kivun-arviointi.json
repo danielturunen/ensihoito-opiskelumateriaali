@@ -1,0 +1,18 @@
+[
+  { "id": "socrates-kivun-arviointi-f1", "front": "Mitä SOCRATES tarkoittaa?", "back": "Site, Onset, Character, Radiation, Associations, Time course, Exacerbating/relieving factors, Severity." },
+  { "id": "socrates-kivun-arviointi-f2", "front": "Site – mitä kysytään?", "back": "Missä kipu tarkalleen sijaitsee? Pyydä osoittamaan yhdellä sormella – laaja vs. pistemäinen kipu ohjaa erotusdiagnostiikkaa." },
+  { "id": "socrates-kivun-arviointi-f3", "front": "Onset – miksi alkamistapa on tärkeä?", "back": "Äkillinen, sekunneissa huipentuva kipu on vakavampi hälytysmerkki kuin hiipien paheneva kipu." },
+  { "id": "socrates-kivun-arviointi-f4", "front": "Mihin puristava, painava rintakipu viittaa?", "back": "Sydänperäiseen iskemiaan (esim. akuutti sepelvaltimotautikohtaus)." },
+  { "id": "socrates-kivun-arviointi-f5", "front": "Mihin repivä, riuhtova kipu viittaa?", "back": "Aortan dissekaatioon tai repeämään." },
+  { "id": "socrates-kivun-arviointi-f6", "front": "Mihin kouristava, aaltoileva vatsakipu viittaa?", "back": "Onton elimen (suoli, virtsanjohdin) tukokseen." },
+  { "id": "socrates-kivun-arviointi-f7", "front": "Mihin vasemman käsivarren/leuan säteily viittaa?", "back": "Sydänperäiseen kipuun." },
+  { "id": "socrates-kivun-arviointi-f8", "front": "Mihin selkään säteilevä ylävatsakipu voi viitata?", "back": "Haimatulehdukseen tai aortan ongelmaan." },
+  { "id": "socrates-kivun-arviointi-f9", "front": "Associations – mitä selvitetään?", "back": "Kipuun liittyvät muut oireet, kuten pahoinvointi, hikoilu, hengenahdistus, kuume ja virtsa- tai suolioireet." },
+  { "id": "socrates-kivun-arviointi-f10", "front": "Time course – mitä tämä osio kartoittaa?", "back": "Onko kipu jatkuvaa vai aaltoilevaa, ja miten se on muuttunut alkamisensa jälkeen." },
+  { "id": "socrates-kivun-arviointi-f11", "front": "Mikä pahentavien/helpottavien tekijöiden (E) löydös viittaa perikardiittiin?", "back": "Kipu helpottaa eteenpäin nojatessa ja pahenee makuulla." },
+  { "id": "socrates-kivun-arviointi-f12", "front": "Severity – miten kipua arvioidaan?", "back": "Asteikolla 0–10, ja verrataan aiempiin kipukokemuksiin." },
+  { "id": "socrates-kivun-arviointi-f13", "front": "Mitä tarkoittaa \"kipu on suhteeton löydöksiin nähden\"?", "back": "Kipu on selvästi voimakkaampi kuin objektiiviset löydökset antaisivat olettaa – itsenäinen hälytysmerkki, joka voi viitata alkavaan iskemiaan." },
+  { "id": "socrates-kivun-arviointi-f14", "front": "Mitä malli täydentää SOCRATES-haastattelun lisäksi potilaan taustan selvittämisessä?", "back": "AMPLE-malli: Allergiat, Medikaatio, Potilashistoria, Last meal (viimeisin ateria), Events (tapahtumat ennen oireita)." },
+  { "id": "socrates-kivun-arviointi-f15", "front": "Miksi SOCRATES ei korvaa ABCDE-arviota?", "back": "SOCRATES syventää kipuoireen ymmärtämistä, mutta peruselintoimintojen tila on aina arvioitava erikseen." },
+  { "id": "socrates-kivun-arviointi-f16", "front": "Miksi eteenpäin kumartuen helpottava, syvään hengittäessä pahentuva kipu viittaa keuhkopussiin?", "back": "Pleuriittinen kipu provosoituu rintakehän liikkeestä hengityksen aikana, mikä erottaa sen esim. sydänperäisestä kivusta." }
+]

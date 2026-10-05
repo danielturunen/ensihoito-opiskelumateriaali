@@ -1,0 +1,17 @@
+[
+  { "id": "keuhkoembolia-f1", "front": "Mikä on keuhkoembolia?", "back": "Tila, jossa verihyytymä, tyypillisesti alaraajan syvästä laskimosta, tukkii keuhkovaltimon tai sen haaran." },
+  { "id": "keuhkoembolia-f2", "front": "Onko keuhkoembolia ensisijaisesti hengitys- vai verenkiertohäiriö?", "back": "Verenkiertohäiriö — tukos kuormittaa sydämen oikeaa puolta, vaikka se ilmenee hengenahdistuksena." },
+  { "id": "keuhkoembolia-f3", "front": "Mikä on tyypillinen auskultaatiolöydös keuhkoemboliassa?", "back": "Usein täysin normaali — tämä on tärkeä diagnostinen vihje oireiden ja löydösten epäsuhdasta." },
+  { "id": "keuhkoembolia-f4", "front": "Mikä on 'kultainen sääntö' keuhkoembolian epäilyssä?", "back": "Äkillinen hengenahdistus ja takykardia ilman selittävää auskultaatiolöydöstä on keuhkoembolia, kunnes toisin todistetaan." },
+  { "id": "keuhkoembolia-f5", "front": "Mikä EKG-löydös voi viitata keuhkoemboliaan?", "back": "S1Q3T3-kuvio: syvä S-aalto I-kytkennässä, Q-aalto ja T-inversio III-kytkennässä." },
+  { "id": "keuhkoembolia-f6", "front": "Mitkä ovat keuhkoembolian keskeiset riskitekijät?", "back": "Aiempi keuhkoveritulppa, immobilisaatio, raskaus/hormonaalinen ehkäisy, tuore iso leikkaus, syöpä ja syvä laskimotukos." },
+  { "id": "keuhkoembolia-f7", "front": "Mitä 'dead space' -ilmiö tarkoittaa keuhkoemboliassa?", "back": "Keuhkon alue saa edelleen ilmaa (ventilaatio), mutta ei verta (perfuusio), jolloin kaasujenvaihto siinä estyy kokonaan." },
+  { "id": "keuhkoembolia-f8", "front": "Miksi nestehoitoa annetaan keuhkoemboliassa varovasti?", "back": "Liiallinen neste voi venyttää jo kuormittunutta oikeaa kammiota ja pahentaa tilannetta. Pieni nestebolus voidaan antaa vain hypotensiossa." },
+  { "id": "keuhkoembolia-f9", "front": "Mitkä löydökset viittaavat massiiviseen, kriittiseen keuhkoemboliaan?", "back": "SpO2 alle 90 %, systolinen verenpaine alle 100 mmHg, syke yli 110/min, tajunnanmenetys ja voimakas syanoosi." },
+  { "id": "keuhkoembolia-f10", "front": "Miksi keuhkoemboliapotilas ei saa kävellä?", "back": "Rasitus voi laukaista uuden embolisaation laskimosta — potilas kuljetetaan aina paareilla." },
+  { "id": "keuhkoembolia-f11", "front": "Voiko keuhkoembolia aiheuttaa sydänpysähdyksen?", "back": "Kyllä, usein PEA-rytmillä (sykkeetön sähköinen toiminta). Se on yksi korjattavista sydänpysähdyksen syistä." },
+  { "id": "keuhkoembolia-f12", "front": "Mikä erottaa keuhkoembolian jänniteilmarinnasta?", "back": "Auskultaatiolöydös: keuhkoemboliassa usein normaali, jänniteilmarinnassa toispuolisesti puuttuva." },
+  { "id": "keuhkoembolia-f13", "front": "Mikä hoito voidaan harkita kriittisessä, massiivisessa keuhkoemboliassa vahvan epäilyn perusteella?", "back": "Liuotushoito ja antikoagulaatio (esim. enoksapariini) ensihoitolääkärin konsultaation jälkeen hoito-ohjeen mukaan." },
+  { "id": "keuhkoembolia-f14", "front": "Miksi haastattelu on erityisen tärkeää keuhkoemboliaepäilyssä?", "back": "Koska potilaan vointi voi korjaantua nopeasti akuutin alkutilanteen jälkeen, ja hän voi vaikuttaa jopa oireettomalta ensihoidon saapuessa." },
+  { "id": "keuhkoembolia-f15", "front": "Mikä oire viittaa mahdolliseen syvään laskimotukokseen (DVT) keuhkoemboliaepäilyssä?", "back": "Toispuoleinen jalan turvotus ja kipu." }
+]

@@ -1,0 +1,59 @@
+{
+  "id": "case-sokeritasapaino-771",
+  "title": "Tapaus: Sokeritasapainon häiriö",
+  "dispatchCode": "771",
+  "intro": "Hätäkeskus: \"Kohteessa 68-vuotias mies, tyypin 1 diabeetikko, käyttää insuliinipumppua. Puoliso soittanut, koska miestä ei saa hereille järkevään keskusteluun - vastailee sekavasti, hengitys kuulostaa puolison mukaan oudolta. Ei tiedossa muuta akuuttia.\"",
+  "steps": [
+    {
+      "id": "step1",
+      "situation": "Saavutte kohteeseen. Potilas istuu olohuoneen sohvalla, silmät auki, mutta vastailee hitaasti ja sekavasti kysymyksiin. Hengitys on syvää ja tihentynyttä, ja huomaat hengityksen haisevan makean asetonin tuoksuiselta. Puoliso kertoo, että potilas on valittanut viime päivinä pahoinvointia ja juoneen paljon vettä.",
+      "question": "Mikä on tässä vaiheessa tärkein ensihavainto, joka ohjaa toimintaasi?",
+      "choices": [
+        { "text": "Syvä, tihentynyt hengitys ja asetonin haju viittaavat diabeettiseen ketoasidoosiin - mittaa verensokeri ja ketoaineet välittömästi", "correct": true, "feedback": "Oikein. Kussmaulin hengitys ja asetonin haju ovat DKA:n tunnusmerkkejä. Verensokerin ja ketoaineiden mittaus on diagnoosin kulmakivi ja ohjaa heti hoitoa." },
+        { "text": "Potilas on vain väsynyt - annetaan hänen levätä ja arvioidaan tilanne uudelleen 15 minuutin kuluttua", "correct": false, "feedback": "Vaarallinen valinta. Sekavuus yhdistettynä poikkeavaan hengitykseen ja asetonin hajuun on hälyttävä löydös, joka vaatii välittömän selvityksen - ei odottelua." },
+        { "text": "Hengitys on poikkeavaa, koska potilas on hyperventiloimassa ahdistuksen vuoksi - rauhoitellaan potilasta puhumalla", "correct": false, "feedback": "Väärä tulkinta. Kussmaulin hengitys on elimistön tapa kompensoida metabolista asidoosia, ei paniikkioire. Sen hoitaminen rauhoittelulla ei korjaa taustalla olevaa ongelmaa." }
+      ]
+    },
+    {
+      "id": "step2",
+      "situation": "Mittaat verensokerin: 29 mmol/l. Pikatesti ketoaineista näyttää 4,8 mmol/l. Tarkastat potilaan vatsalta insuliinipumpun kanyylin - letku on irronnut ihosta, ja puoliso kertoo, ettei ole huomannut sitä aiemmin.",
+      "question": "Mitä nämä löydökset kertovat, ja mikä on todennäköisin selitys tilanteelle?",
+      "choices": [
+        { "text": "Korkea verensokeri, selvästi koholla olevat ketoaineet ja irronnut pumpun kanyyli viittaavat diabeettiseen ketoasidoosiin insuliinin saannin keskeytymisen seurauksena", "correct": true, "feedback": "Oikein. Pumppupotilaalla ei ole pitkävaikutteista insuliinia taustalla, joten kanyylin irtoaminen keskeyttää insuliininsaannin kokonaan - DKA voi kehittyä muutamassa tunnissa." },
+        { "text": "Kyseessä on todennäköisesti hypoglykemia, koska potilas on sekava", "correct": false, "feedback": "Väärin. Verensokeri on mitattu ja se on korkea (29 mmol/l), ei matala. Sekavuus johtuu tässä tapauksessa asidoosista ja kuivumisesta, ei liian matalasta verensokerista." },
+        { "text": "Ketoaineiden mittaustulos on epäluotettava eikä sillä ole merkitystä hoitopäätöksessä", "correct": false, "feedback": "Väärin. Ketoaineiden mittaus on juuri se tutkimus, joka vahvistaa DKA-epäilyn - sitä ei pidä sivuuttaa, varsinkaan kun löydös tukee muuta kliinistä kuvaa." }
+      ]
+    },
+    {
+      "id": "step3",
+      "situation": "Jatkat ABCDE-arviota: hengitystaajuus 26/min ja syvä, SpO2 97 % huoneilmalla, syke 118/min ja verenpaine 108/68 mmHg. Iho on kuiva ja limakalvot kuivat. Potilas on GCS 14 (sekavuutta, mutta avaa silmät ja liikkuu pyydettäessä).",
+      "question": "Mikä on seuraava oikea hoitotoimenpide?",
+      "choices": [
+        { "text": "Avaa suoniyhteys ja aloita nesteytys isotonisella kristalloidiliuoksella viipymättä", "correct": true, "feedback": "Oikein. DKA:ssa nesteytys on hoidon kiireellisin ja tärkein toimenpide - se korjaa kuivumista ja parantaa verenkiertoa ja munuaisten toimintaa. Insuliinihoito odottaa lääkärikonsultaatiota." },
+        { "text": "Anna insuliiniannos ihon alle heti paikan päällä, koska potilaan oma pumppu ei toimi", "correct": false, "feedback": "Vaarallinen valinta. Insuliinia ei anneta ihon alle, koska imeytyminen on epävarmaa kuivuneella potilaalla, ja ensihoidossa insuliinin anto vaatii aina lääkärikonsultaation." },
+        { "text": "Anna happea varaajamaskilla ennen muita toimenpiteitä, koska hengitystaajuus on koholla", "correct": false, "feedback": "Ei ole ensisijainen toimenpide. SpO2 on normaali (97 %), ja tihentynyt syvä hengitys on asidoosin kompensaatiomekanismi, ei hapenpuutteen merkki. Tärkein toimenpide on nesteytys." }
+      ]
+    },
+    {
+      "id": "step4",
+      "situation": "Olet avannut suoniyhteyden ja aloittanut nesteytyksen. Potilaan puoliso kysyy, pitäisikö pumppu kiinnittää uudelleen ja antaa potilaan oma insuliini matkan varrella, jotta verensokeri laskisi nopeammin.",
+      "question": "Miten vastaat ja toimit tilanteessa?",
+      "choices": [
+        { "text": "Selität, että insuliinihoidosta päätetään lääkärin konsultaation perusteella sairaalassa tai hoito-ohjeen mukaan - ensihoidossa keskitytään nesteytykseen ja kuljetukseen", "correct": true, "feedback": "Oikein. Insuliinihoito DKA:ssa vaatii tarkkaa seurantaa ja annostelua, joka tehdään tyypillisesti lääkärin ohjeen mukaan laitoksessa. Ensihoidon painopiste on nesteytyksessä ja peruselintoimintojen tuessa." },
+        { "text": "Kiinnität pumpun takaisin ja annat potilaan ottaa itse normaalin korjausannoksen", "correct": false, "feedback": "Väärin. Kuivuneen ja asidoottisen potilaan insuliiniannostelu on vaativaa eikä sitä tehdä omin päin ensihoidossa - vaarana on liian nopea verensokerin lasku ja elektrolyyttihäiriöt." },
+        { "text": "Kerrot, että insuliinia ei tarvita ollenkaan, koska nesteytys korjaa tilanteen itsekseen", "correct": false, "feedback": "Osittain virheellinen. Nesteytys on kiireellisin toimenpide, mutta insuliinia tarvitaan lopulta ketoasidoosin pysäyttämiseksi - päätös sen aloittamisesta ja annostelusta tehdään vain asianmukaisen konsultaation tai hoito-ohjeen perusteella." }
+      ]
+    },
+    {
+      "id": "step5",
+      "situation": "Potilas on nesteytyksen aikana pysynyt hemodynaamisesti vakaana, mutta on edelleen sekava ja hengittää syvään. Valmistaudutte kuljetukseen.",
+      "question": "Mikä on oikea kuljetus- ja ilmoituskäytäntö tässä tilanteessa?",
+      "choices": [
+        { "text": "Tehdään ennakkoilmoitus sairaalaan DKA-epäilystä ja kuljetetaan potilas viiveettä valvottuun hoitoon jatkuvaa tilan seurantaa jatkaen", "correct": true, "feedback": "Oikein. DKA on hengenvaarallinen tila, joka vaatii sairaalan valvontaympäristön. Ennakkoilmoitus antaa vastaanottavalle yksikölle aikaa valmistautua, ja tilaa on seurattava koko kuljetuksen ajan." },
+        { "text": "Potilas voidaan jättää kotiin, kun hän on hetken rauhoittunut ja puoliso lupaa tarkkailla häntä", "correct": false, "feedback": "Vaarallinen valinta. DKA ei korjaannu itsestään kotioloissa - potilas tarvitsee sairaalatasoisen nesteytyksen, insuliinihoidon ja elektrolyyttien seurannan." },
+        { "text": "Kuljetus voidaan tehdä normaaliajona ilman ennakkoilmoitusta, koska verenpaine on toistaiseksi normaali", "correct": false, "feedback": "Ei ole paras valinta. Vaikka verenpaine on vielä normaali, tila voi huonontua nopeasti kuljetuksen aikana - ennakkoilmoitus on aiheellinen, jotta sairaala ehtii valmistautua DKA-potilaan vastaanottoon." }
+      ]
+    }
+  ],
+  "debrief": "Tapaus kuvaa tyypillistä insuliinipumppupotilaan DKA:ta, joka kehittyi muutamassa tunnissa kanyylin irtoamisen seurauksena. Keskeistä oli tunnistaa Kussmaulin hengitys ja asetonin haju hälyttävinä löydöksinä, vahvistaa epäily mittaamalla verensokeri ja ketoaineet, ja priorisoida nesteytys kiireellisimpänä hoitona ennen insuliinia. Insuliinihoidon aloittamisesta ei päätetä itsenäisesti ensihoidossa, vaan konsultaation tai hoito-ohjeen perusteella. Potilas kuuluu aina valvottuun sairaalahoitoon ennakkoilmoituksen kanssa."
+}
