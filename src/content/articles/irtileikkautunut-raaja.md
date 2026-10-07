@@ -11,6 +11,14 @@ Replantaatio tarkoittaa irronneen raajan tai sen osan kirurgista kiinnittämist�
 > [!info] Iskemia-aikarajat
 > Lihaskudosta sisältävä amputaatio on replantoitavissa noin 8 tunnin kuluessa, muu kudos (esim. pelkkä sormen kärkijäsen) noin 16 tunnin kuluessa. Kuljetus- ja leikkausaika on huomioitava kokonaisajassa – tarvittaessa harkitaan ilmakuljetusta.
 
+```media
+{"widget":"timeline","title":"Iskemia-aika replantaatiossa","items":[
+{"time":"0 h","title":"Amputaatio","text":"Kello käy: kuljetus- ja leikkausaika lasketaan mukaan kokonaisaikaan.","tone":"neutral"},
+{"time":"≈ 8 h","title":"Lihaskudosta sisältävä osa","text":"Replantoitavissa noin 8 tunnin kuluessa.","tone":"warning"},
+{"time":"≈ 16 h","title":"Muu kudos","text":"Esim. pelkkä sormen kärkijäsen noin 16 tunnin kuluessa.","tone":"danger"}
+]}
+```
+
 Suomessa ympärivuorokautista replantaatiopäivystystä tarjoavat Tampere, Oulu ja Helsinki. Lopullisen replantaatiomahdollisuuden arvioi aina vastaanottava kirurgi – ensihoidossa ei tehdä arviota tilanteen toivottomuudesta, vaan kaikki amputaatio-osat kuljetetaan aina mukana.
 
 ## Verenvuodon hallinta
@@ -18,16 +26,29 @@ Suomessa ympärivuorokautista replantaatiopäivystystä tarjoavat Tampere, Oulu 
 > [!danger] Prioriteetti: hengen pelastaminen
 > Verenvuoto hoidetaan lievintä riittävää keinoa käyttäen asteittain: kohoasento, paineside, hemostaattinen side ja vasta tarvittaessa kiristysside. Henkeä uhkaavassa vuodossa kiristyssidettä ei vapauteta, ennen kuin vuoto on varmasti hallinnassa.
 
+```media
+{"widget":"flow","title":"Verenvuodon hallinta – lievimmästä riittävästä keinosta","steps":[
+{"title":"Kohoasento ja syöttävän valtimon painaminen"},
+{"title":"Paineside"},
+{"title":"Hemostaattinen side"},
+{"title":"Kiristysside – vasta tarvittaessa","text":"Henkeä uhkaavassa vuodossa sidettä ei vapauteta ennen kuin vuoto on varmasti hallinnassa. Tilanteen salliessa kevennetään painesiteeksi tai siirretään distaalisemmaksi.","tone":"danger"}
+]}
+```
+
 Amputaatiotyngän vuoto tyrehdytetään ensin syöttävän valtimon painamisella sekä paine- tai hemostaattisella siteellä yhdistettynä kohoasentoon. Jos vuoto on silti henkeä uhkaava, käytetään kiristyssidettä. Tilanteen salliessa kiristyssidettä voidaan keventää painesiteeksi tai korvata se distaalisemmalla (raajan kärkeen päin siirretyllä) kiristyssiteellä, mutta henkeä uhkaavaa vuotoa ei vapauteta.
 
 ## Amputaatio-osan suojaaminen
 
-> [!tip] Oikea säilytystekniikka
-> 1. Kääri amputaatio-osa puhtaaseen, kosteaan liinaan.
-> 2. Laita osa muovipussiin.
-> 3. Aseta muovipussi jäähän tai kylmään veteen.
-> 4. Älä koskaan laita amputaatio-osaa suoraan jäähän.
-> 5. Älä käytä kuivajäätä.
+```media
+{"widget":"flow","title":"Amputaatio-osan oikea säilytys","steps":[
+{"title":"Kääri osa puhtaaseen, kosteaan liinaan"},
+{"title":"Laita osa muovipussiin"},
+{"title":"Aseta pussi jäähän tai kylmään veteen","tone":"ok","branches":[
+{"label":"Älä","title":"Suoraan jäähän","text":"Jäätyminen vaurioittaa kudosta.","tone":"danger"},
+{"label":"Älä","title":"Kuivajäätä","text":"Voi tehdä replantaatiosta mahdottoman.","tone":"danger"}
+]}
+]}
+```
 
 Tavoitteena on pitää osa kylmänä, mutta suojata se kuivumiselta ja jäätymiseltä – suora kosketus jäähän tai kuivajäähän aiheuttaa kudosvaurion, joka voi tehdä replantaatiosta mahdottoman.
 

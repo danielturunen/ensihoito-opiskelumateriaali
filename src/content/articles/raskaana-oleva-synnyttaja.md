@@ -5,6 +5,10 @@ Raskaana olevan tai synnyttävän potilaan kohtaamisessa ensihoitajan on nopeast
 > [!tip] Vasen kylkiasento
 > Raskauden puolivälin jälkeen (noin 20 raskausviikon jälkeen) vältä selinmakuuta. Kasvanut kohtu painaa alaonttolaskimoa (vena cava) selinmakuulla, mikä vähentää laskimopaluuta ja voi romahduttaa äidin verenpaineen. Hoida ja kuljeta vasemmassa kylkiasennossa tai siirrä kohtua käsin vasemmalle.
 
+```media
+{"widget":"aortocaval","caption":"Vertaa selinmakuuta, vasenta kylkiasentoa ja kohdun käsin siirtoa – seuraa veren virtausta alaonttolaskimossa."}
+```
+
 ## Esitiedot: mitä kysytään
 
 Keskeisimmät taustatiedot saadaan neljästä aihepiiristä: raskauden perustiedot (raskausviikot, yksi vai useampi sikiö, tarjonta, istukan sijainti), synnyttäjän aiempi obstetrinen historia (monesko raskaus ja synnytys, G/P-luku, aiempien synnytysten nopeus, aiemmat sektiot), nykytilanne (supistusten tiheys ja kesto, ponnistamisen tarve, lapsiveden meno ja väri, verenvuodon määrä ja laatu, kivun luonne) sekä perussairaudet ja lääkitys. Neuvolakortti kannattaa tarkistaa vasta kun kiireellisyys on arvioitu — sieltä löytyvät raskausviikot, G/P, istukan paikka ja mahdolliset raskauskomplikaatiot.
@@ -42,10 +46,32 @@ Ponnistusvaiheessa tuetaan synnyttäjää ja annetaan hänen tehdä työtä rauh
 
 Hyväkuntoinen vastasyntynyt hengittää tai itkee ponnekkaasti, on jäntevä, punakoituu ja reagoi kosketukseen. Hänet kuivataan huolellisesti, pidetään lämpimänä ja ihokontaktissa äidin kanssa, ja Apgar-pisteet kirjataan 1, 5 ja tarvittaessa 10 minuutin kohdalla. Raajojen sinerrys voi olla alkuvaiheessa normaalia, mutta keskivartalon sinisyys, velttous tai hengittämättömyys ei ole.
 
+```media
+{"widget":"apgar"}
+```
+
 Huonokuntoinen (veltto, riittämättömästi hengittävä tai reagoimaton) vastasyntynyt tarvitsee välittömästi lämmönhukan eston, hengitystien avaamisen neutraaliin asentoon ja stimulaatiota kuivaamalla. Jos hengitys on puutteellista tai syke alle 100/min, aloitetaan ventilaatio vastasyntyneen maskilla taajuudella noin 30–60/min ja varmistetaan rintakehän nousu. Jos syke pysyy alle 60/min tehokkaasta ventiloinnista huolimatta, aloitetaan paineluelvytys suhteella 3:1.
+
+```media
+{"widget":"flow","title":"Huonokuntoinen vastasyntynyt","steps":[
+{"title":"Lämmönhukan esto, hengitystie neutraaliin asentoon, stimulaatio kuivaamalla"},
+{"title":"Onko hengitys puutteellista tai syke alle 100/min?","tone":"warning","branches":[
+{"label":"Kyllä","title":"Ventilaatio vastasyntyneen maskilla 30–60/min","text":"Varmista rintakehän nousu.","tone":"danger"},
+{"label":"Ei","title":"Kuivaus, lämpö, ihokontakti","text":"Seuraa ja kirjaa Apgar.","tone":"ok"}
+]},
+{"title":"Syke yhä alle 60/min tehokkaasta ventiloinnista huolimatta?","tone":"warning","branches":[
+{"label":"Kyllä","title":"Paineluelvytys 3:1","tone":"danger"},
+{"label":"Ei","title":"Jatka ventilaatiota ja seurantaa","tone":"ok"}
+]}
+]}
+```
 
 > [!info] Tausta: SpO₂-tavoitteet syntymän jälkeen
 > Terveen vastasyntyneen happisaturaatio nousee asteittain: noin 65 % kahden minuutin kohdalla, noin 85 % viiden minuutin kohdalla ja noin 90 % kymmenen minuutin kohdalla. Täyttä 100 %:n tavoitetta ei haeta heti.
+
+```media
+{"widget":"newborn-spo2"}
+```
 
 ## Jälkeisvaihe: äidin uhkaavin hetki kentällä
 

@@ -16,6 +16,30 @@ Hypoglykemia tarkoittaa verensokeria ≤3,9 mmol/l, merkittävänä sitä pidet�
 
 Osa potilaista ei tunnista varoitusoireita lainkaan (hypoglykemian tiedostamattomuus), jolloin tila voi edetä suoraan vaikeisiin oireisiin.
 
+```media
+{"widget":"scale","title":"Verensokeri – mitä arvo tarkoittaa?","label":"Verensokeri","unit":"mmol/l","step":0.1,"value":3.4,"bands":[
+{"from":1.0,"to":2.5,"label":"Vaikea hypo","tone":"danger","text":"Alle 2,5 mmol/l ilmaantuu usein vaikeita keskushermosto-oireita (sekavuus, kouristelu, tajuttomuus). Glukoosia suonensisäisesti (esim. 100 ml 10 %); ilman suoniyhteyttä glukagoni 1 mg i.m."},
+{"from":2.5,"to":2.8,"label":"Erittäin matala","tone":"danger","text":"Alle 2,8 mmol/l: siirry suoraan suonensisäiseen hoitoon, vaikka potilas olisi tajuissaan."},
+{"from":2.8,"to":3.0,"label":"Merkittävä","tone":"warning","text":"Alle 3,0 mmol/l on merkittävä hypoglykemia. Tajuissaan oleva, nielevä potilas: nopeat hiilihydraatit suun kautta ja uusintamittaus."},
+{"from":3.0,"to":4.0,"label":"Hypoglykemia","tone":"warning","text":"Enintään 3,9 mmol/l. Autonomiset oireet: vapina, hikoilu, sydämentykytys, ahdistuneisuus. Nopeat hiilihydraatit suun kautta – ja selvitä syy."},
+{"from":4.0,"to":15.0,"label":"Ei hypoglykemiaa","tone":"ok","text":"Ei hypoglykemiaa. Jos diabeetikon tila on silti poikkeava, etsi muu syy – ja muista ketoaineet, jos sokeri on koholla."},
+{"from":15.0,"to":30.0,"label":"Koholla – DKA?","tone":"warning","text":"DKA:ssa verensokeri on yleensä yli 15 mmol/l. Mittaa veren ketoaineet: yli 3,0 mmol/l viittaa vahvasti DKA:han. Nesteytys on kiireellisin hoito."},
+{"from":30.0,"to":45.0,"label":"Erittäin korkea – HHS?","tone":"danger","text":"Yli 30 mmol/l ja vähäiset ketoaineet viittaavat HHS:ään (iäkäs tyypin 2 diabeetikko, äärimmäinen kuivuminen, neurologiset oireet). Nesteytys aina ennen insuliinia."}
+]}
+```
+
+```media
+{"widget":"flow","title":"Hypoglykemian hoito","steps":[
+{"title":"Mittaa verensokeri – epäile hypoa aina ensin","text":"Kun diabeetikon tajunta tai käytös on poikkeavaa."},
+{"title":"Pystyykö potilas nielemään turvallisesti?","tone":"warning","branches":[
+{"label":"Kyllä","title":"Nopeat hiilihydraatit suun kautta","text":"Sokerijuoma, glukoositabletit tai -geeli. Jos sokeri alle 2,8 mmol/l → suoraan suonensisäinen hoito.","tone":"ok"},
+{"label":"Ei","title":"Glukoosi suonensisäisesti","text":"Esim. 100 ml 10 % glukoosia. Ei suoniyhteyttä → glukagoni 1 mg i.m. (ei tehoa, jos glykogeenivarastot ovat tyhjät).","tone":"danger"}
+]},
+{"title":"Uusintamittaus ja syyn selvittäminen","text":"Pitkävaikutteinen insuliini (esim. kesto 24–42 h) = suuri uusiutumisriski."},
+{"title":"Kotiin vain, jos kaikki täyttyy","text":"Täysin oireeton ja neurologisesti normaali, syy selvillä ja hallinnassa, ruokaa saatavilla, joku paikalla – eikä kyse ole ensimmäisestä vakavasta hypoglykemiasta tai alle kouluikäisestä lapsesta.","tone":"ok"}
+]}
+```
+
 **Hoito:**
 - Tajuissaan oleva potilas: nopeat hiilihydraatit suun kautta (sokerijuoma, glukoositabletit, sokerigeeli). Jos verensokeri on erittäin matala (alle 2,8 mmol/l), siirry suoraan suonensisäiseen hoitoon.
 - Tajuton tai nielemiskyvytön potilas: glukoosia suonensisäisesti (esim. 100 ml 10 % glukoosiliuosta), tarkista verensokeri uudelleen hoidon jälkeen.
@@ -29,6 +53,17 @@ Kotiin voi jättää vain, kun potilas on täysin oireeton ja neurologisesti nor
 ## Diabeettinen ketoasidoosi (DKA)
 
 DKA syntyy, kun insuliinia ei ole käytännössä lainkaan. Solut eivät pääse käyttämään glukoosia, keho alkaa polttaa rasvaa energiaksi ja tuottaa sivutuotteena happamia ketoaineita. Veri happamoituu (metabolinen asidoosi), ja korkea verensokeri vetää nestettä virtsaan, mikä kuivattaa potilaan nopeasti. Tyypillisiä laukaisevia tekijöitä ovat infektiot, insuliinihoidon laiminlyönti tai pumppuvika, sekä tyypin 1 diabeteksen ensi-ilmeneminen.
+
+```media
+{"widget":"flow","title":"Miten ketoasidoosi syntyy","steps":[
+{"title":"Insuliinia ei ole käytännössä lainkaan","text":"Infektio, insuliinihoidon laiminlyönti tai pumppuvika, tyypin 1 diabeteksen ensi-ilmeneminen.","tone":"warning"},
+{"title":"Solut eivät pääse käyttämään glukoosia","branches":[
+{"label":"Rasva","title":"Keho polttaa rasvaa → ketoaineita","text":"Veri happamoituu (metabolinen asidoosi) → Kussmaulin hengitys, asetonin haju.","tone":"danger"},
+{"label":"Sokeri","title":"Korkea sokeri vetää nestettä virtsaan","text":"Runsas virtsaaminen → nopea kuivuminen → takykardia, myöhemmin hypotensio.","tone":"danger"}
+]},
+{"title":"Hoidon järjestys","text":"1. Nesteytys (esim. 1 litra ensimmäisen puolen tunnin aikana) · 2. insuliini vain hoito-ohjeen ja konsultaation mukaan · 3. elektrolyytit sairaalassa.","tone":"ok"}
+]}
+```
 
 > [!warning] Red flag
 > Pumppupotilaalla ei ole pitkävaikutteista "turvaverkkoa". Jos pumppu lakkaa toimimasta, DKA voi kehittyä jo 3–5 tunnissa.

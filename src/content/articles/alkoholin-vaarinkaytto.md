@@ -12,6 +12,14 @@ Vieroitusoireet johtuvat sympaattisen hermoston ylivilkkaudesta, kun alkoholin k
 - **Lievät oireet:** vapina, pahoinvointi, hikoilu, ärtyisyys, unettomuus, ohimenevät harha-aistimukset.
 - **Vaikeat oireet:** *delirium tremens* (sekavuus, kiihtymys, kuume, voimakkaat harhat, kouristelu, neste- ja suolatasapainon häiriöt) ja Wernicke–Korsakoffin oireyhtymä.
 
+```media
+{"widget":"timeline","title":"Vieroitusoireiden aikajana","items":[
+{"time":"0","title":"Juominen loppuu äkillisesti","text":"Pitkän runsaan käytön jälkeen sympaattinen hermosto ylivilkastuu.","tone":"neutral"},
+{"time":"1–6 vrk","title":"Oireet alkavat (useimmin 3.–4. vrk)","text":"Lievät: vapina, pahoinvointi, hikoilu, ärtyisyys, unettomuus, ohimenevät harha-aistimukset.","tone":"warning"},
+{"time":"3–7 vrk","title":"Oireiden kesto – vaikeimmillaan delirium tremens","text":"Sekavuus, kiihtymys, kuume, voimakkaat harhat, kouristelu. Hoitamattomana voi johtaa kuolemaan.","tone":"danger"}
+]}
+```
+
 > [!danger] Henkeä uhkaava
 > Vaikeat vieroitusoireet voivat johtaa potilaan menehtymiseen hoitamattomina. Yli 145 mmHg:n systolinen verenpaine sairaalaan tultaessa, aiemmat vaikeat vieroitusoireet ja liitännäissairaudet ennakoivat vaikeaa kulkua.
 
@@ -23,6 +31,15 @@ Vieroitusoireiden hoidon kulmakivet ovat sympaattisen ylivilkkauden ja agitaatio
 ## Wernicke–Korsakoffin oireyhtymä
 
 Tiamiinin (B1-vitamiinin) puute aiheuttaa Wernicken taudin: silmien liikehäiriöt, nystagmus, tajunnan häiriöt, kävely- ja tasapainovaikeudet. Hoitamattomana kuolleisuus on lähes 20 %. Jatkuessaan tila voi edetä Korsakovin psykoosiksi, johon kuuluu pysyvä muistihäiriö ja muistin aukkojen täyttäminen satuilulla (konfabulaatio) – tähän vaiheeseen edettyä parantavaa hoitoa ei enää ole.
+
+```media
+{"widget":"flow","title":"Tiamiinin puutteesta pysyvään vaurioon","steps":[
+{"title":"Tiamiinin (B1) puute","text":"Alkoholin suurkuluttaja tai aliravittu. Hiilihydraatit ilman tiamiinia voivat laukaista taudin.","tone":"warning"},
+{"title":"Wernicken tauti","text":"Silmien liikehäiriöt, nystagmus, tajunnan häiriöt, kävely- ja tasapainovaikeudet. Hoitamattomana kuolleisuus lähes 20 %.","tone":"danger"},
+{"title":"Korsakovin psykoosi","text":"Pysyvä muistihäiriö ja konfabulaatio – parantavaa hoitoa ei enää ole.","tone":"danger"},
+{"title":"Ehkäisy kentällä","text":"Tiamiini ennen glukoosia alkoholin suurkuluttajalle tai aliravitulle.","tone":"ok"}
+]}
+```
 
 ## Alkoholin aiheuttamat elinvauriot
 

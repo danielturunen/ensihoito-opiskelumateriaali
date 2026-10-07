@@ -19,6 +19,10 @@ Normaali tajunta edellyttää, että sekä aivorungon **valvekeskus** (reticular
 
 Kallon sisällä on vakiotilavuus (aivokudos, veri ja aivo-selkäydinneste), joten yhden osan tilavuuden kasvu – esimerkiksi hematooma tai turvotus – nostaa kallonsisäistä painetta. Aivojen verenkierto riippuu perfuusiopaineesta (**CPP = MAP − ICP**, jossa MAP on keskivaltimopaine); riittävän happeutumisen turvaamiseksi CPP:n tulisi pysyä vähintään noin 50–60 mmHg:ssa. Hypoksia ja hyperkapnia laajentavat aivoverisuonia ja nostavat ICP:tä, kun taas voimakas hyperventilaatio (hypokapnia) supistaa suonia ja voi aiheuttaa iskemiaa.
 
+```media
+{"widget":"icp","caption":"Laske MAP ja CPP itse: miten matala verenpaine tai kohoava kallonsisäinen paine vaikuttaa aivojen perfuusioon?"}
+```
+
 ## Kallonsisäiset ja systeemiset syyt
 
 Tajuttomuuden syyt jaetaan kahdella tavalla, jotka tukevat toisiaan erotusdiagnostiikassa:
@@ -36,6 +40,19 @@ Muistisäännöt auttavat pitämään erotusdiagnostiikan laajana äkillisessä 
 | **MIDAS** | Meningiitti, Intoksikaatio, Diabetes, Anoksia, Subduraalihematooma/Stroke |
 | **AEIOU TIPS** | Alkoholi, Epilepsia, Insuliini (hypoglykemia), Opiaatti/lääke, Uremia – Trauma, Infektio, Psykogeeninen, Stroke/SAV |
 | **VOI IHME!** | Vuoto kallon sisällä, O₂-puute, Intoksikaatio, Infektiot, Hypoglykemia, Matala verenpaine, Epilepsia, !-teeskentely |
+
+```media
+{"widget":"mnemonic","title":"VOI IHME! – testaa muistisi","name":"VOI IHME!","items":[
+{"letter":"V","word":"Vuoto kallon sisällä","text":"Epiduraali- ja subduraalihematooma, ICH, SAV."},
+{"letter":"O","word":"O₂-puute","text":"Ilmatietukos, vaikea keuhkosairaus, verenkierron pettäminen."},
+{"letter":"I","word":"Intoksikaatio","text":"Suomessa tyypillisimmin alkoholin ja lääkkeiden sekamyrkytys."},
+{"letter":"I","word":"Infektiot","text":"Meningiitti, enkefaliitti, sepsis."},
+{"letter":"H","word":"Hypoglykemia","text":"Mitataan aina – nopeasti korjattava hengenvaara."},
+{"letter":"M","word":"Matala verenpaine","text":"Systolinen alle noin 60 mmHg tai verenkierron pysähtyminen jo 10 sekunniksi sammuttaa tajunnan."},
+{"letter":"E","word":"Epilepsia","text":"Myös nonkonvulsiivinen status epilepticus voi ilmetä pelkkänä tajuttomuutena."},
+{"letter":"!","word":"Teeskentely","text":"Harvinainen, vaikeasti todettava poissulkudiagnoosi."}
+]}
+```
 
 ## Keskeiset taustasyyt
 
@@ -59,6 +76,14 @@ Muistisäännöt auttavat pitämään erotusdiagnostiikan laajana äkillisessä 
 Matkalla kohteeseen varaudutaan hoitamaan elotonta potilasta. Ensiarvio etenee [ABCDE-mallin](topic:abcde-arviointi) mukaisesti: hengitystien avoimuus ja riittävä ventilaatio tarkistetaan ensin, minkä jälkeen peruselintoimintojen monitorointi (EKG, SpO₂, EtCO₂, verenpaine), GCS-pisteytys ja verensokerin pikamittaus kuuluvat kaikille tajuttomille potilaille.
 
 Anamneesi silminnäkijöiltä ja omaisilta on ratkaisevan tärkeä – heitä ei pidä päästää paikalta ennen haastattelua. Selvitettäviä asioita ovat tajuttomuuden alkamisnopeus ja -tapa, edeltävät oireet (päänsärky, rintakipu), lääkitys ja mahdolliset yliannokset, perussairaudet, päihteiden käyttö ja mahdolliset vammalöydökset. Löydöksistä etenkin hypertensio-bradykardia-yhdistelmä (Cushingin triadi, johon liittyy myös epäsäännöllinen hengitys), toispuoliset oireet, katsedeviaatio ja anisokoria viittaavat kallonsisäiseen prosessiin ja uhkaavaan herniaatioon.
+
+```media
+{"widget":"gcs","caption":"Pisteytä ja tallenna vertailuarvo – GCS:n lasku kahdella pisteellä on hälytysmerkki."}
+```
+
+```media
+{"widget":"pupils"}
+```
 
 > [!warning] Red flag: uhkaava herniaatio
 > Nopeasti laskeva tajunta, GCS:n putoaminen useilla pisteillä ja toispuolinen, laaja, valojäykkä pupilli ovat merkkejä aivojen puristumisesta kallon sisällä. Tällöin on varmistettava hengitystie ja riittävä happeutuminen, vältettävä hypotensiota ja konsultoitava välittömästi – hoito-ohjeen mukainen osmoottinen hoito (esim. mannitoli tai hypertoninen keittosuolaliuos) voi olla siltahoito matkalla neurokirurgiseen yksikköön.

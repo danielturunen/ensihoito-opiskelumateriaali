@@ -5,6 +5,18 @@ Sydänperäinen keuhkopöhö on hengenvaarallinen tila, jossa nestettä tihkuu k
 > [!info] Tausta — paineen nousun ketju
 > Sydämen vasen puoli ei jaksa pumpata verta eteenpäin riittävän tehokkaasti, esimerkiksi sydäninfarktin tai pitkäaikaisen verenpainetaudin seurauksena. Veri pakkautuu taaksepäin keuhkoverenkiertoon, ja keuhkojen pienten verisuonten (kapillaarien) sisäinen paine nousee. Kun paine ylittää veren valkuaisaineiden ylläpitämän onkoottisen (nestettä suonistoon vetävän) paineen, plasmaa alkaa suodattua keuhkokudokseen ja lopulta keuhkorakkuloihin, jolloin kaasujenvaihto estyy nopeasti.
 
+```media
+{"widget":"flow","title":"Paineen nousun ketju","steps":[
+{"title":"Vasen kammio ei jaksa pumpata","text":"Esim. sydäninfarkti tai pitkäaikainen verenpainetauti.","tone":"warning"},
+{"title":"Veri pakkautuu taaksepäin keuhkoverenkiertoon"},
+{"title":"Keuhkokapillaarien paine nousee"},
+{"title":"Paine ylittää onkoottisen paineen","text":"Veren valkuaisaineiden ylläpitämä paine ei enää pidä nestettä suonissa."},
+{"title":"Plasmaa suodattuu keuhkokudokseen ja alveoleihin","tone":"danger"},
+{"title":"Kaasujenvaihto estyy – potilas ”hukkuu omaan nesteeseensä”","tone":"danger"},
+{"title":"Hoito katkaisee ketjun","text":"Istuva asento (esikuorma ↓), happi, nitraatti (esi- ja jälkikuorma ↓) ja CPAP. Ei nestettä!","tone":"ok"}
+]}
+```
+
 ## Oireet ja löydökset
 
 Potilas kuvaa äkillisesti pahenevaa, voimakasta hengenahdistusta — erityisesti makuulla (ortopnea, hengenahdistus joka helpottaa istumalla) — ja "tukehtumisen" tai "hukkumisen" tunnetta. Yskä voi olla kuivaa tai tuottaa vaahtoavaa, verensekaista limaa. Potilas on usein voimakkaasti ahdistunut ja levoton.

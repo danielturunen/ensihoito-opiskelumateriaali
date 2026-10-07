@@ -18,6 +18,18 @@ Atropiini on antikolinerginen lääke, joka salpaa asetyylikoliinin vaikutuksen 
 > [!warning] Red flag
 > Alle 0,5 mg:n kerta-annos voi aiheuttaa paradoksaalisen bradykardian, kun lääke ensin stimuloi presynaptisia reseptoreita ja lisää asetyylikoliinin vapautumista. Anna siis aina vähintään 0,5 mg kerralla.
 
+```media
+{"widget":"flow","title":"Oireinen bradykardia aikuisella","steps":[
+{"title":"Syke alle 50/min + hypotensio, tajunnanhäiriö tai iskemia","tone":"warning"},
+{"title":"Atropiini 0,5 mg i.v.","text":"Vaikutus alkaa 1–2 minuutissa ja kestää noin 30–60 minuuttia."},
+{"title":"Toista 3–5 minuutin välein tarvittaessa","text":"Enimmäisannos yleensä 3 mg."},
+{"title":"Vaste jää riittämättömäksi?","tone":"warning","branches":[
+{"label":"Kyllä","title":"Ulkoinen tahdistus tai isoprenaliini-infuusio","tone":"danger"},
+{"label":"Ei","title":"Seuraa sykettä ja oireita","tone":"ok"}
+]}
+]}
+```
+
 ## Vasta-aiheet ja varovaisuus
 
 Atropiinia ei anneta, jos potilaalla on takykardia (syke yli 100/min) tai tuore eteisvärinä, koska se voi kiihdyttää kammiovastetta edelleen. Varovaisuutta tarvitaan myös iäkkäillä, joilla on suurentunut riski sekavuuteen (deliriumiin).

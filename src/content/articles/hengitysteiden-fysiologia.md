@@ -24,6 +24,10 @@ Ensihoidon kannalta on olennaista erottaa, onko ongelma ylä- vai alahengitystei
 > [!tip] Muista tämä
 > Stridor → ajattele yläilmatietä. Vinkuna → ajattele alempia hengitysteitä. Mitä ylempänä ahtauma sijaitsee, sitä nopeammin tilanne voi muuttua täydelliseksi tukokseksi.
 
+```media
+{"widget":"airway-anatomy","caption":"Napauta rakennetta tai valitse ääni nähdäksesi, missä ongelma sijaitsee."}
+```
+
 ## Ventilaatio, hapetus ja kaasujenvaihto — kolme eri asiaa
 
 Hengitysfysiologiassa kannattaa erottaa kolme toisiinsa liittyvää mutta erillistä asiaa:
@@ -33,6 +37,10 @@ Hengitysfysiologiassa kannattaa erottaa kolme toisiinsa liittyvää mutta erilli
 - **Kaasujenvaihto** vaatii, että ilma pääsee alveoleihin, alveolit ovat auki, keuhkojen verenkierto toimii ja hemoglobiini pystyy sitomaan happea.
 
 Tämä jaottelu on kliinisesti tärkeä, koska potilas voi ventiloida huonosti vaikka SpO2 näyttäisi vielä hyvältä. Hengitysvajaus ei siis aina näy ensimmäisenä saturaatiomittarissa.
+
+```media
+{"widget":"alveolus","caption":"Kaasujenvaihto vaatii sekä ilmaa (ventilaatio) että verta (perfuusio) samaan keuhkorakkulaan. Vertaa, kumpi puuttuu missäkin tilassa."}
+```
 
 > [!warning] Red flag
 > Hyvä SpO2-arvo ei yksin todista, että potilas hengittää riittävästi. Potilas voi väsyä, hiilidioksidi nousta ja tajunta laskea ennen kuin saturaatio romahtaa näkyvästi.

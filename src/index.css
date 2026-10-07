@@ -177,6 +177,14 @@ a {
   animation: pop 0.3s cubic-bezier(0.34, 1.56, 0.64, 1) both;
 }
 
+/* Read-aloud highlight for the paragraph currently being spoken */
+.tts-active {
+  background: rgba(248, 105, 10, 0.12);
+  box-shadow: 0 0 0 6px rgba(248, 105, 10, 0.12);
+  border-radius: 6px;
+  transition: background-color 200ms var(--ease-out), box-shadow 200ms var(--ease-out);
+}
+
 /* Safe-area aware bottom nav spacing (iPhone) */
 .pb-safe {
   padding-bottom: max(0.5rem, env(safe-area-inset-bottom));

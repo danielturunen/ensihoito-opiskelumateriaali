@@ -1,16 +1,18 @@
-import { useEffect } from 'react'
+import { useEffect, useRef } from 'react'
 import { Link, Navigate, useParams } from 'react-router-dom'
 import { ChevronLeft, CheckCircle2, Circle, Clock, GraduationCap, Layers, Star } from 'lucide-react'
 import { getTopic } from '../content/topics'
 import { modules } from '../content/modules'
 import { getArticle } from '../content/loader'
 import { Markdown } from '../components/Markdown'
+import { ArticleListener } from '../components/ArticleListener'
 import { useProgress, progressActions } from '../lib/progress'
 
 export function TopicPage() {
   const { topicId = '' } = useParams()
   const topic = getTopic(topicId)
   const progress = useProgress()
+  const articleRef = useRef<HTMLDivElement>(null)
 
   useEffect(() => {
     if (topic) progressActions.setLastTopic(topic.id)
@@ -80,9 +82,10 @@ export function TopicPage() {
             <Layers className="h-4 w-4" /> Kertauskortit
           </Link>
         )}
+        {article && <ArticleListener targetRef={articleRef} />}
       </div>
 
-      <div className="mt-8 border-t border-[var(--border)] pt-6">
+      <div ref={articleRef} className="mt-8 border-t border-[var(--border)] pt-6">
         {article ? <Markdown source={article} /> : <p className="text-[var(--text-dim)]">Sisältöä ladataan…</p>}
       </div>
     </div>

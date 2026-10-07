@@ -36,6 +36,16 @@ ISBAR on vakiintunut tapa välittää potilastieto suullisesti niin, että vasta
 - **A – Assessment:** omat löydökset ja arvio tilanteesta (ABCDE-löydökset, epäilty syy)
 - **R – Recommendation:** mitä toivot tapahtuvan seuraavaksi – konsultaatio, vastaanottava yksikkö, kiireellisyys
 
+```media
+{"widget":"mnemonic","title":"ISBAR – harjoittele raportin rakenne","name":"ISBAR","items":[
+{"letter":"I","word":"Identify – tunnistaminen","text":"Kuka olet, mistä raportoit, kuka potilas on."},
+{"letter":"S","word":"Situation – tilanne","text":"Mikä on tilanne juuri nyt lyhyesti – miksi soitat."},
+{"letter":"B","word":"Background – tausta","text":"Esitiedot, tapahtuman kulku, lääkitys."},
+{"letter":"A","word":"Assessment – arvio","text":"Omat löydökset (ABCDE) ja epäilty syy."},
+{"letter":"R","word":"Recommendation – toive","text":"Mitä toivot seuraavaksi: konsultaatio, vastaanottava yksikkö, kiireellisyys. Sano ääneen."}
+]}
+```
+
 > [!tip] Muista tämä
 > ISBAR-raportti kannattaa harjoitella niin, että Assessment- ja Recommendation-osat ovat selkeät ja lyhyet. Kuulija muistaa raportin alun ja lopun parhaiten – siksi juuri lopussa esitetty suositus on tärkeä sanoa ääneen, ei vain vihjata.
 
@@ -53,6 +63,10 @@ NEWS2 (National Early Warning Score 2) on pisteytysjärjestelmä, joka yhdistä�
 | Lämpötila | ≤35,0 °C (3 p) | 36,1–38,0 °C (0 p) | ≥39,1 °C (2 p) |
 
 Kokonaispisteet ohjaavat toimintaa: matala pistemäärä tarkoittaa normaalia seurantaväliä, keskitason pistemäärä tihennettyä seurantaa ja lääkärin konsultaatiota, ja korkea pistemäärä edellyttää välitöntä arviota ja usein kiireellistä kuljetusta.
+
+```media
+{"widget":"news2","caption":"Kokeile: muuta yhtä parametria kerrallaan ja katso, miten pisteet ja toimintasuositus muuttuvat."}
+```
 
 > [!warning] Red flag
 > Yksittäinenkin parametri, joka saa korkeimman pistemäärän (esim. hengitystaajuus ≥25/min), riittää nostamaan koko tilanteen kiireelliseksi – vaikka kokonaispistemäärä muuten näyttäisi maltilliselta. Tarkat pisterajat ja toimintaohjeet voivat vaihdella käytössä olevan hoito-ohjeen mukaan.
@@ -72,6 +86,10 @@ Glasgow Coma Scale (GCS) tarkentaa AVPU-seulan antaman kuvan tajunnasta kolmella
 
 GCS on herkkä muutoksille: pisteiden lasku jo kahdella pisteellä tunnin aikana on merkittävä hälytysmerkki, vaikka kokonaispistemäärä pysyisi vielä kohtuullisena.
 
+```media
+{"widget":"gcs"}
+```
+
 ## Muita oirekohtaisia arviointimalleja
 
 Monille yksittäisille oireille on omat, kyseiseen oireeseen räätälöidyt muistisäännöt, jotka täydentävät yleisiä malleja. Niitä ei kannata opetella päällekkäin SOCRATES:in kanssa, mutta on hyvä tietää, että niitä on olemassa:
@@ -85,6 +103,17 @@ Monille yksittäisille oireille on omat, kyseiseen oireeseen räätälöidyt mui
 | Heikkous/aivohalvaus | STROKE (oireen alku, tyyppi, riskitekijät, muut oireet, taustasairaudet, löydökset) |
 | Lapsipotilas | PAEDIATRIC (asento, ulkonäkö, hengitystyö, nestetasapaino, infektion merkit, hengitystie, lämpötila, hengitystaajuus, nesteytys, verenkierto) |
 | Raskaus | PREGNANT (synnytyshistoria, oireet, tapahtumat, gestaatio, oireiden luonne, taustasairaudet, neurologiset oireet, ajoitus) |
+
+```media
+{"widget":"matching","title":"Yhdistä malli käyttötarkoitukseen","pairs":[
+{"left":"SOAP","right":"Kliinisen päättelyn ja kirjaamisen runko"},
+{"left":"AMPLE","right":"Nopea esitietojen kartoitus"},
+{"left":"ISBAR","right":"Suullinen raportointi ja konsultaatio"},
+{"left":"NEWS2","right":"Elintoimintojen heikkenemisen varhainen tunnistus"},
+{"left":"GCS","right":"Tajunnan tason pisteytys"},
+{"left":"SOCRATES","right":"Kivun jäsennelty haastattelu"}
+]}
+```
 
 ## Muista tämä -kertaus
 

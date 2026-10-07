@@ -27,6 +27,16 @@ Jo matkalla kohteeseen ja ensiarvion perusteella on tehtävä valinta kahden per
 
 Valittu strategia kerrotaan ääneen koko tiimille, jotta kaikki tietävät, mihin toiminnalla pyritään.
 
+```media
+{"widget":"flow","title":"Strategian valinta","steps":[
+{"title":"Mikä uhka ratkaisee ennusteen?","tone":"warning","branches":[
+{"label":"Vuoto / lävistävä vartalovamma","title":"Load and go","text":"Vain henkeä pelastavat toimenpiteet (vuodon tyrehdytys, hengitystie) – lopullinen hoito on leikkaus, jokainen minuutti kohteessa huonontaa ennustetta.","tone":"danger"},
+{"label":"Vaikea aivovamma","title":"Stay and play","text":"Hengitystie ja ventilaatio varmistetaan jo kentällä – sekundaarivaurion (hapenpuute, matala verenpaine) ehkäisy parantaa ennustetta.","tone":"warning"}
+]},
+{"title":"Kerro strategia ääneen koko tiimille","tone":"ok"}
+]}
+```
+
 ## Ensiarvio: cABCDE suurimman uhan mukaisessa järjestyksessä
 
 Joka ikinen vammapotilas tutkitaan samalla systemaattisella rungolla riippumatta siitä, miltä tilanne ensi silmäyksellä näyttää. Kävelevälläkin potilaalla voi olla vammoja, jotka eivät vielä näy peruselintoiminnoissa. Perusrunko on cABCDE – kirjainjärjestys kuvaa sitä, mikä uhka hoidetaan ensin. Yleisperiaatteet on käyty tarkemmin läpi sivulla [ABCDE ja peruselintoimintojen arviointi](topic:abcde-arviointi); tässä käydään läpi vammapotilaan erityispiirteet.
@@ -37,6 +47,17 @@ Joka ikinen vammapotilas tutkitaan samalla systemaattisella rungolla riippumatta
 - **C – Circulation:** Rannesyke antaa karkean arvion verenpaineesta. Takykardia on vammapotilaalla pidettävä verenvuodon merkkinä, kunnes toisin todistetaan – verenpaine laskee usein vasta myöhään, kun noin kolmannes verivolyymista on menetetty. Sisäisen vuodon tyypilliset paikat kannattaa muistaa: rintaontelo, vatsaontelo, lantio ja pitkät luut.
 - **D – Disability:** Tajunnantaso arvioidaan GCS-asteikolla osa-arvoineen, ja pupillien koko, symmetria ja valoreaktio tarkistetaan. Tajuton vammapotilas käsitellään aina rankavammaisena.
 - **E – Exposure & Environment:** Potilas paljastetaan riittävästi, jotta kaikki vammat löytyvät, mutta jäähtymistä on ehkäistävä aktiivisesti heti paljastamisen jälkeen.
+
+```media
+{"widget":"mnemonic","title":"cABCDE – testaa järjestys","name":"cABCDE","items":[
+{"letter":"c","word":"Catastrophic haemorrhage","text":"Henkeä uhkaava ulkoinen vuoto ensin: suora paine, kiristysside raajan tyveen (kirjaa aika) tai hemostaattinen sidos."},
+{"letter":"A","word":"Airway + kaularangan tuki","text":"Leuan kohotus rankaa tukien, nielu-/nenänieluputki, imu. Intubaatio, jos GCS alle 9 tai hengitystie uhattuna."},
+{"letter":"B","word":"Breathing","text":"Symmetria, hengitysäänet, taajuus (alle 8 tai yli 30 hälyttävä), SpO₂-tavoite n. 94–95 %. Avoin ilmarinta peitetään kolmelta sivulta."},
+{"letter":"C","word":"Circulation","text":"Takykardia = vuoto kunnes toisin todistetaan. Sisäisen vuodon paikat: rintaontelo, vatsaontelo, lantio, pitkät luut."},
+{"letter":"D","word":"Disability","text":"GCS osa-arvoineen, pupillit. Tajuton vammapotilas käsitellään rankavammaisena."},
+{"letter":"E","word":"Exposure & Environment","text":"Paljasta riittävästi – ja ehkäise jäähtyminen heti."}
+]}
+```
 
 > [!danger] Henkeä uhkaava
 > Jänniteilmarinta tunnistetaan nopeasti etenevästä hengitysvaikeudesta ja verenkierron romahtamisesta, toispuolisesti hävinneistä hengitysäänistä ja kaulalaskimoiden pullotuksesta. Hoitona on välitön paineenpurku neulatorakosenteesilla "pimeälle puolelle" – toimenpidettä ei saa viivyttää.
@@ -57,12 +78,20 @@ Kun peruselintoiminnot on saatu hallintaan, tehdään tarkempi tutkimus, jonka t
 - **Selkä:** tutkitaan samassa yhteydessä kun potilas joudutaan kääntämään muusta syystä (blokkikääntö) – kipua, puutumista tai lihasheikkoutta kysytään aina hereillä olevalta.
 - **Raajat:** tarkista kummaltakin puolelta sykkeet, liike ja tunto, etsi virheasentoja ja avomurtumia.
 
+```media
+{"widget":"body-map","caption":"Käy tutkimisjärjestys läpi kehokartalla – ja vaihda Piilovuodot-näkymään nähdäksesi, minne verta voi kadota ilman ulkoista vuotoa."}
+```
+
 > [!tip] Muista tämä
 > Täydennetty tilannearvio ei saa koskaan viivyttää kuljetusta, jos potilaalla on hallitsematon verenvuoto tai muu välitön hengenvaara – nämä tilanteet ratkaistaan "load and go" -periaatteella.
 
 ## Monivammapotilas ja kuoleman kolmio
 
 Monivammautuneeksi katsotaan potilas, jolla on merkittävä vamma vähintään kahdella kehon alueella ja lisäksi alentunut tajunta, matala verenpaine tai korkea ikä. Näillä potilailla elimistön säätelyjärjestelmät ovat koetuksella, ja hoidossa korostuu erityisesti niin kutsutun kuoleman kolmion katkaiseminen: hypotermia heikentää veren hyytymistä, hypotermia ja huono kudosperfuusio aiheuttavat asidoosia, ja asidoosi yhdessä laimentuneiden hyytymistekijöiden kanssa pahentaa hyytymishäiriötä (koagulopatiaa), joka lisää verenvuotoa – ja kierre jatkuu. Kierteen katkaisemiseksi potilas pidetään lämpimänä, verenvuoto hoidetaan aktiivisesti ja nesteytyksessä vältetään ylimääräistä kirkkaiden nesteiden antoa.
+
+```media
+{"widget":"death-triad"}
+```
 
 Käytännössä tämä tarkoittaa, että vuotavalla potilaalla, jolla ei ole aivovammaa, tavoitellaan vain riittävää ("sallittua" eli permissiivistä) verenpainetta – rannesyke tunnettavissa riittää – kun taas aivovamma- ja selkäydinvammapotilaalla pyritään korkeampaan verenpaineeseen riittävän aivo- ja selkäydinverenkierron turvaamiseksi. Traneksaamihappo annetaan mahdollisimman pian, kun epäillään merkittävää verenvuotoa.
 

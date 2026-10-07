@@ -16,6 +16,18 @@ Vakiintuneessa suomalaisessa mallissa ensihoitajan ydinosaaminen on jaettu useis
 6. **Löydösten mukainen ensihoidon toteutus ja lääkehoito.** Hoitopäätöksen tekeminen ja sen toteuttaminen turvallisesti, mukaan lukien lääkkeiden vaikutusmekanismien, annosten, vasta-aiheiden ja haittavaikutusten hallinta.
 7. **Ensihoidon johtaminen sekä tutkimus- ja kehittämistyö.** Toiminnan johtaminen esimerkiksi monipotilastilanteissa (triage, resurssien kohdentaminen) ja oman alan jatkuva kehittäminen.
 
+```media
+{"widget":"self-assessment","storageKey":"ydinosaaminen","items":[
+{"id":"etiikka","label":"Arvot, eettiset periaatteet ja säädökset","short":"Etiikka"},
+{"id":"jarjestelma","label":"Ensihoitojärjestelmä ja viranomaisyhteistyö","short":"Yhteistyö"},
+{"id":"turvallisuus","label":"Turvallisuus sekä teknologian ja välineistön hallinta","short":"Välineet"},
+{"id":"arviointi","label":"Eri-ikäisten potilaiden tilan arviointi","short":"Arviointi"},
+{"id":"tyodiagnoosi","label":"Työdiagnoosi: oireet, löydökset ja patofysiologia","short":"Diagnoosi"},
+{"id":"hoito","label":"Ensihoidon toteutus ja lääkehoito","short":"Hoito"},
+{"id":"johtaminen","label":"Johtaminen sekä tutkimus- ja kehittämistyö","short":"Johtaminen"}
+]}
+```
+
 Näiden lisäksi korostuvat läpileikkaavina teemoina potilasturvallisuus (mm. lääkitysturvallisuus, suljetun kierron kommunikaatio) sekä vuorovaikutus- ja viestintäosaaminen, josta tunnetuin työkalu on [ISBAR-raportointimalli](topic:konsultaatiomallit).
 
 > [!info] Tausta: hoitoketju on yhtä vahva kuin heikoin lenkkinsä

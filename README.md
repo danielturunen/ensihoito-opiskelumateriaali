@@ -11,6 +11,8 @@ Interaktiivinen opiskelumateriaali ensihoitaja (AMK) -opiskelijalle. Sisältää
 - Kertauskortit yksinkertaisella Leitner-tyyppisellä kertausaikataululla
 - Potilastapausharjoitukset (skenaariot), joissa edetään hälytystiedoista hoitopäätökseen
 - Koko sisällön kattava haku
+- **Oppimista tukeva multimedia** artikkelien sisällä (81 elementtiä, 37 tyyppiä): animoidut anatomiakuvat (johtoratajärjestelmä, ilmarinta, keuhkorakkula, hengitystiet, sepelvaltimotauti, aortokavaalinen kompressio), EKG-rytmikirjasto tunnistusharjoituksella, laskurit (GCS, NEWS2, sokki-indeksi, QTc, CPP, Apgar, 9:n sääntö), annoslaskuharjoitukset, hoitokaaviot, aikajanat, muistisäännöt, yhdistelytehtävät ja ruotsin fraasisanasto ääntämisineen
+- **Kuuntele**-toiminto: artikkelin voi kuunnella ääneen (laitteen oma puhesynteesi, toimii offline)
 - Opiskelun eteneminen, suosikit ja tietovisatulokset tallentuvat laitteen `localStorage`iin — ei kirjautumista
 - Asennettava PWA: toimii offline kerran ladattuasi sivuston, responsiivinen mobiilista työpöydälle
 
@@ -61,6 +63,8 @@ src/content/
   flashcards/<id>.json  # Kertauskortit per aihe
   scenarios/<id>.json    # Potilastapausharjoitukset (vain tapaussivuille)
 ```
+
+Artikkeleihin upotetaan interaktiivisia elementtejä ```` ```media ```` -lohkoilla, esim. `{"widget": "gcs"}`. Elementit ovat kansiossa `src/components/media/widgets/` (yksi tiedosto per elementti, ladataan vasta tarvittaessa) ja ne rekisteröidään tiedostoon `src/components/media/registry.ts`. Kirjoitusohjeet: `src/components/media/WIDGET_GUIDE.md`. `node scripts/validate-content.mjs` tarkistaa myös media-lohkot.
 
 Uuden aiheen lisääminen: lisää rivi `src/content/topics.ts`-tiedostoon ja luo vastaavat tiedostot yllä olevaan rakenteeseen samalla `id`:llä.
 

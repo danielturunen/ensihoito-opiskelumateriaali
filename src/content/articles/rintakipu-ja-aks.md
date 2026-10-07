@@ -41,6 +41,10 @@ Akuutti sepelvaltimotautikohtaus (AKS) syntyy, kun plakin repeämä laukaisee hy
 - **Täydellinen tukos** → koko seinämän läpäisevä vaurio → **STEMI** (ST-nousuinfarkti)
 - **Epästabiili angina pectoris (UAP)** → iskemiaa, mutta ei vielä mitattavaa sydänlihasvauriota
 
+```media
+{"widget":"atherosclerosis","caption":"Käy vaiheet läpi: missä vaiheessa oireet alkavat, ja mikä erottaa UAP:n, NSTEMI:n ja STEMI:n?"}
+```
+
 Nämä kolme muodostavat AKS-käsitteen kokonaisuuden. Stabiilissa angina pectoriksessa kipu tulee tutusti rasituksessa ja helpottaa levossa tai nitraatilla – jos oire muuttuu (ilmaantuu levossa, voimistuu tai toistuu), kyse on epästabiilista, suuririskisestä tilanteesta.
 
 > [!info] Tausta
@@ -62,6 +66,10 @@ Esitiedoissa selvitetään kivun luonne, alku, säteily ja vaste nitraatille sek
 | Väliseinä | ST-nousu V1-V2 | – |
 | Korkea lateraalinen | Muutos lähes vain aVL:ssä | Helppo jäädä huomaamatta |
 
+```media
+{"widget":"ecg-territories","caption":"Valitse seinämä ja katso, missä kytkennöissä ST-nousu näkyy – tai testaa itsesi."}
+```
+
 > [!info] Tiesitkö?
 > Suomalaisista sairaankuljettajista 84-92 % tunnisti oikein, mitkä EKG-kytkennät (II, III, aVF) näyttävät alaseinäinfarktin vauriovirran – osa yhdisti virheellisesti myös muita kytkentöjä samaan löydökseen. Alaseinäinfarktin tunnistaminen on tärkeää juuri siksi, että siihen liittyy usein hidasrytmisyyttä, johon kannattaa varautua etukäteen.
 
@@ -72,6 +80,18 @@ Esitiedoissa selvitetään kivun luonne, alku, säteily ja vaste nitraatille sek
 3. ASA 250-500 mg pureskellen, ellei yliherkkyyttä
 4. Nitraatti suihkeena, jos systolinen verenpaine yli 100 mmHg – voidaan toistaa 5 minuutin kuluttua
 5. Suoniyhteys, jos kipu jatkuu tai elintoiminnot ovat häiriintyneet
+
+```media
+{"widget":"flow","title":"Rintakipupotilaan hoitopolku","steps":[
+{"title":"Systemaattinen arvio ja 15-kytkentäinen EKG","text":"Kaikilta rintakipupotilailta. Normaali EKG mutta vahva epäily → kontrollinauha noin 15 min kuluttua."},
+{"title":"Perushoito","text":"Puoli-istuva asento ja rauhoittaminen · happi vain jos SpO₂ alle 90 % tai hengitysvajaus · ASA 250–500 mg pureskellen · nitraatti jos systolinen RR yli 100 mmHg · suoniyhteys."},
+{"title":"Mitä EKG ja tila kertovat?","tone":"warning","branches":[
+{"label":"ST-nousut","title":"STEMI-linja","text":"Nopea reperfuusio: PCI ensisijainen; liuotus, jos PCI-viive liian pitkä ja oireet alkaneet alle 2–3 h sitten.","tone":"danger"},
+{"label":"ST-laskut / epävakaa","title":"Suuren vaaran AKS","text":"Antikoagulaatio, beetasalpaus vain hyperdynaamiselle ilman sokin vaaraa, opioidi kivunhoitoon.","tone":"warning"}
+]},
+{"title":"Hoida komplikaatiot heti","text":"Bradykardia → atropiini tai ulkoinen tahdistus · hypotensio → nesteytys, tarvittaessa noradrenaliini · takyarytmiat → amiodaroni, kardioversio tai defibrillaatio."}
+]}
+```
 
 ## Suuren vaaran AKS:n hoito
 

@@ -3,6 +3,7 @@ import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import { Link } from 'react-router-dom'
 import { AlertTriangle, Info, Lightbulb, Siren } from 'lucide-react'
+import { MediaBlock } from './media/MediaBlock'
 
 const CALLOUT_RE = /^\[!(tip|warning|danger|info|important|example|success|note|critical)\]\s*(.*)$/i
 
@@ -103,7 +104,16 @@ export function Markdown({ source }: { source: string }) {
           ol: ({ children }) => <ol className="my-3 list-decimal space-y-1.5 pl-5 marker:font-semibold marker:text-brand-500">{children}</ol>,
           li: ({ children }) => <li className="leading-relaxed pl-1">{children}</li>,
           strong: ({ children }) => <strong className="font-semibold text-[var(--text)]">{children}</strong>,
-          code: ({ children }) => <code className="rounded bg-[var(--bg-raised)] px-1.5 py-0.5 font-mono text-[0.85em]">{children}</code>,
+          pre: ({ children }) => {
+            const child = Children.toArray(children)[0]
+            if (isValidElement<{ className?: string; children?: ReactNode }>(child) && child.props.className?.includes('language-media')) {
+              return <MediaBlock raw={textContent(child.props.children)} />
+            }
+            return <pre className="my-4 overflow-x-auto rounded-xl bg-[var(--bg-card)] p-3 text-[13px]">{children}</pre>
+          },
+          code: ({ children, className }) => (
+            <code className={`${className ?? ''} rounded bg-[var(--bg-raised)] px-1.5 py-0.5 font-mono text-[0.85em]`}>{children}</code>
+          ),
           hr: () => <hr className="my-8 border-[var(--border)]" />,
         }}
       >

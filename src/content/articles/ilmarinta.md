@@ -2,6 +2,10 @@
 
 Keuhkoja ja rintakehän sisäpintaa ympäröi pleura, kaksikerroksinen kalvo. Näiden kerrosten välissä, pleuratilassa, on normaalisti vain ohut nestekalvo, joka mahdollistaa keuhkon liukumisen rintakehän sisällä hengitysliikkeen aikana. Kun pleuratilaan kertyy ilmaa tai verta, se painaa keuhkoa kasaan ja heikentää hengitystä. Pahimmillaan paine voi nousta niin korkeaksi, että se uhkaa koko verenkiertoa.
 
+```media
+{"widget":"pneumothorax","caption":"Vaihda tilaa ja seuraa keuhkon, välikarsinan ja paineen muutoksia. Jänniteilmarinnassa kokeile neulatorakosenteesia."}
+```
+
 ## Tavallinen ilmarinta (pneumothorax)
 
 Tavallisessa ilmarinnassa ilmaa kertyy pleuratilaan esimerkiksi rintakehän vamman, keuhkon pinnan revähdyksen tai keuhkosairauden seurauksena, ja keuhko painuu kasaan. Toisin kuin jänniteilmarinnassa, paine ei nouse jatkuvasti — tilanne voi pysyä suhteellisen vakaana.

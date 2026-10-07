@@ -30,9 +30,34 @@ Anafylaksia on äkillinen, nopeasti etenevä ja hengenvaarallinen yleistynyt all
 2. Keuhkoputkien supistuminen (bronkospasmi) → hengitys vaikeutuu.
 3. Voimakas turvotus iholla ja limakalvoilla, erityisesti ylähengitysteissä → kurkunpää voi turvota lähes kiinni.
 
+```media
+{"widget":"flow","title":"Anafylaksian mekanismi","steps":[
+{"title":"Altistus aineelle, jolle elimistö on herkistynyt","tone":"neutral"},
+{"title":"Syöttösolut vapauttavat hetkessä histamiinia ja muita välittäjäaineita","tone":"warning","branches":[
+{"label":"Verisuonet","title":"Laajenevat ja vuotavat","text":"Verenpaine laskee – distributiivinen sokki.","tone":"danger"},
+{"label":"Keuhkoputket","title":"Bronkospasmi","text":"Hengitys vaikeutuu, vinkuna.","tone":"danger"},
+{"label":"Iho ja limakalvot","title":"Voimakas turvotus","text":"Kurkunpää voi turvota lähes kiinni.","tone":"danger"}
+]},
+{"title":"Adrenaliini katkaisee kaikki kolme","text":"Supistaa verisuonia (nostaa verenpainetta), laajentaa keuhkoputkia, vähentää turvotusta ja estää lisävälittäjäaineiden vapautumista. Annos hoito-ohjeen ja painon mukaan.","tone":"ok"}
+]}
+```
+
 Tyypillisiä oireita ovat kurkun turvotuksen tunne, äänen muutos, hengenahdistus, nokkosihottuma (urtikaria) ja muut ihoreaktiot, verenpaineen lasku, huimaus tai kollapsi.
 
 Diagnoosi perustuu oireisiin vähintään kahdessa elinjärjestelmässä (iho, hengitys, verenkierto, maha-suolikanava).
+
+```media
+{"widget":"checklist","title":"Täyttyykö anafylaksian kriteeri?","prompt":"Merkitse potilaalla havaitut oireet.","rule":{"type":"groups","n":2},"items":[
+{"label":"Nokkosihottuma (urtikaria) tai muu ihoreaktio","group":"Iho ja limakalvot"},
+{"label":"Kasvojen tai limakalvojen turvotus","group":"Iho ja limakalvot"},
+{"label":"Kurkun turvotuksen tunne, äänen muutos tai stridor","group":"Hengitys"},
+{"label":"Hengenahdistus tai vinkuna","group":"Hengitys"},
+{"label":"Verenpaineen lasku, huimaus tai kollapsi","group":"Verenkierto"},
+{"label":"Maha-suolikanavan oireet","group":"Maha-suolikanava"}
+],
+"met":{"title":"Oireita vähintään kahdessa elinjärjestelmässä – epäile anafylaksiaa","text":"Anna adrenaliini viipymättä – älä odota kaikkien oireiden ilmaantumista. Kaikki anafylaksiapotilaat kuljetetaan seurantaan (bifaasinen reaktio).","tone":"danger"},
+"notMet":{"title":"Oireita alle kahdessa elinjärjestelmässä","text":"Seuraa tiiviisti – tila voi edetä minuuteissa.","tone":"neutral"}}
+```
 
 > [!danger] Henkeä uhkaava
 > Anafylaksiassa potilas voi puhua vielä alkuvaiheessa, mutta tila voi romahtaa nopeasti. Hengitystien ja verenkierron tilaa on seurattava jatkuvasti.

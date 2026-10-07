@@ -45,6 +45,10 @@ Kun ainetta ei tiedetä, oireyhtymän tunnistaminen auttaa suuntaamaan hoitoa.
 > [!tip] Muista tämä
 > Kiihtynyt, takykardinen, laajat pupillit omaava potilas voi olla sympatomimeettisessä tai antikolinergisessa myrkytyksessä. Iho ratkaisee: hikinen iho viittaa sympatomimeettiin, kuiva ja punoittava antikolinergiseen.
 
+```media
+{"widget":"toxidrome","caption":"Valitse löydökset ja katso, mikä oireyhtymä sopii parhaiten – tai harjoittele tunnistamista."}
+```
+
 ## Imeytymisen estäminen: lääkehiili
 
 Lääkehiili sitoo monia lääkeaineita suolistossa ja estää niiden imeytymistä. Se tehoaa parhaiten tunnin sisällä aineen nauttimisesta. Annostus aikuiselle on 50–100 g, lapselle 1 g/kg.
@@ -62,6 +66,18 @@ Lääkehiili **ei tehoa** alkoholeihin, metalleihin (rauta, litium), syanidiin e
 | Natriumbikarbonaatti | Trisyklisten masennuslääkkeiden aiheuttama leveäkompleksinen takykardia | Käytetään, kun QRS merkittävästi leventynyt |
 | Glukagoni | Vaikea beetasalpaaja-/kalsiumkanavansalpaajamyrkytys | Vaatii lääkärikonsultaation, aiheuttaa usein pahoinvointia |
 | Flumatseniili | Puhdas bentsodiatsepiinimyrkytys | Vältetään ensihoidossa – voi laukaista vaikean kouristelun sekamyrkytyksessä |
+
+```media
+{"widget":"matching","title":"Yhdistä antidootti käyttöaiheeseen","pairs":[
+{"left":"Naloksoni","right":"Opioidimyrkytys"},
+{"left":"Happi 100 %","right":"Häkämyrkytys"},
+{"left":"Hydroksokobalamiini","right":"Syanidimyrkytys (palokaasut)"},
+{"left":"Natriumbikarbonaatti","right":"Trisyklisten masennuslääkkeiden leveä QRS"},
+{"left":"Glukagoni","right":"Vaikea beetasalpaajamyrkytys"},
+{"left":"Flumatseniili","right":"Puhdas bentsodiatsepiinimyrkytys"},
+{"left":"Glukoosi (tiamiini ensin)","right":"Hypoglykemia alkoholin suurkuluttajalla"}
+]}
+```
 
 > [!danger] Henkeä uhkaava
 > Flumatseniilin käyttö sekamyrkytyksessä, erityisesti yhdessä trisyklisten masennuslääkkeiden kanssa, voi laukaista vaikeahoitoisen kouristustilan. Siksi antidoottia käytetään ensihoidossa vain harvoin ja harkitusti.

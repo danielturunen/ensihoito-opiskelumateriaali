@@ -11,6 +11,10 @@ Diagnostiikan ja hoidon periaatteet ovat suurelta osin samat kuin aikuisilla, mu
 
 Lapsella naamariventilaatio ja useimmiten myös intubaatio ovat yleensä teknisesti helppoja, kun anatomiset erot tunnetaan. Pienen lapsen (0–3-vuotiaan) suuri takaraivo kallistaa päätä eteenpäin selinmakuulla ja voi tukkia hengitystien – pään pidetään siksi neutraalissa asennossa, ei taivutettuna taaksepäin kuten aikuisella. Kurkunpää sijaitsee vastasyntyneellä ja imeväisellä korkealla kaulalla, mikä vaikeuttaa äänenraon näkemistä intubaatiossa. Lapsen suhteellisen iso kieli ja veltto, taaksepäin kääntyvä kurkunkansi huonontavat näkyvyyttä laryngoskopiassa, ja nieluputki helpottaa usein naamariventilaatiota. Alle 10-vuotiailla hengitysteiden kapein kohta on äänenraon jälkeen sormusruston kohdalla, ei äänenraossa kuten aikuisella – vierasesine voi kiilautua tähän vaikeasti havaittavaan kohtaan.
 
+```media
+{"widget":"airway-child","caption":"Vaihda aikuisen ja lapsen välillä ja käy erot läpi numeroiden mukaan."}
+```
+
 > [!warning] Red flag
 > Nielun ja kurkunpään manipulaatio voi laukaista laryngospasmin (äänihuulten reflektorisen sulkeutumisen), joka estää ilmavirtauksen täysin. Turhia imuja pinnallisesti tajuttoman lapsen hengitysteihin on siksi vältettävä, ja laryngospasmin ilmetessä siirrytään naamariventilaatioon syventäen anestesiaa – putkea ei saa väkisin työntää suljettuja äänihuulia vasten.
 
@@ -36,6 +40,19 @@ Lapsen pää on suhteessa vartaloon suuri ja painava, kallon luut ohuita ja saum
 | Ihon harmaankalpea/sinertävä/marmoroitunut väri | |
 | Matala verenpaine | Sokin myöhäisoire |
 
+```media
+{"widget":"checklist","title":"Onko lapsi sokissa?","prompt":"Merkitse havaitut löydökset.","rule":{"type":"atLeast","n":2},"items":[
+{"label":"Tajunnantason lasku (ilmenee eri lailla eri-ikäisillä)"},
+{"label":"Kapillaaritäyttöaika yli 2 s"},
+{"label":"Heikentyneet ääreispulssit"},
+{"label":"Takykardia (ikäkohtaiset viitearvot, esim. PEWS)"},
+{"label":"Harmaankalpea, sinertävä tai marmoroitunut iho"},
+{"label":"Matala verenpaine (myöhäisoire)"}
+],
+"met":{"title":"Sokki todennäköinen","text":"Nesteytys 20 ml/kg isotonista nestettä boluksena, toistettavissa oireita seuraten. Jos suoniyhteys ei onnistu muutamalla yrityksellä → luunsisäinen infuusio.","tone":"danger"},
+"notMet":{"title":"Alle kaksi sokin löydöstä","text":"Monitoroi jatkuvasti – lapsen verenpaine voi pysyä normaalina, vaikka jopa 50 % verivolyymista olisi menetetty.","tone":"neutral"}}
+```
+
 Jos vähintään kaksi näistä löytyy, sokki on todennäköinen. Sokin perushoito on nesteytys: 20 ml/kg isotonista nestettä (Ringer tai 0,9-prosenttinen keittosuola) boluksena, toistettavissa tarpeen mukaan oireita seuraten. Sokeriliuokset tai hypotoninen keittosuola eivät sovi vammapotilaan sokin hoitoon. Jos suoniyhteyttä ei saada muutamalla yrityksellä, siirrytään luunsisäiseen (intraosseaali-) infuusioon.
 
 ## Kivunhoito
@@ -55,6 +72,10 @@ Suonensisäinen anto on ensisijainen kipulääkkeen antotapa, mutta kanylointi v
 | S-ketamiini | 0,125–0,25 mg/kg |
 
 Opioidien hengitystä lamaava vaikutus korostuu lapsella, joten hengitystä seurataan tarkasti ja hengityksen avustamiseen varaudutaan aina suonensisäistä opioidia annettaessa.
+
+```media
+{"widget":"dose-practice","caption":"Harjoittele painonmukaisia annoslaskuja – mukana myös atropiini, ondansetroni, nestebolus ja lääkehiili muilta sivuilta."}
+```
 
 ## Muut tavalliset ja harvinaiset tehtävät
 

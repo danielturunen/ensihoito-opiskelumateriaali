@@ -11,6 +11,10 @@ Räjähdyksessä esiintyy tyypillisesti neljää erillistä vammamekanismia sama
 3. **Tertiaarivamma (heittovaikutus)** – potilaan sinkoutuminen tai sortuman alle jääminen aiheuttaa [tylppiä vammoja](topic:tylppa-vamma).
 4. **Kvaternaarivamma (kuumuus/kemikaalit)** – liekit ja palokaasut aiheuttavat [palovammoja](topic:palovamma) ja myrkytyksiä.
 
+```media
+{"widget":"blast","caption":"Napauta mekanismia: mitä vammoja kukin aiheuttaa ja mitä on muistettava?"}
+```
+
 Suljetussa tilassa tapahtuva räjähdys voimistaa paineaallon vaikutusta. Potilas ei räjähdyksen jälkeen välttämättä kuule normaalisti, mikä vaikeuttaa kommunikaatiota ja tutkimusta. Piilevät sisäelinvauriot voivat ilmetä viiveellä, vaikka alkutilanne näyttäisi rauhalliselta.
 
 > [!danger] Tärkeä periaate
@@ -23,14 +27,16 @@ Suljetussa tilassa tapahtuva räjähdys voimistaa paineaallon vaikutusta. Potila
 
 ## Ajalliset tavoitteet
 
-| Toimenpide | Tavoiteaika |
-|---|---|
-| Oman turvallisuuden varmistaminen | Ennen lähestymistä |
-| Henkeä uhkaavan verenvuodon tyrehdytys | 1 min |
-| Hengitystien avoimuus | 2 min |
-| Käsitys vammoista | 5 min |
-| Hätäkuljetus | 10 min |
-| Kiireellinen kuljetus | 25 min |
+```media
+{"widget":"timeline","title":"Ajalliset tavoitteet","items":[
+{"time":"0","title":"Oman turvallisuuden varmistaminen","text":"Ennen lähestymistä – vasta pelastusviranomaisten luvalla.","tone":"warning"},
+{"time":"1 min","title":"Henkeä uhkaavan verenvuodon tyrehdytys","tone":"danger"},
+{"time":"2 min","title":"Hengitystien avoimuus","tone":"warning"},
+{"time":"5 min","title":"Käsitys vammoista","tone":"brand"},
+{"time":"10 min","title":"Hätäkuljetus","tone":"danger"},
+{"time":"25 min","title":"Kiireellinen kuljetus","tone":"ok"}
+]}
+```
 
 ## Hoito cABCDE-protokollan mukaan
 

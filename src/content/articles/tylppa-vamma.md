@@ -13,12 +13,14 @@ Matala energia (kaatuminen samalta tasolta, hidas törmäys) aiheuttaa yleensä 
 
 ## Ajalliset tavoitteet
 
-| Toimenpide | Tavoiteaika |
-|---|---|
-| Henkeä uhkaavan ulkoisen verenvuodon tyrehdytys | 1 min |
-| Hengitystien avoimuus ja hengityksen turvaaminen | 2 min |
-| Tarkennettu tutkiminen ja välittömät hoitotoimet | < 10 min |
-| Kiireellisen kuljetuksen aloitus | 15–30 min |
+```media
+{"widget":"timeline","title":"Ajalliset tavoitteet","items":[
+{"time":"1 min","title":"Henkeä uhkaavan ulkoisen verenvuodon tyrehdytys","tone":"danger"},
+{"time":"2 min","title":"Hengitystien avoimuus ja hengityksen turvaaminen","tone":"warning"},
+{"time":"< 10 min","title":"Tarkennettu tutkiminen ja välittömät hoitotoimet","tone":"brand"},
+{"time":"15–30 min","title":"Kiireellisen kuljetuksen aloitus","tone":"ok"}
+]}
+```
 
 ## Tutkiminen
 
@@ -39,6 +41,18 @@ Vammapotilaan systemaattinen tutkiminen (cABCDE ja RTA – rapid trauma assessme
 
 > [!info] NEXUS-kriteerit (15–65-vuotiaat)
 > Jos yksikin täyttyy, tuetaan koko ranka: kaularangan keskilinjan palpaatiokipu, neurologiset puolierot tai puutosoireet, alentunut tajunta (GCS < 15), päihtymyksen merkit, kivuliaat lisävammat jotka voivat peittää rankakivun.
+
+```media
+{"widget":"checklist","title":"NEXUS – tarvitaanko rangan tuenta?","prompt":"15–65-vuotias vammapotilas: merkitse täyttyvät kriteerit.","rule":{"type":"any"},"items":[
+{"label":"Kaularangan keskilinjan palpaatiokipu"},
+{"label":"Neurologiset puolierot tai puutosoireet"},
+{"label":"Alentunut tajunta (GCS alle 15)"},
+{"label":"Päihtymyksen merkit"},
+{"label":"Kivuliaat lisävammat, jotka voivat peittää rankakivun"}
+],
+"met":{"title":"Tue koko ranka","text":"Yksikin täyttyvä kriteeri riittää. Tyhjiöpatja on ensisijainen tukemisväline.","tone":"warning"},
+"notMet":{"title":"Ei NEXUS-kriteerejä","text":"Rangan tuenta ei NEXUS-kriteerien perusteella ole tarpeen – arvioi silti mekanismi ja potilas kokonaisuutena.","tone":"ok"}}
+```
 
 Tyhjiöpatja on ensisijainen tukemisväline, erityisesti kuljetuksen kestäessä yli 30 minuuttia. Rankalautaa ja kauhapareja käytetään vain potilaan siirtämiseen.
 

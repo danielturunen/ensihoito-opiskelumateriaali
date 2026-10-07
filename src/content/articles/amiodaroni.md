@@ -2,6 +2,10 @@
 
 Amiodaroni on luokan III rytmihäiriölääke: pääasiallinen vaikutus on kaliumkanavien salpaus, joka pidentää sydänlihassolun toimintapotentiaalin kestoa ja refraktaariaikaa (aikaa, jolloin solu ei voi uudelleen aktivoitua). Lääkkeellä on lisäksi natrium- ja kalsiumkanavia sekä alfa- ja beetareseptoreita salpaavaa vaikutusta, joten se myös hidastaa johtumista ja vähentää sympaattista ärsytystä. Laaja-alaisen vaikutuksensa ansiosta amiodaroni tehoaa käytännössä kaikkiin [kiertoaktivaatiolla](topic:rytmihairiot) syntyviin rytmihäiriöihin.
 
+```media
+{"widget":"action-potential","caption":"Vertaa normaalia ja amiodaronin pidentämää toimintapotentiaalia – pidempi refraktaariaika sammuttaa kiertävän impulssin."}
+```
+
 ## Käyttöaiheet
 
 - Kammiovärinä (VF) ja pulssiton kammiotakykardia defibrilloinnin jälkeen, uusiutumisen estoon

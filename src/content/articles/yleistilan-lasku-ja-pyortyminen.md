@@ -18,6 +18,14 @@ Anamneesissa kannattaa kysyä suoraan: Miksi juuri nyt soitettiin hätäkeskukse
 > [!important] Nopeus kertoo vakavuudesta
 > Mitä nopeammin oire on kehittynyt, sitä todennäköisemmin taustalla on vakava sairaus. Yleistilan romahtaminen alle tunnissa on lähes aina merkki vakavasta akuutista tilasta. Päivien kuluessa tapahtunut heikkeneminen voi silti olla kiireellistä hoitoa vaativa (esim. sepsis), kun taas viikkojen aikana edennyt toimintakyvyn lasku vaatii harvoin päivystyksellisiä toimia, vaikka taustalla olisikin vakava sairaus kuten syöpä.
 
+```media
+{"widget":"timeline","title":"Nopeus kertoo vakavuudesta","items":[
+{"time":"< 1 h","title":"Yleistilan romahtaminen","text":"Lähes aina merkki vakavasta akuutista tilasta.","tone":"danger"},
+{"time":"Päiviä","title":"Heikkeneminen päivien kuluessa","text":"Voi silti vaatia kiireellistä hoitoa, esim. sepsis.","tone":"warning"},
+{"time":"Viikkoja","title":"Toimintakyvyn hidas lasku","text":"Vaatii harvoin päivystyksellisiä toimia, vaikka taustalla olisi vakava sairaus kuten syöpä.","tone":"neutral"}
+]}
+```
+
 Myös potilasryhmällä on väliä: iäkkäällä korostuvat vähäoireinen sydäntapahtuma, rytmihäiriö, lääkehaitta, infektio ja aivoverenkiertohäiriö; alkoholistilla pään vamma, infektio, maksa- tai haimasairaus ja elektrolyyttihäiriöt; huumeidenkäyttäjällä delirium, infektio, myrkytys ja vamma; raskaana olevalla pre-eklampsia, infektio ja keuhkoembolia.
 
 ## Vaaralliset taustasyyt ja niiden vihjeet
@@ -77,6 +85,20 @@ Pyörtyminen on lyhytkestoinen (useimmiten sekuntien, joskus muutaman minuutin) 
 > - Virtsan tai ulosteen karkaaminen kohtauksen yhteydessä
 >
 > Jos pyörtyminen tapahtuu ensimmäistä kertaa vasta iäkkäänä, sydänperäinen syy on aina tutkittava pikaisesti.
+
+```media
+{"widget":"checklist","title":"Viittaako pyörtyminen vakavaan syyhyn?","prompt":"Merkitse tapauksessa esiintyvät tekijät.","rule":{"type":"any"},"items":[
+{"label":"Tiedossa oleva sydänsairaus"},
+{"label":"Pyörtyminen rasituksen aikana tai yhteydessä"},
+{"label":"Rintakipu, hengenahdistus tai rytmihäiriötuntemus ennen tai jälkeen"},
+{"label":"Pyörtynyt on loukannut itsensä"},
+{"label":"Kouristuksia tajuttomuuden aikana"},
+{"label":"Virtsan tai ulosteen karkaaminen"},
+{"label":"Ensimmäinen pyörtyminen vasta iäkkäänä"}
+],
+"met":{"title":"Vakavaan syyhyn viittaavia tekijöitä","text":"Sydänperäinen syy on poissuljettava – sydänperäinen pyörtyminen iskee usein ilman ennakoivia oireita.","tone":"danger"},
+"notMet":{"title":"Ei vakavaan syyhyn viittaavia tekijöitä","text":"Tavallisin syy on hyvänlaatuinen heijastereaktio – seuraa silti tajunnan ja hengityksen palautumista.","tone":"ok"}}
+```
 
 Jokaisen pyörtyneen tajuntaa ja hengitystä on seurattava, koska pyörtymistä ei voi hetkessä erottaa vakavammista tajuttomuuden syistä (ks. [Tajuttomuus](topic:tajuttomuus)). Jos hengitystä ei todeta tai tajunta ei palaudu parissakymmenessä sekunnissa, toimitaan elottoman potilaan mukaisesti.
 

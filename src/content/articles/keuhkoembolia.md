@@ -5,6 +5,17 @@ Keuhkoembolia (keuhkoveritulppa) syntyy, kun verihyytymä — tyypillisesti alar
 > [!info] Tausta
 > Tukos keuhkovaltimossa estää verenkierron osassa keuhkoja. Tämä tarkoittaa, että osa keuhkoista saa edelleen ilmaa (ventilaatio), mutta ei verta (perfuusio). Kaasujenvaihto tällä alueella estyy kokonaan — ilmiötä kutsutaan "dead space" -ilmiöksi. Samalla tukos nostaa jyrkästi painetta sydämen oikealla puolella, koska se joutuu pumppaamaan verta valtavaa vastusta vasten. Tämä voi johtaa akuuttiin oikean puolen vajaatoimintaan ja sokkiin.
 
+```media
+{"widget":"flow","title":"Hyytymän matka ja seuraukset","steps":[
+{"title":"Syvä laskimotukos alaraajassa","text":"Riskitekijöinä mm. immobilisaatio, tuore iso leikkaus, syöpä, raskaus tai hormonaalinen ehkäisy, aiempi tukos."},
+{"title":"Hyytymä irtoaa ja kulkeutuu verenkierron mukana","text":"Laskimoista sydämen oikealle puolelle ja sieltä keuhkovaltimoon."},
+{"title":"Hyytymä tukkii keuhkovaltimon tai sen haaran","tone":"warning","branches":[
+{"label":"Keuhkoissa","title":"Ilmaa mutta ei verta","text":"Dead space: kaasujenvaihto estyy alueella, joka saa edelleen ilmaa.","tone":"warning"},
+{"label":"Sydämessä","title":"Oikean kammion kuormitus","text":"Pumppaus valtavaa vastusta vasten → oikean puolen vajaatoiminta ja sokki.","tone":"danger"}
+]}
+]}
+```
+
 ## Oireet ja löydökset
 
 Potilaan kuvaamia oireita ovat äkillisesti alkanut hengenahdistus, pleuratyyppinen rintakipu (terävä, pistävä, pahenee sisäänhengityksessä), yskä — joskus veriyskä — ja huimaus tai pyörtyminen. Toispuoleinen jalan turvotus ja kipu viittaavat taustalla olevaan syvään laskimotukokseen.
@@ -34,6 +45,19 @@ Massiivisesta, hengenvaarallisesta keuhkoemboliasta kertovat:
 - tajunnanmenetys (synkopee)
 - voimakas syanoosi
 - sydänpysähdys, usein PEA-rytmillä (sykkeetön rytmi, jossa sydämen sähköinen toiminta jatkuu mutta pumppaustoiminta on pysähtynyt)
+
+```media
+{"widget":"checklist","title":"Kriittisen keuhkoembolian merkit","prompt":"Merkitse potilaalla havaitut löydökset.","rule":{"type":"any"},"items":[
+{"label":"SpO₂ alle 90 %"},
+{"label":"Systolinen verenpaine alle 100 mmHg"},
+{"label":"Syke yli 110/min"},
+{"label":"Voimaton, levoton, riuhtova tai pyörtyilevä"},
+{"label":"Tajunnanmenetys (synkopee)"},
+{"label":"Voimakas syanoosi"}
+],
+"met":{"title":"Massiivisen, hengenvaarallisen keuhkoembolian merkkejä","text":"Ennakoi elvytystilanne (usein PEA). Happi varaajamaskilla, nestettä vain varovasti hypotensiossa, verenkierron tuki ja ensihoitolääkärin konsultaatio liuotushoidosta.","tone":"danger"},
+"notMet":{"title":"Ei kriittisiä merkkejä tällä hetkellä","text":"Keuhkoemboliaepäily edellyttää silti aina kuljetusta – potilas ei saa kävellä.","tone":"neutral"}}
+```
 
 > [!danger] Henkeä uhkaava
 > Hypotensiivinen keuhkoemboliapotilas on äärimmäisen korkean riskin potilas. Elvytystilanteeseen kannattaa ennakoida: keuhkoembolia on korjattavissa oleva sydänpysähdyksen syy.

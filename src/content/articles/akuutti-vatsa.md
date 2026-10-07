@@ -48,6 +48,10 @@ Muita muistettavia syitä ovat munuaiskivi (aaltomainen kylkikipu, säteily nivu
 | Alavatsa | Appendisiitti (oikea), divertikuliitti (vasen), gynekologiset syyt, tyrä |
 | Koko vatsa, diffuusi | Peritoniitti, ileus, ketoasidoosi, gastroenteriitti |
 
+```media
+{"widget":"abdomen-map","caption":"Napauta aluetta nähdäksesi mahdolliset syyt – ja katso Heijastekipu-näkymästä, minne sisäelimen kipu voi heijastua."}
+```
+
 ## Ensihoito kohteessa
 
 Anamneesissa selvitetään kivun alku, luonne, sijainti ja säteily ([SOCRATES-malli](topic:socrates-kivun-arviointi) sopii tähän hyvin), suolen ja virtsaamisen toiminta, perussairaudet, aiemmat vatsaleikkaukset, lääkitys (erityisesti antikoagulantit ja tulehduskipulääkkeet) ja alkoholinkäyttö. Tutkimisessa edetään inspektiosta auskultaatioon ja vasta viimeiseksi palpaatioon, jotta kipureaktio ei vääristä muita löydöksiä.

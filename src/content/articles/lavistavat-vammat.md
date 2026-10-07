@@ -6,12 +6,14 @@ Vamman vakavuus riippuu esineen koosta, nopeudesta, kulkureitistä ja vaurioitta
 
 ## Ajalliset tavoitteet
 
-| Toimenpide | Tavoiteaika |
-|---|---|
-| Henkeä uhkaavan ulkoisen verenvuodon tyrehdytys | 1 min |
-| Hengitystien avoimuus ja hengityksen turvaaminen | 2 min |
-| Hätäkuljetuksen tarpeen arvio | < 10 min |
-| Kiireellisen kuljetuksen aloitus | 15 min |
+```media
+{"widget":"timeline","title":"Ajalliset tavoitteet","items":[
+{"time":"1 min","title":"Henkeä uhkaavan ulkoisen verenvuodon tyrehdytys","tone":"danger"},
+{"time":"2 min","title":"Hengitystien avoimuus ja hengityksen turvaaminen","tone":"warning"},
+{"time":"< 10 min","title":"Hätäkuljetuksen tarpeen arvio","tone":"brand"},
+{"time":"15 min","title":"Kiireellisen kuljetuksen aloitus","text":"Lävistävässä vammassa nopea kuljetus on usein tärkeämpää kuin laaja tutkiminen kentällä.","tone":"ok"}
+]}
+```
 
 ## Kriittisten tilanteiden tunnistaminen
 

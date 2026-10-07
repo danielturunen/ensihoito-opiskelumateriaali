@@ -4,6 +4,10 @@ Keuhkokuume (pneumonia) on bakteerin tai viruksen aiheuttama keuhkokudoksen tule
 
 Seurauksena keuhkorakkulat täyttyvät tulehduseritteestä — nesteestä, kuolleista soluista ja bakteereista — ja keuhkokudos muuttuu tiiviiksi ja ilmattomaksi (konsolidaatio). Tämä estää hapen siirtymisen verenkiertoon tulehtuneella alueella. Vakavassa infektiossa tulehdus voi levitä koko elimistöön ja johtaa sepsikseen, jossa verenkierto ja elintoiminnot alkavat pettää.
 
+```media
+{"widget":"alveolus","caption":"Vertaa keuhkokuumetta keuhkopöhöön ja keuhkoemboliaan: mikä estää kaasujenvaihdon kussakin?"}
+```
+
 ## Oireet ja löydökset
 
 Potilas kertoo tyypillisesti hengenahdistuksesta, kuumeesta ja vilunväristyksistä, tuottavasta yskästä (yskös voi olla kellertävää, vihertävää tai ruosteenväristä) sekä pistävästä rintakivusta, joka pahenee sisäänhengityksessä (pleuraalinen kipu). Iäkkäillä yleisvoinnin lasku ja sekavuus voivat olla jopa näkyvimpiä oireita kuin hengitysoireet.

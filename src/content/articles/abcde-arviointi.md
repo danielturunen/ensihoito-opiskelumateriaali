@@ -7,6 +7,16 @@ Malli toimii yhtä lailla sairaskohtaus- kuin traumapotilaalla, ja se on ensihoi
 > [!tip] Muista tämä
 > Korjaa löydös heti kun sen havaitset – älä siirry seuraavaan kirjaimeen ennen kuin edellinen on turvattu ("treat as you go"). Hengitystietukoksen avaaminen ei odota siihen asti, että olet ehtinyt mitata verenpaineen.
 
+```media
+{"widget":"mnemonic","title":"ABCDE – opettele ja testaa","name":"ABCDE","items":[
+{"letter":"A","word":"Airway – hengitystie","text":"Puhuuko potilas? Näkyvä tukos, kuorsaus, stridor, korahtelu, turvotus. Avaa: leuan kohotus, niskavammaepäilyssä leukakulmien nosto."},
+{"letter":"B","word":"Breathing – hengitys","text":"Taajuus (aikuisella n. 12–20/min; alle 8 tai yli 30 hälyttävä), hengitystyö, symmetria, auskultaatio, SpO₂."},
+{"letter":"C","word":"Circulation – verenkierto","text":"Syke, iho, kapillaaritäyttö, verenpaine, EKG. Massiivinen ulkoinen vuoto tyrehdytetään heti."},
+{"letter":"D","word":"Disability – tajunta","text":"AVPU tai GCS, pupillit, verensokeri aina tajunnan häiriössä."},
+{"letter":"E","word":"Exposure – paljastaminen","text":"Vammat, ihottuma, vuoto, turvotus, lämpö – ja lämpöhukan ehkäisy heti tutkimisen jälkeen."}
+]}
+```
+
 ## A – Airway: hengitystien avoimuus
 
 Ensimmäinen kysymys on yksinkertainen: puhuuko potilas normaalisti? Jos potilas vastaa selkeästi, hengitystie on auki ja aivoihin menee happea riittävästi ainakin hetkeksi. Jos potilas ei reagoi tai ääni on poikkeava, hengitystie on arvioitava välittömästi.
@@ -60,6 +70,10 @@ D-kohdassa arvioidaan nopeasti tajunnan tasoa ja karkeaa neurologista tilaa:
 - **Verensokeri** – mitataan aina tajunnan häiriössä, koska hypoglykemia on nopeasti korjattavissa oleva syy
 
 Tajunnan äkillinen heikkeneminen on aina hälytysmerkki, ja sen syyt ja tarkempi tutkiminen käydään läpi omalla aihesivulla ([tajuttomuus](topic:tajuttomuus)).
+
+```media
+{"widget":"pupils","caption":"Pupillien koko, symmetria ja valoreaktio kuuluvat D-arvioon."}
+```
 
 ## E – Exposure: paljastaminen ja kokonaiskuva
 

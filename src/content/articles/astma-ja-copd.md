@@ -7,6 +7,10 @@ Keuhkoputket haarautuvat henkitorvesta yhä pienemmiksi bronkuksiksi ja bronkiol
 > [!info] Tausta
 > Astmassa ja COPD:ssa ahtautumisen takana on kolmoismekanismi: keuhkoputkien sileän lihaksen supistuminen (bronkospasmi), limakalvon turpoaminen ja lisääntynyt limaneritys. Yhdistelmä tukkii etenkin uloshengitystä, jolloin ilmaa jää loukkuun keuhkoihin.
 
+```media
+{"widget":"bronchus","caption":"Lisää mekanismeja yksi kerrallaan ja kokeile sitten, mihin kukin lääke vaikuttaa."}
+```
+
 ## Astma
 
 Astma on krooninen keuhkoputkien tulehdussairaus, jossa hengitystiet ovat yliherkät. Pienikin ärsyke — allergeeni, kylmä ilma, rasitus, virusinfektio tai stressi — voi laukaista bronkospasmin, limakalvoturvotuksen ja limanerityksen. Ahtautuminen on tyypillisesti kohtauksittaista ja suurelta osin palautuvaa hoidolla.
@@ -35,6 +39,15 @@ Tyypillisiä löydöksiä: hengenahdistus, krooninen yskä ja limaisuus, vinkuna
 
 > [!danger] Henkeä uhkaava
 > COPD-potilaalla liiallinen happi voi olla vaarallista: se voi poistaa potilaan viimeisen hengitystä ylläpitävän ärsykkeen ja johtaa hiilidioksidinarkoosiin eli hengityksen lamaantumiseen. Happi annetaan titraten, tavoitteena yleensä SpO2 noin 88–92 % — ei automaattisesti mahdollisimman korkea arvo.
+
+```media
+{"widget":"targets","title":"Happisaturaation tavoitealueet","unit":"%","min":80,"max":100,"value":90,"label":"SpO₂","targets":[
+{"label":"COPD","from":88,"to":92,"text":"Happi titraten: liiallinen happi voi poistaa viimeisen hengitystä ylläpitävän ärsykkeen ja johtaa hiilidioksidinarkoosiin."},
+{"label":"Rintakipu (AKS)","from":94,"to":98,"text":"Happi vain, jos SpO₂ alle 90 % tai hengitysvajaus – normaali hapetus ei paranna ennustetta."},
+{"label":"Keuhkokuume","from":92,"to":96,"text":"Viikset tai maski, tarvittaessa CPAP/NIV jos hapettuminen ei korjaannu."},
+{"label":"Vammapotilas","from":94,"to":100,"text":"Tavoite yli 94 % – mittari on epäluotettava sokissa ja kylmässä."}
+]}
+```
 
 COPD-paheneman ensihoidossa annetaan kontrolloitu happi hoito-ohjeen mukaan, inhaloitava bronkodilataattori (beeta-2-agonisti ja/tai antikolinergi), seurataan hengitystyötä, tajuntaa ja hoitovastetta sekä huomioidaan mahdollinen hiilidioksidiretentio. Potilas kuuljetetaan päivystykseen, jos hengenahdistus on merkittävä, tajunta muuttuu, hengitysvajaus pahenee, hoitovaste jää heikoksi tai epäillään pahenemisen taustalla infektiota.
 

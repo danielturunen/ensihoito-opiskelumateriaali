@@ -13,6 +13,10 @@ Valtaosa ensihoidossa kohdattavista rytmihäiriöistä syntyy kiertoaktivaatioll
 > [!tip] Kiertoaktivaation hoito
 > Kiertoaktivaatio katkaistaan joko pysäyttämällä johtuminen eteis-kammiosolmukkeessa (adenosiini, defibrillaatio) tai pidentämällä solujen refraktaariaikaa lääkkeellä, kuten [amiodaroni](topic:amiodaroni).
 
+```media
+{"widget":"conduction","caption":"Seuraa impulssin kulkua ja vertaa normaalia johtumista kiertoaktivaatioon ja aberraatioon."}
+```
+
 ### Aberraatio
 
 Kun impulssi kulkee normaalia johtoratajärjestelmää pitkin, QRS-kompleksi on kapea. Jos rytmihäiriö syntyy kammioissa, tai korkealla sykkeellä toinen päähaara ei ehdi palautua johtokykyiseksi, QRS-kompleksi leventyy – tätä kutsutaan aberraatioksi. Siksi myös kammioiden yläpuolelta (supraventrikulaarisesti) alkava rytmihäiriö voi vaikuttaa leveäkompleksiselta.
@@ -27,8 +31,26 @@ Ensihoidossa tarkka rytmidiagnoosi ei ole aina välttämätön, mutta hyvälaatu
    - Hengenvaara: sedaatiossa tehtävä synkronoitu kardioversio
    - Ei hengenvaaraa: arvioidaan QRS-leveys ja rytmin säännöllisyys, ja valitaan lääkehoito sen mukaan
 
+```media
+{"widget":"flow","title":"Nopea rytmihäiriö – hoitopäätös","steps":[
+{"title":"Tarkennettu tilanarvio (ABCDE)","text":"Peruselintoiminnot ja korjattavat syyt, esim. hypovolemia tai elektrolyyttihäiriö. Hyvälaatuinen EKG rytmihäiriön aikana."},
+{"title":"Onko hengenvaaran merkkejä?","text":"Sokki, tajunnanmenetys, merkittävä sydänlihasiskemia, vaikea vajaatoiminta (keuhkopöhö).","tone":"warning","branches":[
+{"label":"Kyllä","title":"Synkronoitu kardioversio sedaatiossa","tone":"danger"},
+{"label":"Ei","title":"Arvioi QRS-leveys ja säännöllisyys","text":"Valitse lääkehoito niiden mukaan.","tone":"ok"}
+]}
+]}
+```
+
 > [!tip] Vagaalinen stimulaatio
 > Modifioitu Valsalvan menetelmä (puhallus ruiskuun 15 sekunnin ajan, sitten potilas käännetään selälleen ja jalat nostetaan koholle) voi katkaista eteis-kammiosolmukkeen kiertoaktivaation tai paljastaa piilevän eteisaktivaation. Adenosiinilla tavoitellaan samaa vaikutusta.
+
+## Rytmikirjasto
+
+Harjoittele rytmien tunnistamista monitorinäkymässä. Jokaisen rytmin alla ovat sen tunnistepiirteet ja ensihoidon keskeiset toimet.
+
+```media
+{"widget":"ecg-rhythms"}
+```
 
 ## Eteisvärinä ja eteislepatus
 
@@ -60,12 +82,29 @@ Kääntyvien kärkien kammiotakykardia (torsades de pointes) syntyy varhaisen j�
 > [!danger] Amiodaroni on vasta-aiheinen
 > Koska kääntyvien kärkien kammiotakykardia liittyy pitkään QT-aikaan, QT-aikaa pidentäviä lääkkeitä, kuten amiodaronia, ei saa käyttää sen hoidossa. Spesifinen hoito on magnesium 2 g i.v., joka voidaan toistaa.
 
+```media
+{"widget":"qtc"}
+```
+
 ## Hitaat rytmihäiriöt
 
 Jos sinussolmukkeen toiminta tai eteis-kammiojohtuminen häiriintyy, syke voi laskea niin matalaksi, ettei iskutilavuus riitä ylläpitämään verenpainetta. Hoito etenee kahden kysymyksen kautta:
 
 1. Onko hengenvaaran merkkejä (sokki, tajunnanmenetys, iskemia, vajaatoiminta)? Kyllä → [atropiini](topic:atropiini) 0,5 mg i.v. tai ulkoinen tahdistus.
 2. Onko asystolen riskiä (Mobitz II -katkos, totaali AV-katkos, kammiotauko yli 3 s)? Kyllä → lääkehoito tai tahdistus on tarpeen; riittämättömällä atropiinivasteella harkitaan adrenaliini-infuusiota tai ulkoista tahdistusta.
+
+```media
+{"widget":"flow","title":"Hidas rytmihäiriö – kaksi kysymystä","steps":[
+{"title":"Onko hengenvaaran merkkejä?","text":"Sokki, tajunnanmenetys, iskemia, vajaatoiminta.","tone":"warning","branches":[
+{"label":"Kyllä","title":"Atropiini 0,5 mg i.v. tai ulkoinen tahdistus","tone":"danger"},
+{"label":"Ei","title":"Siirry seuraavaan kysymykseen","tone":"neutral"}
+]},
+{"title":"Onko asystolen riskiä?","text":"Mobitz II -katkos, totaali AV-katkos tai kammiotauko yli 3 s.","tone":"warning","branches":[
+{"label":"Kyllä","title":"Lääkehoito tai tahdistus","text":"Riittämätön atropiinivaste → adrenaliini-infuusio tai ulkoinen tahdistus.","tone":"danger"},
+{"label":"Ei","title":"Jatka arviota (ABCDE on jatkuva kehä)","tone":"ok"}
+]}
+]}
+```
 
 ## Tahdistimet
 

@@ -32,6 +32,10 @@ Tämä lista ei korvaa systemaattista tutkimista (ks. [traumapotilaan tutkiminen
 17. **Anna verenvuotolääke ajoissa, jos se kuuluu hoito-ohjeeseesi.** Hyöty on suurin, kun se annetaan mahdollisimman pian vammautumisen jälkeen.
 18. **Kaksi ison kanyylin reittiä on parempi kuin yksi.** Varaudu nestehoitoon ja lääkkeisiin etukäteen epävakaalla potilaalla, mutta älä anna kanyloinnin viivyttää kuljetusta.
 
+```media
+{"widget":"body-map","title":"Vinkki 14: missä veri piilee?","caption":"Vaihda Piilovuodot-näkymään."}
+```
+
 ### Lämpötalous ja ympäristö
 
 > [!warning] Red flag

@@ -27,6 +27,11 @@ const topics = topicBlocks.map((m) => {
 const knownIds = new Set(topics.map((t) => t.id))
 let errors = 0
 let warnings = 0
+let mediaCount = 0
+
+const mediaDir = path.join(dir, '..', 'src', 'components', 'media')
+const registrySrc = fs.readFileSync(path.join(mediaDir, 'registry.ts'), 'utf8')
+const knownWidgets = new Set([...registrySrc.matchAll(/^\s*'?([a-z0-9-]+)'?:\s*\{\s*title:/gm)].map((m) => m[1]))
 
 function exists(sub, id, ext) {
   return fs.existsSync(path.join(contentDir, sub, `${id}.${ext}`))
@@ -110,8 +115,34 @@ for (const t of topics) {
         errors++
       }
     }
+    checkMedia(t.id, md)
   }
 }
 
-console.log(`\n${topics.length} topics checked. ${errors} errors, ${warnings} warnings.`)
+// ```media blocks: valid JSON (or a bare widget name), registered widget, file present.
+function checkMedia(id, md) {
+  for (const m of md.matchAll(/```media\r?\n([\s\S]*?)```/g)) {
+    mediaCount++
+    const body = m[1].trim()
+    let widget = body
+    if (body.startsWith('{')) {
+      try {
+        widget = JSON.parse(body).widget
+      } catch (e) {
+        console.error(`INVALID MEDIA JSON in articles/${id}.md — ${e.message}`)
+        errors++
+        continue
+      }
+    }
+    if (!knownWidgets.has(widget)) {
+      console.error(`UNKNOWN WIDGET "${widget}" in articles/${id}.md (not in registry.ts)`)
+      errors++
+    } else if (!fs.existsSync(path.join(mediaDir, 'widgets', `${widget}.tsx`))) {
+      console.error(`MISSING WIDGET FILE widgets/${widget}.tsx (used in articles/${id}.md)`)
+      errors++
+    }
+  }
+}
+
+console.log(`\n${topics.length} topics checked, ${mediaCount} media blocks. ${errors} errors, ${warnings} warnings.`)
 process.exit(errors > 0 ? 1 : 0)

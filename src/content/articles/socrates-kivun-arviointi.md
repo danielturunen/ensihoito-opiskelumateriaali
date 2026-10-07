@@ -7,6 +7,19 @@ Mallin vahvuus on siinä, että vastaukset ohjaavat suoraan erotusdiagnostiikkaa
 > [!tip] Muista tämä
 > SOCRATES ei ole vain lomake täytettäväksi – se on ajattelun runko. Kysy aina kaikki kahdeksan kohtaa, vaikka potilas tuntuisi kertoneen "jo kaiken tarpeellisen".
 
+```media
+{"widget":"mnemonic","title":"SOCRATES – testaa muistisi","name":"SOCRATES","items":[
+{"letter":"S","word":"Site – sijainti","text":"Pyydä osoittamaan yhdellä sormella. Laaja, huonosti paikannettava kipu viittaa usein sisäelinperäiseen syyhyn."},
+{"letter":"O","word":"Onset – alkaminen","text":"Miten ja milloin kipu alkoi, mitä potilas teki silloin. Sekunneissa huipentuva kipu on aina vakavampi."},
+{"letter":"C","word":"Character – luonne","text":"Puristava, repivä, kouristava, polttava vai pistävä – anna potilaan kuvata omin sanoin."},
+{"letter":"R","word":"Radiation – säteily","text":"Käsivarsi/leuka (sydän), selkä (haima, aortta), olkapää (pallean ärsytys)."},
+{"letter":"A","word":"Associations – liitännäisoireet","text":"Pahoinvointi, hikoilu, hengenahdistus, kuume, huimaus, virtsa- ja suolioireet."},
+{"letter":"T","word":"Time course – aikajana","text":"Jatkuva vai aaltoileva, onko muuttunut? Yli 20 min kestänyt rintakipu on AKS:n tyypillinen piirre."},
+{"letter":"E","word":"Exacerbating/relieving – pahentavat ja helpottavat","text":"Liike, hengitys, asento, syöminen, lepo, lääkkeet."},
+{"letter":"S","word":"Severity – vakavuus","text":"Asteikko 0–10 ja vertailu aiempiin kipuihin. Löydöksiin nähden suhteeton kipu on hälytysmerkki."}
+]}
+```
+
 ## S – Site (sijainti)
 
 Pyydä potilasta osoittamaan kipupaikka yhdellä sormella, jos mahdollista. Laaja, huonosti paikannettava kipu viittaa usein sisäelinperäiseen (viskeraaliseen) syyhyn, kun taas tarkasti paikannettava, pistemäinen kipu on todennäköisemmin tuki- ja liikuntaelimistöstä tai paikallisesta ärsytyksestä.

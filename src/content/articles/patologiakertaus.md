@@ -66,6 +66,20 @@ Kouristuskohtaus on aivojen sähköisen toiminnan hallitsematon purkaus. Tavalli
 
 Lapsen fysiologia kompensoi pitkään: normaali verenpaine ei sulje pois vakavaa sepsistä, koska lapsi nostaa sykettä ja supistaa ääreisverenkiertoa ennen kuin verenpaine laskee. Raskaana olevalla on muistettava, että näkyvä verenvuoto ei vastaa todellista verenhukkaa (esim. istukan irtoamisessa) ja että emätinverenvuoto hedelmällisessä iässä vaatii aina kohdunulkoisen raskauden poissulkemisen. Näitä erityispiirteitä käsitellään laajemmin omilla aihesivuillaan ([lapsi ensihoidossa](topic:lapsi-ensihoidossa), [raskaana oleva ja synnyttäjä](topic:raskaana-oleva-synnyttaja)).
 
+## Testaa: tunnista red flag
+
+```media
+{"widget":"matching","title":"Yhdistä hälytysmerkki tilaan","prompt":"Valitse löydös ja napauta tilaa, johon se klassisesti viittaa.","pairs":[
+{"left":"Kipu + kuume + keltaisuus (Charcot'n triadi)","right":"Kollangiitti"},
+{"left":"Sekunneissa huipentuva ”elämän pahin” päänsärky","right":"Subaraknoidaalivuoto"},
+{"left":"Päänsärky + kuume + niskajäykkyys","right":"Meningiitti"},
+{"left":"Hypoksia suhteeton kuuntelulöydöksiin","right":"Keuhkoembolia"},
+{"left":"Repivä kipu, joka on maksimaalinen heti, erisuuruiset pulssit","right":"Aorttadissekaatio"},
+{"left":"Kipu siirtyy navan seudusta oikeaan alavatsaan","right":"Appendisiitti"},
+{"left":"Satulaanestesia, virtsaretentio, molemminpuolinen jalkaheikkous","right":"Cauda equina -oireyhtymä"}
+]}
+```
+
 ## Muista tämä -kertaus
 
 - Äkillinen, sekunneissa maksimaaliseksi yltyvä kipu tai oire on aina vakavampi merkki kuin hitaasti paheneva.

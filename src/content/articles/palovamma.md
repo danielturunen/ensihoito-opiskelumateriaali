@@ -12,18 +12,28 @@ Yleisimmät mekanismit ovat liekki (yleisin, aiheuttaa usein syviä vammoja), ko
 | II aste | Pintaiho ja osa verinahkaa, rakkulat |
 | III aste | Koko ihon paksuus, valkoinen ja kovettunut iho |
 
+```media
+{"widget":"burn-depth"}
+```
+
 Palovamma-alueen laajuutta arvioidaan 9:n säännöllä aikuisella: pää ja kaula 9 %, etu- ja takavartalo kumpikin 18 %, jokainen yläraaja 9 %, jokainen alaraaja 18 % ja genitaalialue 1 %. Pienten alueiden arviointiin sopii kämmensääntö: potilaan oman kämmenen kokoinen alue vastaa noin 1 % kehon pinta-alasta.
+
+```media
+{"widget":"rule-of-nines","caption":"Napauta palaneet alueet etu- ja takapuolelta – laskuri summaa pinta-alan."}
+```
 
 > [!warning] Laajan palovamman kriteerit
 > Aikuisella yli 20 % ja lapsella yli 10 % kehon pinta-alasta. Liekkipalovamma, jossa iho on kovettunut, on aina syvä vamma riippumatta pinta-alasta.
 
 ## Ajalliset tavoitteet
 
-| Toimenpide | Tavoiteaika |
-|---|---|
-| Hengitystien menettämisen uhan tunnistaminen | 1 min |
-| Lisäavun hälyttäminen | 1 min |
-| Hengitystien avoimuus ja lisähappi | 2 min |
+```media
+{"widget":"timeline","title":"Ajalliset tavoitteet","items":[
+{"time":"1 min","title":"Hengitystien menettämisen uhan tunnistaminen","text":"Kasvojen/kaulan syvä palovamma, käheys, stridor, noki limakalvoilla, turvotus.","tone":"danger"},
+{"time":"1 min","title":"Lisäavun hälyttäminen","tone":"warning"},
+{"time":"2 min","title":"Hengitystien avoimuus ja lisähappi","tone":"brand"}
+]}
+```
 
 ## Hengitystien uhan tunnistaminen
 

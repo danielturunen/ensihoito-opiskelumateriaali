@@ -24,6 +24,19 @@ Johtavana oireena on tyypillisesti tunneissa tai 1–2 päivässä nopeasti kehi
 
 SIRS-löydöksiä ovat ydinlämpö yli 38 °C tai alle 36 °C, syke yli 90/min, hengitystaajuus yli 20/min, selvästi pidentynyt kapillaaritäyttöaika, poikkeava valkosolumäärä, voimakas CRP-nousu, kohonnut laktaatti (yli 2 mmol/l) ja nopeasti alkanut sekavuus tai tajunnan lasku ilman muuta selittävää syytä. Riskinarvioon soveltuvat myös [NEWS- ja qSOFA-pisteytykset](topic:konsultaatiomallit): korkeampi pistemäärä liittyy suurempaan kuolemanvaaraan.
 
+```media
+{"widget":"checklist","title":"Täyttyvätkö SIRS-kriteerit?","prompt":"Merkitse kentällä havaitut löydökset.","rule":{"type":"atLeast","n":2},"items":[
+{"label":"Ydinlämpö yli 38 °C tai alle 36 °C"},
+{"label":"Syke yli 90/min"},
+{"label":"Hengitystaajuus yli 20/min"},
+{"label":"Selvästi pidentynyt kapillaaritäyttöaika"},
+{"label":"Nopeasti alkanut sekavuus tai tajunnan lasku ilman muuta syytä"},
+{"label":"Laktaatti yli 2 mmol/l (jos mitattavissa)"}
+],
+"met":{"title":"SIRS-kriteerit täyttyvät (vähintään 2)","text":"Infektio + SIRS = sepsis. Nopea nesteytys (n. 20 ml/kg kirkkaita nesteitä) ja kiireellinen kuljetus – hoito käyntiin kahden tunnin sisällä.","tone":"danger"},
+"notMet":{"title":"Alle kaksi SIRS-löydöstä","text":"Mittaa hengitystaajuus kaikilta infektioepäilyiltä – se nousee usein ensimmäisten löydösten joukossa.","tone":"neutral"}}
+```
+
 > [!important] Tunnistamisen periaate
 > Infektio-oireisto, johon liittyy yleistilan nopea heikkeneminen, on aina syytä pitää sepsiksenä, kunnes toisin osoitetaan. Se edellyttää nopeaa nestehoitoa ja kiireellistä kuljetusta päivystykseen.
 

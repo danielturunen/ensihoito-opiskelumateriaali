@@ -6,6 +6,10 @@ Enoksapariini on pienimolekyylinen hepariini (LMWH), antikoagulantti eli veren h
 
 Enoksapariini sitoutuu antitrombiini III:een (AT-III), elimistön omaan hyytymisen estäjään, ja tehostaa sen kykyä inaktivoida hyytymistekijä Xa:ta. Vaikutus painottuu selvästi tekijä Xa:n estoon trombiinin (tekijä IIa) eston jäädessä vähäisemmäksi — tämä erottaa sen UFH:sta, joka vaikuttaa tasapainoisemmin molempiin. Lopputuloksena hyytymäkaskadin etenemä hidastuu: olemassa olevat hyytymät eivät kasva ja uusia syntyy vähemmän.
 
+```media
+{"widget":"coag-cascade"}
+```
+
 ## Käyttöaiheet ensihoidossa
 
 Enoksapariinia käytetään osana [sepelvaltimotautikohtauksen](topic:rintakipu-ja-aks) antitromboottista hoitoa, kun hoito-ohje niin määrää:

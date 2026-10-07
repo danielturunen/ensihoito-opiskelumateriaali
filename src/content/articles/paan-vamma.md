@@ -15,15 +15,21 @@ Yleisimmät mekanismit ovat liikenneonnettomuudet (yleisin vakavien aivovammojen
 > [!danger] Vakavan aivovamman merkit
 > GCS alle 8, potilas reuhtova, tajunnantaso laskee nopeasti (GCS laskee 2 pistettä), pupillierot tai halvausoireet. Jokainen näistä vaatii välittömän reagoinnin ja usein lääkäriyksikön hälyttämisen.
 
+```media
+{"widget":"gcs","caption":"Harjoittele pisteytystä: valitse silmät, puhe ja liike – laskuri siirtyy automaattisesti seuraavaan osaan."}
+```
+
 ## Ajalliset tavoitteet
 
-| Toimenpide | Tavoiteaika |
-|---|---|
-| Alentuneen tajunnan ja hengitystieongelman tunnistaminen | 1 min |
-| Lääkäriyksikön hälyttäminen | Välittömästi |
-| Hengitystien varmistaminen | 1–2 min |
-| Neurologinen arvio | 5 min |
-| Kuljetuksen aloitus | 20 min |
+```media
+{"widget":"timeline","title":"Ajalliset tavoitteet","items":[
+{"time":"Heti","title":"Lääkäriyksikön hälyttäminen","tone":"danger"},
+{"time":"1 min","title":"Alentuneen tajunnan ja hengitystieongelman tunnistaminen","tone":"danger"},
+{"time":"1–2 min","title":"Hengitystien varmistaminen","tone":"warning"},
+{"time":"5 min","title":"Neurologinen arvio","tone":"brand"},
+{"time":"20 min","title":"Kuljetuksen aloitus","tone":"ok"}
+]}
+```
 
 ## Hengitystien ja hengityksen turvaaminen
 
@@ -40,6 +46,10 @@ Tavoitteena on SpO₂ > 94 % ja EtCO₂ 4–4,5 kPa (normoventilaatio).
 > Aivovamma ei yleensä itsessään aiheuta hypotensiota. Jos aivovammapotilaalla on matala verenpaine, etsi muita vammoja tai verenvuodon lähteitä.
 
 Verenpainetavoite on SAP > 120 mmHg riittävän aivoperfuusiopaineen takaamiseksi. Nestehoitoa annetaan kristalloidilla 300–500 ml, ja tarvittaessa aloitetaan noradrenaliini-infuusio (0,04–0,05 mg/ml, 5–10 ml/h, nostaen tarpeen mukaan). Jos verenpaine nousee yli 180 mmHg:iin, se lisää kallonsisäisten komplikaatioiden riskiä – ensisijainen hoito on riittävä kivunhoito ja sedaatio, ja jos paine pysyy korkeana, pyydetään hoito-ohje vastaavalta lääkäriltä.
+
+```media
+{"widget":"icp","caption":"Miksi verenpainetavoite on aivovammassa korkeampi? Laske, miten verenpaine ja kallonsisäinen paine yhdessä määräävät aivojen perfuusiopaineen."}
+```
 
 ## Kallonsisäisen paineen hallinta
 

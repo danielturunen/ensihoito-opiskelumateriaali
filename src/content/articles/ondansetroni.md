@@ -24,6 +24,10 @@ Tyypillinen aikuisen perusannos on 4 mg laskimoon tai lihakseen, hitaana bolukse
 > [!warning] Tarkista QT-aika ennen antoa
 > Ondansetroni pidentää annoksesta riippuvasti QT-aikaa salpaamalla kaliumkanavia. Vasta-aiheita ovat synnynnäinen pitkä QT -oireyhtymä ja merkittävästi pidentynyt QT-aika (yli noin 450 ms miehillä, 470 ms naisilla). Riski korostuu naisilla, iäkkäillä, elektrolyyttihäiriöissä (matala kalium tai magnesium), bradykardiassa ja käytettäessä muita QT-aikaa pidentäviä lääkkeitä. Harvinaisena mutta vakavana seurauksena voi kehittyä torsades de pointes -rytmihäiriö.
 
+```media
+{"widget":"qtc","caption":"Säädä QTc ja sukupuoli: milloin ondansetroni on vasta-aiheinen?"}
+```
+
 ## Sivuvaikutukset ja huomioitavaa
 
 Tavallisimmat sivuvaikutukset ovat päänsärky, väsymys ja huimaus sekä ummetus. Vakavampia, harvinaisia haittoja ovat merkittävä QT-ajan pidentyminen, allerginen reaktio ja yhdessä muiden serotonergisten lääkkeiden (esim. tramadoli, SSRI-lääkkeet) kanssa serotoniinioireyhtymän riski.
