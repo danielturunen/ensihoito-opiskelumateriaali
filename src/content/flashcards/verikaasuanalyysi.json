@@ -1,0 +1,8 @@
+[
+  {"id":"vk-f1","front":"Verikaasujen viitearvot","back":"pH 7,35–7,45 · paO₂ 10–13 kPa · paCO₂ 4,7–6,0 kPa · HCO₃⁻ 22–26 mmol/l · BE −2…+2."},
+  {"id":"vk-f2","front":"Odotettu paO₂ lisähapella","back":"Happiprosentti + 10 ≈ paO₂ kPa. Esim. 35 % → noin 45 kPa."},
+  {"id":"vk-f3","front":"Systemaattinen tulkinta","back":"1) Potilaan vointi 2) paO₂ 3) pH 4) pCO₂ 5) BE/HCO₃ 6) kompensaatio."},
+  {"id":"vk-f4","front":"Respiratorinen asidoosi","back":"pH ↓, pCO₂ ↑. Hengitysvajaus (intoksikaatio, AVH, COPD). Hoito: NIV, intubaatio, ventilaattori."},
+  {"id":"vk-f5","front":"Metabolinen asidoosi","back":"pH ↓, BE ↓. DKA, laktaatti (sokki), munuaiset, ripuli, salisylaatti, metanoli. Kompensaatio: hyperventilaatio."},
+  {"id":"vk-f6","front":"Alkaloosit","back":"Respiratorinen: pH ↑, pCO₂ ↓ (hyperventilaatio, keuhkoembolia, kipu, kuume). Metabolinen: pH ↑, BE ↑ (oksentelu, diureetit, bikarbonaatti)."}
+]

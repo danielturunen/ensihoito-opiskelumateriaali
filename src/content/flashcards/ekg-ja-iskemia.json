@@ -1,0 +1,9 @@
+[
+  {"id":"ekgi-f1","front":"Kytkennät ja suonet","back":"Alaseinä II, III, aVF (RCA 80 %, LCX 20 %) · väliseinä V1–V2 ja etuseinä V3–V4 (LAD) · sivuseinä I, aVL, V5–V6 · takaseinä V7–V9 · oikea kammio V4R."},
+  {"id":"ekgi-f2","front":"Iskemian eteneminen EKG:ssä","back":"T-aallon muutokset (korkea, negatiivinen, kaksivaiheinen) → ST-lasku (iskemia) → ST-nousu (vaurio) → terminaalisen QRS:n distorsio."},
+  {"id":"ekgi-f3","front":"ST-nousun rajat","back":"Ala- ja sivuseinä yli 1 mm. Etuseinä V1–V4: miehet yli 2 mm, naiset yli 1,5 mm. V4R: 1 mm riittää. V7–V9 yli 1 mm."},
+  {"id":"ekgi-f4","front":"Alaseinäinfarktin \"Big Three\"","back":"Oikean kammion infarkti (V4R), AV-johtumishäiriöt, takaseinäinfarkti. Kliinisesti hypotensio, bradykardia, pahoinvointi, ylävatsakipu."},
+  {"id":"ekgi-f5","front":"Wellens ja de Winter","back":"Wellens: kaksivaiheiset (A) tai syvät negatiiviset (B) T:t etuseinässä, potilas voi olla kivuton. de Winter: ylöspäin viettävä ST-lasku + korkeat T:t rintakytkennöissä, aVR-nousu. Molemmat LAD."},
+  {"id":"ekgi-f6","front":"LBBB / tahdistin – tukoksen merkit","back":"Samansuuntainen ST-nousu ≥ 1 mm, samansuuntainen ST-lasku ≥ 1 mm V1–V3, liian suuri vastakkainen ST-nousu (≥ 25–30 % S-aallosta)."},
+  {"id":"ekgi-f7","front":"EKG:n perusmitat","back":"Sinussolmuke 60–80/min, AV-solmuke 40–60/min. QRS yli 120 ms = ei kulje johtoradalla. PQ yli 210 ms = johtuminen hidastunut. Akseli normaali, jos I ja aVF pääosin positiivisia."}
+]

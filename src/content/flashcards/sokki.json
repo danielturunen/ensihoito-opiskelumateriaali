@@ -1,0 +1,8 @@
+[
+  {"id":"sok-f1","front":"Sokin neljä tyyppiä","back":"Hypovoleeminen (volyymin menetys), kardiogeeninen (pumppu), obstruktiivinen (este: keuhkoembolia, tamponaatio, jänniteilmarinta), distributiivinen (sepsis, anafylaksia, palovamma, neurogeeninen)."},
+  {"id":"sok-f2","front":"Sokki-indeksi","back":"Syke / systolinen RR. Normaali 0,5–0,7, uhkaava 0,8–0,9, sokki yli 1,0."},
+  {"id":"sok-f3","front":"Kudosperfuusion häiriön merkit","back":"Viileä, nihkeä iho, hidas kapillaaritäyttö, polvien marmoroituminen, tajunnan muutokset, vähentynyt virtsaneritys, laktaatin nousu."},
+  {"id":"sok-f4","front":"Sokin yleishoito","back":"Syy → happi (CPAP/NIV) → Ringer 250–500 ml ja vasteen arvio → jalat koholle → vajaa vaste: noradrenaliini, MAP 65 → rauhoittaminen, lämpö, kivunhoito → syyn mukainen hoito ja kuljetus."},
+  {"id":"sok-f5","front":"Vuotavan vammapotilaan verenpainetavoitteet","back":"Lävistävä: systolinen n. 80 (60–70 voi riittää). Tylppä: n. 80. Aivovamma: MAP yli 80 (syst. 110–120). Verituotteet, TXA."},
+  {"id":"sok-f6","front":"Nestevasteisuus","back":"Minuuttitilavuus kasvaa 10–15 % 200–500 ml:n bolukselle. Vain noin puolet sokkipotilaista on nestevasteisia (Frank–Starling)."}
+]
