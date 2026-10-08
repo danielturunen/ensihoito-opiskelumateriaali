@@ -156,6 +156,21 @@ Rakenteellisia syitä ovat akuutti sydäninfarkti (noin 40 % AV-katkoksista), sy
 
 Pysyviä tahdistimia käytetään bradykardian, eteis-kammiokatkosten, sydämen vajaatoiminnan (CRT) ja nopeiden rytmihäiriöiden (ICD) hoitoon. Tahdistinkoodi kertoo, mitä lokeroa tahdistin tahdistaa ja tunnistaa, ja millainen vaste tunnistukseen on ohjelmoitu. Kardioversiota tai defibrillaatiota tehdessä elektrodia ei saa sijoittaa tahdistimen tai ICD:n päälle, ja kammiotahdistus voi vaikeuttaa iskemian tunnistamista EKG:stä.
 
+## Ensihoito-oppaan hoito-ohje
+
+Duodecimin Ensihoito-oppaan (Silfvast 2023) mukaan hemodynamiikkaa haittaava rytmihäiriö hoidetaan välittömästi, ja 12–15-kytkentäinen EKG rekisteröidään sekä ennen hoitoa että sen jälkeen. Rytmihäiriötuntemuksen perusteella ei voi päätellä tilanteen vaarallisuutta – arvio tehdään EKG:n ja yleisoireiden perusteella.
+
+| Rytmi | Ensihoito |
+|---|---|
+| Sinustakykardia | Ei rytmihäiriö – hoida syy (kuume, nestehukka, sepsis). Beetasalpaus vain lääkärin konsultaatiolla. |
+| Eteisvärinä | Oireetonta ei rutiinisti hidasteta eikä käännetä. Nopean eteisvärinän aiheuttama iskemia, rintakipu tai vajaatoiminnan hengenahdistus: metoprololi 1–2 mg i.v. (ei, jos systolinen alle 100 mmHg). |
+| SVT | Vagaalinen stimulaatio (oksennusheijaste, karotishieronta, Valsalva), adenosiini 5–6 mg nopeana boluksena suureen suoneen, jatkoannokset porrastetusti. Kääntymisen jälkeen kuljetusta ei aina tarvita. |
+| Leveäkompleksinen takykardia | Sydänpotilaan yli 140/min leveä takykardia hoidetaan VT:nä. Epävakaa: sedaatio ja sähköinen rytminsiirto lääkärin ohjeella (ei opioidia kardioversiokipuun – hengityslama). Vakaa: amiodaroni 300 mg pieninä annoksina tai 10 min infuusiona. |
+| Lisälyönnit | Kapeat eivät vaadi hoitoa. Leveät, monimuotoiset, sarjoina tai runsaina → hoito-ohjepyyntö. |
+| Bradykardia | Vain oireinen hoidetaan: atropiini 0,1 mg/10 kg i.v. (ad 3 mg; tehoaa sitä paremmin mitä kapeampi QRS). Henkeä uhkaavassa adrenaliini 0,05 mg i.v. toistuvina boluksina, tarvittaessa ulkoinen tahdistus. |
+
+**Tahdistin ja ICD**: jos tahdistinpiikit ja QRS-kompleksit eivät esiinny yhdessä, epäile tahdistinhäiriötä ja pyydä hoito-ohje. Jos sisäinen defibrillaattori on antanut yksittäisen iskun ja potilas on oireeton, hänet ohjataan ottamaan yhteyttä sairaalaan seuraavana arkipäivänä. Neuvova defibrillaattori tunnistaa nopean kammiotakykardian (yleensä yli 180/min) ja suosittaa iskua.
+
 ## Muista tämä -kertaus
 
 - Rytmihäiriöt syntyvät poikkeavasta impulssin muodostumisesta, johtumisesta (useimmiten kiertoaktivaatio) tai molemmista

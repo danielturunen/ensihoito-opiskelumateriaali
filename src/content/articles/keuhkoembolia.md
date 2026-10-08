@@ -94,6 +94,13 @@ Keuhkoemboliaepäily edellyttää aina kuljetusta, vaikka oireet olisivat hetkel
 > [!tip] Muista tämä
 > Akuutin alkutilanteen jälkeen potilaan vointi voi korjaantua nopeasti ja hän voi vaikuttaa lähes oireettomalta ensihoidon saapuessa — huolellinen haastattelu ja riskitekijöiden kartoitus on siksi erityisen tärkeää.
 
+## Ensihoito-oppaan hoito-ohje
+
+**Kriittisessä keuhkoveritulpassa** SpO₂ on alle 90 %, systolinen paine alle 100 mmHg, syke yli 110/min, ja potilas on voimaton, levoton, riuhtova tai pyörtyilevä (Silfvast, Ensihoito-opas 2023). Hoito: happi varaajamaskilla suurella virtauksella; vahvassa epäilyssä ja kriittisessä tilassa lääkärin konsultaation jälkeen **liuotus tenekteplaasilla** painon mukaan ja **enoksapariini 0,5 mg/kg i.v.**; kristalloidia nopeana infuusiona 500–1 000 ml ja tarvittaessa noradrenaliini, tavoite systolinen yli 100 mmHg. Ultraäänessä näkyy oikean puolen kuormitus. **Potilas ei saa kävellä.** Jo epäily edellyttää kuljetusta – vointi voi korjaantua ennen ensihoidon saapumista, jolloin haastattelu on ratkaiseva.
+
+> [!info] Lähteiden ero
+> Ensihoito-opas antaa kriittisessä keuhkoemboliassa nestettä 500–1 000 ml, kun taas osa oppimateriaalista korostaa varovaista nesteytystä, koska liika neste voi venyttää oikeaa kammiota.
+
 ## Muista tämä -kertaus
 
 - Keuhkoembolia on ensisijaisesti verenkierron ongelma, joka ilmenee hengenahdistuksena.

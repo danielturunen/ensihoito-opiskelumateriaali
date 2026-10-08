@@ -76,6 +76,19 @@ GI-verenvuoto voi näkyä verioksennuksena (hematemeesi), tervamaisena ulosteena
 
 Ensihoidossa avataan suoniyhteys herkästi, aloitetaan nestehoito sokin merkkien ilmetessä (tavoite systolinen noin 90 mmHg, liiallista nesteytystä vältetään, koska se laimentaa hyytymistekijöitä) ja harkitaan traneksaamihappoa runsaassa vuodossa. Antikoagulaatiolääkitys ja aiemmat maha-suolikanavan sairaudet on tärkeä selvittää anamneesissa. Sairaalassa vuodon vakavuutta ja uusiutumisriskiä arvioidaan pisteytyksillä (esim. Rockallin indeksi), ja hoito perustuu tähystykseen – leikkaus tarvitaan harvoin, vain jos vuotoa ei saada muuten hallintaan.
 
+## Ensihoito-oppaan ohje: ruoansulatuskanavan vuoto
+
+Vuodon vaarallisuus arvioidaan elintoimintojen häiriöiden, ei määrän perusteella – iäkkäällä, monisairaalla ja verenpainelääkkeitä tai beetasalpaajia käyttävällä jo 500–1 000 ml:n äkillinen vuoto voi romahduttaa verenpaineen (Lund, Ensihoito-opas 2023).
+
+- **Vuodon paikka**: verioksennus ja samanaikainen melena = runsas vuoto; ruokatorvi → kirkasta verta; maha ja pohjukaissuoli → kahvinporo tai kirkas veri; pohjukaissuolen jälkeinen → yleensä pelkkä melena; peräsuoli → kirkas veri.
+- **Traneksaamihappo 1 g i.v.** (lapsi 20 mg/kg).
+- **Kontrolloitu nesteytys**: kristalloidia 250 ml nopeina (3–5 min) kerta-annoksina, toistetaan vasteen mukaan; tavoite systolinen yli 100 mmHg, rannesyke tuntuu ja tajunta kohenee. Liika neste heikentää hyytymistä ja lisää lämmönhukkaa.
+- **Verituotteet** paikallisen ohjeen mukaan: O RhD-negatiiviset punasolut 2–4 yksikköä ja/tai kuivaplasma 200–400 ml (erityisesti hyytymishäiriössä); kirkkaita vähennetään niiden rinnalla.
+- Kuljetus vähintään keskussairaalaan; kotiin vain lievä, nopeasti tyrehtyvä pukamavuoto.
+
+> [!info] Lähteiden ero
+> Ensihoito-oppaan tavoite on systolinen yli 100 mmHg, kun taas tässä artikkelissa aiemmin mainittu tavoite on noin 90 mmHg – kummassakin liiallista nesteytystä vältetään.
+
 ## Muista tämä -kertaus
 
 - Akuutissa vatsassa tärkeintä on tunnistaa kiireellistä hoitoa tarvitseva potilas, ei tehdä tarkkaa diagnoosia.

@@ -39,6 +39,8 @@ export const topics: TopicMeta[] = [
 
   // --- neurologia ---
   { id: 'tajuttomuus', moduleId: 'neurologia', title: 'Tajuttomuus', summary: 'Tajunnan säätely, tajuttomuuden syyt ja tutkiminen kentällä.', readMinutes: 12, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'aivoverenkiertohairio', moduleId: 'neurologia', title: 'Aivoverenkiertohäiriö (AVH) ja SAV', summary: 'Tunnistaminen, aikaikkunat, liuotus ja trombektomia sekä lukinkalvonalainen verenvuoto.', readMinutes: 8, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'kouristelu', moduleId: 'neurologia', title: 'Kouristelu ja epilepsia', summary: 'Pitkittynyt kouristelu, lääkeportaat ja kuljetuskriteerit.', readMinutes: 6, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'yleistilan-lasku-ja-pyortyminen', moduleId: 'neurologia', title: 'Äkillinen yleistilan heikkeneminen ja pyörtyminen', summary: 'Epäspesifisen oireilun ja synkopeen erotusdiagnostiikka.', readMinutes: 10, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'case-tajuttomuus-702', moduleId: 'neurologia', title: 'Tapaus: Tajuton potilas', summary: 'Harjoittele tajuttoman potilaan systemaattista tutkimista.', readMinutes: 10, hasQuiz: false, hasFlashcards: false, hasScenario: true, dispatchCode: '702' },
 
@@ -72,6 +74,7 @@ export const topics: TopicMeta[] = [
   { id: 'hypotermia', moduleId: 'ymparisto', title: 'Hypotermia ja hypoterminen elvytys', summary: 'Luokittelu, elonmerkkien arviointi ja elvytyksen poikkeamat kylmässä potilaassa.', readMinutes: 9, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'lampohalvaus', moduleId: 'ymparisto', title: 'Lämpöhalvaus (hypertermia)', summary: 'Tunnistaminen, riskitekijät ja välitön viilennys.', readMinutes: 6, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'sukeltajantauti', moduleId: 'ymparisto', title: 'Sukeltajantauti', summary: 'Paineen fysiikka, oireet, riskitekijät ja ensihoito ennen painekammiota.', readMinutes: 8, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'hukkuminen-ja-sahkotapaturma', moduleId: 'ymparisto', title: 'Hukkuminen ja sähkötapaturma', summary: 'Hukkuneen elvytys, kylmän veden suoja, viivästynyt keuhkopöhö ja sähköiskun erityispiirteet.', readMinutes: 6, hasQuiz: true, hasFlashcards: true, hasScenario: false },
 
   // --- lapset ---
   { id: 'lapsi-ensihoidossa', moduleId: 'lapset', title: 'Lapsi ensihoidossa', summary: 'Lapsen fysiologiset erityispiirteet ja yleisimmät hätätilanteet.', readMinutes: 13, hasQuiz: true, hasFlashcards: true, hasScenario: false },

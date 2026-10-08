@@ -1,0 +1,7 @@
+[
+  {"id":"kou-f1","front":"Kouristelun lääkeportaat","back":"1) Midatsolaami bukkaalisesti/nenään 10 mg 2) Midatsolaami 2,5–5 mg i.v. tai loratsepaami 0,1 mg/kg (max 4 mg) 3) Levetirasetaami 60 mg/kg (2–4,5 g), lapsi 40 mg/kg (max 2 g) 4) Intubaatio."},
+  {"id":"kou-f2","front":"Aikuisen ensimmäisen kouristuksen syitä","back":"AVH, vieroitusoireet, myrkytys, hypoglykemia, hyponatremia tai muu elektrolyyttihäiriö, infektio."},
+  {"id":"kou-f3","front":"Kotiin jättäminen kouristuksen jälkeen","back":"Epilepsia tai vieroituskouristus: kohtaus alle 5 min, ohi, orientoitunut, aikuista seuraa, uusiutumisriski pieni. Ensimmäinen kohtaus → aina kuljetus."},
+  {"id":"kou-f4","front":"Pitkittynyt kouristelu","back":"Yli 5 min jatkuva koko kehon kouristelu. Aiheuttaa hapenpuutetta, metabolista asidoosia, aspiraatio- ja vammariskin."},
+  {"id":"kou-f5","front":"Pitkittynyt kohtaus vai jälkiuni?","back":"Pitkittyneessä: laajat silmäterät, epätarkoituksenmukaiset silmänliikkeet, silmävärve tai luomien nykinä."}
+]

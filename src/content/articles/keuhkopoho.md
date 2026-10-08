@@ -64,6 +64,18 @@ Keuhkopöhöpotilas on usein voimakkaassa kuolemanhädässä, joten rauhallinen 
 
 Katso myös [rintakipu ja akuutti sepelvaltimotautikohtaus](topic:rintakipu-ja-aks), koska sydäninfarkti on yksi yleisimmistä keuhkopöhön laukaisevista syistä ja saattaa vaatia omaa rinnakkaista hoitoa.
 
+## Ensihoito-oppaan hoito-ohje
+
+Kriittisessä hengitysvajauksessa potilas on uupunut tai riuhtova, iho kylmä ja hikinen (joskus marmoroitunut), hengitys rohisee, hän voi yskiä vaahtoa ja hengitystaajuus on yli 30–35/min; sisään- ja uloshengitys ovat yhtä vaikeita (Silfvast, Ensihoito-opas 2023).
+
+1. Tuettu istuva asento, happi varaajamaskilla, CPAP tai kaksoispaine valmiiksi; nitraatti kielen alle, jos systolinen yli 100 mmHg tai rannesyke tuntuu vahvana.
+2. **CPAP**: pidä maskia aluksi käsin ja rauhoittele – kiinnitä remmit, kun potilas huomaa hoidon auttavan.
+3. Nitraatti-infuusio (systolinen yli 100 mmHg); morfiini tai oksikodoni 2–4 mg i.v. tai fentanyyli 1–2 µg/kg erissä.
+4. **Kardiogeenisessä sokissa** (systolinen alle 100 mmHg) noradrenaliini-infuusio.
+5. 12–15-kytkentäinen EKG ja iskemian hoito löydöksen mukaan; huonossa vasteessa ennakoiva intubaatio ensihoitolääkärin toimesta.
+
+Sydänperäistä hengitysvaikeutta epäiltäessä potilas kuljetetaan aina. Perustason opetusmateriaalissa (Kettunen ja Koskimies 2024) nitrosuihketta toistetaan verenpaineen salliessa tavoitteena alle 140/80 mmHg, ja perustaso valmistelee CPAP-laitteiston mutta ei aloita hoitoa itsenäisesti.
+
 ## Muista tämä -kertaus
 
 - Keuhkopöhössä vasemman kammion vajaatoiminta nostaa painetta keuhkoverenkierrossa ja nestettä tihkuu alveoleihin.

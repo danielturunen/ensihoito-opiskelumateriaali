@@ -220,6 +220,10 @@ Lue tapaus ja määritä työdiagnoosi, arvioi lapsen paino ja suunnittele toime
 > [!tip] Huomaa myös suojelutarve
 > Useassa tapauksessa on merkkejä, jotka herättävät huolen lapsen turvallisuudesta (päihtynyt huoltaja, eri-ikäiset mustelmat, valvomaton lapsi yöllä) – muista ilmoitusvelvollisuus.
 
+## Laryngiitin adrenaliini-inhalaatio (Ensihoito-opas)
+
+Vaikeassa ylähengitystieahtaumassa (SpO₂ yli 94 % ei toteudu, hengitystyö lisääntynyt merkittävästi tai lapsi väsähtänyt) annetaan adrenaliinia inhaloiden painon mukaan, pitoisuus 1 mg/ml: **3–5 kg 1,5 ml · 6–8 kg 3,0 ml · 9–12 kg 4,0 ml · yli 13 kg 5,0 ml**. Inhalaatio toistetaan, ellei vaste ole selvä. **Epiglottiittiepäilyssä suuhun ei saa koskea**: nopea kuljetus ehdottomasti istuen, lapsi huoltajan sylissä. Kotiin voidaan jättää lapsi, jolla on ollut laryngiitti aiemmin, tilanne on tuttu, huoltaja yhteistyökykyinen, yleistila hyvä, kuume alle 39 °C eikä yleisinfektion merkkejä ole (Silfvast, Ensihoito-opas 2023).
+
 ## Muista tämä -kertaus
 
 - Lapsen pää pidetään naamariventilaatiossa ja intubaatiossa neutraalissa asennossa – ei taaksepäin taivutettuna kuten aikuisella.

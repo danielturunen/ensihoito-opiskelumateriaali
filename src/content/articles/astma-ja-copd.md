@@ -97,6 +97,18 @@ Astman ja COPD:n lääkehoidossa käytetään kahta päätyyppiä keuhkoputkia a
 
 Astman ja COPD:n erotusdiagnostiikasta ja muista hengitysvaikeuden syistä, kuten sydänperäisestä [keuhkopöhöstä](topic:keuhkopoho), kannattaa muistaa, että auskultaatiolöydös ja oireiden kehittymisnopeus auttavat erottamaan tilat toisistaan.
 
+## Ensihoito-oppaan hoito-ohje
+
+Kriittisen hengitysvajauksen merkkejä ovat uupuminen tai riuhtominen, kyvyttömyys istua tuetta, huono ihon väri, puhe vain yksittäisin sanoin, kylmä hikinen iho ja aikuisella hengitystaajuus yli 30/min. **Jos potilas ei tiedä sairastavansa astmaa tai keuhkoahtaumatautia, epäile keuhkopöhöä** tai muuta hätätilaa (Silfvast, Ensihoito-opas 2023).
+
+- **Astma**: salbutamoli + ipratropium 2,5/0,5 mg tai salbutamoli 5–10 mg inhaloiden, toistetaan 5–10 min välein kunnes vaste (tai kammioarytmioita). Hydrokortisoni 250 mg i.v. (lapsi 5 mg/kg) tai metyyliprednisoloni 40–80 mg (lapsi 2 mg/kg). Kriittisessä kohtauksessa, jos inhalaatio ei auta, aikuiselle adrenaliini 0,05 mg i.v. boluksina. Uupuvan potilaan uloshengitystä voi tukea painamalla kyljistä.
+- **COPD:n pahenemisvaihe**: krooninen SpO₂ voi olla 85–90 %, ääreisosat usein lämpimät vaikka huulet sinertävät. Lisähappi (ei varaajamaskia), jos SpO₂ on alle 85 % tai hengitysvaikeus on vaikea; inhalaatiot ja kortisoni kuten astmassa. Merkittävässä pahenemisessa sympatikotonia ja asidoosi (pH alle 7,3). Tilanne ei koskaan "laukea" ensihoidossa, mutta helpottaa: taajuus laskee, SpO₂ nousee, sormet lämpenevät.
+- **Loppuvaiheen hengitysvajaussairaus** (happirikastin kotona): ensisijainen hengitystuki on noninvasiivinen kaksoispaineventilaatio; intubaatiosta konsultoidaan.
+- Kortikosteroidi ei vaikuta vielä ensihoitovaiheen aikana, ja inhaloitava keuhkoputkia laajentava lääkitys on väärä hoito sydämen vajaatoiminnassa.
+
+> [!info] Lähteiden ero
+> Ensihoito-opas aloittaa COPD-potilaan lisähapen, kun SpO₂ on alle 85 %, kun taas yleinen titraustavoite on 88–92 %. Molemmat korostavat liiallisen hapen välttämistä.
+
 ## Muista tämä -kertaus
 
 - Astmassa ja COPD:ssa ongelma on erityisesti ilman poistumisessa keuhkoista — uloshengitys on vaikeinta.

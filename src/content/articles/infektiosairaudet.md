@@ -81,6 +81,12 @@ Pehmytkudosinfektio, johon liittyy poikkeavan kova kipu suhteessa näkyviin ihom
 {"widget":"infection-routes"}
 ```
 
+## Ensihoito-oppaan sepsisohje
+
+Sepsistä epäillään, kun infektiopotilaan yleistila on heikentynyt. Ensihoito-oppaan (Lund 2023) mukaan yleistyneen tulehdusreaktion merkkejä ovat kuume yli 38,5 °C (tai alle 36 °C), syke yli 90/min sinusrytmissä ja hengitystaajuus yli 20/min. **qSOFA**: sepsistä epäillään, jos kaksi kolmesta täyttyy – hengitystaajuus ≥ 22/min, muuttunut tajunta ja systolinen ≤ 100 mmHg. Septinen sokki on kyseessä, kun verenpaine vaatii lääkehoitoa.
+
+Vaikeassa sepsiksessä SpO₂ voi olla matala ilman poikkeavaa kuuntelulöydöstä, verensokeri koholla ilman diabetesta ja verikaasussa matala pCO₂ ja metabolinen asidoosi (BE alle −2). Alaraajoissa voi olla petekioita tai tunneissa syntyneitä punoittavia alueita. Vanhuksella kuume voi puuttua ja tajunta heiketä herkästi; lapsella velttous ja vaisuus, joskus kuumekouristus. Hoito: happi saturaation mukaan, matalaan paineeseen nestebolukset ja tarvittaessa vasopressori, ennakkoilmoitus sepsisepäilystä. **Kaikki sepsisepäilyt kuljetetaan.**
+
 ## Muista tämä -kertaus
 
 - Infektio-oireisto, johon liittyy nopeasti heikkenevä yleistila, tulkitaan sepsiksenä kunnes toisin osoitetaan — myös ilman kuumetta.

@@ -102,6 +102,12 @@ Pyörtyminen on lyhytkestoinen (useimmiten sekuntien, joskus muutaman minuutin) 
 
 Jokaisen pyörtyneen tajuntaa ja hengitystä on seurattava, koska pyörtymistä ei voi hetkessä erottaa vakavammista tajuttomuuden syistä (ks. [Tajuttomuus](topic:tajuttomuus)). Jos hengitystä ei todeta tai tajunta ei palaudu parissakymmenessä sekunnissa, toimitaan elottoman potilaan mukaisesti.
 
+## Ensihoito-oppaan ohje: yleistilan lasku
+
+Ensihoito-opas (Lund 2023) erottaa **äkillisen** (tunneissa tai parissa vuorokaudessa) ja **hitaasti kehittyneen** (päivissä) yleistilan laskun. Taustalla voi olla infektio tai sepsis, sydäninfarkti, kroonisen sairauden paheneminen, dementia, päihteet, lääkehaitta, yksinäisyys tai sosiaalinen ongelma. Esitietoihin kannattaa käyttää tavallista enemmän aikaa – erityisesti toistuvasti ensihoidon potilaana olevilla – ja tutkia huolellisesti: tajunta, hengitystaajuus, syke, rytmi, verenpaine, EKG, verensokeri, iho ja lämpö, neurologia ja tarvittaessa CRP.
+
+Potilas kuuluu yhteispäivystykseen, jos hänellä on ensihoitoa vaativa peruselintoimintojen häiriö tai vakavan syyn epäily; muuten ensiarvio voidaan tehdä terveyskeskuksessa. Hoitolaitoksessa asuvan hoitotahto, hoidon rajaukset ja toimintakyky selvitetään ennen kuljetuspäätöstä, ja jos potilasta voidaan hoitaa paikan päällä, kuljetusta ei tarvita. Mieti aina, mikä palvelu parhaiten auttaisi potilasta – terveyskeskus, sosiaalipäivystys tai kotisairaala.
+
 ## Muista tämä -kertaus
 
 - Epäspesifinen oire ("yleistila laskenut") ei ole riittävä pääoire – kysy aktiivisesti, mikä tarkalleen on muuttunut ja kuinka nopeasti.

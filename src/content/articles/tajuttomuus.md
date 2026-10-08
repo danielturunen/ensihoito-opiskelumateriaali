@@ -94,6 +94,16 @@ Perustason toimin – kylkiasento ja alaleuan kohotus – hengitystie pysyy auki
 
 Työdiagnoosi vaikuttaa toteutustapaan: epäiltäessä kallonsisäisen paineen nousua intubaatio tehdään erityisen hallitusti verenpaineen ja ICP:n nousua välttäen, kun taas puhtaassa myrkytyksessä voidaan toimia tavanomaista aktiivisemmin. Turvallisin tapa on nopea sarja-induktio (rapid sequence intubation, RSI): potilas esihapetetaan mahdollisimman hyvin, jonka jälkeen annetaan käytännössä samanaikaisesti kipulääke, anesteetti (esim. ketamiini hemodynaamisesti epävakaalle, propofoli normo- tai hypertensiiviselle) ja lihasrelaksantti, ja potilas intuboidaan heti relaksaation alettua ilman välivaiheen ventilointia. Jatkuva kapnografia on intubaation varmistuksen ja ventilaation ohjauksen kultainen standardi.
 
+## Ensihoito-oppaan tavoitteet
+
+Ensiarvio ja työdiagnoosi 5 minuutissa, välitön ensihoito 5–15 minuutissa ja kuljetuksen alku 15–30 minuutissa. Tavoitteet: SpO₂ yli 94 %, systolinen yli 100 mmHg, matalan verensokerin (alle 3 mmol/l) hoito ja kouristelun hoito (Lund, Ensihoito-opas 2023).
+
+- **Asento**: pää 20–30° koholla, jos rannesyke on vahva; vaakataso ja verenkiertovajauksen syyn hoito, jos rannesyke ei tunnu. Pää suorassa, ei kaulaa kiristäviä kiinnityksiä.
+- **SAV tai aivoverenvuoto** viittaa: edeltävä päänsärky, äkillinen tajuttomuus, koukistus- tai ojennusreaktio, nykinä, pupillien poikkeavuudet ja puolierot. Jos systolinen on yli 180 mmHg, labetaloli 10–20 mg i.v. toistaen ja kipulääke.
+- **Infektio** viittaa: edeltävä kuume, päänsärky, vähittäinen tajunnan lasku, petekiat.
+- Syvästi tajuttoman (GCS alle 8) hengitystie turvataan ensihoitolääkärin ohjeen mukaan; normoventilaatio.
+- Normovoleemisen hypotensiossa efedriini tai noradrenaliini. Tajunnanhäiriöinen potilas kuuluu vähintään keskussairaalaan. Katso [AVH](topic:aivoverenkiertohairio) ja [kouristelu](topic:kouristelu).
+
 ## Muista tämä -kertaus
 
 - Tajuttomuus on aina oire, ei diagnoosi – taustasyy on selvitettävä, viimeistään sairaalassa.

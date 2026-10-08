@@ -92,6 +92,25 @@ Parasetamolimyrkytyksessä alkuoireet voivat olla lieviä tai puuttua, vaikka ma
 
 Hypertermia (esim. stimulanttien tai serotoniinioireyhtymän seurauksena) voi johtaa rabdomyolyysiin ja munuaisvaurioon – jäähdytä potilas aktiivisesti, tavanomaiset kuumelääkkeet eivät tehoa tähän mekanismiin. Kouristeleva myrkytyspotilas hoidetaan ensisijaisesti bentsodiatsepiinilla peruselintoimintoja turvaten.
 
+## Ensihoito-oppaan hoito-ohje
+
+Tavoitteet: ensiarvio ja työdiagnoosi 5 min, aiheuttajan selvitys ja vasta-ainehoito 6–15 min, kuljetuskuntoon 16–30 min; SpO₂ yli 94 % ja systolinen yli 100 mmHg (Lund, Ensihoito-opas 2023).
+
+| Tilanne | Hoito |
+|---|---|
+| Hypotensio | Asento, kristalloidi 300–500 ml (lapsi 10 ml/kg), efedriini 2,5–5 mg toistaen (ad 30 mg), tarvittaessa noradrenaliini |
+| Bradykardia alle 45/min | Atropiini 0,1 mg/10 kg (ad 3 mg) |
+| Opioidit | Naloksoni 0,08–0,4 mg i.v. kerta-annoksina |
+| Bentsodiatsepiinit ja etanoli | Flumatseniili 0,2–0,3 mg i.v. toistaen – vain jos tiedetään, ettei muita lääkkeitä ole otettu |
+| Kalsiumsalpaajat | Kalsiumglukonaatti 10 ml 5–10 min, ad 30–40 ml; insuliini-infuusio; adrenaliini-infuusio |
+| Beetasalpaajat | Adrenaliini-infuusio ilman ylärajaa (hätätilanteessa 0,05–0,1 mg boluksia); vaikeassa glukoosi-insuliini (insuliini 1 IU/kg bolus + 1–10 IU/kg/h, samalla G10, seuraa glukoosia ja kaliumia) |
+| Imeytymisen esto | Lääkehiili juottamalla, jos GCS yli 13 |
+
+Vasta-aineella herätetty voi mennä uudelleen tajuttomaksi – annoksia voidaan tarvita toistuvasti. Ilman intubaatiota kuljetettavalla huolehditaan aspiraation estosta (kylkiasento, imuvalmius). Myrkytyspotilas kuljetetaan; poikkeuksena yli 18-vuotias, joka on pelkästään alkoholin vaikutuksen alainen ja herää ja toimintakyky palautuu. Alaikäisen kohdalla liitetään sosiaalipäivystys.
+
+> [!info] Lähteiden ero
+> Ensihoito-opas sallii flumatseniilin, kun muiden lääkkeiden osuus on varmasti poissuljettu; muu oppimateriaali neuvoo välttämään sitä ensihoidossa kouristusriskin vuoksi. Yhteistä on: ei sekamyrkytyksessä.
+
 ## Muista tämä -kertaus
 
 - "Hoida potilasta, älä myrkkyä" – ABCDE menee aina antidoottien ja diagnoosin edelle.

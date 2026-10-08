@@ -102,6 +102,12 @@ Tarkemman peruselintoimintojen arviointimallin löydät sivulta [ABCDE ja peruse
 
 Selvä ylähengitystien uhka — stridor, kuolaaminen, äänen muutos, nielemiskyvyttömyys, epäily anafylaksiasta, tajunnantason lasku ilmatien suojauksen pettäessä, merkittävästi lisääntynyt hengitystyö, syanoosi tai nopeasti paheneva oirekuva — kuuluu aina päivystykseen, ei terveysasemalle. Terveysasematasoinen arvio voi tulla kyseeseen ainoastaan, jos oire on lievä, hengitystie on varmasti avoin ja potilas pysyy vakaana koko arvion ajan.
 
+## Ensihoito-oppaan hoito-ohje
+
+**Vierasesine**: jos potilas yskii tai puhuu, suuhun tai nieluun ei kosketa – rauhoita, lisähappi selkeässä stridorissa ja nopea kuljetus. Puhumaton mutta hereillä: voimakkaat lyönnit lapaluiden väliin ja Heimlichin ote. Tajuton tai eloton: painelu ja samalla suora laryngoskopia ennen ventilaatiota, esine Magillin pihdeillä; jos este on äänihuulten alapuolella, sen voi työntää intubaatioputkella syvemmälle, jotta ventilaatio onnistuu. Kuljetetaan, jos tilanne on ollut vakava (sinerrys, Heimlichin ote).
+
+**Anafylaksia**: adrenaliini aikuiselle **0,5 mg i.m.** tai 0,05–0,1 mg i.v., lapselle 0,01 mg/kg i.m. tai 0,001 mg/kg i.v., tarvittaessa toistaen tai infuusiona; hydrokortisoni, inhaloitavat sympatomimeetit ja antihistamiini (esim. setiritsiini 10 mg p.o.). Keskivaikeassa ja vaikeassa reaktiossa uusiutumisriski on suuri, joten kuljetus on tarpeen (Lund, Ensihoito-opas 2023).
+
 ## Muista tämä -kertaus
 
 - Epiglottiitissa vältä ilmatien ärsyttämistä ja potilaan pakottamista makuulle.

@@ -115,6 +115,12 @@ Toisin kuin DKA:ssa, HHS:ssä ei ole merkittävää asidoosia eikä Kussmaulin h
 
 Muista myös, että alkoholi voi aiheuttaa tai pahentaa hypoglykemiaa estämällä maksan glukoosin tuotantoa – vaikutus voi kestää yli vuorokauden alkoholin nauttimisesta ([alkoholin väärinkäyttö](topic:alkoholin-vaarinkaytto)).
 
+## Ensihoito-oppaan hoito-ohje: hypoglykemia
+
+Tajuton tai yhteistyökyvytön: **G10 100–200 ml nopeana infuusiona** (lapsi 1–2 ml/kg); jos suoni- tai luuydinyhteys ei onnistu, glukagoni 1 mg i.m. (alle kouluikäinen 0,5 mg). Herännyt potilas saa mehua tai maitoa ja hitaasti imeytyvää hiilihydraattia. Jos tajunta ei palaa, vaikka verensokeri on korjautunut, etsi muu syy (Lund, Ensihoito-opas 2023).
+
+**Kotiin voi jäädä vain, jos kaikki täyttyvät**: tyypin 1 diabetes, hypoglykemialle on järkevä selitys, potilas ei ole päihtynyt, on orientoitunut ja asiallinen ja hänellä on aikuista seuraa, hän on syönyt ja verensokeri pysyy normaalina – ja lääkäriä on konsultoitu. **Lapsi kuljetetaan aina**, samoin jos hypoglykemialle on muu syy.
+
 ## Muista tämä -kertaus
 
 - Epäile aina ensin hypoglykemiaa, kun diabeetikon tila on poikkeava – se on nopeasti korjattavissa.

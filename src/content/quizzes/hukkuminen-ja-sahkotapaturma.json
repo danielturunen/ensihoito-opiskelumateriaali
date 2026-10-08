@@ -1,0 +1,7 @@
+[
+  {"id":"huk-q1","type":"mcq","question":"Miten hukkuneen peruselvytys aloitetaan?","options":["30 painallusta","Viidellä puhalluksella","Defibrillaatiolla","Heimlichin otteella"],"correctIndex":1,"explanation":"Syy on hypoksia, joten happeutuminen palautetaan viidellä puhalluksella ennen painelua."},
+  {"id":"huk-q2","type":"mcq","question":"Missä tilanteessa hukuksissa olleen elvytystä jatketaan pidempään?","options":["Uimalämpöinen vesi, aikuinen","Hyvin kylmä vesi ja pieni lapsi","Merivesi","Ei koskaan"],"correctIndex":1,"explanation":"Kylmä vesi voi suojata aivoja; lapsia on selvinnyt 45–60 min jälkeen erittäin kylmästä vedestä."},
+  {"id":"huk-q3","type":"truefalse","question":"Hukuksissa ollut, nopeasti toipunut potilas voidaan aina jättää kotiin.","options":["Oikein","Väärin"],"correctIndex":1,"explanation":"Keuhkopöhö voi kehittyä viiveellä – myös nopeasti toipuneet kuljetetaan seurantaan."},
+  {"id":"huk-q4","type":"mcq","question":"Sähkötapaturman uhri on asystolessa. Mitä se tarkoittaa?","options":["Elvytystä ei aloiteta","Elvytys aloitetaan heti – ennuste voi silti olla hyvä","Odotetaan lääkäriä","Annetaan vain happea"],"correctIndex":1,"explanation":"Sähköisku voi viedä sydämen suoraan asystoleen, ja ennuste on silti hyvä."},
+  {"id":"huk-q5","type":"mcq","question":"Mikä on ensimmäinen asia sähkötapaturmapaikalla?","options":["Elvytys","Varmistaa, että potilas on eristetty virtalähteestä","Suoniyhteys","Kipulääke"],"correctIndex":1,"explanation":"Korkeajännitteessä usean metrin turvaväli valokaaririskin vuoksi."}
+]

@@ -1,0 +1,7 @@
+[
+  {"id":"huk-f1","front":"Hukkuneen elvytys","back":"Hengitystie tyhjäksi, 5 alkupuhallusta, painelu. Kylmä vesi + lapsi → elvytä pidempään; kuljetus elvyttäen sydän-keuhkokoneeseen, jos aikaikkuna alle 1 h."},
+  {"id":"huk-f2","front":"Hukkuneen ennuste","back":"Uimalämpöinen vesi: huononee 10 min jälkeen. Yli 30 min hukuksissa: heikko lämpötilasta riippumatta. Kylmä vesi: lapsia selvinnyt 45–60 min."},
+  {"id":"huk-f3","front":"Sähkötapaturma","back":"Eristä virtalähteestä ensin. Asystole – ennuste silti hyvä. Hengityspysähdys mahdollinen ilman sydänpysähdystä. Korkea jännite: suuret sisäiset vammat."},
+  {"id":"huk-f4","front":"Hukkuneen jatkohoito","back":"Keskus- tai yliopistosairaala. Hengitysvajauksessa CPAP/kaksoispaine (huom. vettä mahassa, oksentaa herkästi), lämmönhukan esto, seuranta viivästyneen keuhkopöhön vuoksi."},
+  {"id":"huk-f5","front":"Hukkumisen taustasyyt","back":"Muista sairaskohtaus ja rankavamma hyppäämisen tai putoamisen jälkeen; laitesukelluksessa nopea nousu → sukeltajantauti."}
+]

@@ -103,6 +103,26 @@ Kuljetuspäätöksessä selvä hengitystien uhka — stridor, kuolaaminen, ään
 
 Katso tarkemmin ensiarvion systematiikasta [ABCDE ja peruselintoimintojen arviointi](topic:abcde-arviointi) -sivulta.
 
+## Hengitysvaikeuspotilas perustasolla
+
+Hengitysvaikeus on yksi kymmenestä yleisimmästä ensihoitotehtävästä, ja koodiin 703 liittyy elottomuuden jälkeen eniten kuolemia ensihoidossa – siihen suhtaudutaan aina vakavasti (Kettunen ja Koskimies, perustason ensihoito 2024).
+
+**Lisäapua pyydetään perustasolla**, jos havaitaan ilmatie-este tai sen uhka, selkeä peruselintoiminnan häiriö, hyvin työläs hengitys, syanoosi, **hengitystaajuus yli 30 tai alle 10/min** tai potilas on sekava tai tajuton. Muita riskilöydöksiä ovat kyvyttömyys kannatella itseään istuallaan tai puhua edes sanoja, hikinen iho ja viileä periferia, rintakipu ja rintakehän vamma.
+
+| Alkaminen | Ajattele |
+|---|---|
+| Hitaasti | Sydämen vajaatoiminta, COPD, keuhkokuume |
+| Nopeasti | Astmakohtaus, vierasesine, anafylaksia, rytmihäiriö, ilmarinta, paniikkihäiriö, keuhkoembolia, vamma, laryngiitti |
+
+Tarkennetussa tilannearviossa mitataan lähtösaturaatio huoneilmalla (jotta hoidon vaste nähdään), EtCO₂ nenäkapnolla, tarkka hengitystaajuus ja sisään- ja uloshengityksen suhde (**normaalisti I:E 1:2**), auskultoidaan molemmin puolin useasta kohdasta paljaalta rintakehältä ja haistetaan hengitys. Hengityksen kokonaisuus arvioidaan kolmena osana: **hapetus** (SpO₂, syanoosi, hengitysäänet), **hengitystyö** (taajuus, apuhengityslihakset – kuinka kauan potilas jaksaa?) ja **keuhkotuuletus** (riittääkö taajuus, poistuuko hiilidioksidi).
+
+**Perustason hoito**: rauhoittelu ja hapenkulutuksen vähentäminen, tukeva asento (käsinojallinen tuoli, pääpuoli koholla – anna potilaan valita), happi tarvittaessa (aloitus esim. 35 % venturimaskilla, nosto vasteen mukaan varaajapussilliseen), suoniyhteys. Sydänpotilaalle nitrosuihke, jos verenpaine riittää; astmaatikolle ja keuhkokroonikolle omat kohtauslääkkeet tilajatkeella tai toimipaikan ohjeen mukaan inhalaatio. CPAP:n tarve tunnistetaan ja laite valmistellaan, mutta perustaso ei aloita CPAP:ta itsenäisesti.
+
+**Kuljetuksessa** happi jatkuu keskeytyksettä (huomioi hapen riittävyys), pääpuoli reilusti ylhäällä ja jalat koukussa. Kiireellisyys: helpottunut hapella ja SpO₂ hyvä → C; edelleen hengitysvaikeutta → B; hoitoyksikön saattama → A/B. Rauhallinen ajotyyli – hurjastelu pahentaa tilannetta.
+
+> [!warning] Kuljettamatta jättäminen
+> Vain jos oire on poistunut täysin, vointi ja peruselintoiminnot ovat täysin kunnossa, syy on tiedossa ja potilas pystyy hoitamaan sen itse – esim. hyperventilaatio tai omilla lääkkeillä lauennut astmakohtaus. Jos potilas itse kokee tarvitsevansa hoitoa, hänet pääsääntöisesti kuljetetaan. Noudata toimipaikan ohjeita.
+
 ## Muista tämä -kertaus
 
 - Hengitystien kohdalla kysymys ei ole vain "onko ilmatie auki nyt" vaan "pysyykö se auki".
