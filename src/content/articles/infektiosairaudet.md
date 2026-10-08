@@ -22,6 +22,10 @@ Sepsis tarkoittaa infektioon liittyvää yleisoireistoa, jossa elimistön oma va
 
 Johtavana oireena on tyypillisesti tunneissa tai 1–2 päivässä nopeasti kehittynyt yleistilan heikkeneminen. Potilas on usein, ei aina, kuumeinen; iho on poikkeavan lämmin, syke koholla ja potilas levoton. Hengitystaajuus on yksi herkimmistä löydöksistä ja kannattaa mitata kaikilta infektioepäilypotilailta — se nousee usein ennen muita selviä merkkejä. Löydöksenä korostuu verenkiertosokki, erityisesti niin sanottu "lämmin sokki", jossa ääreisverenkierron vastus on alentunut toisin kuin tyypillisessä kylmässä hypovoleemisessa sokissa. Pahoinvointi ja vatsakipu ovat yleisiä myös sellaisissa septisissä tiloissa, joiden lähde ei ole vatsaontelossa.
 
+```media
+{"widget":"shock-skin"}
+```
+
 SIRS-löydöksiä ovat ydinlämpö yli 38 °C tai alle 36 °C, syke yli 90/min, hengitystaajuus yli 20/min, selvästi pidentynyt kapillaaritäyttöaika, poikkeava valkosolumäärä, voimakas CRP-nousu, kohonnut laktaatti (yli 2 mmol/l) ja nopeasti alkanut sekavuus tai tajunnan lasku ilman muuta selittävää syytä. Riskinarvioon soveltuvat myös [NEWS- ja qSOFA-pisteytykset](topic:konsultaatiomallit): korkeampi pistemäärä liittyy suurempaan kuolemanvaaraan.
 
 ```media
@@ -72,6 +76,10 @@ Pehmytkudosinfektio, johon liittyy poikkeavan kova kipu suhteessa näkyviin ihom
 
 > [!tip] Suojautuminen on aina perusta
 > Käsihygienia, oikeat suojavarusteet (käsineet, tarvittaessa kasvosuojain ja hengityssuojain) ja välineiden desinfiointi kuljetuksen jälkeen suojaavat sekä henkilökuntaa että seuraavaa potilasta. Ensihoitohenkilöstölle suositellaan erityisesti influenssarokotusta ja ajantasaista jäykkäkouristusrokotusta.
+
+```media
+{"widget":"infection-routes"}
+```
 
 ## Muista tämä -kertaus
 

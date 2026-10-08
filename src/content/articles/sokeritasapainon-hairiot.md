@@ -4,6 +4,10 @@ Diabeetikon kohtaaminen on yksi ensihoidon yleisimmistä tehtävistä. Insuliini
 
 Tyypin 1 diabeteksessa insuliinia ei muodostu lainkaan – potilas on täysin riippuvainen pistettävästä insuliinista, ja sen puute johtaa nopeasti ketoasidoosiin. Tyypin 2 diabeteksessa kyse on insuliiniresistenssistä; tyypillinen hätätilanne on tällöin hyperosmolaarinen oireyhtymä (HHS), ei ketoasidoosi.
 
+```media
+{"widget":"insulin"}
+```
+
 ## Hypoglykemia – diabeetikon kiireisin hätätilanne
 
 > [!danger] Henkeä uhkaava
@@ -74,6 +78,10 @@ DKA syntyy, kun insuliinia ei ole käytännössä lainkaan. Solut eivät pääse
 - Pahoinvointi, oksentelu ja vatsakipu – voi muistuttaa [akuuttia vatsaa](topic:akuutti-vatsa).
 - Takykardia, lämmin mutta kuiva iho, myöhemmin hypotensio.
 - Sekavuus, tajunnan heikkeneminen, vaikeassa tilassa kooma.
+
+```media
+{"widget":"breathing-patterns","initial":"kussmaul"}
+```
 
 > [!danger] Henkeä uhkaava
 > Älä hoida DKA:n hyperventilaatiota paperipussilla – se on elimistön yritys kompensoida asidoosia, ei paniikkikohtaus.

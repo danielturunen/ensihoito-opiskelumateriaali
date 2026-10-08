@@ -37,6 +37,10 @@ Pääsääntö on kuljettaa viiveettä synnytyssairaalaan vasemmassa kylkiasenno
 
 Ponnistusvaiheessa tuetaan synnyttäjää ja annetaan hänen tehdä työtä rauhassa — aktiivisesti puututaan vasta kun pää alkaa syntyä. Yhdellä kädellä tuetaan välilihaa, toisella kontrolloidaan pään syntymistä niin, ettei se "ponnahda" ulos hallitsemattomasti. Kun pää on syntynyt, tarkistetaan napanuora kaulan ympäriltä: löysä pujotetaan pään yli, tiukkaa ei revitä väkisin, vaan lapsi autetaan syntymään ja napanuora vapautetaan heti. Hartiat syntyvät usein seuraavalla supistuksella: ensin autetaan ylempi hartia painamalla päätä varovasti kohti äidin selkää, sitten alempi hartia nostamalla päätä kohti äidin vatsaa. Ulosautto on aina rauhallinen ja aaltomainen — ei koskaan voimalla tehty.
 
+```media
+{"widget":"delivery"}
+```
+
 ### Poikkeavat tilanteet
 
 - **Hartiadystokia** (pää syntynyt, hartiat eivät seuraa normaalisti): hälytä lisäapu, aseta synnyttäjän jalat voimakkaaseen koukistukseen ("polvet korviin", McRoberts-asento) ja paina häpyluun yläpuolelta. Älä koskaan paina kohdun pohjasta.
@@ -76,6 +80,10 @@ Huonokuntoinen (veltto, riittämättömästi hengittävä tai reagoimaton) vasta
 ## Jälkeisvaihe: äidin uhkaavin hetki kentällä
 
 Istukka syntyy tavallisesti 5–60 minuutin kuluessa lapsen syntymästä. Normaali verenvuoto synnytyksen jälkeen on yleensä alle 500 ml, mutta vuoto voi kertyä näkymättömissä kohtuun. Huolestuttavia löydöksiä ovat yli 500 ml:n tai nopeasti lisääntyvä vuoto, pehmeä ja kookas kohtu, sokin merkit sekä vuoto joka jatkuu istukan synnyttyä. Toimintana on kohdun hieronta vatsanpeitteiden läpi, vauvan annettaminen imeä rintaa (tukee kohdun supistumista), suoniyhteyden avaaminen ja sokin hoito, sekä oksitosiini ja traneksaamihappo paikallisen hoito-ohjeen mukaan. Istukkaa ei revitä väkisin — jos se ei irtoa helposti, lopetetaan yritys ja kuljetetaan.
+
+```media
+{"widget":"postpartum"}
+```
 
 ## Raskaudenaikaiset hätätilanteet
 

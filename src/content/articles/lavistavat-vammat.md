@@ -29,6 +29,10 @@ Rintakehän lävistävä vamma voi aiheuttaa paineilmarinnan lisäksi sydäntamp
 > [!warning] Sydäntamponaation tunnistaminen
 > Matala verenpaine, takykardia ja kaulalaskimoiden pullotus yhdessä. Lisäksi voi esiintyä sentraalista syanoosia, kaventunutta pulssipainetta, vaimentuneita sydänääniä, pulsus paradoxusta ja vaihtelevaa EKG-amplitudia. Tila on nopeasti henkeä uhkaava ja vaatii pikaista kuljetusta sekä ensihoitolääkärin konsultaatiota.
 
+```media
+{"widget":"tamponade"}
+```
+
 ## Hoito cABCDE-protokollan mukaan
 
 Systemaattinen tutkimisjärjestys (cABCDE, RTA) on kuvattu sivulla [Traumapotilaan tutkiminen ja hoito](topic:traumapotilaan-tutkiminen). Lävistävässä vammassa korostuvat seuraavat erityispiirteet.

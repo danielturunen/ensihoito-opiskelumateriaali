@@ -64,6 +64,10 @@ Hengitystiestä tulee hengenvaarallinen käytännössä neljällä päämekanism
 3. **Tajunnan lasku** — esimerkiksi hypoglykemia, intoksikaatio, kouristelu tai aivoverenkiertohäiriö heikentää nielun lihastonusta, jolloin ilmatie voi sulkeutua ilman näkyvää esinettä.
 4. **Hengitysväsymys tai lihasheikkous** — vaikeassa astmassa, COPD-paheneman (keuhkoahtaumataudin pahenemisvaiheen) yhteydessä tai pitkittyneen kouristelun jälkeen ilmatie voi olla anatomisesti auki, mutta potilaalla ei ole enää voimia hengittää tehokkaasti.
 
+```media
+{"widget":"airway-threats"}
+```
+
 ## Red flag -löydökset hengitystien hätätilassa
 
 Seuraavat löydökset edellyttävät ensihoitajalta välitöntä reagointia:

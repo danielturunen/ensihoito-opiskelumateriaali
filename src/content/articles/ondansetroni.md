@@ -6,6 +6,10 @@ Ondansetroni on 5-HT3-reseptorin salpaaja, jota käytetään pahoinvoinnin ja ok
 
 Ondansetroni salpaa serotoniinin (5-HT3) vaikutusta sekä keskushermoston oksentelukeskuksessa että perifeerisesti suoliston vagushermopäätteissä. Kun serotoniinin välittämä ärsyke oksentelukeskukseen vähenee, pahoinvointi ja oksentelu helpottuvat tehokkaasti.
 
+```media
+{"widget":"antiemetic"}
+```
+
 ## Käyttöaiheet ensihoidossa
 
 - **Opioidien aiheuttama pahoinvointi** (morfiini, oksikodoni) — ondansetroni täydentää hyvin kipulääkityksen vaikutusta ilman, että se lisää opioidin hengityslamaa.

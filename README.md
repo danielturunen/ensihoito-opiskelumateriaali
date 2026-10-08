@@ -11,7 +11,8 @@ Interaktiivinen opiskelumateriaali ensihoitaja (AMK) -opiskelijalle. Sisältää
 - Kertauskortit yksinkertaisella Leitner-tyyppisellä kertausaikataululla
 - Potilastapausharjoitukset (skenaariot), joissa edetään hälytystiedoista hoitopäätökseen
 - Koko sisällön kattava haku
-- **Oppimista tukeva multimedia** artikkelien sisällä (81 elementtiä, 37 tyyppiä): animoidut anatomiakuvat (johtoratajärjestelmä, ilmarinta, keuhkorakkula, hengitystiet, sepelvaltimotauti, aortokavaalinen kompressio), EKG-rytmikirjasto tunnistusharjoituksella, laskurit (GCS, NEWS2, sokki-indeksi, QTc, CPP, Apgar, 9:n sääntö), annoslaskuharjoitukset, hoitokaaviot, aikajanat, muistisäännöt, yhdistelytehtävät ja ruotsin fraasisanasto ääntämisineen
+- **Oppimista tukeva multimedia** artikkelien sisällä (99 elementtiä, 53 tyyppiä): animoidut anatomia- ja mekanismikuvat (johtoratajärjestelmä, ilmarinta, keuhkorakkula, hengitystiet, sepelvaltimotauti, aortokavaalinen kompressio, insuliini ja ketoasidoosi, nitraatti + CPAP, sydäntamponaatio, atropiini, ondansetroni, lämmin vs. kylmä sokki, hengityskuviot), toimenpidesarjat (synnytyksen avustaminen, jälkeisvaihe), EKG-rytmikirjasto tunnistusharjoituksella, laskurit (GCS, NEWS2, sokki-indeksi, QTc, CPP, Apgar, 9:n sääntö), annoslaskuharjoitukset, hoitokaaviot, aikajanat, muistisäännöt, yhdistelytehtävät ja ruotsin fraasisanasto ääntämisineen
+- **Potilasmonitori** tapausharjoituksissa: pulssi- ja hengityskäyrä sekä vitaaliarvot vaihe vaiheelta tapauksen tekstin mukaan, hälytysvärit NEWS2-rajoista
 - **Kuuntele**-toiminto: artikkelin voi kuunnella ääneen (laitteen oma puhesynteesi, toimii offline)
 - Opiskelun eteneminen, suosikit ja tietovisatulokset tallentuvat laitteen `localStorage`iin — ei kirjautumista
 - Asennettava PWA: toimii offline kerran ladattuasi sivuston, responsiivinen mobiilista työpöydälle

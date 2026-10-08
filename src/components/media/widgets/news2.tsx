@@ -1,13 +1,7 @@
 import { useState } from 'react'
 import type { WidgetProps } from '../registry'
 import { Caption, NumberField, Result, Segmented, Stat } from '../ui'
-
-// Official NEWS2 bands (Royal College of Physicians 2017, SpO2 scale 1).
-const scoreRR = (v: number) => (v <= 8 ? 3 : v <= 11 ? 1 : v <= 20 ? 0 : v <= 24 ? 2 : 3)
-const scoreSpO2 = (v: number) => (v <= 91 ? 3 : v <= 93 ? 2 : v <= 95 ? 1 : 0)
-const scoreSBP = (v: number) => (v <= 90 ? 3 : v <= 100 ? 2 : v <= 110 ? 1 : v <= 219 ? 0 : 3)
-const scoreHR = (v: number) => (v <= 40 ? 3 : v <= 50 ? 1 : v <= 90 ? 0 : v <= 110 ? 1 : v <= 130 ? 2 : 3)
-const scoreTemp = (v: number) => (v <= 35 ? 3 : v <= 36 ? 1 : v <= 38 ? 0 : v <= 39 ? 1 : 2)
+import { scoreHR, scoreRR, scoreSBP, scoreSpO2, scoreTemp } from '../../../lib/news2'
 
 function Pill({ p }: { p: number }) {
   const cls = p === 0 ? 'bg-[var(--bg-card)] text-[var(--text-dim)]' : p === 1 ? 'bg-brand-500/15 text-brand-600' : p === 2 ? 'bg-brand-500/30 text-brand-700' : 'bg-danger-500 text-white'

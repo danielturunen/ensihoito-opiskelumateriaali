@@ -7,6 +7,7 @@
     {
       "id": "step1",
       "situation": "Saavutte paikalle. Potilas istuu keittiön tuolilla, hieman kalpeana ja hikisenä, puristaa toisella kädellä rintaansa. Hän pystyy puhumaan täysiä lauseita.",
+      "vitals": {"findings": ["Kalpea ja hikinen", "Puhuu täysiä lauseita"]},
       "question": "Mikä on ensimmäinen ja tärkein toimenpide kohteessa?",
       "choices": [
         { "text": "Tehdään systemaattinen ensiarvio (ABCDE) ja rekisteröidään 15-kytkentäinen EKG mahdollisimman nopeasti.", "correct": true, "feedback": "Oikein. Rintakipu on aina riskioire, ja systemaattinen arvio sekä nopea EKG ovat perusta hoitolinjan valinnalle – kivun luonteen perusteella ei voi sulkea pois AKS:ää." },
@@ -17,6 +18,7 @@
     {
       "id": "step2",
       "situation": "Ensiarvio: hengitystaajuus 18/min, SpO2 96 %, syke tuntuu hitaana ja epäsäännöllisenä noin 46/min, verenpaine 100/70 mmHg, iho kylmänhikinen. Kipu VAS 7/10, säteilee vasempaan käsivarteen. 15-kytkentäinen EKG: ST-nousua kytkennöissä II, III ja aVF.",
+      "vitals": {"rr": 18, "spo2": 96, "hr": 46, "pulse": "irregular", "bp": [100, 70], "pain": 7, "findings": ["ST-nousu II, III, aVF"]},
       "question": "Mikä on tärkein seuraava toimenpide ennen hoitolinjan päättämistä?",
       "choices": [
         { "text": "Rekisteröidään lisäksi V4R-kytkentä oikean kammion infarktin poissulkemiseksi, ennen nitraatin antoa.", "correct": true, "feedback": "Oikein. Ala-/takaseinäinfarktiin liittyy usein oikean sepelvaltimon tukos, joka voi aiheuttaa myös oikean kammion infarktin. V4R-kytkennän tarkistaminen on tärkeää, koska nitraatti voi romahduttaa verenpaineen oikean kammion infarktissa." },
@@ -27,6 +29,7 @@
     {
       "id": "step3",
       "situation": "V4R-kytkennässä on lievä ST-nousu, joka tukee oikean kammion osallisuutta. Syke on edelleen 44/min, verenpaine laskenut 92/64 mmHg:iin. Potilas on hieman sekava.",
+      "vitals": {"hr": 44, "bp": [92, 64], "findings": ["V4R: lievä ST-nousu", "Hieman sekava"]},
       "question": "Mikä on oikea hoito tässä vaiheessa?",
       "choices": [
         { "text": "Atropiini 0,5 mg i.v., toistettavissa tarpeen mukaan 3-5 min välein.", "correct": true, "feedback": "Oikein. Oireinen bradykardia (matala verenpaine, tajunnan muutos) alaseinäinfarktin yhteydessä on tyypillisesti vagaalisperäistä ja vastaa usein hyvin atropiiniin." },
@@ -37,6 +40,7 @@
     {
       "id": "step4",
       "situation": "Atropiinin jälkeen syke nousee 62/min:iin ja verenpaine 112/70 mmHg:iin, potilas virkeämpi. ASA 250 mg on annettu pureskellen. Oireiden alusta on kulunut noin 55 minuuttia. Lähin PCI-keskus on noin 70 minuutin ajomatkan päässä, sairaalaan ilmoitetaan ennakkoon.",
+      "vitals": {"hr": 62, "bp": [112, 70]},
       "question": "Mikä on oikea reperfuusiohoidon linjaus tässä tilanteessa?",
       "choices": [
         { "text": "Kuljetetaan välittömästi PCI-keskukseen ennakkoilmoituksella, kun hemodynamiikka on saatu vakautettua.", "correct": true, "feedback": "Oikein. STEMI:n ensisijainen hoito on pallolaajennus (PCI), kun se on saavutettavissa kohtuullisessa viiveessä. Tässä tapauksessa PCI on saatavilla, ja vakautettu potilas voidaan kuljettaa turvallisesti." },
@@ -47,6 +51,7 @@
     {
       "id": "step5",
       "situation": "Kuljetus on käynnissä. Potilaan vointi on vakaa, syke 64/min, verenpaine 115/74 mmHg, kipu VAS 3/10 pienen opioidiannoksen jälkeen. EKG-monitorointi on jatkuvaa.",
+      "vitals": {"hr": 64, "bp": [115, 74], "pain": 3},
       "question": "Mitä tehdään ennen sairaalaan saapumista?",
       "choices": [
         { "text": "Lähetetään EKG etukäteen vastaanottavaan PCI-yksikköön ja annetaan ISBAR-raportti, jotta sydänlab voi valmistautua.", "correct": true, "feedback": "Oikein. Ennakkoilmoitus ja EKG:n sähköinen siirto lyhentävät viivettä oireiden alusta reperfuusioon ja ovat osa STEMI-potilaan laadukasta hoitoketjua." },

@@ -2,6 +2,10 @@
 
 Atropiini on antikolinerginen lääke, joka salpaa asetyylikoliinin vaikutuksen muskariinireseptoreihin. Sydämessä se kumoaa parasympaattisen (vagaalisen) jarrutuksen, mikä nopeuttaa sinussolmukkeen toimintaa ja parantaa eteis-kammiojohtumista. Vaikutus alkaa 1-2 minuutissa laskimoon annettuna ja kestää noin 30-60 minuuttia.
 
+```media
+{"widget":"vagal-brake"}
+```
+
 ## Käyttöaiheet
 
 - Oireinen bradykardia (syke alle 50/min yhdistettynä hypotensioon, tajunnanhäiriöön tai iskemiaan)

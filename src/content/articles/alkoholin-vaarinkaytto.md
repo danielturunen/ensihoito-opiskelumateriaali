@@ -56,6 +56,10 @@ Pitkäaikainen suurkulutus voi vaurioittaa käytännössä kaikkia elinjärjeste
 | Aineenvaihdunta | Ketoasidoosi, laktaattiasidoosi, hypoglykemia paastossa |
 | Veri ja infektiot | Anemia, trombosytopenia, immuunipuutos, lisääntynyt infektioherkkyys |
 
+```media
+{"widget":"alcohol-organs"}
+```
+
 Akuutti alkoholin aiheuttama ketoasidoosi muistuttaa oireiltaan diabeettista ketoasidoosia (tajunnan lasku, kiivas hengitys, matala verenpaine), mutta verensokeri voi olla matala tai normaali. Alkoholistin kohdalla on myös muistettava korvikealkoholimyrkytysten (metanoli, etyleeniglykoli) mahdollisuus, kun epäillään metabolista asidoosia.
 
 > [!warning] Red flag

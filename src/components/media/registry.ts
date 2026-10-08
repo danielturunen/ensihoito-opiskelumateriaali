@@ -56,6 +56,24 @@ export const widgetMeta: Record<string, WidgetMeta> = {
   toxidrome: { title: 'Toksidromin tunnistus', kind: 'Harjoitus' },
   aortocaval: { title: 'Vasen kylkiasento', kind: 'Interaktiivinen kuva' },
   'newborn-spo2': { title: 'Vastasyntyneen SpO₂-tavoitteet', kind: 'Kaavio' },
+  // mechanisms
+  insulin: { title: 'Insuliinin tehtävä', kind: 'Animaatio' },
+  'cpap-nitro': { title: 'Keuhkopöhön hoito: nitraatti ja CPAP', kind: 'Interaktiivinen kuva' },
+  tamponade: { title: 'Sydäntamponaatio', kind: 'Animaatio' },
+  'vagal-brake': { title: 'Atropiini ja vagaalinen jarru', kind: 'Animaatio' },
+  antiemetic: { title: 'Miten ondansetroni estää pahoinvointia', kind: 'Animaatio' },
+  'shock-skin': { title: 'Lämmin vai kylmä sokki?', kind: 'Interaktiivinen kuva' },
+  'breathing-patterns': { title: 'Hengityskuviot', kind: 'Animaatio' },
+  // procedures & recognition
+  delivery: { title: 'Synnytyksen avustaminen vaihe vaiheelta', kind: 'Kaavio' },
+  postpartum: { title: 'Jälkeisvaihe: kohdun supistuminen ja vuoto', kind: 'Interaktiivinen kuva' },
+  choking: { title: 'Täydellinen vai osittainen tukos?', kind: 'Harjoitus' },
+  'infection-routes': { title: 'Tartuntatiet ja suojautuminen', kind: 'Interaktiivinen kuva' },
+  'airway-threats': { title: 'Neljä tapaa, joilla hengitystie pettää', kind: 'Interaktiivinen kuva' },
+  'child-compensation': { title: 'Lapsen vuotosokki: verenpaine pettää viimeisenä', kind: 'Kaavio' },
+  'alcohol-organs': { title: 'Alkoholin aiheuttamat elinvauriot', kind: 'Interaktiivinen kuva' },
+  'gi-bleed': { title: 'GI-verenvuoto: mistä veri tulee?', kind: 'Animaatio' },
+  'heat-loss': { title: 'Lämpötalous kentällä', kind: 'Interaktiivinen kuva' },
 }
 
 const cache = new Map<string, LazyExoticComponent<ComponentType<WidgetProps>>>()

@@ -17,6 +17,7 @@
     {
       "id": "step2",
       "situation": "Yleisarvio on tehty, telineen alue on turvallinen lähestyä. Potilas on hereillä, valittaa voimakasta kipua selässä ja oikealla kyljessä. Et havaitse suurta näkyvää ulkoista verenvuotoa.",
+      "vitals": {"findings": ["Kipu selässä ja oikealla kyljessä"]},
       "question": "Mikä on seuraava askel cABCDE-ensiarviossa?",
       "choices": [
         { "text": "Varmistat hengitystien avoimuuden kaularankaa tukien ja arvioit samalla hengityksen riittävyyden.", "correct": true, "feedback": "Oikein. Kun näkyvää massiivista verenvuotoa (c) ei ole, seuraava askel on aina hengitystie ja kaularangan tuki, sitten hengitys." },
@@ -27,6 +28,7 @@
     {
       "id": "step3",
       "situation": "Hengitystie on auki ja potilas puhuu lyhyitä lauseita. Hengitystaajuus on 28/min, ja oikealla puolella hengitysäänet ovat selvästi heikentyneet verrattuna vasempaan. Happisaturaatio on 91 % huoneilmalla.",
+      "vitals": {"rr": 28, "spo2": 91, "findings": ["Hengitysäänet heikentyneet oikealla"]},
       "question": "Mitä epäilet ja miten toimit seuraavaksi?",
       "choices": [
         { "text": "Epäilet oikean puolen ilma- tai veririntaa, annat lisähappea, seuraat tarkasti verenkierron ja hengitysäänten kehitystä ja valmistaudut mahdolliseen nopeaan kuljetukseen.", "correct": true, "feedback": "Oikein. Toispuoliset hengitysäänet ja laskenut saturaatio putoamisvamman jälkeen viittaavat rintakehän sisäiseen vammaan. Lisähappi ja jänniteilmarinnan kehittymisen aktiivinen seuranta ovat tässä vaiheessa olennaisia." },
@@ -37,6 +39,7 @@
     {
       "id": "step4",
       "situation": "Muutaman minuutin kuluttua potilaan syke nousee 128/min, verenpaine on 92/58 mmHg, iho on kalpea ja nihkeä. Vatsa on pingottunut ja selvästi arka kosketettaessa.",
+      "vitals": {"hr": 128, "bp": [92, 58], "findings": ["Iho kalpea ja nihkeä", "Vatsa pingottunut ja arka"]},
       "question": "Mikä on todennäköisin selitys ja mitä teet?",
       "choices": [
         { "text": "Epäilet sisäistä verenvuotoa vatsan alueelta (mahdollisesti myös rintakehästä), avaat kaksi suoniyhteyttä, annat hoito-ohjeen mukaisen verenvuotolääkkeen ja valmistaudut nopeaan kuljetukseen.", "correct": true, "feedback": "Oikein. Nouseva syke, laskeva verenpaine ja arka, pingottunut vatsa putoamisvamman jälkeen ovat klassisia sisäisen verenvuodon merkkejä. Tilanne vaatii nopeaa toimintaa ja kuljetuksen priorisointia." },
@@ -47,6 +50,7 @@
     {
       "id": "step5",
       "situation": "Peruselintoiminnot on saatu tilapäisesti tuettua, mutta potilaan tila on edelleen epävakaa. On talvi, ja ulkona on pakkasta.",
+      "vitals": {"findings": ["Pakkasta – lämpötalous"]},
       "question": "Mikä on oikea toimintastrategia tästä eteenpäin?",
       "choices": [
         { "text": "Valitset \"load and go\" -strategian: suojaat potilaan jäähtymiseltä, teet ennakkoilmoituksen vastaanottavaan sairaalaan ja aloitat kuljetuksen viivyttelemättä.", "correct": true, "feedback": "Oikein. Epävakaa potilas, jolla epäillään hallitsematonta sisäistä verenvuotoa, hyötyy nopeasta kuljetuksesta lopulliseen hoitoon. Ennakkoilmoitus mahdollistaa traumatiimin valmistautumisen, ja jäähtymisen esto on edelleen tärkeä osa hoitoa kuljetuksen aikana." },

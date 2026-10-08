@@ -20,6 +20,10 @@ Kohde on myös tiedonlähde: tajuton tai sekava potilas ei pysty kertomaan, mit�
 
 Myrkytyksessä elintoimintojen häiriöt kytkeytyvät usein toisiinsa – esimerkiksi opioidi lamaa tajuntaa (D), mikä tukkii ilmatien (A) ja lamaa hengitystä (B), mikä johtaa ajan myötä verenkierron pettämiseen (C). Tästä syystä järjestystä ei saa oikaista.
 
+```media
+{"widget":"breathing-patterns","initial":"depression"}
+```
+
 - **A:** Tajunnan laskiessa kieli ja eritteet uhkaavat tukkia nielun. Varmista ilmatie, imeydytä eritteet, harkitse nielu- tai nenänieluputkea ja tarvittaessa pitkälle menevää ilmatien hallintaa.
 - **B:** Mittaa hengitystaajuus, saturaatio ja arvioi hengitystyö. Anna happea hypoksisille.
 

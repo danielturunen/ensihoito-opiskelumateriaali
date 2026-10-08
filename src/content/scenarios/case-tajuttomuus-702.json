@@ -7,6 +7,7 @@
     {
       "id": "step1",
       "situation": "Saavutte asuntoon. Potilas makaa selällään olohuoneen lattialla, silmät kiinni, ei reagoi puhutteluun. Vieressä on kaatunut tuoli. Puoliso on järkyttynyt ja seisoo vierellä.",
+      "vitals": {"findings": ["Ei reagoi puhutteluun"]},
       "question": "Mikä on ensimmäinen toimenpide?",
       "choices": [
         { "text": "Arvioidaan nopeasti reagoiko potilas puhutteluun ja ravisteluun, ja tarkistetaan samalla hengitystie ja hengitys – varaudutaan tarvittaessa elvytykseen.", "correct": true, "feedback": "Oikein. Tajuttomana tavattua potilasta on varauduttava hoitamaan elottomana, kunnes toisin todetaan. Ensiarvio alkaa reagoinnin, hengitystien ja hengityksen tarkistamisesta." },
@@ -17,6 +18,7 @@
     {
       "id": "step2",
       "situation": "Potilas ei reagoi ravisteluun. Hengitystie on auki, hengitys on korahtelevaa ja näkyy rintakehän nousevan epäsäännöllisesti, taajuus 10/min, SpO2 86 %. Radialissyke on heikko mutta tunnettavissa, noin 58/min.",
+      "vitals": {"rr": 10, "breath": "irregular", "spo2": 86, "hr": 58, "findings": ["Korahteleva hengitys", "Radialissyke heikko"]},
       "question": "Mikä on tärkein seuraava toimenpide?",
       "choices": [
         { "text": "Avataan hengitystie leukakulmien nostolla (jaw thrust) niskaa liikuttamatta, imetään eritteet ja avustetaan hengitystä hapella/naamariventilaatiolla, kunnes riittävä hapetus saadaan.", "correct": true, "feedback": "Oikein. Kaatumisen mahdollisuus (kaatunut tuoli) edellyttää kaularangan huomioimista avausotteessa. Korahteleva, riittämätön hengitys ja matala SpO2 vaativat välittömän avustamisen ennen muuta tutkimusta." },
@@ -27,6 +29,7 @@
     {
       "id": "step3",
       "situation": "Hengitystä on avustettu, SpO2 on nousussa (94 %). Verensokeri on 6,2 mmol/l. Pupillit: vasen laaja ja valojäykkä, oikea normaalikokoinen ja reagoi valoon. Verenpaine 178/100 mmHg, syke 52/min. Potilas ei paikanna kipuärsykettä (GCS noin 6).",
+      "vitals": {"spo2": 94, "glucose": 6.2, "bp": [178, 100], "hr": 52, "gcs": 6, "findings": ["Vasen pupilli laaja ja valojäykkä"]},
       "question": "Mitä löydökset yhdessä viittaavat, ja miten toimitaan?",
       "choices": [
         { "text": "Löydökset (anisokoria, hypertensio + bradykardia, matala GCS) viittaavat kallonsisäiseen prosessiin ja uhkaavaan herniaatioon – vältetään hypoksiaa ja hypotensiota, hälytetään lisäapua/lääkäriyksikkö ja valmistaudutaan hengitystien määritellympään turvaamiseen.", "correct": true, "feedback": "Oikein. Anisokoria yhdessä hypertension ja bradykardian (Cushingin vaste) kanssa on klassinen kohonneen kallonsisäisen paineen ja uhkaavan herniaation merkki. Verensokeri on normaali, joten hypoglykemia on poissuljettu syynä." },
@@ -37,6 +40,7 @@
     {
       "id": "step4",
       "situation": "Tila ei korjaannu. GCS pysyy noin 6:ssa, hengitys on edelleen epäsäännöllistä avustamisesta huolimatta, eikä potilas suojaa hengitysteitään. Lääkäriyksikkö on hälytetty mutta on vielä matkalla.",
+      "vitals": {"gcs": 6, "findings": ["Ei suojaa hengitysteitään"]},
       "question": "Mikä on oikea linjaus hengitystien ja ventilaation suhteen?",
       "choices": [
         { "text": "Hengitystie on turvattava määritellymmin (tarvittaessa intubaatio hoito-ohjeen mukaisesti), koska GCS on selvästi alentunut eikä potilas suojaa hengitysteitään – toteutus mahdollisimman hallitusti verenpaineen ja hapetuksen äkillisiä muutoksia välttäen.", "correct": true, "feedback": "Oikein. GCS noin 6-8 ja kyvyttömyys suojata hengitysteitä on yleisesti hyväksytty intubaation aihe. Koska epäillään kohonnutta kallonsisäistä painetta, toimenpide tehdä hallitusti hypoksiaa ja verenpaineen heittelyä välttäen." },

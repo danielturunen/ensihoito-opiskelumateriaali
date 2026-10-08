@@ -67,6 +67,10 @@ Huonokuntoisesta tai sokkisesta potilaasta tehdään aina ennakkoilmoitus sairaa
 
 GI-verenvuoto voi näkyä verioksennuksena (hematemeesi), tervamaisena ulosteena (meleena) tai kirkkaana verenä peräsuolesta (hematoketsia). Noin 80 % vuodoista on peräisin ruoansulatuskanavan yläosasta, yleisimpänä syynä maha- tai pohjukaissuolihaava. Kirkas peräsuolivuoto viittaa useimmiten alaosan syyhyn (divertikuloosi yleisin), mutta 10–15 %:ssa tapauksista kyse on rajusta ylävuodosta, jolloin potilaalla on jo sokin oireita.
 
+```media
+{"widget":"gi-bleed"}
+```
+
 > [!danger] Henkeä uhkaava
 > Runsas GI-verenvuoto johtaa hoitamattomana verenvuotosokkiin ja voi aiheuttaa sydänpysähdyksen – siinä vaiheessa ennuste on erittäin huono. Tunnista sokin merkit ajoissa.
 

@@ -38,6 +38,10 @@ Keuhkopöhön ensihoito perustuu neljään toisiaan tukevaan toimenpiteeseen:
 > [!tip] Muista tämä
 > Hoidon ydin on nitraatti + CPAP. Yhdistelmä on erittäin tehokas ja usein nopeasti vaikuttava, kun sitä käytetään oikea-aikaisesti.
 
+```media
+{"widget":"cpap-nitro"}
+```
+
 ## Kriittisin hoitovirhe: nesteen anto
 
 > [!danger] Henkeä uhkaava

@@ -2,6 +2,7 @@ import { useState } from 'react'
 import { CheckCircle2, ChevronRight, RotateCcw, Siren, XCircle } from 'lucide-react'
 import type { Scenario } from '../content/types'
 import { progressActions } from '../lib/progress'
+import { PatientMonitor, hasMonitorData } from './PatientMonitor'
 
 export function ScenarioPlayer({ scenario }: { scenario: Scenario }) {
   const [stage, setStage] = useState<'intro' | 'playing' | 'done'>('intro')
@@ -10,6 +11,7 @@ export function ScenarioPlayer({ scenario }: { scenario: Scenario }) {
   const [correctCount, setCorrectCount] = useState(0)
 
   const step = scenario.steps[stepIndex]
+  const vitalsSoFar = scenario.steps.slice(0, stepIndex + 1).map((s) => s.vitals)
 
   function choose(i: number) {
     if (chosen !== null) return
@@ -83,6 +85,12 @@ export function ScenarioPlayer({ scenario }: { scenario: Scenario }) {
           {stepIndex + 1}/{scenario.steps.length}
         </span>
       </div>
+
+      {hasMonitorData(vitalsSoFar) && (
+        <div className="mb-3">
+          <PatientMonitor history={vitalsSoFar} />
+        </div>
+      )}
 
       <div key={step.id} className="animate-fade-up rounded-2xl border border-[var(--border)] bg-[var(--bg-raised)] p-5 shadow-[var(--shadow)]">
         <p className="text-[14px] leading-relaxed text-[var(--text-dim)]">{step.situation}</p>

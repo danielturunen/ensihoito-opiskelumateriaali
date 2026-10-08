@@ -27,6 +27,10 @@ Tyypillisiä löydöksiä kentällä:
 > [!warning] Red flag
 > Kun vinkuna vähenee mutta potilas väsyy ja hengitysääni hiljenee kokonaan ("hiljainen keuhko"), tilanne on usein pahempi — ei parempi. Tämä tarkoittaa, ettei ilmaa enää liiku riittävästi edes vinkunan aiheuttamiseksi.
 
+```media
+{"widget":"breathing-patterns","initial":"fatigue"}
+```
+
 Astman ensihoidossa arvioidaan hengitystyö ja puhekyky, annetaan happea tilanteen mukaan ja keuhkoputkia avaavaa lääkitystä (inhaloitava beeta-2-agonisti, tarvittaessa yhdistettynä antikolinergiin) toistuvasti hoito-ohjeen mukaan. Lisäksi annetaan varhain systeeminen kortikosteroidi (esim. hydrokortisoni tai metyyliprednisoloni suonensisäisesti), koska se hoitaa taustalla olevaa tulehdusta — vaikutus tulee kuitenkin vasta tuntien viiveellä. Kriittisessä, hengenvaarallisessa astmakohtauksessa voidaan ensihoito-ohjeen mukaan harkita myös adrenaliinia.
 
 Potilas kuuluu päivystykseen, jos hengitys on selvästi vaikeutunut, puhuminen on rajoittunutta, apuhengityslihaksia käytetään selvästi, potilas on uupunut, hoito ei tuo selvää helpotusta tai tajunnan taso laskee.

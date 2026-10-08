@@ -41,6 +41,10 @@ Lapsen pää on suhteessa vartaloon suuri ja painava, kallon luut ohuita ja saum
 | Matala verenpaine | Sokin myöhäisoire |
 
 ```media
+{"widget":"child-compensation"}
+```
+
+```media
 {"widget":"checklist","title":"Onko lapsi sokissa?","prompt":"Merkitse havaitut löydökset.","rule":{"type":"atLeast","n":2},"items":[
 {"label":"Tajunnantason lasku (ilmenee eri lailla eri-ikäisillä)"},
 {"label":"Kapillaaritäyttöaika yli 2 s"},

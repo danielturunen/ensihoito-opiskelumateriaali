@@ -47,6 +47,10 @@ Tämä lista ei korvaa systemaattista tutkimista (ks. [traumapotilaan tutkiminen
 22. **Kylmä potilas vuotaa pidempään.** Hypotermia heikentää hyytymistä – lämpötalouden hoito on yhtä tärkeä toimenpide kuin suoniyhteyden avaaminen.
 23. **Märät vaatteet pois mahdollisimman pian.** Kostea kangas jäähdyttää tehokkaammin kuin kuiva – vaihda peitteet, jos ne kastuvat.
 
+```media
+{"widget":"heat-loss"}
+```
+
 ### Kipu ja lääkitys
 
 24. **Hyvä asento on ilmainen kivunhoito.** Monesti pelkkä asennon muutos tai raajan tukeminen vähentää kipua merkittävästi ennen lääkkeen vaikutusta.

@@ -66,11 +66,32 @@ export interface ScenarioChoice {
   feedback: string
 }
 
+/** Measurements stated in a step's situation text (never inferred). Shown on the patient monitor. */
+export interface ScenarioVitals {
+  hr?: number
+  spo2?: number
+  /** [systolic, diastolic] mmHg */
+  bp?: [number, number]
+  rr?: number
+  gcs?: number
+  /** Blood glucose, mmol/l */
+  glucose?: number
+  /** Blood ketones, mmol/l */
+  ketones?: number
+  /** Pain VAS 0–10 */
+  pain?: number
+  pulse?: 'irregular'
+  breath?: 'deep' | 'shallow' | 'irregular'
+  /** Short findings quoted from the text, e.g. "Pupillit pistemäiset". */
+  findings?: string[]
+}
+
 export interface ScenarioStep {
   id: string
   situation: string
   question: string
   choices: ScenarioChoice[]
+  vitals?: ScenarioVitals
 }
 
 export interface Scenario {

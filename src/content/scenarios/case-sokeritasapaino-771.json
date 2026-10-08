@@ -7,6 +7,7 @@
     {
       "id": "step1",
       "situation": "Saavutte kohteeseen. Potilas istuu olohuoneen sohvalla, silmät auki, mutta vastailee hitaasti ja sekavasti kysymyksiin. Hengitys on syvää ja tihentynyttä, ja huomaat hengityksen haisevan makean asetonin tuoksuiselta. Puoliso kertoo, että potilas on valittanut viime päivinä pahoinvointia ja juoneen paljon vettä.",
+      "vitals": {"breath": "deep", "findings": ["Syvä, tihentynyt hengitys", "Asetonin haju"]},
       "question": "Mikä on tässä vaiheessa tärkein ensihavainto, joka ohjaa toimintaasi?",
       "choices": [
         { "text": "Syvä, tihentynyt hengitys ja asetonin haju viittaavat diabeettiseen ketoasidoosiin - mittaa verensokeri ja ketoaineet välittömästi", "correct": true, "feedback": "Oikein. Kussmaulin hengitys ja asetonin haju ovat DKA:n tunnusmerkkejä. Verensokerin ja ketoaineiden mittaus on diagnoosin kulmakivi ja ohjaa heti hoitoa." },
@@ -17,6 +18,7 @@
     {
       "id": "step2",
       "situation": "Mittaat verensokerin: 29 mmol/l. Pikatesti ketoaineista näyttää 4,8 mmol/l. Tarkastat potilaan vatsalta insuliinipumpun kanyylin - letku on irronnut ihosta, ja puoliso kertoo, ettei ole huomannut sitä aiemmin.",
+      "vitals": {"glucose": 29, "ketones": 4.8},
       "question": "Mitä nämä löydökset kertovat, ja mikä on todennäköisin selitys tilanteelle?",
       "choices": [
         { "text": "Korkea verensokeri, selvästi koholla olevat ketoaineet ja irronnut pumpun kanyyli viittaavat diabeettiseen ketoasidoosiin insuliinin saannin keskeytymisen seurauksena", "correct": true, "feedback": "Oikein. Pumppupotilaalla ei ole pitkävaikutteista insuliinia taustalla, joten kanyylin irtoaminen keskeyttää insuliininsaannin kokonaan - DKA voi kehittyä muutamassa tunnissa." },
@@ -27,6 +29,7 @@
     {
       "id": "step3",
       "situation": "Jatkat ABCDE-arviota: hengitystaajuus 26/min ja syvä, SpO2 97 % huoneilmalla, syke 118/min ja verenpaine 108/68 mmHg. Iho on kuiva ja limakalvot kuivat. Potilas on GCS 14 (sekavuutta, mutta avaa silmät ja liikkuu pyydettäessä).",
+      "vitals": {"rr": 26, "breath": "deep", "spo2": 97, "hr": 118, "bp": [108, 68], "gcs": 14, "findings": ["Iho ja limakalvot kuivat"]},
       "question": "Mikä on seuraava oikea hoitotoimenpide?",
       "choices": [
         { "text": "Avaa suoniyhteys ja aloita nesteytys isotonisella kristalloidiliuoksella viipymättä", "correct": true, "feedback": "Oikein. DKA:ssa nesteytys on hoidon kiireellisin ja tärkein toimenpide - se korjaa kuivumista ja parantaa verenkiertoa ja munuaisten toimintaa. Insuliinihoito odottaa lääkärikonsultaatiota." },
@@ -47,6 +50,7 @@
     {
       "id": "step5",
       "situation": "Potilas on nesteytyksen aikana pysynyt hemodynaamisesti vakaana, mutta on edelleen sekava ja hengittää syvään. Valmistaudutte kuljetukseen.",
+      "vitals": {"findings": ["Edelleen sekava, syvä hengitys"]},
       "question": "Mikä on oikea kuljetus- ja ilmoituskäytäntö tässä tilanteessa?",
       "choices": [
         { "text": "Tehdään ennakkoilmoitus sairaalaan DKA-epäilystä ja kuljetetaan potilas viiveettä valvottuun hoitoon jatkuvaa tilan seurantaa jatkaen", "correct": true, "feedback": "Oikein. DKA on hengenvaarallinen tila, joka vaatii sairaalan valvontaympäristön. Ennakkoilmoitus antaa vastaanottavalle yksikölle aikaa valmistautua, ja tilaa on seurattava koko kuljetuksen ajan." },

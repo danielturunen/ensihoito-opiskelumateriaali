@@ -22,6 +22,10 @@ Täydellinen tukos estää ilman kulun lähes kokonaan, kun osittaisessa tukokse
 
 Ensihoidossa arvioidaan nopeasti, onko tukos täydellinen vai osittainen, ja toimitaan tilanteen vaikeusasteen mukaan. Tajuttoman potilaan kohdalla siirrytään elvytys- ja ilmatiealgoritmien mukaisesti. Kuljetus päivystykseen on tarpeen myös onnistuneen vierasesineen poiston jälkeen, jos epäillään jäännösmateriaalia tai aspiraatiota.
 
+```media
+{"widget":"choking"}
+```
+
 ## Anafylaksia — ilmatie- ja verenkiertohätätila yhtä aikaa
 
 Anafylaksia on äkillinen, nopeasti etenevä ja hengenvaarallinen yleistynyt allerginen reaktio. Se syntyy, kun elimistö altistuu aineelle, jolle se on herkistynyt, ja syöttösolut vapauttavat hetkessä suuren määrän histamiinia ja muita välittäjäaineita. Tästä seuraa kolme samanaikaista ilmiötä:
