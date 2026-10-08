@@ -26,6 +26,8 @@ export const topics: TopicMeta[] = [
 
   // --- sydan ---
   { id: 'rintakipu-ja-aks', moduleId: 'sydan', title: 'Rintakipu ja akuutti sepelvaltimotautikohtaus', summary: 'Rintakivun syyt, EKG-löydökset ja ensihoito.', readMinutes: 11, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'sydanpotilaan-tutkiminen', moduleId: 'sydan', title: 'Sydänpotilaan haastattelu ja kliininen tutkiminen', summary: 'Haastattelutekniikka, NYHA/CCS, valtimot ja syke, ortostaattinen koe, kaulalaskimot ja turvotukset.', readMinutes: 10, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'ekg-perusteet', moduleId: 'sydan', title: 'EKG:n perusteet ja systemaattinen tulkinta', summary: 'Normaaliarvot, kytkennät, sähköinen akseli, haarakatkokset ja virhelähteet.', readMinutes: 10, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'ekg-ja-iskemia', moduleId: 'sydan', title: 'EKG:n iskemiatulkinta', summary: 'Kytkennät ja suonet, iskemian eteneminen, erityiset kuviot ja haarakatkokset.', readMinutes: 11, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'rytmihairiot', moduleId: 'sydan', title: 'Rytmihäiriöt', summary: 'Rytmihäiriömekanismit ja yleisimpien rytmien hoitoperiaatteet.', readMinutes: 11, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'hyperkalemia-elektrolyytit', moduleId: 'sydan', title: 'Elektrolyyttihäiriöt ja hyperkalemia', summary: 'EKG-muutokset, tyyppipotilaat ja hyperkalemian hoidon kulmakivet.', readMinutes: 8, hasQuiz: true, hasFlashcards: true, hasScenario: false },

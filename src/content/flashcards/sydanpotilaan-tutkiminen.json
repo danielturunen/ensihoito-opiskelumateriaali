@@ -1,0 +1,8 @@
+[
+  {"id":"syt-f1","front":"Pulssi ja verenpaine (nyrkkisääntö)","back":"Kaula- tai reisivaltimo tuntuu → systolinen yli 60 mmHg. Rannevaltimo tuntuu → yli 80 mmHg."},
+  {"id":"syt-f2","front":"NYHA, CCS ja EHRA","back":"NYHA = vajaatoiminnan oireisuus, CCS = sepelvaltimotaudin rintakipu, EHRA = eteisvärinän oireisuus. Kaikissa luokat I–IV."},
+  {"id":"syt-f3","front":"Ortostaattinen koe","back":"10 min makuulla → nopea ylösnousu → mittaus heti ja 2 min. Systolinen lasku ≥ 20 mmHg + huimaus = ortostaattinen hypotensio. Suuri sykkeen nousu → hypovolemia."},
+  {"id":"syt-f4","front":"Pulsus paradoxus","back":"Systolinen paine laskee sisäänhengityksessä yli 10 mmHg – kiivaasti hengittävällä hypotensiivisella potilaalla tamponaatio."},
+  {"id":"syt-f5","front":"Alaraajaturvotus – sydänperäinen vai paikallinen?","back":"Vajaatoiminta: molemminpuolinen kuoppaturvotus, painonnousu. Toispuolinen akuutti: syvä laskimotukos, ruusu, Bakerin kysta, trauma, artriitti."},
+  {"id":"syt-f6","front":"Haastattelutekniikka","back":"Avoin aloitus → suuntaava → suljettu. Hiljaisuus, potilaan sanojen toisto, yksi asia kerrallaan, ei johdattelua. Pidä vaaralliset hypoteesit mielessä."}
+]

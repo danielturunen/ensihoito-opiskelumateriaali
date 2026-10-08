@@ -82,6 +82,7 @@ export const widgetMeta: Record<string, WidgetMeta> = {
   abg: { title: 'Verikaasujen tulkinta', kind: 'Harjoitus' },
   'ischemia-ecg': { title: 'Iskemia EKG:ssä', kind: 'Animaatio' },
   'triage-practice': { title: 'Primaariluokitteluharjoitus', kind: 'Harjoitus' },
+  'ecg-axis': { title: 'Sydämen sähköinen akseli', kind: 'Interaktiivinen kuva' },
 }
 
 const cache = new Map<string, LazyExoticComponent<ComponentType<WidgetProps>>>()

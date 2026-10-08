@@ -31,6 +31,22 @@ Rintakivun syyt jaetaan sydänperäisiin ja ei-sydänperäisiin.
 
 Alustava arvio voidaan tehdä kivun luonteen perusteella, mutta osalla potilaista oirekuva on epätyypillinen (varsinkin naisilla, diabeetikoilla ja iäkkäillä), ja joskus potilaalla on kaksi kipua aiheuttavaa tilaa samanaikaisesti. Siksi systemaattinen tutkiminen on aina tarpeen.
 
+### Kivun alkamisnopeus kertoo syystä
+
+Holmströmin (Oppiportti) mukaan:
+
+| Alkaminen | Sopii |
+|---|---|
+| Hyvin äkillinen | Aortan dissekoituma, ilmarinta, rytmihäiriö, vamma, spasmi, embolia |
+| Minuuteissa | Sepelvaltimokohtaus – mutta myös refluksi ja paniikkikohtaus |
+| Tunneissa | Tulehdukset |
+| Päivissä | Sidekudossairaus, kasvain, kipuoireyhtymä, masennus |
+
+Hengittäessä tuntuva kipu on usein keuhkoperäistä, asennon mukana muuttuva sydänpussi- tai tuki- ja liikuntaelinperäistä, ja ylös noustessa helpottava palleatyrän tai refluksin aiheuttamaa. Hyvin kova tuska sopii erityisesti aortan dissekoitumaan. Ylävatsan voimakas painoarkuus viittaa ei-sydänperäiseen syyhyn, mutta alaseinäinfarktin kipu voi tuntua ylävatsalla kuin refluksi tai sappikohtaus – siksi uudesta närästyksestä tai ylävatsakivusta otetaan EKG. Nitraatti helpottaa sepelvaltimokipua parissa minuutissa, mutta myös ruokatorven spasmia, eikä vasteen puuttuminen sulje pois sepelvaltimotautia. **Jopa puolella akuutin infarktin saaneista infarkti on sepelvaltimotaudin ensimmäinen oire** (Ensihoito-opas).
+
+> [!info] Hätäkeskuksen ohje (koodi 704)
+> Jos kipu on sietämätön tai potilas on hikinen tai voimaton kivun luonteesta riippumatta, hälytetään 704A. Ilmoittajalle ohjeistetaan ehdoton lepo, oman nitron otto, jos potilas jaksaa istua, ja **asetyylisalisyylihappo 250 mg pureskellen, jos ambulanssin tulo kestää yli 20 minuuttia**. Ole erityisen tarkka diabeetikoiden ja vanhusten kanssa: infarkti voi näkyä vain yleistilan heikkenemisenä.
+
 ## Sepelvaltimotauti ja sen ilmenemismuodot
 
 Sepelvaltimotauti (ateroskleroosi) syntyy, kun suonen sisäpintaan kertyy rasvaplakkia, joka vähitellen ahtauttaa suonta. Oireita syntyy tyypillisesti vasta, kun ahtauma ylittää noin 50 %. Kun sydänlihaksen hapenkulutus ylittää tarjonnan, syntyy iskemia ja angina pectoris -kipu.
@@ -55,6 +71,23 @@ Nämä kolme muodostavat AKS-käsitteen kokonaisuuden. Stabiilissa angina pector
 Esitiedoissa selvitetään kivun luonne, alku, säteily ja vaste nitraatille sekä riskitekijät (tupakointi, diabetes, kohonnut verenpaine, kolesteroli, sukurasite). ST-nousuinfarktin mahdollisuutta tukevat esimerkiksi aiemmin terveen henkilön levossa alkanut kipu, tavallista voimakkaampi kipu sepelvaltimotautipotilaalla, unesta herättänyt kipu ja yli 20 minuuttia yhtäjaksoisesti kestänyt kipu.
 
 **Kaikilta rintakipupotilailta rekisteröidään 15-kytkentäinen EKG.** Jos ensimmäinen EKG on normaali, mutta epäily on vahva, otetaan kontrollinauha noin 15 minuutin kuluttua.
+
+## Ensihoito-oppaan tavoitteet
+
+Duodecimin Ensihoito-oppaan (Silfvast 2023) mukaan 12–15-kytkentäinen EKG rekisteröidään 10 minuutin kuluessa kohtaamisesta, ja **STEMI-potilaan kuljetuksen tulee alkaa alle 20 minuutissa** kohtaamisesta. Hoidolliset tavoitteet: SpO₂ yli 94 %, systolinen paine yli 100 mmHg, syke vähintään 40/min (sinusrytmissä alle 90/min, eteisvärinässä 90–120/min) ja kipu VAS alle 4.
+
+| Ongelma | Hoito (Ensihoito-opas) |
+|---|---|
+| Kipu VAS yli 4 | Fentanyyli 50–150 µg i.v. tai 100–200 µg i.n., oksikodoni tai morfiini 2–4 mg i.v. – yli 70-vuotiaalle pienempi annos |
+| Hemodynamiikkaa haittaava bradykardia | Atropiini 0,1 mg/10 kg, toistettavissa kokonaisannokseen 3 mg; täydellisessä AV-katkoksessa ulkoinen tahdistus |
+| Hypotensio | Kristalloidi 300–500 ml, tarvittaessa noradrenaliini-infuusio |
+| Takykardia tai nopea eteisvärinä, normo- tai hypertensio nitraatin ja opioidin jälkeen | Metoprololi 1–2 mg i.v. kerta-annoksina |
+| Hypertensio ja jatkuva kipu | Nitraatti-infuusio |
+
+Luontainen kammiorytmi (idioventrikulaarinen rytmi) ei vaadi hoitotoimia. Potilas monitoroidaan keskeytyksettä defibrillaatioelektrodit kiinnitettyinä.
+
+> [!info] Lähteiden ero
+> Holmströmin Oppiportti-luvussa (2020) ASA-annos on 100–250 mg pureskellen ja lisähappea annetaan, jos SpO₂ on alle 95 %. Uudempi Käypä hoito (2026) suosittaa 250–500 mg ja happea vasta, kun SpO₂ on alle 90 %.
 
 ## Infarktin paikantaminen EKG:stä
 
@@ -104,7 +137,21 @@ Jos EKG:ssä on iskeemisiä muutoksia (ST-laskuja), verenkierto on epävakaa tai
 - Opioidi vain kovaan kipuun – **rutiinimaista opioidia vältetään**, koska se hidastaa mahan tyhjenemistä ja heikentää suun kautta annettujen antitromboottisten lääkkeiden tehoa. Morfiini (oksikodoni) aloitus 4 mg i.v., sitten 2–4 mg 5 minuutin välein.
 - Pahoinvointiin ondansetroni 4 mg i.v. tai droperidoli 1,25 mg i.v. (voivat pidentää QT-aikaa); ahdistukseen pieni bentsodiatsepiiniannos.
 
+**Kuljetus**: sydänperäiseksi sopiva kipu kuljetetaan, vaikka EKG olisi normaali, samoin jos EKG:ssä on ollut iskemiaa, joka on korjaantunut hoidon aikana. Kuljettamatta voidaan jättää potilas, jolla oli tuttu lyhyt yksittäinen angina pectoris -kohtaus, joka meni ohi itsehoidolla, kohtaukset eivät ole tihentyneet, EKG on koko ajan normaali ja potilas on oireeton (Ensihoito-opas).
+
 ADP-reseptorin salpaajia (klopidogreeli, tikagrelori) ei aloiteta ensihoidossa ennen angiografiaa – poikkeuksena PCI-kuljetukseen lähtevä STEMI-potilas.
+
+## EKG-löydökset ja verikokeet
+
+| EKG-löydös | Viittaa |
+|---|---|
+| Paikallinen ST-nousu ja peilikuvainen ST-lasku, joskus uusi haarakatkos | ST-nousuinfarkti |
+| ST-lasku yli 1 mm raaja- tai yli 2 mm rintakytkennöissä ainakin kahdessa vierekkäisessä | Akuutti iskemia |
+| Alueellinen T-inversio | Iskeemisen kohtauksen jälkitila |
+| Usean alueen ST-nousu ilman peilikuvamuutoksia | Myokardiitti tai perikardiitti |
+| Sinustakykardia, oikea akseli ("S I, Q III"), korostunut P ja T-inversiot | Keuhkoembolia |
+
+Troponiini näyttää infarktin vaurion 6 tunnin kuluttua oireiden alusta vain 40–60 %:n ja 12 tunnin kohdalla 93–100 %:n herkkyydellä – **negatiivinen troponiini ensimmäisinä tunteina ei sulje pois infarktia**. Ensihoidon ultraääni on aiheellinen, kun epäillään aortan dissekoitumaa, sokissa ja ylävatsakivussa; rinta-aortan dissekoituma ei kuitenkaan näy hyvin ultraäänellä, vaan vaatii TT:n. Katso [EKG:n iskemiatulkinta](topic:ekg-ja-iskemia) ja [sydänpotilaan tutkiminen](topic:sydanpotilaan-tutkiminen).
 
 ## ST-nousuinfarktin hoitolinja
 
@@ -130,6 +177,17 @@ Verenkiertokomplikaatiot pitää hoitaa välittömästi: bradykardiaan [atropiin
 
 > [!danger] Älä sekoita dissekaatiota infarktiin
 > Aortan dissekaation hoitaminen liuotushoidolla voi johtaa kuolemaan. Jos kuvaan sopii repivä, paikkaa vaihtava kipu ja pulssiero raajojen välillä, dissekaatio on pidettävä mielessä ennen reperfuusiopäätöstä.
+
+## Ei-sydänperäinen rintakipu
+
+Kun kyse ei todennäköisesti ole sepelvaltimotautikohtauksesta, arvioidaan seuraavaksi muut vaaralliset syyt. **Aortan dissekoituma, hillitsemätön vuoto tai vuotosokki, oireinen tamponaatio tai ilmarinta** ovat välittömän kuljetuksen aiheita – sokkiin johtanut paineilmarinta ja tamponaatio hoidetaan kajoavasti jo kohteessa. Muuten ennen kuljetusta turvataan vain hengitystie ja avataan suoniyhteys (jos onnistuu nopeasti); kipulääkitys, happi ja nesteet annetaan matkalla, ja ennakkoilmoitus on tärkeä (Holmström, Oppiportti).
+
+- **Tuki- ja liikuntaelinperäinen**: rintakehän painoarkuus, hengityksen mukana muuttuva kipu, lyhyt asentoriippuvainen pistävä kipu. Kylkiluurustojen tulehdus (Tietzen oireyhtymä) on nuorilla aikuisilla tavallinen.
+- **Ruoansulatuskanava**: refluksissa happaman nousu suuhun, yskä ja oireiden paheneminen makuulla tai raskaan aterian jälkeen.
+- **Psykogeeninen**: kirjava ja muuttuva oirekuva, ei rasituskorrelaatiota, usein tykytystä, hyperventilaatiota ja puutumista.
+- Potilaalla voi olla kaksi rintakipua aiheuttavaa tilaa yhtä aikaa, ja aiemmin vatsa- tai tule-vaivoista kärsivälle voi kehittyä sepelvaltimotauti.
+
+**Kotiin** voidaan harkiten jättää vain, jos riskitekijöitä, tyypillistä kuvaa ja uhkaavia löydöksiä ei ole, potilas pärjää kotona ja häntä on ohjeistettu soittamaan uudelleen, jos vointi huononee. Ensihoito-oppaan mukaan kuljetetaan, jos epäillään vakavaa taustasyytä, peruselintoiminnot ovat poikkeavat, yleistila on huono tai kipua on hoidettu opioideilla.
 
 ## Muista tämä -kertaus
 
