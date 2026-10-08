@@ -1,0 +1,8 @@
+[
+  {"id":"pf-f1","front":"Solujen sopeutuminen","back":"Hypertrofia (koko ↑), atrofia (koko ↓), hyperplasia (määrä ↑), metaplasia (solutyyppi vaihtuu), dysplasia (epätyypilliset solut, syövän esiaste)."},
+  {"id":"pf-f2","front":"Apoptoosi vs nekroosi","back":"Apoptoosi: ohjelmoitu, siisti, ei tulehdusta. Nekroosi: ulkoinen syy (usein hypoksia), solukalvo vuotaa, tulehdus."},
+  {"id":"pf-f3","front":"Tulehduksen merkit","back":"Tumor (turvotus), rubor (punoitus), calor (kuumotus), dolor (kipu), functio laesa (toiminnan heikkeneminen)."},
+  {"id":"pf-f4","front":"Labiili, stabiili ja permanentti solukko","back":"Labiili: epiteelit, luuydin – uusiutuu nopeasti. Stabiili: maksa, munuaiset – hitaasti. Permanentti: hermo- ja lihaskudos – arpeutuu."},
+  {"id":"pf-f5","front":"Benigni vs maligni kasvain","back":"Benigni: hidas, kapseloitunut, ei etäpesäkkeitä. Maligni: nopea, infiltroiva, etäpesäkkeet. Karsinooma = epiteeli, sarkooma = tukikudos, lymfooma = imukudos."},
+  {"id":"pf-f6","front":"Lääketieteen termejä","back":"Etiologia = syy, patogeneesi = syntymekanismi, prognoosi = ennuste, indikaatio = hoidon aihe, kontraindikaatio = vasta-aihe, iskemia = paikallinen verettömyys, infarkti = verensaannin keskeytymisen aiheuttama kuolio, ödeema = turvotus."}
+]

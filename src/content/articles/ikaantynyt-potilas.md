@@ -72,7 +72,7 @@ Huimaus on yleisimpiä oireita vanhuksilla. Tasapainojärjestelmät – asento- 
 - **Ortostaattinen hypotonia**: systolisen paineen lasku yli 20 mmHg tai diastolisen yli 10 mmHg seisomaan noustessa – noin kolmanneksella ikääntyneistä. Mittaa paine makuulla ja seisten, ja kysy samalla, tuleeko huimaus juuri silloin.
 - **Lääkkeet** ovat usein selitys: verenpainelääkkeet ja erityisesti diureetit, neuroleptit, trisykliset masennuslääkkeet ja levodopa.
 
-Yhden syyn löytäminen ei välttämättä poista huimausta – vanhuksen huimaus on usein monen tekijän geriatrinen oireyhtymä.
+Kansainvälisen potilasmateriaalin (MedicineNet) mukaan BPPV:n riski on 2–3 %:lla väestöstä, hieman useammin iäkkäillä naisilla, ja asentohoito (Epleyn liike) auttaa noin 90 %:ssa. Kiertohuimauksen syynä voi olla myös tasapainohermon tulehdus. Aivoperäistä huimausta (aivoinfarkti, MS-tauti, kuulohermon kasvain) epäiltäessä tarvitaan pään kuvantaminen. Yhden syyn löytäminen ei välttämättä poista huimausta – vanhuksen huimaus on usein monen tekijän geriatrinen oireyhtymä.
 
 ## Lääkkeet ja ikääntyminen
 

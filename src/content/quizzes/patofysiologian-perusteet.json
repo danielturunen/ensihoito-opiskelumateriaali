@@ -1,0 +1,8 @@
+[
+  {"id":"pf-q1","type":"mcq","question":"Tupakoitsijan keuhkoputken värekarvaepiteeli muuttuu levyepiteeliksi. Mikä sopeutuminen?","options":["Hypertrofia","Atrofia","Metaplasia","Hyperplasia"],"correctIndex":2,"explanation":"Metaplasiassa erilaistunut solutyyppi muuttuu (palautuvasti) toiseksi."},
+  {"id":"pf-q2","type":"mcq","question":"Mikä solukuoleman muoto aiheuttaa tulehdusreaktion?","options":["Apoptoosi","Nekroosi","Molemmat yhtä paljon","Ei kumpikaan"],"correctIndex":1,"explanation":"Nekroosissa solukalvo vuotaa entsyymejä ympäristöön; apoptoosi on ohjelmoitu ja siisti."},
+  {"id":"pf-q3","type":"mcq","question":"Mikä EI ole akuutin tulehduksen klassinen merkki?","options":["Turvotus","Punoitus","Kuumotus","Kalpeus"],"correctIndex":3,"explanation":"Tumor, rubor, calor, dolor ja functio laesa."},
+  {"id":"pf-q4","type":"mcq","question":"Mikä kudos ei käytännössä uusiudu, vaan arpeutuu?","options":["Iho","Maksa","Sydänlihas","Luuydin"],"correctIndex":2,"explanation":"Permanentti solukko: hermokudos ja poikkijuovainen lihas (myös sydänlihas)."},
+  {"id":"pf-q5","type":"truefalse","question":"Hyvänlaatuinen kasvain ei voi koskaan olla hengenvaarallinen.","options":["Oikein","Väärin"],"correctIndex":1,"explanation":"Esimerkiksi kallonsisäinen kasvain voi aiheuttaa painetta, ja kasvain voi vuotaa tai erittää hormoneja."},
+  {"id":"pf-q6","type":"mcq","question":"Mikä vasta-aine siirtyy istukan kautta sikiöön?","options":["IgA","IgE","IgG","IgM"],"correctIndex":2,"explanation":"IgG on myöhäisvasteen vasta-aine ja antaa sikiölle passiivisen suojan."}
+]

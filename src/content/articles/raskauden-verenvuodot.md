@@ -21,7 +21,7 @@ Keskenmenolla tarkoitetaan raskauden päättymistä itsestään ennen 22. raskau
 
 ### Kohdunulkoinen raskaus
 
-Kohdunulkoisessa (ektooppisessa) raskaudessa hedelmöittynyt munasolu kiinnittyy muualle kuin kohtuonteloon – noin 95 %:ssa munanjohtimeen. Raskaudella ei ole edellytyksiä jatkua. Kohdunulkoisia raskauksia on Suomessa noin 1 % kaikista raskauksista, ja jopa kolmannes on vähäoireisia ja paranee itsestään.
+Kohdunulkoisessa (ektooppisessa) raskaudessa hedelmöittynyt munasolu kiinnittyy muualle kuin kohtuonteloon – noin 95 %:ssa munanjohtimeen. Raskaudella ei ole edellytyksiä jatkua. Kohdunulkoisia raskauksia on Suomessa noin 1 % kaikista raskauksista (Terveyskirjasto; Rissasen ja Smahlin opinnäytetyössä 1–2 %, KYS:n potilasohjeessa 1/1 000), ja jopa kolmannes on vähäoireisia ja paranee itsestään. Oireet voivat vaihdella lähes oireettomasta tavallisia raskausoireita muistuttavasta kuolemaan johtavaan.
 
 **Riskitekijöitä** ovat aiempi sisäsynnytintulehdus, lantion alueen leikkaukset, aiempi kohdunulkoinen raskaus, kierukkaehkäisy, endometrioosi, tupakointi sekä lapsettomuus ja sen hoidot.
 

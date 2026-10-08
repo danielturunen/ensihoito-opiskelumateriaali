@@ -129,6 +129,16 @@ Kun ensihoito luovuttaa potilaan päivystykseen, triage-hoitaja arvioi kiireelli
 
 ABCDE-triage on suomalainen malli, jolle ei ole valtakunnallista ohjeistusta, joten luokittelu vaihtelee päivystyksittäin ja tutkimusnäyttö on heikkoa. **ESI-triage** puolestaan erottelee potilaat tarvittavien resurssien perusteella ja toteutetaan aina samalla tavalla. **Ylitriage** kuluttaa resursseja turhaan, **alitriage** voi olla kohtalokas. Triage-luokka voi muuttua, joten potilaan tilaa arvioidaan jatkuvasti – esimerkiksi NEWS-pisteytyksellä.
 
+## Potilaan luovutus päivystykseen
+
+Esimerkiksi Meilahden yhteispäivystyksessä (HUS, perehdytysopas 2024) kiireellisyysluokat ovat **1 punainen – hätätila, lääkäriin välittömästi** ja **2 keltainen – kiire, lääkäriin 30 minuutissa**, ja 3 vihreä. Valvontaan saapuvan hätätilapotilaan vastaanotossa:
+
+- Ensihoitoyksikkö antaa lyhyen yleissilmäyksen ("5 sekunnin kierros") jälkeen **raportin koko hoitoryhmälle potilaan ollessa vielä ambulanssin paareilla**, ja vasta sitten potilas siirretään sairaalan sänkyyn. Raportti annetaan ISBAR-mallilla.
+- Jos peruselintoiminnan häiriö vaatii välitöntä hoitoa, se aloitetaan heti, ja raportti annetaan lyhyesti ja tarkennetaan hoitavalle lääkärille ja omalle hoitajalle.
+- Hätätilapotilaan vastaanottomallia käytetään, kun potilasta saattaa ensihoitolääkäri tai kenttäjohtaja tai potilaalla on hoidosta huolimatta vaikea peruselintoiminnan häiriö.
+- **Liuotuskandidaatti-AVH-potilas** otetaan vastaan suoraan TT-huoneessa stroke-mallin mukaan (ellei välittömästi tarvita esim. intubaatiota), ja vatsa-aortan aneurysman repeämä voidaan ottaa vastaan suoraan TT:ssä.
+- Ensihoitokertomus (Merlot Medi) näkyy päivystyksessä jo potilaan ollessa tulossa – myös ensihoidon NEWS- ja sepsispisteet.
+
 ## Muista tämä -kertaus
 
 - SOAP jäsentää ajattelun ja kirjaamisen: Subjektiivinen, Objektiivinen, Analyysi, Suunnitelma.

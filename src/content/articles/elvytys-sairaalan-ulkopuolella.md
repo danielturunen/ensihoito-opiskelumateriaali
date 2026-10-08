@@ -138,6 +138,9 @@ Kuljetus elvyttäen on perusteltua silloin, kun se on osa elvytystä – eli kun
 
 **Raskaana olevan elvytys** noudattaa normaalia ohjetta. Kohtu painaa alaonttolaskimoa ja aorttaa noin 20. raskausviikolta (kohtu navan yläpuolella). Siksi kiilatyyny asetetaan lantion oikean puolen alle tai kohtua työnnetään vasemmalle – tavoitteena 15–30 asteen kallistus ilman, että painelun teho kärsii. Hätäsektioon valmistaudutaan heti: leikkauksen aloitus 4 minuutin ja synnytys 5 minuutin kuluessa parantaa sekä äidin että lapsen ennustetta. Vauvan selviäminen on mahdollista 24. raskausviikosta alkaen. Pyydä mukaan obstetrinen ja neonatologinen osaaminen. Katso [raskaana oleva ja synnyttäjä](topic:raskaana-oleva-synnyttaja).
 
+> [!info] Raskaana olevan sydänpysähdys (Ahonen ja Tekay, Finnanest 2016)
+> Raskaana olevan sydänpysähdys on harvinainen (noin 1:12 000–1:55 000). Yhdysvaltalaisessa aineistossa yleisimmät syyt olivat synnytyksen jälkeinen (28 %) ja sitä edeltävä (17 %) verenvuoto, sydämen pettäminen, lapsivesiembolia ja sepsis. Kohdun tyhjentäminen voi lisätä elvytyksen aikaista minuuttitilavuutta 60–80 %, joten **sektiopäätös tehdään ensimmäisten 4 minuutin aikana** – välitön sektio voi pelastaa äidin, vaikka sikiön ennuste olisi huono. Sektiota ei tarvita, jos perfusoiva rytmi palaa muutamassa minuutissa tai kohtu on navan tason alapuolella. Kohtua voi siirtää vasemmalle joko yhden käden työntöotteella tai kahden käden veto-otteella. Lapsivesiembolian ja keuhkoembolian erottaminen on vaikeaa; lapsivesiemboliaan liittyy nopeasti kehittyvä vaikea koagulopatia, eikä liuotushoitoa pidä hosua.
+
 ## Verenkierron palautumisen jälkeen
 
 ```media
