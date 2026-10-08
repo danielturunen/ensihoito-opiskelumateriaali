@@ -88,6 +88,8 @@ export const topics: TopicMeta[] = [
 
   // --- geriatria ---
   { id: 'ikaantynyt-potilas', moduleId: 'geriatria', title: 'Ikääntynyt potilas ensihoidossa', summary: 'Kaatuilu, gerastenia, huimaus, lääkkeiden muuttunut vaikutus, infektiot ja muistisairaan kipu.', readMinutes: 12, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'muistisairaudet', moduleId: 'geriatria', title: 'Muistisairaudet', summary: 'Alzheimer, Lewy ja vaskulaarinen, hoidettavat syyt, delirium ja muistisairaan kohtaaminen.', readMinutes: 6, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'munuaisten-vajaatoiminta', moduleId: 'geriatria', title: 'Munuaisten vajaatoiminta, AKI ja dialyysipotilas', summary: 'Akuutin munuaisvaurion tyypit, munuaisille haitalliset lääkkeet, GFR-luokat ja loppuvaiheen hoito.', readMinutes: 8, hasQuiz: true, hasFlashcards: true, hasScenario: false },
 
   // --- laakkeet ---
   { id: 'amiodaroni', moduleId: 'laakkeet', title: 'Amiodaroni', summary: 'Käyttöaiheet, annostus ja huomioitavat haittavaikutukset.', readMinutes: 5, hasQuiz: true, hasFlashcards: true, hasScenario: false },

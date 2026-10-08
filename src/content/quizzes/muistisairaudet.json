@@ -1,0 +1,7 @@
+[
+  {"id":"ms-q1","type":"mcq","question":"Mikä on yleisin muistisairaus?","options":["Alzheimerin tauti","Lewyn kappale -tauti","Vaskulaarinen","Otsalohkorappeuma"],"correctIndex":0,"explanation":"Alzheimer noin 60 %, Lewy 15–20 %, vaskulaarinen noin 15 %."},
+  {"id":"ms-q2","type":"mcq","question":"Mikä on tyypillistä Lewyn kappale -taudille?","options":["Tasainen hidas eteneminen ilman vaihtelua","Vireystilan vaihtelu, näköharhat, parkinsonismi ja herkkyys neurolepteille","Pelkkä puhehäiriö","Aina nuoruusiässä alkava"],"correctIndex":1,"explanation":"Vanhat neuroleptit (esim. haloperidoli) voivat aiheuttaa vaarallisen jäykkyyden."},
+  {"id":"ms-q3","type":"truefalse","question":"Muistisairaan äkillinen sekavuus on yleensä vain taudin etenemistä.","options":["Oikein","Väärin"],"correctIndex":1,"explanation":"Taudin kulku on hidas – äkillinen muutos viittaa deliriumiin, infektioon, lääkkeeseen, AVH:hon tai vammaan."},
+  {"id":"ms-q4","type":"mcq","question":"Mikä oiretriadi sopii normaalipaineiseen hydrokefaliaan?","options":["Kuume, niskajäykkyys, päänsärky","Kävelyhäiriö, virtsanpidätyskyvyttömyys, kognitiivinen heikentyminen","Vapina, jäykkyys, hitaus","Näköharhat, unihäiriöt, kaatumiset"],"correctIndex":1,"explanation":"NPH on hoidettava muistihäiriön syy (sunttileikkaus)."},
+  {"id":"ms-q5","type":"mcq","question":"Kuinka yleinen keskivaikea tai vaikea dementia on yli 85-vuotiailla?","options":["Noin 4 %","Noin 11 %","Noin 36 %","Noin 80 %"],"correctIndex":2,"explanation":"65–74 v noin 4 %, 75–84 v noin 11 %, yli 85 v noin 36 %."}
+]

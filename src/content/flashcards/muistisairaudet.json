@@ -1,0 +1,7 @@
+[
+  {"id":"ms-f1","front":"Muistisairauksien osuudet","back":"Alzheimer ~60 %, Lewyn kappale -tauti 15–20 %, vaskulaarinen ~15 % – usein yhtä aikaa."},
+  {"id":"ms-f2","front":"Hoidettavat kognitiivisen heikkenemisen syyt","back":"Delirium, masennus, lääkkeet (rauhoittavat, antikolinergiset), kilpirauhanen, B12-puute, subduraalihematooma, NPH, aivokasvain."},
+  {"id":"ms-f3","front":"Lewyn kappale -tauti","back":"Vireyden vaihtelu, näköharhat, parkinsonismi, kaatumiset, ortostaattinen hypotensio, ohimenevät tajunnanmenetykset. Ei vanhoja neuroleptejä!"},
+  {"id":"ms-f4","front":"Vaskulaarinen kognitiivinen heikentymä","back":"Aivoinfarktit tai pienten suonten tauti, portaittain etenevä, toiminnanohjaus heikkenee, töpöttelevä kävely, yöllinen sekavuus."},
+  {"id":"ms-f5","front":"Kotona asumisen päättymistä ennustavat","back":"Käytösoireet, yksin asuminen, toimintakyvyn ja kävelyn heikkous, omaishoitajan kuormittuminen ja terveysongelmat."}
+]

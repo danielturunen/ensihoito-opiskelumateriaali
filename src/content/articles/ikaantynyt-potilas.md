@@ -110,10 +110,29 @@ Käytösoireita (BPSD) ovat mm. aggressiivisuus, levottomuus ja vaeltelu, estoto
 
 Ympäristö ja kohtaaminen vaikuttavat paljon: **epäkunnioittava kohtelu, pakottaminen, kiire, liialliset ärsykkeet, melu ja alati vaihtuvat ihmiset lisäävät käytösoireita.** Toisaalta muistisairaan **äkillinen muutos voi olla deliriumin oire** – somaattinen tutkiminen (verenpaine, keuhkot, sydän, vatsa, lääkitys, kipu, näkö ja kuulo, suolen ja virtsarakon toiminta) on tärkeää. Esimerkiksi neuroleptit ja antikolinergiset lääkkeet voivat aiheuttaa tai pahentaa käytösoireita.
 
+## Monilääkitys
+
+WHO on määritellyt monilääkityksen (polyfarmasian) tilanteeksi, jossa iäkkäälle määrätään enemmän kuin neljä lääkevalmistetta. Se ei ole sinänsä virhe – monisairas tarvitsee usein useita näyttöön perustuvia lääkkeitä – mutta se lisää haittavaikutuksia ja yhteisvaikutuksia ja johtaa helposti **lääkityskierteeseen**: haittavaikutusta hoidetaan uudella lääkkeellä (esim. antikolinergisen lääkkeen aiheuttamaa ummetusta laksatiiveilla tai psykoosilääkkeen aiheuttamia jäykkyysoireita Parkinson-lääkkeillä). Iäkkäät hakevat apua useilta lääkäreiltä ja käyttävät käsikauppa- ja luontaistuotteita, jolloin kokonaislääkitys ei ole kenenkään hallussa. Toisaalta iäkkäitä myös alihoidetaan: esimerkiksi kipu, osteoporoosi ja eteisvärinän antikoagulaatio jäävät usein hoitamatta (Pitkälä ym., Oppiportti).
+
+> [!tip] Ensihoitajan rooli
+> Kirjaa koko lääkitys – myös käsikauppalääkkeet ja luontaistuotteet – ja mieti, voiko oire olla lääkkeen haitta. Uusi oire iäkkäällä on lääkehaitta, kunnes toisin todetaan.
+
+**Kipulääkkeet**: perusvalmiste on **parasetamoli** (enintään 3–4 g/vrk). Tulehduskipulääkkeitä käytetään vain tulehduskipuun ja lyhyen aikaa, koska iäkkäillä ne aiheuttavat herkästi suolistovuotoja (jopa kivuttoman ulkuksen, ensioireena voi olla äkillinen anemia), nesteen kertymistä, verenpaineen nousua sekä sydämen ja munuaisten vajaatoiminnan pahenemista. **Heikot opioidit** (tramadoli, kodeiini) ovat tavallisimpia sekavuutta aiheuttavia lääkkeitä. Vahvojen opioidien annostelu aloitetaan iäkkäälle hyvin varovasti (Tilvis, Oppiportti).
+
+## Masennus
+
+Masennus on vanhusten yleisin mielenterveyden häiriö: masennustila on 2,5–5 %:lla eläkeikäisistä ja lievempiä oireita 15–20 %:lla. Iäkkäällä se näkyy usein **somaattisina oireina**, ruokahaluttomuutena, painon laskuna, unihäiriöinä, rauhattomuutena tai hidastuneisuutena – ja voi muistuttaa muistisairautta ("pseudodementia"). Masennukseen liittyy lisääntynyt **itsemurhavaara**, ja vanhojen ihmisten itsemurhayritykset päätyvät kuolemaan huomattavasti useammin kuin nuorten. Iäkkäät eivät usein ota itsetuhoisia ajatuksia puheeksi itse, joten niistä kysytään suoraan (Leinonen ja Koponen, Oppiportti). SSRI-lääkkeet voivat aiheuttaa iäkkäälle **hyponatremiaa** (10–15 %:lle), jonka oireet – väsymys, ruokahaluttomuus, toimintakyvyn heikkeneminen – sekoittuvat masennukseen.
+
+## Hauraat luut
+
+Luumassa on suurimmillaan 20–30-vuotiaana, ja naiset menettävät hohkaluustaan keskimäärin puolet. **Osteoporoosissa** luunmurtuma syntyy pienienergisestä vammasta, kuten kaatumisesta omalta tasolta. Iäkkäällä naisella murtuma ja sen aiheuttama kipu ovat usein osteoporoosin ensimmäinen oire; selkänikamamurtumat voivat ilmetä vain pituuden lyhenemisenä ja selän kyfoosina. Siksi iäkkään kaatuneen kipu otetaan vakavasti – lonkka, ranne, olkavarsi ja selkä – vaikka vammaenergia olisi pieni.
+
 ## Muista tämä -kertaus
 
 - Iäkkään oireet ovat usein epätyypillisiä: infektio tai infarkti voi näkyä vain sekavuutena, kaatuiluna tai yleiskunnon laskuna.
 - Kaatuminen on oire – etsi syy (sairaus, lääkkeet, ortostaattinen hypotonia) ja vammat (pää, lonkka).
 - Gerastenia: vähintään 3/5 – painon lasku, uupumus, vähäinen aktiivisuus, hitaus, lihasheikkous.
 - Lääkkeiden vaikutus pitkittyy ja keskushermostohaitat korostuvat – pienet, titratut annokset.
+- Monilääkitys: uusi oire on lääkehaitta, kunnes toisin todetaan; tramadoli ja kodeiini aiheuttavat sekavuutta.
+- Masennus voi näkyä somaattisina oireina – kysy itsetuhoisuudesta suoraan.
 - Muistisairaan kipu on todellinen – havainnoi käyttäytymistä; äkillinen muutos voi olla delirium.
