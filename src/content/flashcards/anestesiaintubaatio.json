@@ -5,5 +5,7 @@
   {"id":"ai-f4","front":"Induktiolääkkeet (lääkärihelikopterin SOP)","back":"Esketamiini 1 mg/kg (sokkiselle vähemmän) tai propofoli 1–2 mg/kg; neurokriittiselle fentanyyli n. 3 µg/kg; rokuroni 1 mg/kg."},
   {"id":"ai-f5","front":"Epäonnistuneen intubaation suunnitelma","back":"Enintään 2 yritystä → i-gel → naamari-palje tai NIV → kirurginen hengitystie."},
   {"id":"ai-f6","front":"Intubaatioputki aikuiselle","back":"Nainen 7 mm, syvyys n. 20 cm; mies 8 mm, syvyys n. 22 cm. Paikka aina kapnografialla, kiinnitys laskimopaluuta estämättä."},
-  {"id":"ai-f7","front":"Ensihoitajan roolit anestesiaintubaatiossa","back":"Ensihoitaja 1: lääkkeet ja monitori (saturaatiomuutokset, vasopressori). Ensihoitaja 2: lisäkädet ja imu. Ensihoitaja 3: kaularangan tuenta."}
+  {"id":"ai-f7","front":"Ensihoitajan roolit anestesiaintubaatiossa","back":"Ensihoitaja 1: lääkkeet ja monitori (saturaatiomuutokset, vasopressori). Ensihoitaja 2: lisäkädet ja imu. Ensihoitaja 3: kaularangan tuenta."},
+  {"id":"ai-f-moans","front":"Vaikean maskiventilaation riskit (MOANS)","back":"Mask seal (parta, veri, kasvovamma), Obesity/Obstruction (myös loppuraskaus), Age, No teeth, Stiff lungs."},
+  {"id":"ai-f-lull","front":"Intubaation jälkeinen \"suvanto\"","back":"Riskit: putki irtoaa, monitorointi katkeaa, sedaatio unohtuu, hypotensio, jänniteilmarinta. Yksi pitää putkesta kiinni jokaisen siirron ajan."}
 ]

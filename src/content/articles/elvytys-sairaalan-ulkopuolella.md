@@ -25,6 +25,9 @@ Sydänpysähdys tunnistetaan, kun potilas ei reagoi eikä hengitä normaalisti �
 {"widget":"als-cycle"}
 ```
 
+> [!tip] Ajalliset tavoitteet (Duodecim Ensihoito-opas, Kurola 2023)
+> Ensimmäinen defibrillaatio **1 minuutin** kuluessa potilaan luo saapumisesta · taustatiedot ja tapahtumatiedot selvillä **5–10 minuutissa** · syyn mukainen hoito (4H/4T) alkaa viimeistään **10 minuutin** kuluttua elvytyksen aloittamisesta · 12–15-kytkentäinen EKG verenkierron palauduttua. ROSC-vaiheen tavoitteet: SpO₂ yli 94 %, EtCO₂ 4,0–4,5 kPa ja systolinen paine yli 100 mmHg. Elvytyksen lopettamisen jälkeen potilasta seurataan monitorilla 10 minuuttia (Lasarus-ilmiö).
+
 ```media
 {"widget":"mnemonic","title":"Hoidettavat syyt: 4H ja 4T","name":"4H 4T","items":[
 {"letter":"H","word":"Hypoksia","text":"Hengitystie ja ventilaatio 100 % hapella."},
@@ -65,6 +68,9 @@ Vammapotilaan sydänpysähdyksen hoito on aiempaa aktiivisempaa. Ellei potilas o
 2. Ulkoisen verenvuodon tyrehdytys, i.o.- tai i.v.-yhteys ja nesteresuskitaatio – mieluiten verituotteilla. **Traneksaamihappo 1 g** 10 minuutissa alle 3 tunnin kuluessa vammasta parantaa selviytymistä.
 3. Torakostomia tai neulatorakosenteesi jänniteilmarinnan hoitamiseksi. **Torakostomia on todennäköisesti tehokkaampi** kuin neula, erityisesti ylipaineventilaatiossa.
 4. Ellei verenkierto palaa, harkitaan erityisesti ylävatsan tai rintakehän **lävistävissä vammoissa torakotomiaa**. Käypä hoidon (2021) mukaan edellytyksenä on, että avoin sydänhieronta saadaan alkamaan **15 minuutin kuluessa** elottomuuden havaitsemisesta, paikalla on toimenpiteen hallitseva kokenut tiimi ja olosuhteet sekä välineet sallivat sen (vanhemmassa ensihoidon oppimateriaalissa raja on 10 min). Tavoitteena on ensisijaisesti sydäntamponaation purkaminen; lisäksi aortan puristus verensiirron kanssa ja avoin sydänhieronta voivat auttaa.
+
+> [!info] Kenttätorakotomia Suomessa
+> Setälän (Finnanest 2017) katsauksen mukaan sairaalan ulkopuolisen traumaattisen sydänpysähdyksen selviämisluvut ovat uusimmissa eurooppalaisissa aineistoissa nousseet 7,5 %:iin, parhaimmillaan 18 %:iin. Sydäntamponaatioon riittää noin kaksi desilitraa verta, eikä sitä useinkaan saa purettua neulalla, koska veri hyytyy nopeasti. Tampereen lääkäriyksikkö (FinnHEMS 30) aloittaa torakostomiaviilloilla molemmin puolin 4.–5. kylkiväliin ja jatkaa tarvittaessa "clam shell" -torakotomiaan. Indikaatioina lävistävä rintakehän tai ylävatsan vamma alkurytmistä riippumatta tai sarjakylkiluumurtumat; vasta-aiheina mm. yli 10 minuuttia kestänyt pysähdys (KH 2021: avoin hieronta 15 min kuluessa) ja laajat monivammat. Kymmenestä kenttätorakotomiasta kolmessa sydän saatiin käynnistettyä.
 
 Katso myös [massiivinen verenvuoto ja verensiirto](topic:massiivinen-verenvuoto).
 

@@ -29,7 +29,10 @@
     "id": "traumapotilaan-tutkiminen-q3",
     "type": "truefalse",
     "question": "Vammapotilaan takykardiaa on pidettävä verenvuodon merkkinä, kunnes toisin todistetaan.",
-    "options": ["Oikein", "Väärin"],
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
     "correctIndex": 0,
     "explanation": "Oikein. Syketason nousu on usein ensimmäinen merkki hypovolemiasta, kun elimistön kompensaatiomekanismit alkavat pettää. Verenpaine laskee tyypillisesti vasta myöhemmin, kun noin 30 % verivolyymista on menetetty."
   },
@@ -63,7 +66,10 @@
     "id": "traumapotilaan-tutkiminen-q6",
     "type": "truefalse",
     "question": "Täydennetty tilannearvio tehdään aina loppuun asti ennen kuljetuksen aloittamista, vaikka potilaalla olisi hallitsematon sisäinen verenvuoto.",
-    "options": ["Oikein", "Väärin"],
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
     "correctIndex": 1,
     "explanation": "Väärin. Hallitsemattoman verenvuodon tai muun välittömän hengenvaaran yhteydessä valitaan \"load and go\" -strategia: kuljetus aloitetaan nopeasti, ja tarkempi tutkiminen jatkuu matkalla."
   },
@@ -97,7 +103,10 @@
     "id": "traumapotilaan-tutkiminen-q9",
     "type": "truefalse",
     "question": "Aivovamma- ja selkäydinvammapotilaalla tavoitellaan matalampaa verenpainetta kuin vuotavalla potilaalla, jolla ei ole näitä vammoja.",
-    "options": ["Oikein", "Väärin"],
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
     "correctIndex": 1,
     "explanation": "Väärin. Aivo- ja selkäydinvammapotilaalla tavoitellaan tavallista korkeampaa systolista verenpainetta (suuntaa antavasti vähintään noin 120 mmHg), jotta hermokudoksen verenkierto turvataan. Muulla vuotavalla potilaalla sen sijaan tavoitellaan vain riittävää, sallittua (permissiivistä) matalampaa painetasoa."
   },
@@ -131,8 +140,50 @@
     "id": "traumapotilaan-tutkiminen-q12",
     "type": "truefalse",
     "question": "Lantion aluetta tutkittaessa suositellaan nykyään lantion voimakasta painelua suoliluunharjoista, jotta epävakaus havaitaan varmasti.",
-    "options": ["Oikein", "Väärin"],
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
     "correctIndex": 1,
     "explanation": "Väärin. Voimakasta lantion manipulaatiota ei suositella, koska se voi rikkoa jo muodostuneen hyytymän ja lisätä verenvuotoa. Riittää, että etsitään virheasentoa, mustelmia ja kysytään kipua; epäilyn herätessä lantio tuetaan lantiovyöllä."
+  },
+  {
+    "id": "trauma-ktk-q-rangat",
+    "type": "mcq",
+    "question": "Milloin vammapotilaan rangan tukemista ei suositella?",
+    "options": [
+      "Kaikissa liikenneonnettomuuksissa",
+      "Lävistävissä vammoissa",
+      "Aina kun potilas on päihtynyt",
+      "Kun NEXUS-kriteeri täyttyy"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rangan tukeminen lävistävien vammojen yhteydessä ei ole suositeltavaa – se voi viivästyttää henkeä pelastavaa hoitoa (Björkman ym. 2023)."
+  },
+  {
+    "id": "trauma-ktk-q-tajuton",
+    "type": "mcq",
+    "question": "Miten tajuton vammapotilas asetetaan, jos hengitystietä ei varmisteta intubaatiolla?",
+    "options": [
+      "Selinmakuulle kova kauluri",
+      "Vasempaan kylkiasentoon kaularankaa käsin tukien",
+      "Istuvaan asentoon",
+      "Vatsalleen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kylkiasennossa hengitystiet pysyvät paremmin auki ja aspiraatioriski pienenee."
+  },
+  {
+    "id": "trauma-ktk-q-hott",
+    "type": "mcq",
+    "question": "Mitä HOT(T)-muistisääntö tarkoittaa traumaattisessa sydänpysähdyksessä?",
+    "options": [
+      "Hypoglykemia, opioidit, trauma, toksiinit",
+      "Hypovolemia, oxygenation, tension, tamponaatio",
+      "Hypotermia, oksentelu, takykardia, trombi",
+      "Hengitys, onnettomuus, tajunta, tuki"
+    ],
+    "correctIndex": 1,
+    "explanation": "Näiden syiden hoito on ensisijaista paineluun nähden, koska painelulla ei saavuteta riittävää verenkiertoa."
   }
 ]

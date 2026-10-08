@@ -115,6 +115,20 @@ Monille yksittäisille oireille on omat, kyseiseen oireeseen räätälöidyt mui
 ]}
 ```
 
+## Päivystyksen hoidon tarpeen arviointi ja triage
+
+Kun ensihoito luovuttaa potilaan päivystykseen, triage-hoitaja arvioi kiireellisyyden uudelleen. **Hoidon tarpeen arvioinnista** (HTA) säädetään terveydenhuoltolaissa ja päivystysasetuksessa; sen voi tehdä lääkäri tai muu laillistettu ammattihenkilö vastaavan lääkärin ohjeiden mukaan. Triagen tarkoitus on tunnistaa välittömässä hengenvaarassa olevat ja korkeariskiset potilaat sekä hoitojärjestys – arvio perustuu haastatteluun, johtavaan oireeseen ja tarvittaessa peruselintoimintojen mittauksiin (Lindroos ja Miettinen 2025).
+
+| ABCDE-triage | Tavoiteaika hoitoon | Tyypillinen hoitopaikka |
+|---|---|---|
+| **A** | Välitön – hengenvaara | Erikoissairaanhoidon päivystys |
+| **B** | 10 minuutin kuluessa | Erikoissairaanhoidon päivystys |
+| **C** | Alle tunnissa | Perusterveydenhuollon päivystys |
+| **D** | Alle kahdessa tunnissa | Perusterveydenhuollon päivystys |
+| **E** | Ei päivystyshoidon tarvetta | Kotiin, terveysasema tai hoitajan vastaanotto |
+
+ABCDE-triage on suomalainen malli, jolle ei ole valtakunnallista ohjeistusta, joten luokittelu vaihtelee päivystyksittäin ja tutkimusnäyttö on heikkoa. **ESI-triage** puolestaan erottelee potilaat tarvittavien resurssien perusteella ja toteutetaan aina samalla tavalla. **Ylitriage** kuluttaa resursseja turhaan, **alitriage** voi olla kohtalokas. Triage-luokka voi muuttua, joten potilaan tilaa arvioidaan jatkuvasti – esimerkiksi NEWS-pisteytyksellä.
+
 ## Muista tämä -kertaus
 
 - SOAP jäsentää ajattelun ja kirjaamisen: Subjektiivinen, Objektiivinen, Analyysi, Suunnitelma.

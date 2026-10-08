@@ -1,0 +1,8 @@
+[
+  {"id":"ger-f1","front":"Iäkkään epätyypilliset oireet","back":"Vakava infektio tai infarkti voi näkyä vain sekavuutena, kaatuiluna tai yleiskunnon laskuna; kuume voi puuttua, viskeraalinen kipu vaimenee."},
+  {"id":"ger-f2","front":"Kaatumisen ulkoiset ja sisäiset syyt","back":"Ulkoiset: liukkaus, esteet, häikäisy, heikko valo, irtomatot. Sisäiset: tasapaino, lihasheikkous, kävely, näkö, sairaudet, dementia, depressio, alkoholi, lääkkeet. Yli 80 v: sisäiset 80 %."},
+  {"id":"ger-f3","front":"Kaatumisriskiä lisäävät lääkkeet","back":"Ortostaattinen hypotonia: nitraatit, diureetit, verenpainelääkkeet, trisykliset masennuslääkkeet. Hidas korjausliike: rauhoittavat ja unilääkkeet. Psyykenlääkkeiden vähentäminen vähensi kaatumisia 1/3."},
+  {"id":"ger-f4","front":"Gerastenia (Fried)","back":"Vähintään 3/5: tahaton painon lasku, uupumus, pieni energiankulutus, hitaus, lihasheikkous."},
+  {"id":"ger-f5","front":"Vanhuksen lääkehoidon muutokset","back":"Vesi ↓ ja rasva ↑, albumiini ↓, maksa hidastuu, munuaiset ~50 % (\"80-vuotiaalla yksi munuainen\"), keskushermosto herkempi. Annos usein korkeintaan puolet työikäisen annoksesta."},
+  {"id":"ger-f6","front":"Muistisairaan käytösoireiden laukaisijat","back":"Kiire, pakottaminen, epäkunnioittava kohtelu, melu ja ärsykkeet, vaihtuvat ihmiset, kipu, nälkä, jano, virtsaamistarve, lääkkeet (neuroleptit, antikolinergiset) – äkillinen muutos voi olla delirium."}
+]

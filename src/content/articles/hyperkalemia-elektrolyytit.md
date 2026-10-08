@@ -102,6 +102,11 @@ Jos hyperkalemiaa epäillään vahvasti elottomuuden syyksi, Käypä hoito (Elvy
 
 Noin 50-vuotias verenpainelääkettä käyttävä mies on huonovointinen ja niin voimaton, ettei jaksa nostaa kättään paareilta. Hän on hikinen ja harmahtava, hengitys on kiihtynyttä mutta helppoa, ja monitori hälyttää jatkuvasti rytmihäiriötä. Monitorilla näkyy noin 75/min nodaalirytmi ja hyvin korkeat T-aallot. Tarkempi haastattelu paljastaa virtsaamisvaikeudet ja niukan virtsantulon. Verikaasussa todetaan metabolinen asidoosi ja kalium 9,9 mmol/l; EKG:ssä ei ole P-aaltoja, QRS on lähes 260 ms ja sulautunut T-aaltoon (sinikäyrä). Potilas saa nesteytystä, bikarbonaattia, salbutamolia, glukoosi-insuliinia ja kalsiumglukonaattia, ja toipuu tehohoidossa nopeasti – syynä virtsatietukoksen aiheuttama munuaisten vajaatoiminta.
 
+> [!info] Tapaus: nuoren naisen sydänpysähdys (Elomaa, Lääkärilehti 2018)
+> Hyvin hoikka nuori nainen korisi ja kouristeli. Ensihoidon saapuessa hän ei reagoinut mutta hengitti, ja rannesyke tuntui – kunnes muutaman minuutin kuluttua rytmi oli PEA. Noin 10 minuutin elvytyksen jälkeen rytmi muuttui kammiovärinäksi, ja puolen tunnin kohdalla verenkierto palasi. Omaisten vihje ja valtimoverinäyte paljastivat syyn: **kalium noin 8 mmol/l**. Potilaalle annettiin heti 100 ml natriumbikarbonaattia ja matkalla toinen annos, ja sairaalaa pyydettiin valmistautumaan glukoosi-insuliini-infuusioon. EKG:ssä näkyivät korkeat piikkimäiset T-aallot. Syynä oli turvotuksiin tarkoitettu kaliumpitoinen lisäravinne, jota laihuushäiriötä sairastava potilas oli ottanut monikymmenkertaisen annoksen. Hän toipui neurologisesti erinomaisesti.
+>
+> Opetus: kun elottomuuden syy on epäselvä, kysy lääkkeet, luontaistuotteet ja lisäravinteet – ja muista, että vaikeassa hyperkalemiassa (yli 7,5 mmol/l tai vakavat rytmihäiriöt) hoito aloitetaan viipymättä EKG-seurannassa.
+
 ## Muista tämä -kertaus
 
 - Henkeä uhkaavat rytmihäiriöt liittyvät useimmiten kaliumiin, erityisesti hyperkalemiaan.

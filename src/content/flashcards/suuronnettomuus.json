@@ -1,0 +1,7 @@
+[
+  {"id":"so-f1","front":"Suuronnettomuuden määritelmä","back":"Normaalit päivittäiset terveydenhuollon ja pelastustoimen voimavarat eivät riitä. Yleensä vähintään 20 potilasta, mutta paikalliset resurssit ratkaisevat. Monipotilastilanne: vähintään 3 potilasta."},
+  {"id":"so-f2","front":"Hoitamisen vaiheet","back":"Hälyttäminen → primaariluokittelu → ensihoito → sekundaariluokittelu → kuljetus."},
+  {"id":"so-f3","front":"Primaariluokittelu (Modified Simple Triage and Rapid Treatment)","back":"Kävelee → vihreä. Suuri vuoto → punainen. Ei hengitä → avaa: hengittää → punainen, ei hengitä eikä karotis tunnu → musta. Hengitys poikkeava, ei rannesykettä tai ei vastaa → punainen. Muut → keltainen."},
+  {"id":"so-f4","front":"Sekundaariluokat","back":"I punainen (erittäin kiireellinen), II keltainen (kiireellinen), III vihreä (kiireetön), IV violetti (huono ennuste: avoin aivovamma, palovamma > 75 %)."},
+  {"id":"so-f5","front":"Lääkintäsektorin johtajat","back":"Lääkintäjohtaja (irti potilastyöstä) → luokittelu-, hoito- ja kuljetusjohtajat. Sairaalassa lääkintäpäällikkö. Yleisjohtaja pelastustoiminnan johtaja (väkivaltatilanteessa poliisi)."}
+]

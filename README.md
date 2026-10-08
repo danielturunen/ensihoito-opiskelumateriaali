@@ -6,12 +6,12 @@ Interaktiivinen opiskelumateriaali ensihoitaja (AMK) -opiskelijalle. Sisältää
 
 ## Mitä sisältää
 
-- 15 aihealuetta, 50 aihesivua (hengitysvaikeus, trauma, sydän ja verenkierto, elvytys ja anestesiaintubaatio, ympäristöperäiset hätätilat, tajuttomuus, lapsi ensihoidossa, lääkehoito ym.)
+- 16 aihealuetta, 57 aihesivua (hengitysvaikeus, trauma ja suuronnettomuus, sydän ja verenkierto, sokki, verikaasut, EKG:n iskemiatulkinta, elvytys ja anestesiaintubaatio, ympäristöperäiset hätätilat, tajuttomuus, lapsi ensihoidossa, raskaus ja synnytys, ikääntynyt potilas, ensihoidon johtaminen, lääkehoito ym.)
 - Tietovisat jokaiselle aiheelle + erillinen **tenttitila**, jossa oikeat vastaukset paljastuvat vasta lopussa
 - Kertauskortit yksinkertaisella Leitner-tyyppisellä kertausaikataululla
 - Potilastapausharjoitukset (skenaariot), joissa edetään hälytystiedoista hoitopäätökseen
 - Koko sisällön kattava haku
-- **Oppimista tukeva multimedia** artikkelien sisällä (120 elementtiä, 55 tyyppiä): animoidut anatomia- ja mekanismikuvat (johtoratajärjestelmä, ilmarinta, keuhkorakkula, hengitystiet, sepelvaltimotauti, aortokavaalinen kompressio, insuliini ja ketoasidoosi, nitraatti + CPAP, sydäntamponaatio, atropiini, ondansetroni, lämmin vs. kylmä sokki, hengityskuviot), toimenpidesarjat (synnytyksen avustaminen, jälkeisvaihe), EKG-rytmikirjasto tunnistusharjoituksella, laskurit (GCS, NEWS2, sokki-indeksi, QTc, CPP, Apgar, 9:n sääntö), annoslaskuharjoitukset, hoitokaaviot, aikajanat, muistisäännöt, yhdistelytehtävät ja ruotsin fraasisanasto ääntämisineen
+- **Oppimista tukeva multimedia** artikkelien sisällä (146 elementtiä, 61 tyyppiä): animoidut anatomia- ja mekanismikuvat (johtoratajärjestelmä, ilmarinta, keuhkorakkula, hengitystiet, sepelvaltimotauti, aortokavaalinen kompressio, insuliini ja ketoasidoosi, nitraatti + CPAP, sydäntamponaatio, atropiini, ondansetroni, lämmin vs. kylmä sokki, hengityskuviot), toimenpidesarjat (synnytyksen avustaminen, jälkeisvaihe), raskaudenaikaisten vuotojen kuvitus, Frank–Starling-nestevaste, iskemian eteneminen EKG:ssä, hoitoelvytyksen syklit, verikaasujen tulkinta- ja primaariluokitteluharjoitukset, EKG-rytmikirjasto tunnistusharjoituksella, laskurit (GCS, NEWS2, sokki-indeksi, QTc, CPP, Apgar, 9:n sääntö), annoslaskuharjoitukset, hoitokaaviot, aikajanat, muistisäännöt, yhdistelytehtävät ja ruotsin fraasisanasto ääntämisineen
 - **Potilasmonitori** tapausharjoituksissa: pulssi- ja hengityskäyrä sekä vitaaliarvot vaihe vaiheelta tapauksen tekstin mukaan, hälytysvärit NEWS2-rajoista
 - **Kuuntele**-toiminto: artikkelin voi kuunnella ääneen (laitteen oma puhesynteesi, toimii offline)
 - Opiskelun eteneminen, suosikit ja tietovisatulokset tallentuvat laitteen `localStorage`iin — ei kirjautumista

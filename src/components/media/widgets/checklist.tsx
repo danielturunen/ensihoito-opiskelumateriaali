@@ -6,6 +6,8 @@ import { Result, type Tone } from '../ui'
 interface Item {
   label: string
   group?: string
+  /** Small right-aligned note, e.g. a risk ratio. */
+  hint?: string
 }
 interface Outcome {
   title: string
@@ -79,7 +81,8 @@ export default function Checklist(props: WidgetProps) {
                     >
                       {checked.has(i) && <Check className="h-3.5 w-3.5" strokeWidth={3} />}
                     </span>
-                    {it.label}
+                    <span className="min-w-0 flex-1">{it.label}</span>
+                    {it.hint && <span className="shrink-0 font-display text-[12px] font-semibold tabular-nums text-[var(--text-dim)]">{it.hint}</span>}
                   </button>
                 ),
               )}

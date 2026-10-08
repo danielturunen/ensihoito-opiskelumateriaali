@@ -106,6 +106,14 @@ export const modules: ModuleMeta[] = [
     color: 'lime',
   },
   {
+    id: 'geriatria',
+    title: 'Ikääntynyt potilas',
+    shortTitle: 'Ikääntyneet',
+    description: 'Kaatuilu, gerastenia, huimaus, lääkehoito, infektiot ja muistisairaan kohtaaminen.',
+    icon: 'PersonStanding',
+    color: 'stone',
+  },
+  {
     id: 'laakkeet',
     title: 'Lääkehoito',
     shortTitle: 'Lääkkeet',

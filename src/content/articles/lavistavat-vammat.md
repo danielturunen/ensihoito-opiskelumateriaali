@@ -55,6 +55,21 @@ Systemaattinen tutkimisjärjestys (cABCDE, RTA) on kuvattu sivulla [Traumapotila
 | Suonensisäinen | Fentanyyli 50–150 µg, oksikodoni 2–4 mg tai morfiini 2–4 mg |
 | Suonensisäinen (hypotensiivinen potilas) | Esketamiini 12,5 mg, ensihoitolääkärin konsultaatiolla |
 
+## Taktinen ensihoito (TECC)
+
+Poliisijohtoisissa korkeariskisissä tehtävissä (ampuma-ase- tai räjähdeuhka, vaarallisen henkilön kiinniotto) Suomessa toimivat **TEMS-ryhmät** noudattavat TECC-mallia (Tactical Emergency Casualty Care). Malli jakaa toiminnan kolmeen vaiheeseen (Jama, Finnanest 2019):
+
+```media
+{"widget":"timeline","title":"TECC:n kolme aluetta","items":[
+{"time":"Kuuma alue","title":"Suora uhka","text":"Uhan torjunta ja loukkaantuneen siirto suojaan. Vain massiivin ulkoisen vuodon tyrehdytys (kiristysside raajan tyveen tai suora paine) ja kylkiasento. Suomessa alueella toimivat käytännössä vain poliisit.","tone":"danger"},
+{"time":"Lämmin alue","title":"Epäsuora uhka","text":"cABCDE/MARCH. Kiristyssiteen tarkistus, ilmatiivis rintasidos avoimeen rintakehävammaan, tarvittaessa neulatorakosenteesi (8,3 cm neula). I.v./i.o., TXA 1 g ja kalsium sokissa, systolinen tavoite 80–90 mmHg (aivovamma yli 110). Lävistävään vammaan elottomaksi menneelle ei aloiteta elvytystä, mutta rintaontelot dekomprimoidaan.","tone":"warning"},
+{"time":"Kylmä alue","title":"Evakuointi","text":"Toimenpiteiden ja niiden tehon varmistus, verituotteet jos saatavilla, lämpötalous, monitorointi ja trendien kirjaus.","tone":"ok"}
+]}
+```
+
+> [!tip] Kiristysside yli kaksi tuntia?
+> Jos evakuointi lopulliseen hoitoon uhkaa kestää yli kaksi tuntia, kiristysside siirretään lähemmäs vammaa tai vaihdetaan haavan pakkaukseen ja painesiteeseen. Tehoton side (vuoto jatkuu tai distaalinen syke tuntuu) korjataan asettamalla toinen side edellisen viereen proksimaalisesti.
+
 ## Jatkohoito ja kuljetus
 
 Lähes kaikki lävistävät vammat kuljetetaan ensihoidossa – myös oireettomat, koska piilevä sisäelin- tai verisuonivaurio voi olla mahdoton sulkea pois kentällä. Poikkeuksena raajan pinnallinen viiltohaava, jossa ei ole merkkejä hermo-, jänne- tai verisuonivauriosta, voidaan ohjata päivystykseen itsenäisesti, ja täysin pinnallinen, ompelua vaatimaton haava voidaan hoitaa kotona.

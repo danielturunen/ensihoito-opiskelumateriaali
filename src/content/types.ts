@@ -17,6 +17,7 @@ export type ModuleId =
   | 'raskaus'
   | 'infektiot'
   | 'laakkeet'
+  | 'geriatria'
   | 'ammatillinen'
 
 export interface TopicMeta {

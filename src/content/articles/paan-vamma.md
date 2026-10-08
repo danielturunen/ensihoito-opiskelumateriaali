@@ -58,6 +58,9 @@ Laskimopaluu aivoista turvataan pitämällä potilaan pää suorassa ja varmista
 > [!danger] Älä käytä kovakaulurin sulkevaa otetta ajattelemattomasti
 > Kovakauluri nostaa kallonsisäistä painetta kiristämällä kaulalaskimoita, joten sitä vältetään aivovammapotilaalla. Kaularangan tuenta toteutetaan käsin tukemalla, sivutuilla tai tyhjiöpatjan reunoilla.
 
+> [!info] Jatkohoito teho-osastolla (Akuuttihoitotyön opas 2024)
+> Teholla kohonnutta kallonsisäistä painetta hoidetaan porrastetusti. Perustasolla ylävartalo on 30° kohoasennossa, pää neutraalisti keskilinjassa, PaCO₂ 4,5–5,0 kPa (EtCO₂ 4,0–4,5 kPa), SpO₂ yli 95 %, MAP 75–100 mmHg, CPP 60–110 mmHg ja ICP alle 20 mmHg, glukoosi 5–10 mmol/l ja lämpö alle 37 °C. Intubaatioputki kiinnitetään teipillä, koska kanttinauha voi estää laskimopaluuta. Vasta vaikeammilla tasoilla käytetään osmoterapiaa (esim. hypertoninen NaCl 7,6 % 100 ml/30 min), ventrikulostomiaa ja lievää hyperventilaatiota – ensihoidossa tavoite on normoventilaatio.
+
 ## Lääkehoito
 
 Traneksaamihappoa 1 g suonensisäisesti voidaan antaa aikuisen vaikeassa aivovammassa ensihoitolääkärin konsultaation perusteella. Riittävä kivunhoito (VAS > 4) ja sedaatio reuhtovalle potilaalle ovat osa kallonsisäisen paineen hallintaa, sillä kipu ja levottomuus nostavat verenpainetta ja ahdistavat potilasta.

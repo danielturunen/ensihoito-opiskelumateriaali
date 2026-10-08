@@ -204,6 +204,22 @@ Lapsen äkillinen kuolema (Suomessa 5–10 kätkytkuolemaa vuosittain, yleisimmi
 
 Alle 18-vuotiaaseen kohdistuneesta pahoinpitely- tai seksuaalirikosepäilystä ilmoitetaan lastensuojeluilmoituksen lisäksi aina myös poliisille. Huoltajalla ei ole oikeutta kieltää lapsen hengen tai terveyden kannalta välttämätöntä hoitoa; jos vanhemmat kieltäytyvät vammautuneen lapsen hoidosta tai kuljetuksesta, herää aina myös pahoinpitelyepäily.
 
+## Harjoitustapaukset (Metropolia, lasten ensihoito)
+
+Lue tapaus ja määritä työdiagnoosi, arvioi lapsen paino ja suunnittele toimenpiteet, välineet, energiat ja lääkeannokset, nesteet ja suoniyhteydet, tavoitevitaalit sekä varautuminen tilanteen eskaloitumiseen. Annoksia voit harjoitella yllä olevan lapsen elvytyksen taulukon ja annoslaskurin avulla.
+
+1. **8 kk**, perusterve, löytyy olohuoneen lattialta sinisenä ja velttona – eloton, PEA. Isä haisee viinalta, koti epäsiisti.
+2. **6 v**, ylipainoinen tyttö pyöräillyt ilman kypärää, auto törmännyt 40 km/h. Takaraivolla iso laseraatio, ääntelee, silmät kiinni, tummat silmänaluset. RR 140/100, p 125, HT 12, SpO₂ 92 %, GCS 6.
+3. **10 v**, pitkä ja hoikka tyttö kaatunut lasioven läpi, olkavarsi vuotaa runsaasti. Kalpea, hikinen, sekava. RR 65/30, p 128, SpO₂ 96 %, HT 25, GCS 13.
+4. **2 v** sydänsairas poika, äkisti huonovointinen: harmaankalpea, marmoroitunut, hikinen. RR 60/35, p 200 (VT), SpO₂ 90 %, HT 30, GCS 12–13. Jaloissa useita eri-ikäisiä mustelmia.
+5. **5 v**, ylipainoinen tyttö pudonnut 3. kerroksen parvekkeelta kello 2 yöllä, asunnosta kuuluu juhlan ääniä. Olkavarsi virheasennossa, sekava. RR 100/50, p 125, HT 30, GCS 14.
+6. **2 v** poika ripuloinut 4 vrk, nyt unelias ja veltto. Kalpea, marmoroitunut, kylmät raajat, availee hitaasti silmiään. Brakiaalisyke heikko 150, HT 35, saturaatio ei piirrä, RR 100/70.
+7. **8 v** astmaatikko koulun terveydenhoitajalla, tiukka kohtaus. RR 120/80, p 118, SpO₂ 90 %, HT 28, I:E 1:4, vinkuu.
+8. **10 kk**, kuumetta 2 vrk, nyt veltto, hiljainen, hikinen, hengitys haukkovaa. RR 50/30, p 165, SpO₂ 88 %, HT 50, T 39.
+
+> [!tip] Huomaa myös suojelutarve
+> Useassa tapauksessa on merkkejä, jotka herättävät huolen lapsen turvallisuudesta (päihtynyt huoltaja, eri-ikäiset mustelmat, valvomaton lapsi yöllä) – muista ilmoitusvelvollisuus.
+
 ## Muista tämä -kertaus
 
 - Lapsen pää pidetään naamariventilaatiossa ja intubaatiossa neutraalissa asennossa – ei taaksepäin taivutettuna kuten aikuisella.

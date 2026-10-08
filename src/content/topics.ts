@@ -63,6 +63,7 @@ export const topics: TopicMeta[] = [
   { id: 'paan-vamma', moduleId: 'trauma', title: 'Pään vamma', summary: 'Aivovamman vaikeusasteen arviointi ja sekundaarivaurion esto.', readMinutes: 8, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'liikenneonnettomuus', moduleId: 'trauma', title: 'Vamma-liikenneonnettomuus', summary: 'Vammamekanismin tulkinta ja potilaan irrotus ajoneuvosta.', readMinutes: 8, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: '40-traumavinkkia', moduleId: 'trauma', title: '40 muistisääntöä traumapotilaan hoitoon', summary: 'Kentältä opittuja käytännön vinkkejä trauman hoitoon.', readMinutes: 10, hasQuiz: false, hasFlashcards: true, hasScenario: false },
+  { id: 'suuronnettomuus', moduleId: 'trauma', title: 'Suuronnettomuus ja potilasluokittelu', summary: 'Hälyttäminen, johtaminen, primaari- ja sekundaariluokittelu sekä kuljetus.', readMinutes: 11, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'case-vammapotilas-200', moduleId: 'trauma', title: 'Tapaus: Vammapotilas', summary: 'Harjoittele vammapotilaan systemaattista kohtaamista.', readMinutes: 10, hasQuiz: false, hasFlashcards: false, hasScenario: true, dispatchCode: '200' },
 
   // --- ymparisto ---
@@ -80,6 +81,9 @@ export const topics: TopicMeta[] = [
   // --- infektiot ---
   { id: 'infektiosairaudet', moduleId: 'infektiot', title: 'Infektiosairaudet ja sepsis', summary: 'Sepsiksen tunnistaminen ja tavallisimmat infektioperäiset hätätilanteet.', readMinutes: 11, hasQuiz: true, hasFlashcards: true, hasScenario: false },
 
+  // --- geriatria ---
+  { id: 'ikaantynyt-potilas', moduleId: 'geriatria', title: 'Ikääntynyt potilas ensihoidossa', summary: 'Kaatuilu, gerastenia, huimaus, lääkkeiden muuttunut vaikutus, infektiot ja muistisairaan kipu.', readMinutes: 12, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+
   // --- laakkeet ---
   { id: 'amiodaroni', moduleId: 'laakkeet', title: 'Amiodaroni', summary: 'Käyttöaiheet, annostus ja huomioitavat haittavaikutukset.', readMinutes: 5, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'atropiini', moduleId: 'laakkeet', title: 'Atropiini', summary: 'Käyttöaiheet, annostus ja huomioitavat haittavaikutukset.', readMinutes: 5, hasQuiz: true, hasFlashcards: true, hasScenario: false },
@@ -88,6 +92,7 @@ export const topics: TopicMeta[] = [
 
   // --- ammatillinen ---
   { id: 'ensihoitajan-ydinosaaminen', moduleId: 'ammatillinen', title: 'Ensihoitajan ydinosaaminen ja sen kehittäminen', summary: 'Osaamisalueet, täydennyskoulutus ja osaamisen arviointi ensihoidossa.', readMinutes: 10, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'ensihoidon-johtaminen', moduleId: 'ammatillinen', title: 'Ensihoidon operatiivinen johtaminen', summary: 'Johtamistavat, johtamisprosessi, FOR-DEC, suljettu viestintä ja monipotilastilanteet.', readMinutes: 8, hasQuiz: true, hasFlashcards: true, hasScenario: false },
 ]
 
 export function getTopic(id: string): TopicMeta | undefined {

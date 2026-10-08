@@ -25,6 +25,10 @@ Jo matkalla kohteeseen ja ensiarvion perusteella on tehtävä valinta kahden per
 - **Load and go (scoop and run):** kohteessa tehdään vain henkeä pelastavat toimenpiteet (verenvuodon tyrehdytys, hengitystien avaaminen), ja potilas kuljetetaan välittömästi eteenpäin. Tätä käytetään, kun kyseessä on hallitsematon sisäinen verenvuoto tai lävistävä vartalovamma – näissä tilanteissa kohteessa vietetty aika huonontaa ennustetta, koska lopullinen hoito (leikkaus) saadaan vain sairaalassa.
 - **Stay and play:** kohteessa käytetään enemmän aikaa potilaan tilan vakauttamiseen, esimerkiksi hengitystien varmistamiseen ja ventilaation hallintaan. Tätä strategiaa käytetään tyypillisesti vaikeasti aivovammautuneella potilaalla, jonka ennustetta parantaa sekundaarivaurion (hapenpuute, matala verenpaine) ehkäiseminen jo kentällä.
 
+- **Load and play:** kuljetus aloitetaan, ja osa tutkimuksista ja hoitotoimien valmisteluista tehdään liikkuvassa autossa. Henkilöstön on tällöin oltava turvavöissä, ja ajoneuvo pysäytetään hetkeksi toimenpiteitä varten.
+
+Björkmanin ym. (Duodecim 2023) mukaan "kultaisen tunnin" dogmi ei kiistattomasti pidä paikkaansa, eikä esimerkiksi helikopterikuljetuksen hyödystä ole aukotonta näyttöä. Load and go lienee eduksi verenkierrollisesti epävakaille vartalon lävistävän vamman saaneille, kun taas **tylpässä monivammassa** peruselintoimintojen vakauttaminen ennen kuljetusta voi olla hyödyksi. Useimmiten potilas kannattaa kuljettaa suoraan lopulliseen hoitopaikkaan.
+
 Valittu strategia kerrotaan ääneen koko tiimille, jotta kaikki tietävät, mihin toiminnalla pyritään.
 
 ```media
@@ -85,6 +89,24 @@ Kun peruselintoiminnot on saatu hallintaan, tehdään tarkempi tutkimus, jonka t
 > [!tip] Muista tämä
 > Täydennetty tilannearvio ei saa koskaan viivyttää kuljetusta, jos potilaalla on hallitsematon verenvuoto tai muu välitön hengenvaara – nämä tilanteet ratkaistaan "load and go" -periaatteella.
 
+## Rangan tukeminen – vähemmän on joskus enemmän
+
+Vammapotilaan rutiinimaisen rangan tukemisen hyötyjä ja haittoja on tutkittu paljon, ja osassa maista kovasta kauluristakin on luovuttu. Tukeminen voi haitata, jos se viivästyttää henkeä uhkaavien tilojen hoitoa (vuodon tyrehdytys, paineilmarinnan purku) tai kuljetusta, ja pitkittyessään se altistaa kylmälle (Björkman ym. 2023).
+
+- **Lävistävissä vammoissa** rangan tukemista ei suositella.
+- Tylppä vamma ja **kriittinen peruselintoiminnon häiriö**: tue vain sen verran, ettei se haittaa hoitoa tai nopeaa kuljetusta – esimerkiksi kauhapaareilla kaularankaa käsin tukien.
+- **Tajuton vammapotilas** käännetään kaularankaa käsin tukien vasempaan kylkiasentoon (hengitystie pysyy auki, aspiraatioriski pienenee), ellei lääkäriyksikkö varmista hengitystietä intuboimalla.
+- Kiireettömämmissä tilanteissa käytetään **NEXUS-kriteerejä**: keskilinjan arkuus, neurologiset puutosoireet, tajunnan heikkeneminen, päihtymys tai merkittävä muu (huomiota vievä) vamma – yhdenkin täyttyessä koko ranka tuetaan. Päihtynyt tai sekava potilas tuetaan tyhjiöpatjalle suurienergiaisen vamman jälkeen. Ahdistuneelle kovaa kauluria ei aseteta väkisin.
+
+## Kivunhoito ja lämpötalous
+
+**Varhainen kivunhoito** on erittäin tärkeää: riittävä kipulääkitys laskee verenpainetta ja sykettä ja voi siten vähentää vuotoa, lievittää ahdistusta, heikentää adrenergistä myrskyä ja vähentää hapenkulutusta – rauhoittunut hengitystyö myös hidastaa ilmarinnan kasvua. Kun suoniyhteys on vaikea, **intranasaalinen reitti** toimii alkuvaiheessa. Opioidi on yleensä sopiva ensimmäinen lääke, eikä hengityslaman pelko saa estää riittävää kivunhoitoa. **Ketamiini** on hyvä vaihtoehto tai lisä erityisesti verenkierrollisesti epävakaille ja kivuliaita murtumia saaneille.
+
+**Lämpötalous**: Suomen ilmanalassa vammapotilas jäähtyy ulkona lähes aina. Hypotermia lisää hyytymishäiriötä ja voi lisätä vuotopotilaiden kuolleisuutta jopa 25 %. Märät vaatteet poistetaan heti, potilas peitellään jo tutkimisen aikana ja lämpö mitataan toistuvasti. Aktiivisesti lämmittäviä tuotteita ei aseteta suoraan paljaalle iholle.
+
+> [!info] Traumaattinen sydänpysähdys: HOT(T)
+> Hypovolemia, oxygenation (happeutus), tension (jänniteilmarinta) ja tamponaatio. Näiden syiden hoito on ensisijaista paineluun nähden, koska painelulla ei saavuteta riittävää verenkiertoa. Paineilmarinnan ensisijainen hoito on torakostomia. Ks. [elvytys sairaalan ulkopuolella](topic:elvytys-sairaalan-ulkopuolella).
+
 ## Monivammapotilas ja kuoleman kolmio
 
 Monivammautuneeksi katsotaan potilas, jolla on merkittävä vamma vähintään kahdella kehon alueella ja lisäksi alentunut tajunta, matala verenpaine tai korkea ikä. Näillä potilailla elimistön säätelyjärjestelmät ovat koetuksella, ja hoidossa korostuu erityisesti niin kutsutun kuoleman kolmion katkaiseminen: hypotermia heikentää veren hyytymistä, hypotermia ja huono kudosperfuusio aiheuttavat asidoosia, ja asidoosi yhdessä laimentuneiden hyytymistekijöiden kanssa pahentaa hyytymishäiriötä (koagulopatiaa), joka lisää verenvuotoa – ja kierre jatkuu. Kierteen katkaisemiseksi potilas pidetään lämpimänä, verenvuoto hoidetaan aktiivisesti ja nesteytyksessä vältetään ylimääräistä kirkkaiden nesteiden antoa.
@@ -103,3 +125,5 @@ Käytännössä tämä tarkoittaa, että vuotavalla potilaalla, jolla ei ole aiv
 - Takykardia on vammapotilaalla verenvuodon merkki, kunnes toisin todistetaan; verenpaine laskee vasta myöhään.
 - Täydennetty tilannearvio (rintakehä → vatsa → lantio → pää → selkä → raajat) tehdään vasta, kun peruselintoiminnot on turvattu, eikä se saa viivyttää kuljetusta hätätilapotilaalla.
 - Hypotermia, asidoosi ja koagulopatia muodostavat toisiaan pahentavan kuoleman kolmion – pidä potilas lämpimänä koko hoitoketjun ajan.
+- Rangan tukeminen ei saa viivästyttää henkeä pelastavaa hoitoa; lävistävässä vammassa ei tueta. Kiireettömässä tilanteessa NEXUS.
+- Hoida kipu varhain (IN-reitti, opioidi, ketamiini) – hengityslaman pelko ei saa estää riittävää kivunhoitoa.

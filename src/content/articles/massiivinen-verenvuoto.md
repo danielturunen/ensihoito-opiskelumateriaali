@@ -28,7 +28,12 @@ Pienen tilan vuodot, kuten **sydäntamponaatio** lävistävässä vammassa ja la
 
 ## Verensiirto ensihoidossa
 
-Ideaalista olisi antaa kokoverta, kuten sotatilanteissa, mutta sitä ei ole Suomessa saatavilla. Sairaalan massiivisessa verensiirrossa punasolujen, jääplasman ja trombosyyttien suhteeksi suositellaan 1:1:1. Kentälle voidaan viedä **punasolutiivisteitä**; jääplasma ei aikaviiveiden vuoksi sovi ensihoitoon.
+Ideaalista olisi antaa kokoverta, kuten sotatilanteissa, mutta sitä ei ole Suomessa saatavilla. Sairaalan massiivisessa verensiirrossa punasolujen, jääplasman ja trombosyyttien suhteeksi suositellaan 1:1:1. Kentälle voidaan viedä **punasolutiivisteitä**; jääplasma ei aikaviiveiden vuoksi sovi ensihoitoon, mutta **kuivaplasmaa** käytetään jo kenttäolosuhteissa.
+
+Björkmanin ym. (Duodecim 2023) mukaan punasolut ja plasma muodostavat ennustetta tehokkaimmin parantavan yhdistelmän, kun kuljetusmatka on pitkä. Kentällä annetaan tyypillisimmin **O RhD-negatiivisia punasoluja ja kuivaplasmaa**, ja lisäksi **traneksaamihappoa ja kalsiumia**. Suomessa ensihoitolääkäriyksiköt ja osa kenttäjohtoyksiköistä voivat aloittaa hätäverensiirron kentällä; kotimaisen tutkimuksen mukaan verituotteiden anto varhaistuu tällöin keskimäärin 33 minuuttia, ja sairaala voi valmistautua (massiivivuotoprotokolla) ennakkotiedon perusteella. Kokoveren käyttöä tutkitaan suomalaisessa ensihoidossa.
+
+> [!info] Tutkimusnäyttö: verituotteet kentällä
+> Houstonin pilottitutkimuksessa (Holcomb ym. 2015) kentällä annettu sulatettu plasma ja punasolut paransivat happo-emästasapainoa sairaalaan tullessa, vähensivät verituotteiden tarvetta 24 tunnin aikana ja vähensivät kuolemanriskiä vaikeimmin vammautuneilla ensimmäisten 6 tunnin aikana. Hävikki oli vain 1,9 %. Kokonaiskuolleisuudessa (24 h, 30 vrk) ei kuitenkaan todettu eroa.
 
 Useissa maissa ORh-negatiivisten punasolujen vieminen kentälle on todettu turvalliseksi: hävikki on ollut vähäinen eikä vakavia verensiirtoreaktioita ole juuri raportoitu. Suomessa esimerkiksi Satakunnassa on välitön valmius toimittaa kentälle 2–4 yksikköä ORh-negatiivisia punasoluja ensihoitolääkärin päätöksellä.
 
@@ -56,4 +61,4 @@ Lontoossa sairaalan "code red" -protokolla voidaan käynnistää kentältä, kun
 - Hypotermia, asidoosi ja laimeneminen pahentavat vamman aiheuttamaa hyytymishäiriötä.
 - Lävistävässä vammassa yli 80 mmHg:n systolista painetta ei nosteta – vältä runsaita kirkkaita nesteitä.
 - Hoitopaketti: lyhyt kohdeaika, ulkoinen vuoto hallintaan, lantiovyö ja lastat, varovainen käsittely, traneksaamihappo 3 h:n sisällä.
-- Punasoluja voidaan viedä kentälle; ota verinäyte ennen siirtoa. Jääplasma ei sovi ensihoitoon.
+- Punasoluja ja kuivaplasmaa voidaan antaa kentällä, lisäksi TXA ja kalsium; ota verinäyte ennen siirtoa. Jääplasma ei sovi ensihoitoon.

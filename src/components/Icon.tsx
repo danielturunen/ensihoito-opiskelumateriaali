@@ -14,6 +14,7 @@ import {
   GraduationCap,
   Zap,
   Thermometer,
+  PersonStanding,
   HelpCircle,
   type LucideProps,
 } from 'lucide-react'
@@ -35,6 +36,7 @@ const registry: Record<string, React.ComponentType<LucideProps>> = {
   GraduationCap,
   Zap,
   Thermometer,
+  PersonStanding,
 }
 
 export function Icon({ name, ...props }: { name: string } & LucideProps) {

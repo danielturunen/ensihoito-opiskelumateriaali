@@ -25,6 +25,14 @@ Anestesiaintubaatio on kokonaisuus, joka alkaa ensimmäisen yksikön kohdattua p
 ]}
 ```
 
+## Tarkistuslista
+
+Tarkistuslista käydään läpi juuri ennen induktiota haaste–vastaus-periaatteella. Se vie harvoin yli 30 sekuntia, ja se on osoittautunut tehokkaaksi virheiden pysäyttäjäksi (Sydney HEMS -manuaali).
+
+```media
+{"widget": "checklist", "title": "Anestesiaintubaation tarkistuslista (FinnHEMS 16.5.2020)", "prompt": "Käy lista läpi haaste–vastaus-periaatteella: yksi lukee kohdan, vastuuhenkilö vastaa.", "rule": {"type": "atLeast", "n": 20}, "items": [{"label": "Tutkimus – huomioitu"}, {"label": "Neurologia – huomioitu"}, {"label": "Taktiikka – 2 yritystä, saturaatioraja 93 %, varalla i-Gel, hätäsuunnitelma kriko / poikkeava suunnitelma"}, {"label": "Esihappeutus – käynnissä / happiviikset / NIV"}, {"label": "Asento – optimoitu / korjataan"}, {"label": "EKG – rytmi ja taajuus / vaatii toimenpiteitä"}, {"label": "Verenpaine – systolinen ja automaatilla / vaatii toimenpiteitä"}, {"label": "Happisaturaatio – arvo / vaatii toimenpiteitä"}, {"label": "Kapnometri – valmiina"}, {"label": "Hengityspalje – testattu"}, {"label": "Imu – testattu"}, {"label": "Intubaatioputki – koko, liukastettu ja testattu"}, {"label": "Laryngoskooppi – valmiina, kieli"}, {"label": "Viejä – bougie / kara / ei tarvetta"}, {"label": "Varmistusvälineet – UÄ / stetoskooppi / kapno"}, {"label": "Kiinnitys – teippi / kanttinauha / muu"}, {"label": "Happi – riittävästi"}, {"label": "Lääkereitti – toimiva IV / toimiva IO"}, {"label": "Lääkkeet – vedetyt lääkkeet, ruiskut merkitty"}, {"label": "Työnjako – intubaatio, avustaja, lääkkeet, monitori, imu, kaularanka, muu?"}], "met": {"title": "Kenelläkään lisättävää? – Tarkistuslista valmis", "text": "Ilmoita induktion aika ääneen. Kirjaa poikkeamat.", "tone": "ok"}, "notMet": {"title": "Tarkistuslista kesken", "text": "Älä aloita induktiota ennen kuin jokainen kohta on kuitattu.", "tone": "warning"}}
+```
+
 ## Esihappeutus – kriittinen potilasturvallisuusasia
 
 Induktion ja onnistuneen intubaation välillä potilas on keuhkojen happivaraston varassa. Esihappeutus kestää vähintään 3 minuuttia; jos se keskeytyy ja potilas hengittää välillä huoneilmaa, laskenta aloitetaan alusta.
@@ -59,6 +67,31 @@ Induktion ja onnistuneen intubaation välillä potilas on keuhkojen happivarasto
 ]}
 ```
 
+## Käsiventilaatio – perustaito, joka pelastaa
+
+Davies (Respiratory Care) korostaa, että naamari-paljeventilaatio on epäonnistuneen intubaation varasuunnitelman ydin – ja vaikea taito: noviisi tarvitsee 25–30 harjoituskertaa.
+
+- **Kahden käden ote** on tehokkaampi kuin yhden hengen tekniikka, jos auttajia on riittävästi – erityisesti lihavilla.
+- **Kertatilavuus noin 500–600 ml** riittää ja vähentää ilman pääsyä mahalaukkuun. Elvytyspalkeet voivat antaa jopa 2 litraa, jos ne puristetaan tyhjiksi – liiallinen tilavuus ja paine täyttävät mahalaukun, nostavat palleaa ja lisäävät aspiraatioriskiä.
+- **Nenänieluputki** sopii myös potilaalle, jolla on nieluheijaste, trismus tai suun vamma. Pituus mitataan nenänpäästä korvalehden tasolle tai leukakulmaan.
+- **Vaikean maskiventilaation riskit (MOANS)**: Mask seal (parta, veri, kasvovammat), Obesity/Obstruction (myös loppuraskaus), Age, No teeth, Stiff lungs.
+
+## Kansainvälinen vertailu
+
+| | FinnHEMS (Suomi) | Sydney HEMS (2016) | AAGBI (2009) |
+|---|---|---|---|
+| Induktio | Esketamiini 1 mg/kg (sokkiselle vähemmän) tai propofoli | Ketamiini 1,5–2 mg/kg, hypovolemiassa 0,5–1 mg/kg | Kuten sairaalassa, mahdollisimman yksinkertainen |
+| Relaksantti | Rokuroni 1 mg/kg | Rokuroni 1,5 mg/kg | – |
+| Yritykset | Enintään 2 | Uusi yritys vain korjaavien "30 sekunnin" toimien jälkeen | Enintään 3 |
+| Krikoidipaine | – | Ei rutiinisti (heikentää näkymää) | Käytössä, löysätään tarvittaessa |
+| Bougie | Suositeltu | Kaikissa intubaatioissa | Harkittava rutiinikäyttöä |
+| Putken paikka | Aina kapnografialla | Aina EtCO₂:lla | – |
+
+Sydneyn manuaalin intubaation aiheet ovat hengitystien aukipysymisen pettäminen, suojaavien refleksien puuttuminen, ventilaation tai hapetuksen pettäminen, ennakoitava kliininen kulku (esim. inhalaatiopalovamma, pään vamma) ja turvallisen kuljetuksen mahdollistaminen. **Sydänpysähdyksessä tai agonaalisesti hengittävällä** intuboidaan ilman lääkkeitä lyhennetyn ("cold intubation") listan mukaan. Kohteessa tehtävää anestesiaa vastaan puhuvat esimerkiksi aikakriittinen kirurginen vamma (lävistävä vamma ja sokki), lyhyt matka sopivaan sairaalaan ja vihamielinen ympäristö.
+
+> [!tip] Intubaation jälkeinen "suvanto"
+> Intubaation jälkeen tempo ja valppaus helposti laskevat – juuri silloin putki irtoaa, monitorointi katkeaa, jatkosedaatio unohtuu tai hypotensio ja jänniteilmarinta kehittyvät huomaamatta. Putkea pitää kädessään yksi tiimin jäsen jokaisen siirron ajan.
+
 ## Työnjako
 
 ```media
@@ -88,3 +121,5 @@ Jos potilasta ei saada monitoroitua tai esihappeutettua levottomuuden vuoksi, se
 - Putken paikka varmistetaan aina kapnografialla.
 - Enintään kaksi yritystä → i-gel → naamari/NIV → kirurginen hengitystie.
 - Neurokriittinen potilas: vakaa verenpaine ja normoventilaatio, ventilointi jo esihappeutuksen aikana.
+- Tarkistuslista haaste–vastaus-periaatteella ennen jokaista induktiota.
+- Käsiventilaatio kahden käden otteella, kertatilavuus noin 500–600 ml – vältä mahalaukun täyttymistä.
