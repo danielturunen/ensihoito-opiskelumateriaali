@@ -4,7 +4,7 @@ import { Hand, Minus, Plus, RotateCcw } from 'lucide-react'
 import { Caption, Result, Segmented, Stat, svg } from '../ui'
 import { BODY_GAP, BodyShapePath, BodySilhouette, bodyShapes, type BodyPart, type BodyShape, type BodyView } from '../parts/body-silhouette'
 
-/* 9:n sääntö (aikuinen) – article: palovamma. */
+/* 9:n sääntö – articles: palovamma (aikuinen) and lapsi-ensihoidossa (lapsi). */
 
 type Key = `${BodyView}:${BodyPart}`
 
@@ -14,7 +14,10 @@ interface Area {
 }
 
 // Adult rule of nines, split front/back: head 4.5 + 4.5, trunk 18 + 18, arm 4.5 + 4.5, leg 9 + 9, genitals 1.
-const AREAS: Record<BodyView, Partial<Record<BodyPart, Area>>> = {
+type Age = 'adult' | 'child'
+type AreaMap = Record<BodyView, Partial<Record<BodyPart, Area>>>
+
+const ADULT: AreaMap = {
   front: {
     headNeck: { pct: 4.5, name: 'Pää ja kaula, etupuoli' },
     trunk: { pct: 18, name: 'Etuvartalo' },
@@ -34,6 +37,27 @@ const AREAS: Record<BodyView, Partial<Record<BodyPart, Area>>> = {
   },
 }
 
+// Child (lasten ensihoidon lisämateriaali): head 18, trunk 18 per side, arm 9, leg 14 – split front/back.
+const CHILD: AreaMap = {
+  front: {
+    headNeck: { pct: 9, name: 'Pää, etupuoli' },
+    trunk: { pct: 18, name: 'Etuvartalo' },
+    armR: { pct: 4.5, name: 'Oikea yläraaja, etupuoli' },
+    armL: { pct: 4.5, name: 'Vasen yläraaja, etupuoli' },
+    legR: { pct: 7, name: 'Oikea alaraaja, etupuoli' },
+    legL: { pct: 7, name: 'Vasen alaraaja, etupuoli' },
+  },
+  back: {
+    headNeck: { pct: 9, name: 'Pää, takapuoli' },
+    trunk: { pct: 18, name: 'Takavartalo' },
+    armR: { pct: 4.5, name: 'Oikea yläraaja, takapuoli' },
+    armL: { pct: 4.5, name: 'Vasen yläraaja, takapuoli' },
+    legR: { pct: 7, name: 'Oikea alaraaja, takapuoli' },
+    legL: { pct: 7, name: 'Vasen alaraaja, takapuoli' },
+  },
+}
+const MAPS: Record<Age, AreaMap> = { adult: ADULT, child: CHILD }
+
 const VIEWS: BodyView[] = ['front', 'back']
 const VIEW_NAME: Record<BodyView, string> = { front: 'Etupuoli', back: 'Takapuoli' }
 const VB = '12 4 176 406'
@@ -41,9 +65,9 @@ const LIMB = new Set<BodyPart>(['armR', 'armL', 'legR', 'legL'])
 const ARMS = new Set<BodyPart>(['armR', 'armL'])
 
 const keyOf = (view: BodyView, part: BodyPart): Key => `${view}:${part}`
-const areaOf = (k: Key): Area | undefined => {
+const areaOf = (k: Key, age: Age): Area | undefined => {
   const [view, part] = k.split(':') as [BodyView, BodyPart]
-  return AREAS[view][part]
+  return MAPS[age][view][part]
 }
 const fmt = (n: number) => n.toLocaleString('fi-FI', { maximumFractionDigits: 1 })
 
@@ -70,7 +94,9 @@ function Figure({
   focus,
   setFocus,
   reduce,
+  age,
 }: {
+  age: Age
   view: BodyView
   burned: Set<Key>
   toggle: (k: Key) => void
@@ -84,7 +110,7 @@ function Figure({
 
   const hitProps = (s: BodyShape) => {
     const k = keyOf(view, s.id)
-    const area = AREAS[view][s.id]
+    const area = MAPS[age][view][s.id]
     const on = burned.has(k)
     return {
       d: s.d,
@@ -143,7 +169,7 @@ function Figure({
       {/* % labels */}
       <g aria-hidden pointerEvents="none">
         {shapes.map((s) => {
-          const area = AREAS[view][s.id]
+          const area = MAPS[age][view][s.id]
           if (!area) return null
           const p = labelPos(s)
           const on = burned.has(keyOf(view, s.id))
@@ -195,7 +221,8 @@ function Figure({
   )
 }
 
-export default function RuleOfNines() {
+export default function RuleOfNines(props: { age?: unknown }) {
+  const [age, setAge] = useState<Age>(props.age === 'child' ? 'child' : 'adult')
   const reduce = useReducedMotion() ?? false
   const uid = useId().replace(/[^a-zA-Z0-9_-]/g, '')
   const [view, setView] = useState<BodyView>('front')
@@ -203,18 +230,19 @@ export default function RuleOfNines() {
   const [palms, setPalms] = useState(0)
   const [focus, setFocus] = useState<Key | null>(null)
 
-  const regionSum = [...burned].reduce((sum, k) => sum + (areaOf(k)?.pct ?? 0), 0)
+  const regionSum = [...burned].reduce((sum, k) => sum + (areaOf(k, age)?.pct ?? 0), 0)
   const total = regionSum + palms
-  const big = total > 20
+  const limit = age === 'child' ? 10 : 20
+  const big = total > limit
   const genital = burned.has('front:pelvis')
 
-  const viewSum = (v: BodyView) => [...burned].filter((k) => k.startsWith(`${v}:`)).reduce((s, k) => s + (areaOf(k)?.pct ?? 0), 0)
+  const viewSum = (v: BodyView) => [...burned].filter((k) => k.startsWith(`${v}:`)).reduce((s, k) => s + (areaOf(k, age)?.pct ?? 0), 0)
 
   const toggle = (k: Key) => {
     const next = new Set(burned)
     if (next.has(k)) next.delete(k)
     else next.add(k)
-    const sum = [...next].reduce((s, key) => s + (areaOf(key)?.pct ?? 0), 0)
+    const sum = [...next].reduce((s, key) => s + (areaOf(key, age)?.pct ?? 0), 0)
     setBurned(next)
     setPalms((p) => Math.min(p, Math.floor(100 - sum)))
   }
@@ -226,8 +254,23 @@ export default function RuleOfNines() {
   const btn =
     'flex h-11 w-11 shrink-0 items-center justify-center rounded-xl border border-[var(--border)] bg-[var(--bg-raised)] text-[var(--text)] transition-transform duration-150 ease-out active:scale-[0.94] disabled:opacity-35'
 
+  const changeAge = (a: Age) => {
+    setAge(a)
+    setBurned(new Set())
+    setPalms(0)
+  }
+
   return (
     <div className="@container space-y-3">
+      <Segmented
+        value={age}
+        onChange={changeAge}
+        layoutId={`${uid}-age`}
+        options={[
+          { value: 'adult', label: 'Aikuinen' },
+          { value: 'child', label: 'Lapsi' },
+        ]}
+      />
       <div className="@lg:hidden">
         <Segmented
           value={view}
@@ -243,7 +286,7 @@ export default function RuleOfNines() {
       <div className="grid grid-cols-[minmax(0,1.15fr)_minmax(0,1fr)] items-start gap-3 @lg:grid-cols-[minmax(0,1fr)_minmax(0,1fr)_minmax(0,0.95fr)]">
         {VIEWS.map((v) => (
           <figure key={v} className={`${view === v ? '' : 'hidden'} animate-fade-up mx-auto w-full max-w-[220px] @lg:block`}>
-            <Figure view={v} burned={burned} toggle={toggle} focus={focus} setFocus={setFocus} reduce={reduce} />
+            <Figure age={age} view={v} burned={burned} toggle={toggle} focus={focus} setFocus={setFocus} reduce={reduce} />
             <figcaption className="mt-1 text-center text-[11px] font-semibold uppercase tracking-wide text-[var(--text-dim)]">
               {VIEW_NAME[v]} · <span className="tabular-nums">{fmt(viewSum(v))} %</span>
             </figcaption>
@@ -269,11 +312,13 @@ export default function RuleOfNines() {
                 animate={{ scaleX: Math.min(total, 100) / 100 }}
                 transition={reduce ? { duration: 0 } : { type: 'spring', duration: 0.5, bounce: 0 }}
               />
-              <span className="absolute -top-1 bottom-[-4px] left-[20%] w-0.5 -translate-x-1/2 rounded-full bg-[var(--text)]" />
+              <span className="absolute -top-1 bottom-[-4px] w-0.5 -translate-x-1/2 rounded-full bg-[var(--text)]" style={{ left: `${limit}%` }} />
             </div>
             <div className="relative mx-1 mt-1 h-4 text-[10.5px] font-medium text-[var(--text-dim)]" aria-hidden>
-              <span className="absolute left-0">0</span>
-              <span className="absolute left-[20%] -translate-x-1/2 font-semibold text-[var(--text)]">20 %</span>
+              {limit >= 15 && <span className="absolute left-0">0</span>}
+              <span className="absolute -translate-x-1/2 font-semibold text-[var(--text)]" style={{ left: `${limit}%` }}>
+                {limit} %
+              </span>
               <span className="absolute right-0">100</span>
             </div>
           </div>
@@ -311,12 +356,13 @@ export default function RuleOfNines() {
       </div>
 
       {big ? (
-        <Result tone="danger" title="Laaja palovamma (aikuinen > 20 %)">
-          Vaikeassa palovammassa (ei kuuman veden aiheuttama) nestehoito aikuisella noin 1000 ml/h. Laajoja palovammoja ei jäähdytetä –
-          hypotermiariski.
+        <Result tone="danger" title={age === 'child' ? 'Laaja palovamma (lapsi > 10 %)' : 'Laaja palovamma (aikuinen > 20 %)'}>
+          {age === 'child'
+            ? 'Vaikeassa palovammassa (ei kuuman veden aiheuttama) nestehoito lapsella 20 ml/kg/h. Estä hypotermia.'
+            : 'Vaikeassa palovammassa (ei kuuman veden aiheuttama) nestehoito aikuisella noin 1000 ml/h. Estä hypotermia – laajoissa vammoissa ruumiinlämpö laskee helposti.'}
         </Result>
       ) : (
-        <Result tone="neutral" title={total === 0 ? 'Napauta palaneet alueet' : 'Ei ylitä aikuisen laajan palovamman rajaa'}>
+        <Result tone="neutral" title={total === 0 ? 'Napauta palaneet alueet' : `Ei ylitä ${age === 'child' ? 'lapsen' : 'aikuisen'} laajan palovamman rajaa`}>
           <ul className="mt-0.5 space-y-1 pl-4 [list-style:disc]">
             <li>Laaja palovamma: aikuisella yli 20 %, lapsella yli 10 % kehon pinta-alasta.</li>
             <li>Liekkipalovamma, jossa iho on kovettunut, on aina syvä vamma pinta-alasta riippumatta.</li>
@@ -327,7 +373,11 @@ export default function RuleOfNines() {
         </Result>
       )}
 
-      <Caption>9:n sääntö on aikuisen arviointimenetelmä. Kuvan luvut: % kehon pinta-alasta.</Caption>
+      <Caption>
+        {age === 'child'
+          ? 'Lapsella pää on suhteessa suurempi: pää 18 %, vartalo 18 % puolelta, kumpikin yläraaja 9 % ja alaraaja 14 %. Lasten palovammojen yleisin aiheuttaja on kuuma neste.'
+          : '9:n sääntö on aikuisen arviointimenetelmä. Kuvan luvut: % kehon pinta-alasta.'}
+      </Caption>
     </div>
   )
 }

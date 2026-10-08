@@ -14,6 +14,8 @@ interface Outcome {
 }
 interface Rule {
   type: 'any' | 'atLeast' | 'groups'
+  /** Word shown after the group counter, e.g. "elinjärjestelmää" (default). */
+  unit?: string
   n?: number
 }
 
@@ -49,7 +51,7 @@ export default function Checklist(props: WidgetProps) {
   }
 
   const counterText =
-    rule.type === 'groups' ? `${groupsHit}/${n} elinjärjestelmää` : rule.type === 'atLeast' ? `${count}/${n} löydöstä` : `${count} valittu`
+    rule.type === 'groups' ? `${groupsHit}/${n} ${rule.unit ?? 'elinjärjestelmää'}` : rule.type === 'atLeast' ? `${count}/${n} löydöstä` : `${count} valittu`
 
   return (
     <div>

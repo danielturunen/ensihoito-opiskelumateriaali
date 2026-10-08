@@ -16,7 +16,10 @@
     "id": "lapsi-ensihoidossa-q2",
     "type": "truefalse",
     "question": "Alle 10-vuotiailla lapsilla hengitysteiden kapein kohta on äänirako, aivan kuten aikuisilla.",
-    "options": ["Oikein", "Väärin"],
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
     "correctIndex": 1,
     "explanation": "Lapsilla kapein kohta on vasta äänenraon jälkeen sormusruston kohdalla, mikä poikkeaa aikuisen anatomiasta ja vaikeuttaa vierasesineen havaitsemista."
   },
@@ -37,7 +40,10 @@
     "id": "lapsi-ensihoidossa-q4",
     "type": "truefalse",
     "question": "Vakava sisäelinvamma, esimerkiksi keuhkovamma, voi esiintyä lapsella ilman kylkiluun murtumia tai muita ulkoisia vamman merkkejä.",
-    "options": ["Oikein", "Väärin"],
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
     "correctIndex": 0,
     "explanation": "Lapsen joustava rintakehä (paljon rustoa) sallii voiman siirtyä sisäelimiin ilman, että luut murtuvat tai ulkoisia merkkejä syntyy."
   },
@@ -45,7 +51,12 @@
     "id": "lapsi-ensihoidossa-q5",
     "type": "mcq",
     "question": "Kuinka suuren osan verivolyymista lapsi voi menettää ennen kuin verenpaine alkaa laskea?",
-    "options": ["10 %", "20 %", "50 %", "Verenpaine laskee heti pienelläkin verenhukalla"],
+    "options": [
+      "10 %",
+      "20 %",
+      "50 %",
+      "Verenpaine laskee heti pienelläkin verenhukalla"
+    ],
     "correctIndex": 2,
     "explanation": "Lapsen elimistö kykenee kompensoimaan niin tehokkaasti ääreisverenkierron supistuksella, että verenpaine voi pysyä normaalina, vaikka jopa 50 % verivolyymista olisi menetetty."
   },
@@ -53,7 +64,10 @@
     "id": "lapsi-ensihoidossa-q6",
     "type": "truefalse",
     "question": "Lapsen verenpaineen lasku on vuotosokissa yleensä varhainen ja luotettava hälytysmerkki.",
-    "options": ["Oikein", "Väärin"],
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
     "correctIndex": 1,
     "explanation": "Verenpaineen lasku on lapsella vuotosokin myöhäinen merkki, joka voi ennakoida pian tapahtuvaa elvytystilannetta – siksi jatkuva monitorointi on tärkeää jo ennen verenpaineen laskua."
   },
@@ -63,12 +77,12 @@
     "question": "Mikä on sokin nestehoidon alkuannos lapselle?",
     "options": [
       "5 ml/kg hypotonista keittosuolaa",
-      "20 ml/kg isotonista nestettä (Ringer tai 0,9 % NaCl) boluksena",
+      "10 ml/kg isotonista nestettä boluksina vastetta tarkkaillen",
       "500 ml sokeriliuosta",
       "1000 ml/h kiinteänä infuusiona iästä riippumatta"
     ],
     "correctIndex": 1,
-    "explanation": "Sokin perushoito on 20 ml/kg isotonista nestettä boluksena, toistettavissa tarpeen mukaan – sokeriliuokset tai hypotoninen keittosuola eivät sovi vammapotilaan sokin hoitoon."
+    "explanation": "Uudempi ohje: 10 ml/kg boluksia vastetta tarkkaillen ja ahkerasti toistaen (alkuvaiheessa tarve voi olla jopa 40–60 ml/kg). Sokeriliuokset eivät sovi hypovolemian korjaukseen. Aiemmin opetettiin 20 ml/kg."
   },
   {
     "id": "lapsi-ensihoidossa-q8",
@@ -87,7 +101,10 @@
     "id": "lapsi-ensihoidossa-q9",
     "type": "truefalse",
     "question": "Jos leikki-ikäinen lapsi ei vastustele kanylointia ja nukahtaa heti toimenpiteen jälkeen, se on yleensä hyvä merkki rauhallisesta lapsesta.",
-    "options": ["Oikein", "Väärin"],
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
     "correctIndex": 1,
     "explanation": "Tämä on päinvastoin huolestuttava red flag -löydös: lapsi, joka ei vastustele toimenpiteitä tai nukahtaa heti niiden jälkeen, on todennäköisesti vakavasti sairas."
   },
@@ -95,7 +112,12 @@
     "id": "lapsi-ensihoidossa-q10",
     "type": "mcq",
     "question": "Mikä on fentanyylin suonensisäinen annos lapselle?",
-    "options": ["0,1 mg/kg", "1 µg/kg", "10 mg/kg", "100 µg/kg"],
+    "options": [
+      "0,1 mg/kg",
+      "1 µg/kg",
+      "10 mg/kg",
+      "100 µg/kg"
+    ],
     "correctIndex": 1,
     "explanation": "Fentanyylin suonensisäinen annos lapsella on 1 µg/kg. Morfiinin annos on 0,1 mg/kg ja S-ketamiinin 0,125-0,25 mg/kg."
   },
@@ -103,7 +125,10 @@
     "id": "lapsi-ensihoidossa-q11",
     "type": "truefalse",
     "question": "Yli 38 °C:n kuume alle kolmen kuukauden ikäisellä lapsella vaatii aina viiveettömän päivystysarvion.",
-    "options": ["Oikein", "Väärin"],
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
     "correctIndex": 0,
     "explanation": "Alle 3 kuukauden ikäisillä kuume on tavallista useammin vakavan yleisinfektion merkki, joten he kuuluvat aina viiveettä päivystykseen."
   },
@@ -124,7 +149,10 @@
     "id": "lapsi-ensihoidossa-q13",
     "type": "truefalse",
     "question": "Lastensuojeluilmoituksen tekemisen voi jättää tekemättä, jos ensihoitaja tietää hätäkeskuksen jo tehneen ilmoituksen samasta tilanteesta.",
-    "options": ["Oikein", "Väärin"],
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
     "correctIndex": 1,
     "explanation": "Toisen tahon ilmoitusvelvollisuus ei poista ensihoitajan omaa ilmoitusvelvollisuutta. Jokainen, joka saa tiedon lastensuojelun tarpeesta, on itse velvollinen ilmoittamaan."
   }

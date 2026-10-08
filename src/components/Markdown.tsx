@@ -1,9 +1,12 @@
 import { Children, isValidElement, type ReactNode } from 'react'
-import ReactMarkdown from 'react-markdown'
+import ReactMarkdown, { defaultUrlTransform } from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import { Link } from 'react-router-dom'
 import { AlertTriangle, Info, Lightbulb, Siren } from 'lucide-react'
 import { MediaBlock } from './media/MediaBlock'
+
+/** react-markdown strips unknown URL schemes; keep our internal `topic:<id>` links intact. */
+const urlTransform = (url: string) => (url.startsWith('topic:') ? url : defaultUrlTransform(url))
 
 const CALLOUT_RE = /^\[!(tip|warning|danger|info|important|example|success|note|critical)\]\s*(.*)$/i
 
@@ -73,6 +76,7 @@ export function Markdown({ source }: { source: string }) {
     <div className="prose-ens">
       <ReactMarkdown
         remarkPlugins={[remarkGfm]}
+        urlTransform={urlTransform}
         components={{
           blockquote: Blockquote,
           a: ({ href, children }) => {

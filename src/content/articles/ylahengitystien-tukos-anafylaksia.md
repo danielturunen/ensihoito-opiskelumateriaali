@@ -20,7 +20,7 @@ Ensihoidon painopiste on rauhoittaa ympäristö, antaa potilaan olla itselleen p
 
 Täydellinen tukos estää ilman kulun lähes kokonaan, kun osittaisessa tukoksessa potilas voi yskiä ja saada edelleen jonkin verran ilmaa. Täydellisen tukoksen merkkejä ovat äkillinen alku, tukehtumisen eleet, puhumattomuus tai erittäin heikko puhe, tehoton yskiminen ja syanoosi.
 
-Ensihoidossa arvioidaan nopeasti, onko tukos täydellinen vai osittainen, ja toimitaan tilanteen vaikeusasteen mukaan. Tajuttoman potilaan kohdalla siirrytään elvytys- ja ilmatiealgoritmien mukaisesti. Kuljetus päivystykseen on tarpeen myös onnistuneen vierasesineen poiston jälkeen, jos epäillään jäännösmateriaalia tai aspiraatiota.
+Ensihoidossa arvioidaan nopeasti, onko tukos täydellinen vai osittainen, ja toimitaan tilanteen vaikeusasteen mukaan. Tajuttoman potilaan kohdalla siirrytään elvytys- ja ilmatiealgoritmien mukaisesti. Kuljetus päivystykseen on tarpeen myös onnistuneen vierasesineen poiston jälkeen, jos epäillään jäännösmateriaalia tai aspiraatiota. Lapsen vierasesineen poistotekniikat (iskut lapaluiden väliin, rintakehän painallukset ja Heimlichin ote) on kuvattu sivulla [Lapsi ensihoidossa](topic:lapsi-ensihoidossa).
 
 ```media
 {"widget":"choking"}

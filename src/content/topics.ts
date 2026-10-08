@@ -25,7 +25,12 @@ export const topics: TopicMeta[] = [
   // --- sydan ---
   { id: 'rintakipu-ja-aks', moduleId: 'sydan', title: 'Rintakipu ja akuutti sepelvaltimotautikohtaus', summary: 'Rintakivun syyt, EKG-löydökset ja ensihoito.', readMinutes: 11, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'rytmihairiot', moduleId: 'sydan', title: 'Rytmihäiriöt', summary: 'Rytmihäiriömekanismit ja yleisimpien rytmien hoitoperiaatteet.', readMinutes: 11, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'hyperkalemia-elektrolyytit', moduleId: 'sydan', title: 'Elektrolyyttihäiriöt ja hyperkalemia', summary: 'EKG-muutokset, tyyppipotilaat ja hyperkalemian hoidon kulmakivet.', readMinutes: 8, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'case-rintakipu-704', moduleId: 'sydan', title: 'Tapaus: Rintakipu', summary: 'Harjoittele rintakipupotilaan arviointia ja päätöksentekoa.', readMinutes: 10, hasQuiz: false, hasFlashcards: false, hasScenario: true, dispatchCode: '704' },
+
+  // --- elvytys ---
+  { id: 'elvytys-sairaalan-ulkopuolella', moduleId: 'elvytys', title: 'Sydänpysähdys, mekaaninen painelu ja elvyttäen kuljetus', summary: 'Selviytymisketju, syyn hoitaminen, LUCAS-laite ja milloin kuljettaa elvyttäen.', readMinutes: 10, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'anestesiaintubaatio', moduleId: 'elvytys', title: 'Anestesiaintubaatio ensihoidossa', summary: 'Vakioitu prosessi, esihappeutus, työnjako ja epäonnistuneen intubaation suunnitelma.', readMinutes: 9, hasQuiz: true, hasFlashcards: true, hasScenario: false },
 
   // --- neurologia ---
   { id: 'tajuttomuus', moduleId: 'neurologia', title: 'Tajuttomuus', summary: 'Tajunnan säätely, tajuttomuuden syyt ja tutkiminen kentällä.', readMinutes: 12, hasQuiz: true, hasFlashcards: true, hasScenario: false },
@@ -51,10 +56,16 @@ export const topics: TopicMeta[] = [
   { id: 'rajahdysvamma', moduleId: 'trauma', title: 'Räjähdysvamma', summary: 'Räjähdyksen vammamekanismit ja triage.', readMinutes: 8, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'palovamma', moduleId: 'trauma', title: 'Palovamma', summary: 'Palovamman laajuuden arviointi ja nestehoito.', readMinutes: 8, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'irtileikkautunut-raaja', moduleId: 'trauma', title: 'Irtileikkautunut raaja (amputaatio)', summary: 'Amputaatiovamman hoito ja irronneen osan käsittely.', readMinutes: 7, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'massiivinen-verenvuoto', moduleId: 'trauma', title: 'Massiivinen verenvuoto ja verensiirto ensihoidossa', summary: 'Vamman aiheuttama hyytymishäiriö, punasolut kentälle ja verenvuodon hallinnan kokonaisuus.', readMinutes: 8, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'paan-vamma', moduleId: 'trauma', title: 'Pään vamma', summary: 'Aivovamman vaikeusasteen arviointi ja sekundaarivaurion esto.', readMinutes: 8, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'liikenneonnettomuus', moduleId: 'trauma', title: 'Vamma-liikenneonnettomuus', summary: 'Vammamekanismin tulkinta ja potilaan irrotus ajoneuvosta.', readMinutes: 8, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: '40-traumavinkkia', moduleId: 'trauma', title: '40 muistisääntöä traumapotilaan hoitoon', summary: 'Kentältä opittuja käytännön vinkkejä trauman hoitoon.', readMinutes: 10, hasQuiz: false, hasFlashcards: true, hasScenario: false },
   { id: 'case-vammapotilas-200', moduleId: 'trauma', title: 'Tapaus: Vammapotilas', summary: 'Harjoittele vammapotilaan systemaattista kohtaamista.', readMinutes: 10, hasQuiz: false, hasFlashcards: false, hasScenario: true, dispatchCode: '200' },
+
+  // --- ymparisto ---
+  { id: 'hypotermia', moduleId: 'ymparisto', title: 'Hypotermia ja hypoterminen elvytys', summary: 'Luokittelu, elonmerkkien arviointi ja elvytyksen poikkeamat kylmässä potilaassa.', readMinutes: 9, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'lampohalvaus', moduleId: 'ymparisto', title: 'Lämpöhalvaus (hypertermia)', summary: 'Tunnistaminen, riskitekijät ja välitön viilennys.', readMinutes: 6, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'sukeltajantauti', moduleId: 'ymparisto', title: 'Sukeltajantauti', summary: 'Paineen fysiikka, oireet, riskitekijät ja ensihoito ennen painekammiota.', readMinutes: 8, hasQuiz: true, hasFlashcards: true, hasScenario: false },
 
   // --- lapset ---
   { id: 'lapsi-ensihoidossa', moduleId: 'lapset', title: 'Lapsi ensihoidossa', summary: 'Lapsen fysiologiset erityispiirteet ja yleisimmät hätätilanteet.', readMinutes: 13, hasQuiz: true, hasFlashcards: true, hasScenario: false },

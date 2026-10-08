@@ -1,0 +1,8 @@
+[
+  {"id":"lh-f1","front":"Lämpöhalvauksen määritelmä","back":"Ydinlämpö yli 40 °C + keskushermoston häiriö (sekavuudesta tajuttomuuteen)."},
+  {"id":"lh-f2","front":"Lämpöhalvauksen hoidon kulmakivet","back":"Nopea tunnistaminen, peruselintoimintojen ylläpito ja välitön viilentäminen."},
+  {"id":"lh-f3","front":"Lämpöhalvauksen riskitekijöitä","back":"Ikä (lapset, yli 65 v), kuuma ja kostea ilma, kuivuminen, alkoholi, huono kunto, ylipaino, verenpaine- ja masennuslääkkeet, antihistamiinit, stimulantit, akklimatisaation puute."},
+  {"id":"lh-f4","front":"Mitä kuumuus tekee elimistölle?","back":"Kudosvaurioita yli 41,6–42 °C:ssa; tulehdusreaktio ja hyytymisen aktivaatio → endoteelivaurio, mikrotromboosit, monielinvaurio."},
+  {"id":"lh-f5","front":"Suuren kuolemanriskin merkit lämpöhalvauksessa","back":"Lämpö yli 42 °C, GCS alle 12, systolinen RR alle 90, vasoaktiivien tarve, pidentynyt hyytymisaika."},
+  {"id":"lh-f6","front":"Toimivatko lääkkeet lämpöhalvaukseen?","back":"Eivät: dantroleeni on tehoton eikä kuumelääkkeistä ole näyttöä. Hoito on viilennys."}
+]

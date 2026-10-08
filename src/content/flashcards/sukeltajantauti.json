@@ -1,0 +1,8 @@
+[
+  {"id":"dcs-f1","front":"Boylen laki sukelluksessa","back":"Kaasun tilavuus pienenee käänteisesti paineeseen: vapaasukeltajan 6 l keuhkot ovat 30 metrissä 1,5 l."},
+  {"id":"dcs-f2","front":"Henryn laki sukelluksessa","back":"Kaasu liukenee nesteeseen suhteessa paineeseen: 30 metrissä (4 atm) typpeä voi liueta nelinkertaisesti."},
+  {"id":"dcs-f3","front":"Sukeltajantaudin tyypit","back":"I lievä: iho-oireet ja nivel-/lihaskivut. II vakava: keskushermosto-, hengitys- tai verenkierto-oireet. Usein sekoitus."},
+  {"id":"dcs-f4","front":"Sukeltajantaudin riskitekijät","back":"Ylipaino, huono kunto, rasitus heti sukelluksen jälkeen, kuivuminen, PFO, lentäminen tai vuoristoon nousu sukelluspäivänä."},
+  {"id":"dcs-f5","front":"Sukeltajantaudin ensihoito","back":"100 % happi heti ja koko kuljetuksen ajan, nesteytys, kuljetus painekammiohoitoon (rekompressio + happi)."},
+  {"id":"dcs-f6","front":"DCS vs. DCI","back":"DCS = sukeltajantauti (kuplat liuenneesta kaasusta). DCI kattaa lisäksi keuhkorepeämän ja valtimoiden ilmaembolian (AGE)."}
+]

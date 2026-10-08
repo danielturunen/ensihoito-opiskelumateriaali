@@ -64,9 +64,9 @@ Lääkehiili **ei tehoa** alkoholeihin, metalleihin (rauta, litium), syanidiin e
 | Antidootti | Käyttöaihe | Huomioitavaa |
 |---|---|---|
 | Naloksoni | Opioidimyrkytys | Vaikutusaika lyhyt (noin 20–90 min); hengityslama voi uusiutua – potilas kuljetetaan aina sairaalaan |
-| Happi | Häkämyrkytys, syanidi | 100 % happea tiiviillä maskilla, nopeuttaa häkäkaasun poistumista |
+| Happi | Häkämyrkytys, syanidi | 100 % happea tiiviillä maskilla – lyhentää karboksihemoglobiinin puoliintumisajan useista tunneista noin tuntiin |
 | Glukoosi | Hypoglykemia | Anna tiamiini ennen glukoosia alkoholin suurkuluttajalle Wernicken ehkäisyyn |
-| Hydroksokobalamiini | Epäilty syanidimyrkytys (palokaasut) | Värjää ihon ja eritteet voimakkaan punaisiksi |
+| Hydroksokobalamiini | Epäilty syanidimyrkytys (palokaasut) | 5 g i.v. noin 15 minuutissa, kun altistus umpinaisessa tilassa ja tajunta heikentynyt tai hypotensio. Värjää ihon ja eritteet voimakkaan punaisiksi. Ks. [palovamma](topic:palovamma) |
 | Natriumbikarbonaatti | Trisyklisten masennuslääkkeiden aiheuttama leveäkompleksinen takykardia | Käytetään, kun QRS merkittävästi leventynyt |
 | Glukagoni | Vaikea beetasalpaaja-/kalsiumkanavansalpaajamyrkytys | Vaatii lääkärikonsultaation, aiheuttaa usein pahoinvointia |
 | Flumatseniili | Puhdas bentsodiatsepiinimyrkytys | Vältetään ensihoidossa – voi laukaista vaikean kouristelun sekamyrkytyksessä |

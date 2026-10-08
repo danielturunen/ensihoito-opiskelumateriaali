@@ -1,0 +1,8 @@
+[
+  {"id":"mv-f1","front":"Vuotavan vammapotilaan ensihoidon tavoitteet","back":"Hapenkuljetuskyky, riittävä veritilavuus ja hyytymiskyky, kunnes vuoto saadaan kirurgisesti hallintaan."},
+  {"id":"mv-f2","front":"Lävistävän vamman verenpainetavoite","back":"Lievää hypovolemiaa ja yli 80 mmHg:n systolista painetta ei korjata – vältetään hypotermiaa, laimenemista ja liiallista painetta."},
+  {"id":"mv-f3","front":"Verenvuodon hoitopaketti kentällä","back":"Lyhyt kohdeaika, ulkoisen vuodon hallinta (painesidos, hemostaattinen sidos, kiristysside), lantiovyö ja lastat, varovainen käsittely, traneksaamihappo, verivalmisteet/ennakkoaktivointi."},
+  {"id":"mv-f4","front":"Massiivisen verensiirron suhde sairaalassa","back":"Punasolut : jääplasma : trombosyytit 1:1:1. Kentällä vain punasolut."},
+  {"id":"mv-f5","front":"Punasolut kentälle – kriteerit (Satakunta)","back":"Massiivinen vuoto + pitkä kohdeaika (yli 20–30 min) tai kuljetus (yli 30 min), tai hätäkirurginen toimenpide (torakotomia, amputaatio, kenttäsektio)."},
+  {"id":"mv-f6","front":"Hätäveripaketin sisältö","back":"2–4 yksikköä ORh-negatiivisia punasoluja, veriletku, verenlämmitin, näytteenottovälineet ja -putket, tilauskaavake."}
+]

@@ -26,6 +26,14 @@ export const modules: ModuleMeta[] = [
     color: 'rose',
   },
   {
+    id: 'elvytys',
+    title: 'Elvytys ja hengitystien varmistaminen',
+    shortTitle: 'Elvytys',
+    description: 'Sydänpysähdyspotilaan hoito, mekaaninen paineluelvytys, elvyttäen kuljetus ja anestesiaintubaatio.',
+    icon: 'Zap',
+    color: 'red',
+  },
+  {
     id: 'neurologia',
     title: 'Tajuttomuus ja äkillinen yleistilan heikkeneminen',
     shortTitle: 'Neurologia',
@@ -64,6 +72,14 @@ export const modules: ModuleMeta[] = [
     description: 'Vammapotilaan tutkiminen ja eri vammamekanismien ensihoito.',
     icon: 'Bone',
     color: 'red',
+  },
+  {
+    id: 'ymparisto',
+    title: 'Ympäristöperäiset hätätilat',
+    shortTitle: 'Ympäristö',
+    description: 'Hypotermia ja hypoterminen elvytys, lämpöhalvaus sekä sukeltajantauti.',
+    icon: 'Thermometer',
+    color: 'cyan',
   },
   {
     id: 'lapset',

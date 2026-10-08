@@ -28,7 +28,7 @@ Atropiini on antikolinerginen lääke, joka salpaa asetyylikoliinin vaikutuksen 
 {"title":"Atropiini 0,5 mg i.v.","text":"Vaikutus alkaa 1–2 minuutissa ja kestää noin 30–60 minuuttia."},
 {"title":"Toista 3–5 minuutin välein tarvittaessa","text":"Enimmäisannos yleensä 3 mg."},
 {"title":"Vaste jää riittämättömäksi?","tone":"warning","branches":[
-{"label":"Kyllä","title":"Ulkoinen tahdistus tai isoprenaliini-infuusio","tone":"danger"},
+{"label":"Kyllä","title":"Ulkoinen tahdistus tai isoprenaliini- (tai adrenaliini-) infuusio","text":"Atropiinille reagoimaton leveäkompleksinen bradykardia: muista hyperkalemia.","tone":"danger"},
 {"label":"Ei","title":"Seuraa sykettä ja oireita","tone":"ok"}
 ]}
 ]}
@@ -43,7 +43,7 @@ Atropiinia ei anneta, jos potilaalla on takykardia (syke yli 100/min) tai tuore 
 Tavallisia haittoja ovat takykardia, suun kuivuminen, pupillien laajeneminen ja näön sumentuminen. [Etuseinäinfarktiin](topic:rintakipu-ja-aks) liittyvä johtumishäiriö vastaa atropiinille usein huonommin kuin alaseinäinfarktin vagaalinen bradykardia, koska taustalla on tyypillisesti rakenteellinen johtumisvika.
 
 > [!tip] Jos vaste jää riittämättömäksi
-> Valmistaudu ulkoiseen tahdistukseen ja harkitse isoprenaliini-infuusiota, jos atropiini ei nosta sykettä tai oireet jatkuvat annostoistoista huolimatta.
+> Valmistaudu ulkoiseen tahdistukseen ja harkitse isoprenaliini- tai adrenaliini-infuusiota, jos atropiini ei nosta sykettä tai oireet jatkuvat annostoistoista huolimatta. Jos potilas on munuaispotilas, asidoottinen tai käyttää kaliumia säästävää diureettia, muista [hyperkalemia](topic:hyperkalemia-elektrolyytit) – se voi aiheuttaa atropiinille reagoimattoman bradykardian.
 
 ## Muista tämä -kertaus
 

@@ -74,6 +74,8 @@ export const widgetMeta: Record<string, WidgetMeta> = {
   'alcohol-organs': { title: 'Alkoholin aiheuttamat elinvauriot', kind: 'Interaktiivinen kuva' },
   'gi-bleed': { title: 'GI-verenvuoto: mistä veri tulee?', kind: 'Animaatio' },
   'heat-loss': { title: 'Lämpötalous kentällä', kind: 'Interaktiivinen kuva' },
+  'hyperkalemia-ecg': { title: 'Hyperkalemia EKG:ssä', kind: 'Animaatio' },
+  'dive-pressure': { title: 'Paine, keuhkot ja liuennut typpi', kind: 'Interaktiivinen kuva' },
 }
 
 const cache = new Map<string, LazyExoticComponent<ComponentType<WidgetProps>>>()

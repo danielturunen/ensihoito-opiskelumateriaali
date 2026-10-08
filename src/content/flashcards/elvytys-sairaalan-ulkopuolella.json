@@ -1,0 +1,9 @@
+[
+  {"id":"elv-f1","front":"Sydänpysähdyksen selviytymisketjun avaintekijät","back":"Hätäkeskuksen tunnistus ja elvytysohjeet, maallikkoelvytys, varhainen defibrillaatio (myös AED), laadukas hoitoelvytys, syyn hoito ja elvytyksen jälkeinen hoito."},
+  {"id":"elv-f2","front":"Ultraäänellä ja vieritesteillä löydettäviä hoidettavia syitä","back":"Massiivinen keuhkoembolia, sydäntamponaatio, hypovolemia, ilmarinta/jänniteilmarinta, asidoosi, elektrolyyttihäiriöt."},
+  {"id":"elv-f3","front":"Vammapotilaan elvytys","back":"Ellei kuolettava vamma: ventilaatio → torakosenteesi/torakostomiat → harkiten torakotomia lävistävässä vammassa alle 10 min pysähdyksestä (tamponaation purku)."},
+  {"id":"elv-f4","front":"Mekaanisen painelulaitteen hyödyt","back":"Turvallinen tehokas painelu kuljetuksessa, vapauttaa käsiä ja johtajan ajattelukapasiteettia, hyvä verenkierto (EtCO2 lähes normaali)."},
+  {"id":"elv-f5","front":"LUCAS – kriittiset kohdat","back":"Elektrodit ja hengitystie ennen. Koordinoitu vaihto. Imukupin alareuna rintalastan pään yläpuolelle. 30:2 ilman tiivistä hengitystietä. Niskahihna, paikka tussilla, rytmintarkistus PAUSE 2 min välein."},
+  {"id":"elv-f6","front":"Elvyttäen kuljetuksen aiheet","back":"Hoidettava syy sairaalassa: vaikea hypotermia (ECMO), toistuva VF (PCI), massiivinen keuhkoembolia, valikoidut myrkytykset. Suotuisaa: nähty pysähdys, tehokas maallikkoelvytys, iskettävä rytmi."},
+  {"id":"elv-f7","front":"Hyvän aivoperfuusion merkit elvytyksen aikana","back":"Korkea uloshengityksen CO2, spontaani hengitys, liikehdintä ja silmien avaaminen."}
+]

@@ -6,12 +6,12 @@ Interaktiivinen opiskelumateriaali ensihoitaja (AMK) -opiskelijalle. Sisältää
 
 ## Mitä sisältää
 
-- 13 aihealuetta, ~40 aihekohtaista opassivua (hengitysvaikeus, trauma, sydän ja verenkierto, tajuttomuus, lapsi ensihoidossa, lääkehoito ym.)
+- 15 aihealuetta, 50 aihesivua (hengitysvaikeus, trauma, sydän ja verenkierto, elvytys ja anestesiaintubaatio, ympäristöperäiset hätätilat, tajuttomuus, lapsi ensihoidossa, lääkehoito ym.)
 - Tietovisat jokaiselle aiheelle + erillinen **tenttitila**, jossa oikeat vastaukset paljastuvat vasta lopussa
 - Kertauskortit yksinkertaisella Leitner-tyyppisellä kertausaikataululla
 - Potilastapausharjoitukset (skenaariot), joissa edetään hälytystiedoista hoitopäätökseen
 - Koko sisällön kattava haku
-- **Oppimista tukeva multimedia** artikkelien sisällä (99 elementtiä, 53 tyyppiä): animoidut anatomia- ja mekanismikuvat (johtoratajärjestelmä, ilmarinta, keuhkorakkula, hengitystiet, sepelvaltimotauti, aortokavaalinen kompressio, insuliini ja ketoasidoosi, nitraatti + CPAP, sydäntamponaatio, atropiini, ondansetroni, lämmin vs. kylmä sokki, hengityskuviot), toimenpidesarjat (synnytyksen avustaminen, jälkeisvaihe), EKG-rytmikirjasto tunnistusharjoituksella, laskurit (GCS, NEWS2, sokki-indeksi, QTc, CPP, Apgar, 9:n sääntö), annoslaskuharjoitukset, hoitokaaviot, aikajanat, muistisäännöt, yhdistelytehtävät ja ruotsin fraasisanasto ääntämisineen
+- **Oppimista tukeva multimedia** artikkelien sisällä (120 elementtiä, 55 tyyppiä): animoidut anatomia- ja mekanismikuvat (johtoratajärjestelmä, ilmarinta, keuhkorakkula, hengitystiet, sepelvaltimotauti, aortokavaalinen kompressio, insuliini ja ketoasidoosi, nitraatti + CPAP, sydäntamponaatio, atropiini, ondansetroni, lämmin vs. kylmä sokki, hengityskuviot), toimenpidesarjat (synnytyksen avustaminen, jälkeisvaihe), EKG-rytmikirjasto tunnistusharjoituksella, laskurit (GCS, NEWS2, sokki-indeksi, QTc, CPP, Apgar, 9:n sääntö), annoslaskuharjoitukset, hoitokaaviot, aikajanat, muistisäännöt, yhdistelytehtävät ja ruotsin fraasisanasto ääntämisineen
 - **Potilasmonitori** tapausharjoituksissa: pulssi- ja hengityskäyrä sekä vitaaliarvot vaihe vaiheelta tapauksen tekstin mukaan, hälytysvärit NEWS2-rajoista
 - **Kuuntele**-toiminto: artikkelin voi kuunnella ääneen (laitteen oma puhesynteesi, toimii offline)
 - Opiskelun eteneminen, suosikit ja tietovisatulokset tallentuvat laitteen `localStorage`iin — ei kirjautumista

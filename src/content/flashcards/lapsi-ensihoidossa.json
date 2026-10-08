@@ -8,7 +8,7 @@
   { "id": "lapsi-ensihoidossa-f7", "front": "Miksi lapsi voi saada vakavan sisäelinvamman pienemmällä energialla kuin aikuinen?", "back": "Lasten lihakset ovat ohuemmat, luusto joustavampaa ja rintakehä suurelta osin rustoa." },
   { "id": "lapsi-ensihoidossa-f8", "front": "Kuinka suuren osan verivolyymista lapsi voi menettää ennen verenpaineen laskua?", "back": "Jopa 50 %." },
   { "id": "lapsi-ensihoidossa-f9", "front": "Onko lapsen verenpaineen lasku varhainen vai myöhäinen sokin merkki?", "back": "Myöhäinen merkki – ennakoi pian tapahtuvaa elvytystilannetta." },
-  { "id": "lapsi-ensihoidossa-f10", "front": "Mikä on sokin nestehoidon alkuannos lapselle?", "back": "20 ml/kg isotonista nestettä (Ringer tai 0,9 % keittosuola) boluksena." },
+  { "id": "lapsi-ensihoidossa-f10", "front": "Mikä on sokin nestehoidon alkuannos lapselle?", "back": "10 ml/kg isotonista nestettä boluksina vastetta tarkkaillen, ahkerasti toistaen (aiemmin 20 ml/kg)." },
   { "id": "lapsi-ensihoidossa-f11", "front": "Mitkä nesteet eivät sovi vammapotilaan sokin hoitoon lapsella?", "back": "Sokeriliuokset ja hypotoninen keittosuolaliuos." },
   { "id": "lapsi-ensihoidossa-f12", "front": "Mitä tehdään, jos lapsen suoniyhteyttä ei saada avattua muutamalla yrityksellä sokissa?", "back": "Siirrytään luunsisäiseen (intraosseaali-) infuusioon." },
   { "id": "lapsi-ensihoidossa-f13", "front": "Mikä on huolestuttava red flag -löydös lapsen kanyloinnin/mittauksen yhteydessä?", "back": "Jos lapsi ei vastustele toimenpidettä tai nukahtaa heti sen jälkeen – viittaa vakavaan sairauteen." },

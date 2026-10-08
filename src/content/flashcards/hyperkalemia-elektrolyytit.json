@@ -1,0 +1,9 @@
+[
+  {"id":"hk-f1","front":"Hyperkalemian vaikeusasteet (P-K)","back":"Lievä 5,5–6,0, kohtalainen 6,1–7,5, vaikea yli 7,5 mmol/l. Normaali noin 3,5–5,0 mmol/l."},
+  {"id":"hk-f2","front":"Hyperkalemian EKG-muutokset järjestyksessä","back":"Korkea piikkimäinen T → PQ pitenee, P madaltuu ja katoaa → QRS levenee → sinikäyrä (S ja T sulautuvat)."},
+  {"id":"hk-f3","front":"Hyperkalemian hoidon kulmakivet","back":"1) Suojaa sydäntä (kalsiumglukonaatti) 2) aja kalium soluihin (glukoosi-insuliini, salbutamoli, bikarbonaatti) 3) poista kalium (diureesi, kationinvaihtaja, dialyysi) 4) tarkkaile K ja glukoosi 5) estä uusiutuminen."},
+  {"id":"hk-f4","front":"Hyperkalemian tyyppipotilaat","back":"Munuaispotilaat (dialyysi, virtsantulon loppuminen), diabeetikot (DKA), kuivuneet, pitkään maanneet (rabdomyolyysi), kaliumia säästävät diureetit/ACE-estäjät/kaliumtabletit."},
+  {"id":"hk-f5","front":"Hyperkalemian oireet","back":"Epämääräiset: lihasheikkous jopa halvaukseen asti, huono olo, hikoilu, rytmihäiriöt ja -tuntemukset."},
+  {"id":"hk-f6","front":"Hypokalemian EKG","back":"Yleensä K alle 3 mmol/l: T madaltuu tai kääntyy, U-aalto ilmaantuu (voi jäljitellä pitkää QT:tä). Tavallisin syy diureetit."},
+  {"id":"hk-f7","front":"Hyperkalemia elvytyksessä","back":"Varmista kalium, kalsiumglukonaatti 10 % 10 ml, insuliini 10 IU + glukoosi 25 g, bikarbonaatti 50 mmol vaikeassa asidoosissa, harkitse elvyttäen kuljetusta dialyysiin."}
+]

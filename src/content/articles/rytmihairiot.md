@@ -91,7 +91,7 @@ Kääntyvien kärkien kammiotakykardia (torsades de pointes) syntyy varhaisen j�
 Jos sinussolmukkeen toiminta tai eteis-kammiojohtuminen häiriintyy, syke voi laskea niin matalaksi, ettei iskutilavuus riitä ylläpitämään verenpainetta. Hoito etenee kahden kysymyksen kautta:
 
 1. Onko hengenvaaran merkkejä (sokki, tajunnanmenetys, iskemia, vajaatoiminta)? Kyllä → [atropiini](topic:atropiini) 0,5 mg i.v. tai ulkoinen tahdistus.
-2. Onko asystolen riskiä (Mobitz II -katkos, totaali AV-katkos, kammiotauko yli 3 s)? Kyllä → lääkehoito tai tahdistus on tarpeen; riittämättömällä atropiinivasteella harkitaan adrenaliini-infuusiota tai ulkoista tahdistusta.
+2. Onko asystolen riskiä (Mobitz II -katkos, totaali AV-katkos, kammiotauko yli 3 s)? Kyllä → lääkehoito tai tahdistus on tarpeen; riittämättömällä atropiinivasteella harkitaan adrenaliini- tai isoprenaliini-infuusiota tai ulkoista tahdistusta. Muista, että atropiinille reagoimattoman, leveäkompleksisen bradykardian taustalla voi olla [hyperkalemia](topic:hyperkalemia-elektrolyytit).
 
 ```media
 {"widget":"flow","title":"Hidas rytmihäiriö – kaksi kysymystä","steps":[
@@ -100,7 +100,7 @@ Jos sinussolmukkeen toiminta tai eteis-kammiojohtuminen häiriintyy, syke voi la
 {"label":"Ei","title":"Siirry seuraavaan kysymykseen","tone":"neutral"}
 ]},
 {"title":"Onko asystolen riskiä?","text":"Mobitz II -katkos, totaali AV-katkos tai kammiotauko yli 3 s.","tone":"warning","branches":[
-{"label":"Kyllä","title":"Lääkehoito tai tahdistus","text":"Riittämätön atropiinivaste → adrenaliini-infuusio tai ulkoinen tahdistus.","tone":"danger"},
+{"label":"Kyllä","title":"Lääkehoito tai tahdistus","text":"Riittämätön atropiinivaste → adrenaliini- tai isoprenaliini-infuusio tai ulkoinen tahdistus. Muista hyperkalemia.","tone":"danger"},
 {"label":"Ei","title":"Jatka arviota (ABCDE on jatkuva kehä)","tone":"ok"}
 ]}
 ]}

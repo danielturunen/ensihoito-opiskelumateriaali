@@ -23,7 +23,7 @@ const DRUGS: Drug[] = [
   { id: 'ketamiini', name: 'S-ketamiini i.v.', perKg: 0.125, perKgMax: 0.25, unit: 'mg' },
   { id: 'atropiini', name: 'Atropiini i.v.', perKg: 0.02, unit: 'mg', min: 0.1, max: 0.5, note: 'vähintään 0,1 mg, enintään 0,5 mg kerta-annoksena' },
   { id: 'ondansetroni', name: 'Ondansetroni i.v. (yli 6 kk)', perKg: 0.1, unit: 'mg', max: 4, note: 'enintään 4 mg' },
-  { id: 'bolus', name: 'Nestebolus sokissa', perKg: 20, unit: 'ml', note: 'isotoninen neste (Ringer tai 0,9 % NaCl), toistettavissa' },
+  { id: 'bolus', name: 'Nestebolus sokissa', perKg: 10, unit: 'ml', note: 'isotoninen neste, toistetaan vastetta tarkkaillen' },
   { id: 'palo', name: 'Palovamman nestehoito', perKg: 20, unit: 'ml/h', note: 'vaikea palovamma (ei kuuman veden aiheuttama)' },
   { id: 'hiili', name: 'Lääkehiili', perKg: 1, unit: 'g', note: 'tehoaa parhaiten tunnin sisällä' },
 ]

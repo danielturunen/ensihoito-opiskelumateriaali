@@ -12,6 +12,8 @@ import {
   Bug,
   Pill,
   GraduationCap,
+  Zap,
+  Thermometer,
   HelpCircle,
   type LucideProps,
 } from 'lucide-react'
@@ -31,6 +33,8 @@ const registry: Record<string, React.ComponentType<LucideProps>> = {
   Bug,
   Pill,
   GraduationCap,
+  Zap,
+  Thermometer,
 }
 
 export function Icon({ name, ...props }: { name: string } & LucideProps) {
