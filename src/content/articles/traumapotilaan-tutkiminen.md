@@ -89,6 +89,10 @@ Kun peruselintoiminnot on saatu hallintaan, tehdään tarkempi tutkimus, jonka t
 > [!tip] Muista tämä
 > Täydennetty tilannearvio ei saa koskaan viivyttää kuljetusta, jos potilaalla on hallitsematon verenvuoto tai muu välitön hengenvaara – nämä tilanteet ratkaistaan "load and go" -periaatteella.
 
+## Lantiovamma (European Trauma Course)
+
+Epävakaa lantiorenkaan murtuma on hengenvaarallinen vamma – välitön uhka on verenvuoto. Lantion **keikuttelua tai jousto­testiä ei enää suositella**, koska se voi irrottaa jo muodostuneen hyytymän ja lisätä vuotoa; suoliluun harjanteet ja häpyluu voi tunnustella varovasti arkuuden toteamiseksi, ja tämä tehdään vain kerran. Etsi myös pehmytkudosvammoja: haavoja suoliluun harjanteilla ja ihonalaisia irtoamia (Morel-Lavallée) ison sarvennoisen ja reiden yläosan seudussa sekä lantion takana. **Lantiovyö asetetaan heti, kun epävakaata lantiomurtumaa epäillään** – sen puuttuessa lakana toimii samoin. Vyö pienentää lantion tilavuutta ja estää liikkeitä käsittelyn ja kuljetuksen aikana, ja vatsa jää vapaaksi toimenpiteille.
+
 ## Rangan tukeminen – vähemmän on joskus enemmän
 
 Vammapotilaan rutiinimaisen rangan tukemisen hyötyjä ja haittoja on tutkittu paljon, ja osassa maista kovasta kauluristakin on luovuttu. Tukeminen voi haitata, jos se viivästyttää henkeä uhkaavien tilojen hoitoa (vuodon tyrehdytys, paineilmarinnan purku) tai kuljetusta, ja pitkittyessään se altistaa kylmälle (Björkman ym. 2023).

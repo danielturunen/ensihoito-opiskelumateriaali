@@ -134,6 +134,14 @@ Kuuma neste on lasten palovammojen yleisin aiheuttaja. Lapsella pää on suhtees
 {"widget":"rule-of-nines","age":"child"}
 ```
 
+> [!info] Lapsen vammapotilas (European Trauma Course)
+> - **Painon arvio**: 1–12 kk (0,5 × ikä kuukausina) + 4 · 1–5 v (2 × ikä vuosina) + 8 · 6–12 v (3 × ikä vuosina) + 7.
+> - Lapsi kompensoi vuotoa takykardialla ja voimakkaalla vasokonstriktiolla, joten verenpaine pysyy pitkään vakaana, kunnes verenkierto romahtaa äkillisesti – **sallittua hypotensiota ei käytetä lapsella**, vaan tavoitteena on normaali verenpaine.
+> - Keuhkoruhjeet ovat lasten tavallisin rintakehävamma, ja merkittävä sisäinen vamma voi olla ilman ulkoisia merkkejä.
+> - Imeväisen päänahan haava voi vuotaa merkittävästi.
+> - Lantiovammassa ennen murrosikää hematooma pysyy usein vahvan luukalvon sisällä, joten massiivivuoto on harvinaisempaa – lantiovyö (oikea koko) asetetaan silti, jos mekanismi tai löydökset viittaavat.
+> - Lisähappi, jos SpO₂ on alle 95 %. Kipuun sopii hyvin nenään annettava fentanyyli.
+
 ## Kivunhoito
 
 Kivun arviointi on erityisen vaikeaa pienellä, etenkin alle 4-vuotiaalla lapsella, joka ei pysty paikantamaan kipua ja saattaa reagoida siihen yllättävällä, omalle persoonalleen epätyypillisellä tavalla – esimerkiksi muuttumalla hiljaiseksi. Vanhempien tai muun lapsen hyvin tuntevan aikuisen havainnot käytöksen muutoksista ovat arvokkaita.

@@ -62,10 +62,42 @@ Tilannejohtajan on kommunikoitava yksiselitteisesti ja kohdennetusti. Yleistys "
 
 Monipotilastilanteessa potilaita on vähintään kolme, mutta suuronnettomuuden kriteerit eivät täyty; tilastollisesti yleisimpiä ovat tieliikenneonnettomuudet ja huoneistopalot. **Kohteeseen saavuttuaan ensihoidon tilannejohtajan ensimmäinen tehtävä on oma tilannetiedustelu**: hän käy yksiköt läpi, saa lyhyen raportin potilaista ja arvioi, riittävätkö resurssit – lisäapua kannattaa pyytää varhain, koska tavoittamisviive voi olla pitkä. Moniviranomaistehtävässä tilannejohtaja viestii omalla toimintapuheryhmällään yksiköilleen ja yhteistoimintapuheryhmällä pelastustoiminnan johtajan ja poliisin kenttäjohtajan kanssa; viestiliikenteen kasvaessa avuksi voidaan nimetä viestimies.
 
+## Ei-tekniset taidot: CRM:n 15 periaatetta
+
+European Trauma Course -manuaali (ETC) korostaa, että traumapotilaan hoidossa virheet syntyvät useammin ei-teknisissä taidoissa – kommunikaatiossa, tilannetietoisuudessa ja päätöksenteossa – kuin käden taidoissa. Sen CRM-periaatteet (Crew Resource Management, Rall ja Gaba):
+
+```media
+{"widget":"checklist","title":"CRM:n 15 periaatetta","prompt":"Käy läpi oman tiimisi edellinen tehtävä: mitkä toteutuivat?","rule":{"type":"atLeast","n":15},"items":[
+{"label":"1. Tunne ympäristö – resurssit ja välineet ennen potilasta"},
+{"label":"2. Ennakoi ja suunnittele"},
+{"label":"3. Pyydä apua ajoissa – se ei ole heikkoutta"},
+{"label":"4. Johda ja seuraa johtajaa – jämäkästi"},
+{"label":"5. Jaa työkuorma – johtaja pysyy \"kädet irti\""},
+{"label":"6. Mobilisoi resurssit varhain (esim. massiivivuotoprotokolla)"},
+{"label":"7. Kommunikoi tehokkaasti – sano ääneen"},
+{"label":"8. Käytä kaikkea saatavilla olevaa tietoa"},
+{"label":"9. Estä ja hallitse fiksaatiovirheet – hae \"uudet silmät\""},
+{"label":"10. Ristiintarkista – älä oleta mitään"},
+{"label":"11. Käytä kognitiivisia apuvälineitä (tarkistuslistat, laskurit)"},
+{"label":"12. Arvioi toistuvasti uudelleen (10-for-10)"},
+{"label":"13. Tee hyvää tiimityötä – koordinoi ja tue muita"},
+{"label":"14. Kohdista huomio viisaasti"},
+{"label":"15. Aseta prioriteetit dynaamisesti"}
+],
+"met":{"title":"Kaikki 15 toteutuivat","text":"Hienoa – kirjaa, mikä toimi, ja käytä samaa mallia jatkossakin.","tone":"ok"},
+"notMet":{"title":"Kehityskohteita löytyi","text":"Valitse yksi puuttuva periaate ja harjoittele sitä seuraavassa simulaatiossa.","tone":"neutral"}}
+```
+
+> [!tip] STOP – "10 sekuntia 10 minuutin edestä"
+> Kun tilanne on kiireinen, johtaja ylikuormittuu tai tiimi tuntee olevansa jumissa, johtaja julistaa aikalisän: kerrataan löydökset jäsennellysti (esim. ABCDE), pyydetään tiimiltä ehdotuksia, sovitaan työdiagnoosi ja seuraavat askeleet ja jaetaan tehtävät uudelleen. Lyhyt tauko säästää pitkän turhan toiminnan. Muistilista: **Ongelma? Tiimi? Faktat? Suunnitelma! Jaa tehtävät! Kysymyksiä?** (ETC).
+
+**Fiksaatiovirhe** syntyy, kun toiminta perustuu väärään mielikuvaan tilanteesta. Paras lääke on uusi näkökulma: henkilö, joka ei tiedä aiempia (virheellisiä) oletuksia, tai tietoinen ajatus "tulen huoneeseen nyt ensimmäistä kertaa". **Ristiintarkistus**: sykkeestä on usein kolme lähdettä (EKG, pulssioksimetri, tunnusteltu pulssi) – vertaa niitä.
+
 ## Muista tämä -kertaus
 
 - Johtamista tarvitaan myös yhden potilaan tehtävässä – se on tilannekuvan luomista, priorisointia, delegointia ja kommunikointia.
 - Ensihoidon tilannejohtajan rooli on kaksitahoinen: johtaa ja hoitaa – varo putkinäköä, ajattele ääneen.
 - Autoritaarinen johtaminen sopii monipotilastilanteeseen, demokraattinen yhden potilaan tehtävään.
 - Johtamisprosessi: tilannearvio → päätös → käsky → valvonta; päätöksenteon tukena FOR-DEC.
+- CRM: pyydä apua ajoissa, älä oleta mitään, STOP eli 10 sekuntia 10 minuutin edestä.
 - Käsky nimetylle henkilölle, toisto ja kuittaus – suljettu viestintäkehä.

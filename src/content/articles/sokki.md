@@ -101,7 +101,7 @@ Nestettä on, mutta väärässä paikassa: suonet laajenevat, niiden läpäisevy
 | **Anafylaktinen** | Altistuksen poisto, ilmatie ja happi, adrenaliini 0,5 mg i.m. (vaikeassa tilanteessa lääkärin ohjeella 0,05 mg i.v. boluksina), nesteet, kortisoni. Ks. [anafylaksia](topic:ylahengitystien-tukos-anafylaksia). |
 | **Septinen** | Happi, CPAP/NIV, runsas i.v.-nesteytys alkuvaiheessa, noradrenaliini, varhaiset antibiootit. Ks. [sepsis](topic:infektiosairaudet). |
 | **Palovamma** | Turvotus ja haihtuminen ihon läpi, mahdollinen häkä- tai palokaasumyrkytys. Happi 100 %, i.v.-nesteytys (esim. 1000 ml/h kahden ensimmäisen tunnin ajan), lämpötalous, kivunhoito. Ks. [palovamma](topic:palovamma). |
-| **Neurogeeninen** | Selkäydinvammaan liittyvä harvinaisempi muoto: suonten hermotuksen toimintahäiriö laajentaa ääreissuonet. |
+| **Neurogeeninen** | Selkäydinvammaan liittyvä harvinaisempi muoto. ETC:n mukaan se syntyy yli T6-tason vammassa: sympaattinen hermotus katoaa, ääreissuonet laajenevat ja verenpaine laskee. Yli T2-tason vammassa mukana on myös **bradykardia**, koska sydämen sympaattinen hermotus menetetään. Ei sekoiteta selkäydinsokkiin. Hoitona voidaan tarvita vasopressoreita; glukoosia sisältäviä nesteitä ei anneta. |
 
 ## Muista tämä -kertaus
 
