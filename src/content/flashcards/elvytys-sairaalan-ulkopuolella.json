@@ -1,9 +1,13 @@
 [
   {"id":"elv-f1","front":"Sydänpysähdyksen selviytymisketjun avaintekijät","back":"Hätäkeskuksen tunnistus ja elvytysohjeet, maallikkoelvytys, varhainen defibrillaatio (myös AED), laadukas hoitoelvytys, syyn hoito ja elvytyksen jälkeinen hoito."},
   {"id":"elv-f2","front":"Ultraäänellä ja vieritesteillä löydettäviä hoidettavia syitä","back":"Massiivinen keuhkoembolia, sydäntamponaatio, hypovolemia, ilmarinta/jänniteilmarinta, asidoosi, elektrolyyttihäiriöt."},
-  {"id":"elv-f3","front":"Vammapotilaan elvytys","back":"Ellei kuolettava vamma: ventilaatio → torakosenteesi/torakostomiat → harkiten torakotomia lävistävässä vammassa alle 10 min pysähdyksestä (tamponaation purku)."},
+  {"id":"elv-f3","front":"Vammapotilaan elvytys","back":"Ellei kuolettava vamma: ventilaatio, vuodon tyrehdytys ja verituotteet, TXA 1 g/10 min (< 3 h), torakostomia (tehokkaampi kuin neula) → harkiten torakotomia lävistävässä vammassa, jos avoin sydänhieronta alkaa 15 min kuluessa."},
   {"id":"elv-f4","front":"Mekaanisen painelulaitteen hyödyt","back":"Turvallinen tehokas painelu kuljetuksessa, vapauttaa käsiä ja johtajan ajattelukapasiteettia, hyvä verenkierto (EtCO2 lähes normaali)."},
   {"id":"elv-f5","front":"LUCAS – kriittiset kohdat","back":"Elektrodit ja hengitystie ennen. Koordinoitu vaihto. Imukupin alareuna rintalastan pään yläpuolelle. 30:2 ilman tiivistä hengitystietä. Niskahihna, paikka tussilla, rytmintarkistus PAUSE 2 min välein."},
   {"id":"elv-f6","front":"Elvyttäen kuljetuksen aiheet","back":"Hoidettava syy sairaalassa: vaikea hypotermia (ECMO), toistuva VF (PCI), massiivinen keuhkoembolia, valikoidut myrkytykset. Suotuisaa: nähty pysähdys, tehokas maallikkoelvytys, iskettävä rytmi."},
-  {"id":"elv-f7","front":"Hyvän aivoperfuusion merkit elvytyksen aikana","back":"Korkea uloshengityksen CO2, spontaani hengitys, liikehdintä ja silmien avaaminen."}
+  {"id":"elv-f7","front":"Hyvän aivoperfuusion merkit elvytyksen aikana","back":"Korkea uloshengityksen CO2, spontaani hengitys, liikehdintä ja silmien avaaminen."},
+  {"id":"elv-f8","front":"Aikuisen hoitoelvytyksen lääkkeet (iskettävä rytmi)","back":"3. iskun jälkeen adrenaliini 1 mg + amiodaroni 300 mg; 5. iskun jälkeen amiodaroni 150 mg; adrenaliini 3–5 min välein. Vaihtoehto: lidokaiini 100 / 50 mg."},
+  {"id":"elv-f9","front":"Painelun laatu aikuisella","back":"Rintalastan alaosa, 5–6 cm, 100–120/min, painelija vaihtuu 2 min välein, 30:2 ilman varmistettua hengitystietä; varmistettuna ventilaatio 10/min."},
+  {"id":"elv-f10","front":"ROSC-tavoitteet","back":"SpO₂ 94–98 %, PaCO₂ 4,5–6 kPa, MAP > 65 mmHg, kuumeen esto < 37,8 °C 72 h, ei kylmiä nesteitä ensihoidossa, ST-nousu → PCI."},
+  {"id":"elv-f11","front":"Elvytyksen lopettaminen","back":"Pidättäydy: vaara auttajalle, kuolettava vamma / kuoleman merkit, tahdonilmaisu tai hoitosuunnitelma. Harkitse: asystole 20 min hoitoelvytyksen jälkeen ilman hoidettavaa syytä."}
 ]

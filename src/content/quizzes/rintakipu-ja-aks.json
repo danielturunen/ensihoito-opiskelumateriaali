@@ -67,9 +67,9 @@
     "id": "rintakipu-ja-aks-q9",
     "type": "mcq",
     "question": "Milloin STEMI-potilaalle valitaan ensisijaisesti liuotushoito pallolaajennuksen (PCI) sijaan?",
-    "options": ["Kun potilas on yli 80-vuotias", "Kun PCI-viive olisi liian pitkä ja oireet ovat alkaneet alle 2-3 tuntia sitten", "Kun potilaalla on kardiogeeninen sokki", "Aina ensisijaisesti, PCI on vara-vaihtoehto"],
+    "options": ["Kun potilas on yli 80-vuotias", "Kun primaari-PCI:tä ei saada toteutettua 120 minuutin kuluessa STEMI-diagnoosista", "Kun potilaalla on kardiogeeninen sokki", "Aina ensisijaisesti, PCI on vara-vaihtoehto"],
     "correctIndex": 1,
-    "explanation": "PCI on ensisijainen hoitomuoto, kun se on saatavilla kohtuullisessa viiveessä. Liuotushoitoa harkitaan, kun PCI-viive olisi liian pitkä ja oireiden alusta on kulunut vain vähän aikaa (parhaimmillaan alle 2-3 h)."
+    "explanation": "Käypä hoito: PCI on ensisijainen, jos se toteutuu 120 minuutin kuluessa. Muuten liuotus 10 minuutin kuluessa diagnoosista – teho heikkenee selvästi 3 tunnin jälkeen oireiden alusta, eikä yli 12 tunnin jälkeen ole hyötyä."
   },
   {
     "id": "rintakipu-ja-aks-q10",

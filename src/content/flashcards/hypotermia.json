@@ -1,8 +1,8 @@
 [
   {"id":"hyp-f1","front":"Hypotermian luokittelu","back":"Alle 35 °C. Lievä 32–35 °C, kohtalainen 30–32 °C, vaikea alle 30 °C."},
   {"id":"hyp-f2","front":"Rytmihäiriöt ja ydinlämpö","back":"Alle 30 °C vaikeat rytmihäiriöt mahdollisia, liikuttelu voi laukaista VF:n. Alle 25 °C yleensä kammiovärinä ja lopulta asystole."},
-  {"id":"hyp-f3","front":"Defibrillaatio hypotermiassa","back":"Yksi isku (Käypä hoito; ERC kolme) ja 2 min painelua. Jos VF jatkuu, iskuista pidättäydytään kunnes ydinlämpö yli 30 °C."},
-  {"id":"hyp-f4","front":"Lääkkeet hypotermisessa elvytyksessä","back":"Ei amiodaronia alle 30 °C. Adrenaliinin annosväli kaksinkertaiseksi 30–35 °C:ssa. Ei-defibrilloitavissa rytmeissä vain alkuadrenaliini."},
+  {"id":"hyp-f3","front":"Defibrillaatio hypotermiassa","back":"Jos kammiovärinä jatkuu kolmannen iskun jälkeen, uusista iskuista pidättäydytään kunnes ydinlämpö on yli 30 °C (Käypä hoito 2021)."},
+  {"id":"hyp-f4","front":"Lääkkeet hypotermisessa elvytyksessä","back":"Ei adrenaliinia alle 30 °C. Yli 30 °C adrenaliinin antoväli 6–10 min. Lämmitys ensisijaisesti ECMO:lla."},
   {"id":"hyp-f5","front":"Milloin hypotermista ei elvytetä?","back":"Kuolettava vamma, kuolemaan johtava perussairaus, pitkittynyt hapenpuute elottomuuden syynä tai rintakehää ei voi painella. Auttajan turvallisuus ensin."},
   {"id":"hyp-f6","front":"Ajoittainen painelu hypotermiassa","back":"Alle 28 °C tai tuntematon: 5 min PPE, tauko enintään 5 min. Alle 20 °C: 5 min PPE, tauko enintään 10 min."},
   {"id":"hyp-f7","front":"Miksi hypotermiseen sydänpysähdykseen kannattaa satsata?","back":"Kylmä suojaa aivoja: 20 °C:ssa sietokyky moninkertainen. Pisin elvytys, josta toivuttu täysin, 6,5 h; alin selvitty lämpö 13,7 °C."}

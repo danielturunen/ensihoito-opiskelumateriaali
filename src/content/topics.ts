@@ -72,6 +72,7 @@ export const topics: TopicMeta[] = [
 
   // --- raskaus ---
   { id: 'raskaana-oleva-synnyttaja', moduleId: 'raskaus', title: 'Raskaana oleva ja synnyttäjä ensihoidossa', summary: 'Raskausajan hätätilanteet ja synnytyksen kohtaaminen kentällä.', readMinutes: 12, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'raskauden-verenvuodot', moduleId: 'raskaus', title: 'Raskaudenaikaiset verenvuodot ja hätätilanteet', summary: 'Kohdunulkoinen raskaus, ablaatio, etisistukka, pre-eklampsia ja napanuoran esiinluiskahdus.', readMinutes: 10, hasQuiz: true, hasFlashcards: true, hasScenario: false },
 
   // --- infektiot ---
   { id: 'infektiosairaudet', moduleId: 'infektiot', title: 'Infektiosairaudet ja sepsis', summary: 'Sepsiksen tunnistaminen ja tavallisimmat infektioperäiset hätätilanteet.', readMinutes: 11, hasQuiz: true, hasFlashcards: true, hasScenario: false },

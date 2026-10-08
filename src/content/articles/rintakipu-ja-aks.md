@@ -75,10 +75,12 @@ Esitiedoissa selvitetään kivun luonne, alku, säteily ja vaste nitraatille sek
 
 ## Sepelvaltimoperäisen rintakivun perushoito
 
+Käypä hoito -suosituksen (Sepelvaltimotautikohtaus, päivitetty 2026) mukaan **15–16-kytkentäinen EKG** (12 kytkentää + V4R ja V7–V9) rekisteröidään 10 minuutin kuluessa potilaan kohtaamisesta ja lähetetään sähköisesti hoitopäätöksen tekevälle lääkärille. Potilas on jatkuvassa monitoroinnissa defibrillaattorilla, kipu kirjataan (NRS/VAS 0–10) ja elvytykseen varaudutaan.
+
 1. Puoli-istuva asento ja rauhoittaminen
 2. Happi vain, jos SpO2 alle 90 % tai hengitysvajaus – tavoite 94-98 % (COPD 88-92 %). Normaali hapetus ei paranna ennustetta ja voi jopa suurentaa infarktin kokoa.
-3. ASA 250-500 mg pureskellen, ellei yliherkkyyttä
-4. Nitraatti suihkeena, jos systolinen verenpaine yli 100 mmHg – voidaan toistaa 5 minuutin kuluttua
+3. ASA 250-500 mg pureskellen, ellei yliherkkyyttä – annetaan, vaikka ASA olisi kotilääkkeenä. Jos potilas ei pysty ottamaan suun kautta, 250 mg i.v.
+4. Nitraatti suihkeena, jos systolinen verenpaine vähintään 100 mmHg – 2 annosta, lisäannokset 5 minuutin välein. Ei oikean kammion infarktissa, vaikeassa aorttastenoosissa eikä tuoreessa elvytyksen jälkitilassa.
 5. Suoniyhteys, jos kipu jatkuu tai elintoiminnot ovat häiriintyneet
 
 ```media
@@ -86,7 +88,7 @@ Esitiedoissa selvitetään kivun luonne, alku, säteily ja vaste nitraatille sek
 {"title":"Systemaattinen arvio ja 15-kytkentäinen EKG","text":"Kaikilta rintakipupotilailta. Normaali EKG mutta vahva epäily → kontrollinauha noin 15 min kuluttua."},
 {"title":"Perushoito","text":"Puoli-istuva asento ja rauhoittaminen · happi vain jos SpO₂ alle 90 % tai hengitysvajaus · ASA 250–500 mg pureskellen · nitraatti jos systolinen RR yli 100 mmHg · suoniyhteys."},
 {"title":"Mitä EKG ja tila kertovat?","tone":"warning","branches":[
-{"label":"ST-nousut","title":"STEMI-linja","text":"Nopea reperfuusio: PCI ensisijainen; liuotus, jos PCI-viive liian pitkä ja oireet alkaneet alle 2–3 h sitten.","tone":"danger"},
+{"label":"ST-nousut","title":"STEMI-linja","text":"Nopea reperfuusio: PCI ensisijainen, jos se toteutuu 120 min kuluessa; muuten liuotus 10 min kuluessa diagnoosista.","tone":"danger"},
 {"label":"ST-laskut / epävakaa","title":"Suuren vaaran AKS","text":"Antikoagulaatio, beetasalpaus vain hyperdynaamiselle ilman sokin vaaraa, opioidi kivunhoitoon.","tone":"warning"}
 ]},
 {"title":"Hoida komplikaatiot heti","text":"Bradykardia → atropiini tai ulkoinen tahdistus · hypotensio → nesteytys, tarvittaessa noradrenaliini · takyarytmiat → amiodaroni, kardioversio tai defibrillaatio."}
@@ -99,7 +101,8 @@ Jos EKG:ssä on iskeemisiä muutoksia (ST-laskuja), verenkierto on epävakaa tai
 
 - Antikoagulaatio, esimerkiksi pienimolekyylinen hepariini
 - Beetasalpaus (esim. metoprololi pieninä iv-annoksina), jos potilas on hyperdynaaminen eikä sokin vaaraa ole
-- Opioidi kivunhoitoon, esimerkiksi morfiini toistetuin pienin iv-annoksin kunnes kivuton
+- Opioidi vain kovaan kipuun – **rutiinimaista opioidia vältetään**, koska se hidastaa mahan tyhjenemistä ja heikentää suun kautta annettujen antitromboottisten lääkkeiden tehoa. Morfiini (oksikodoni) aloitus 4 mg i.v., sitten 2–4 mg 5 minuutin välein.
+- Pahoinvointiin ondansetroni 4 mg i.v. tai droperidoli 1,25 mg i.v. (voivat pidentää QT-aikaa); ahdistukseen pieni bentsodiatsepiiniannos.
 
 ADP-reseptorin salpaajia (klopidogreeli, tikagrelori) ei aloiteta ensihoidossa ennen angiografiaa – poikkeuksena PCI-kuljetukseen lähtevä STEMI-potilas.
 
@@ -109,8 +112,10 @@ STEMI on henkeä uhkaava tila, jossa aika on lihasta: nopea reperfuusio (tukkeut
 
 | Hoitomuoto | Valitaan, kun | Perustelu |
 | :-- | :-- | :-- |
-| Pallolaajennus (PCI) | Saatavilla kohtuullisessa viiveessä | Varmempi, pienempi aivoverenvuodon riski |
-| Liuotushoito | PCI-viive liian pitkä ja oireet alkaneet alle 2-3 h sitten | Nopein tapa aloittaa reperfuusio |
+| Pallolaajennus (PCI) | Pystytään tekemään **120 minuutin kuluessa** STEMI-diagnoosista | Varmempi, pienempi aivoverenvuodon riski |
+| Liuotushoito | PCI ei toteudu 120 minuutissa – aloitus 10 min kuluessa diagnoosista. Teho heikkenee selvästi 3 h jälkeen oireiden alusta, yli 12 h ei hyötyä. | Kohteessa annettu liuotus vähentää kuolleisuutta sairaalaliuotukseen verrattuna. Yli 75-vuotiaalle harkitaan puolikasta tenekteplaasiannosta. |
+
+Liuotuksen jälkeen potilas kuljetetaan suoraan sairaalaan, jossa on valmius välittömään varjoainekuvaukseen.
 
 Verenkiertokomplikaatiot pitää hoitaa välittömästi: bradykardiaan [atropiini](topic:atropiini) tai ulkoinen tahdistus, hypotensioon/sokkiin nesteytys ja tarvittaessa noradrenaliini, takykardisiin rytmihäiriöihin tilanteen mukaan [amiodaroni](topic:amiodaroni), kardioversio tai defibrillaatio.
 
@@ -131,6 +136,7 @@ Verenkiertokomplikaatiot pitää hoitaa välittömästi: bradykardiaan [atropiin
 - Rintakipu on aina riskioire – EKG ja systemaattinen arvio kaikille, kivun luonne ei riitä AKS:n poissulkuun
 - AKS jakautuu STEMI:in, NSTEMI:in ja epästabiiliin angina pectorikseen (UAP) tukoksen asteen mukaan
 - Perushoito: asento, happi vain hypoksiassa, ASA, nitraatti (jos verenpaine riittää), suoniyhteys
-- STEMI vaatii nopeaa reperfuusiota – PCI on ensisijainen, liuotushoito vaihtoehto, jos PCI-viive on pitkä
+- STEMI vaatii nopeaa reperfuusiota – PCI on ensisijainen, jos se toteutuu 120 minuutissa; muuten liuotus 10 minuutin kuluessa diagnoosista
+- 15–16-kytkentäinen EKG 10 minuutin kuluessa kohtaamisesta; rutiinimaista opioidia ja happea vältetään
 - Muista myös vähäisen todennäköisyyden mutta suuren vaaran taudit: aortan dissekaatio, keuhkoembolia, paineilmarinta
 - Verenkiertokomplikaatiot (bradykardia, hypotensio, takyarytmia) hoidetaan heti omien periaatteidensa mukaan

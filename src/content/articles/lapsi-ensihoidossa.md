@@ -172,17 +172,18 @@ Vanhemman tai muun hyvin lapsen tuntevan aikuisen kuvaus siitä, miten käytös 
 
 ## Lapsen elvytys
 
-Lapsen sydänpysähdys on harvinainen, ja selviytyminen on heikkoa. Yleisimmät syyt ovat hapenpuute ja hengitysvajaus, ja yleisin alkurytmi on PEA tai asystole – siksi hengityksen tukeminen ratkaisee. Lapsi tulkitaan elottomaksi, jos syke on alle 60/min, ellei muuta syytä epäillä.
+Lapsen sydänpysähdys on harvinainen, ja selviytyminen on heikkoa. Yleisimmät syyt ovat hapenpuute ja hengitysvajaus, ja yleisin alkurytmi on PEA tai asystole – siksi hengityksen tukeminen ratkaisee. Lapsi tulkitaan elottomaksi, jos syke on alle 60/min, ellei muuta syytä epäillä – Käypä hoidon mukaan hypoksian tai iskemian aiheuttamassa alle 60/min bradykardiassa elvytys aloitetaan, vaikka pulssi tuntuisi.
 
 | Asia | Lapsen elvytyksessä |
 |---|---|
 | Aloitus | **5 puhallusta** (100 % happi, kun mahdollista). Yksin oleva maallikko elvyttää 1 min ennen avun hakemista. |
 | Rytmi | 15:2, painelutaajuus 100–120/min |
-| Painelusyvyys | Noin 1/3 rintakehästä – alle 1-vuotiaalla noin 4 cm, yli 1-vuotiaalla noin 5 cm |
+| Painelusyvyys | Vähintään 1/3 rintakehästä, mutta **ei koskaan yli 6 cm** – alle 1-vuotiaalla noin 4 cm, yli 1-vuotiaalla noin 5 cm |
+| Painelutekniikka alle 1 v | Kaksi auttajaa: kahden peukalon ote rintakehää ympäröiden. Yksin tai maallikkona: kaksi sormea (Käypä hoito 2021). |
 | Ventilaatio intuboituna | Alle 1 v 25/min, yli 1 v 20/min, yli 8 v 15/min, yli 12 v 10/min |
-| Defibrillaatio | 4 J/kg; alle 25 kg elektrodit etu-taka-asentoon. Viidennen iskun jälkeen energiaa voi nostaa, enintään 8 J/kg (max 360 J). |
-| Adrenaliini | 0,01 mg/kg (0,1 mg/ml liuosta 0,1 ml/kg) |
-| Amiodaroni | 5 mg/kg (50 mg/ml liuosta 0,1 ml/kg) |
+| Defibrillaatio | 4 J/kg, mutta aikuisen energiaa (150 J) ei ylitetä. Refraktaarisessa tai toistuvassa VF/VT:ssä harkitaan enintään 8 J/kg (max 360 J). Pienellä lapsella (alle 25 kg) elektrodit etu-taka-asentoon; elektrodit eivät saa koskettaa toisiaan. |
+| Adrenaliini | 0,01 mg/kg, max 1 mg (0,1 mg/ml liuosta 0,1 ml/kg). Ei-iskettävässä heti, iskettävässä 3. iskun jälkeen; sitten 3–5 min välein. |
+| Amiodaroni | 5 mg/kg (50 mg/ml liuosta 0,1 ml/kg): 3. iskun jälkeen max 300 mg, 5. iskun jälkeen max 150 mg. Vaihtoehto lidokaiini 1 mg/kg (max 100 mg). |
 | Suoniyhteys | IO-yhteys on nopea – lasten luut ovat ohuita, hallitse tekniikka |
 
 > [!tip] Kapnografia elvytyksessä
@@ -209,7 +210,7 @@ Alle 18-vuotiaaseen kohdistuneesta pahoinpitely- tai seksuaalirikosepäilystä i
 - Lapsen verenpaine pysyy pitkään normaalina vuotosokissa – verenpaineen lasku on myöhäinen ja vakava merkki.
 - Tylppä vamma voi aiheuttaa lapselle vakavan sisäelinvaurion ilman ulkoisia merkkejä tai kylkiluun murtumia.
 - Sokin nestehoito: 10 ml/kg boluksina vastetta tarkkaillen ja toistaen; ei sokeripitoisia nesteitä.
-- Elvytys alkaa viidellä puhalluksella; 15:2, adrenaliini 0,01 mg/kg, defibrillaatio 4 J/kg.
+- Elvytys alkaa viidellä puhalluksella; 15:2, syvyys 1/3 (max 6 cm), adrenaliini 0,01 mg/kg (max 1 mg), amiodaroni 5 mg/kg, defibrillaatio 4 J/kg (ei yli 150 J).
 - Vierasesine: yskiminen → 5 iskua lapaluiden väliin → (yli 1 v) Heimlich → elvytys.
 - Lapsen kivun arviointi perustuu usein käytöksen muutoksiin – vanhemman havainnot ovat arvokkaita.
 - Yli 38 °C:n kuume alle 3 kuukauden ikäisellä vaatii aina viiveettömän päivystysarvion.

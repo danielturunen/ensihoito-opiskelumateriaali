@@ -9,6 +9,35 @@ Yksittäisten hoitajien taitojen parantaminen ei yksin riitä: tehokas hoito ede
 - **Vapaaehtoiset ensiauttajat** voidaan hälyttää sovelluksella: esimerkiksi Sveitsin Ticinossa ensiauttaja tavoittaa yli puolet potilaista ennen ensihoitoa, noin 80 %:ssa alle viidessä minuutissa.
 - **Sydänpysähdysrekisteri** ja elvytyksen laadun tallenteet paljastavat kehityskohteet ja mahdollistavat palautteen elvyttäneelle tiimille.
 
+## Aikuisen perus- ja hoitoelvytys (Käypä hoito 2021)
+
+Sydänpysähdys tunnistetaan, kun potilas ei reagoi eikä hengitä normaalisti – **agonaalinen, haukkova hengitys ja kouristuksen kaltaiset liikkeet** voivat kuulua sydänpysähdyksen alkuun. Hätäkeskukseen soitetaan mieluiten kaiutin päällä, jotta ohjeita voi seurata samalla.
+
+- **Painelu** rintalastan alaosaan 5–6 cm syvyyteen, 100–120 kertaa minuutissa, mahdollisimman keskeytyksettä. Painelija vaihtuu 2 minuutin välein. Ilman varmistettua hengitystietä 30:2.
+- **Defibrillaatio** yksi isku kerrallaan, minkä jälkeen painelu jatkuu heti 2 minuuttia ennen seuraavaa rytmianalyysiä. Monitoroidulla potilaalla viiveettä havaitussa VF:ssä voidaan antaa kolme iskua peräkkäin ennen painelua.
+- **Adrenaliini 1 mg** i.v./i.o.: ei-iskettävissä rytmeissä heti, iskettävissä 3. iskun jälkeen; sen jälkeen 3–5 minuutin välein.
+- **Amiodaroni 300 mg** 3. iskun jälkeen ja **150 mg** 5. iskun jälkeen. Jos amiodaronia ei ole, lidokaiini 100 mg ja 50 mg.
+- **Hengitystie**: supraglottinen väline on ensisijainen. Intubaatiota käyttää vain, jos onnistuminen on yli 95 % kahdella yrityksellä ja painelutauko jää alle 5 sekunnin. Varmistetun hengitystien kautta ventiloidaan 10/min painelua keskeyttämättä; jos supraglottinen väline vuotaa, palataan 30:2-rytmiin.
+- **Kapnografia**: pysyvästi alle 1,33 kPa:n EtCO₂ tai laskeva trendi viittaa huonoon ennusteeseen, nouseva trendi verenkierron palautumiseen.
+- **Ultraääni** ei saa pidentää painelutaukoja, eikä yksittäistä löydöstä käytetä yksin lopettamisen perusteena.
+
+```media
+{"widget":"als-cycle"}
+```
+
+```media
+{"widget":"mnemonic","title":"Hoidettavat syyt: 4H ja 4T","name":"4H 4T","items":[
+{"letter":"H","word":"Hypoksia","text":"Hengitystie ja ventilaatio 100 % hapella."},
+{"letter":"H","word":"Hypovolemia","text":"Verenvuodon tyrehdytys, nesteet tai verituotteet."},
+{"letter":"H","word":"Hypo-/hyperkalemia ja muut metaboliset","text":"Hyperkalemiassa kalsium, glukoosi-insuliini ja bikarbonaatti."},
+{"letter":"H","word":"Hypotermia","text":"Enintään 3 iskua ja ei adrenaliinia alle 30 °C; kuljetus ECMO-sairaalaan."},
+{"letter":"T","word":"Tromboosi","text":"Sepelvaltimo- tai keuhkoveritulppa: PCI tai liuotus ja elvytys 60–90 min."},
+{"letter":"T","word":"Tamponaatio","text":"Perikardiosenteesi tai traumassa torakotomia."},
+{"letter":"T","word":"Toksiinit","text":"Myrkytyskohtainen vastalääke, harkiten pitkä elvytys."},
+{"letter":"T","word":"Tension (jänniteilmarinta)","text":"Torakostomia tai neulatorakosenteesi."}
+]}
+```
+
 ## Hoida sydänpysähdyksen syy
 
 Selviytyminen edellyttää hyvälaatuisen perus- ja hoitoelvytyksen lisäksi sydänpysähdyksen **syyn hoitamista**. Kammiovärinässä diagnoosi ja hoito ovat selkeitä. Jos kammiovärinä jatkuu defibrilloinnista huolimatta, syynä voi olla akuutti sepelvaltimotukos – valikoiduille potilaille voidaan tehdä sepelvaltimoiden varjoainekuvaus ja pallolaajennus jopa elvytyksen aikana.
@@ -21,8 +50,8 @@ Muiden hoidettavissa olevien syiden etsimisessä auttavat anamneesi, kliininen t
 {"left":"Massiivinen keuhkoembolia","right":"Liuotushoito ja elvytyksen jatkaminen 60–90 min"},
 {"left":"Jänniteilmarinta vammapotilaalla","right":"Neulatorakosenteesi tai torakostomia"},
 {"left":"Sydäntamponaatio lävistävässä vammassa","right":"Torakotomia ja tamponaation purku"},
-{"left":"Vaikea hypotermia","right":"Lämmitys sydän-keuhkokoneella tai ECMO:lla"},
-{"left":"Hyperkalemia","right":"Kalsium, glukoosi-insuliini, harkiten kuljetus dialyysiin"}
+{"left":"Vaikea hypotermia","right":"Lämmitys ECMO:lla (tai sydän-keuhkokoneella)"},
+{"left":"Hyperkalemia","right":"Kalsiumglukonaatti 3 g, insuliini 10 IU + glukoosi 25 g, bikarbonaatti – harkiten dialyysi"}
 ]}
 ```
 
@@ -33,8 +62,9 @@ Hyvään aivojen perfuusioon elvytyksen aikana viittaavat korkea uloshengityksen
 Vammapotilaan sydänpysähdyksen hoito on aiempaa aktiivisempaa. Ellei potilas ole ilmiselvästi kuolettavasti vammautunut, elvytys aloitetaan ja sitä jatketaan, kunnes hoidettavissa olevat syyt on suljettu pois tai hoidettu.
 
 1. Ventilaation aloittaminen.
-2. Neulatorakosenteesi tai torakostomiat jänniteilmarinnan toteamiseksi ja hoitamiseksi.
-3. Ellei verenkierto palaa, harkitaan erityisesti ylävatsan tai rintakehän **lävistävissä vammoissa torakotomiaa**, jos sydänpysähdyksestä on alle 10 minuuttia ja osaaminen, olosuhteet ja välineet sen sallivat. Tavoitteena on ensisijaisesti sydäntamponaation purkaminen; lisäksi aortan puristus verensiirron kanssa ja avoin sydänhieronta voivat auttaa.
+2. Ulkoisen verenvuodon tyrehdytys, i.o.- tai i.v.-yhteys ja nesteresuskitaatio – mieluiten verituotteilla. **Traneksaamihappo 1 g** 10 minuutissa alle 3 tunnin kuluessa vammasta parantaa selviytymistä.
+3. Torakostomia tai neulatorakosenteesi jänniteilmarinnan hoitamiseksi. **Torakostomia on todennäköisesti tehokkaampi** kuin neula, erityisesti ylipaineventilaatiossa.
+4. Ellei verenkierto palaa, harkitaan erityisesti ylävatsan tai rintakehän **lävistävissä vammoissa torakotomiaa**. Käypä hoidon (2021) mukaan edellytyksenä on, että avoin sydänhieronta saadaan alkamaan **15 minuutin kuluessa** elottomuuden havaitsemisesta, paikalla on toimenpiteen hallitseva kokenut tiimi ja olosuhteet sekä välineet sallivat sen (vanhemmassa ensihoidon oppimateriaalissa raja on 10 min). Tavoitteena on ensisijaisesti sydäntamponaation purkaminen; lisäksi aortan puristus verensiirron kanssa ja avoin sydänhieronta voivat auttaa.
 
 Katso myös [massiivinen verenvuoto ja verensiirto](topic:massiivinen-verenvuoto).
 
@@ -93,11 +123,39 @@ Kuljetus elvyttäen on perusteltua silloin, kun se on osa elvytystä – eli kun
 > [!tip] Tapaus: laatua kohteessa
 > Kolmen kuukauden ikäinen poika menetti äkillisesti tajuntansa kotona, ja ensihoito totesi kammiovärinän. Elvytys kesti yli 25 minuuttia ja vaati 10 defibrillaatiota, joista jokainen kumosi värinän, mutta se uusiutui sekunneissa yhdeksän kertaa. Tiimi keskittyi laadukkaaseen elvytykseen kohteessa varhaisen "load and go" -kuljetuksen sijaan, ja verenkierto palasi kymmenennen iskun jälkeen. Syyksi paljastui aiemmin tunnistamaton sydänlihassairaus, ja poika toipui erinomaisesti. Kuljetus elvyttäen ei ole automaattisesti parempi – laatu ratkaisee.
 
+## Erityistilanteet
+
+**Hukuksiin joutuminen**: selviytymisen tärkein tekijä on hukuksissaoloaika. Yli 30 minuutin jälkeen ennuste on veden lämpötilasta ja suolapitoisuudesta riippumatta heikko. Hukkuneen elvytys aloitetaan viidellä puhalluksella, koska syy on hypoksia.
+
+**Raskaana olevan elvytys** noudattaa normaalia ohjetta. Kohtu painaa alaonttolaskimoa ja aorttaa noin 20. raskausviikolta (kohtu navan yläpuolella). Siksi kiilatyyny asetetaan lantion oikean puolen alle tai kohtua työnnetään vasemmalle – tavoitteena 15–30 asteen kallistus ilman, että painelun teho kärsii. Hätäsektioon valmistaudutaan heti: leikkauksen aloitus 4 minuutin ja synnytys 5 minuutin kuluessa parantaa sekä äidin että lapsen ennustetta. Vauvan selviäminen on mahdollista 24. raskausviikosta alkaen. Pyydä mukaan obstetrinen ja neonatologinen osaaminen. Katso [raskaana oleva ja synnyttäjä](topic:raskaana-oleva-synnyttaja).
+
+## Verenkierron palautumisen jälkeen
+
+```media
+{"widget":"timeline","title":"ROSC-vaiheen tavoitteet","items":[
+{"time":"Happeutus","title":"SpO₂ 94–98 %","text":"FiO₂ titrataan – vältä sekä hypoksiaa että hyperoksiaa (PaO₂ 10–13 kPa).","tone":"ok"},
+{"time":"Ventilaatio","title":"Normokapnia","text":"PaCO₂ 4,5–6 kPa. Tajunnaltaan alentunut potilas intuboidaan.","tone":"ok"},
+{"time":"Verenkierto","title":"MAP yli 65 mmHg","text":"12-kanavainen EKG: ST-nousu → kiireellinen PCI (≤ 120 min), muuten liuotus.","tone":"warning"},
+{"time":"Lämpö","title":"Kuumeen esto 72 h","text":"Alle 37,8 °C. Kylmiä nesteitä ei käytetä ensihoidossa.","tone":"warning"}
+]}
+```
+
+## Elvytyksestä pidättäytyminen ja lopettaminen
+
+Elvytys jätetään aloittamatta tai keskeytetään, jos auttaja joutuu hengenvaaraan, potilaalla on ilmiselvästi kuolettava vamma tai peruuttamattomat kuoleman merkit, tai potilaalla on elvytyksen kieltävä tahdonilmaisu tai hoitosuunnitelma. **Lopettamista harkitaan**, jos rytmi on asystole 20 minuuttia jatkuneen lääkkeellisen hoitoelvytyksen jälkeen ilman selkeää hoidettavaa syytä. Lääkäri voi potilaskohtaisesti päättää lopettamisesta aiemminkin – esimerkiksi pitkän tavoittamisviiveen, ei-iskettävän alkurytmin ja vaikeiden perussairauksien yhdistelmässä.
+
+> [!warning] Ei yksinään lopettamisen perusteeksi
+> Pupillien koko, elvytyksen kesto, EtCO₂, perussairaudet, laktaatti tai itsemurhayritys eivät yksinään riitä perusteeksi lopettaa elvytys. Ultraäänilöydöstä ei myöskään käytetä yksin.
+
 ## Muista tämä -kertaus
 
 - Maallikkoelvytys vähintään kaksinkertaistaa selviytymisen; varhainen defibrillaatio voi pelastaa joka toisen.
 - Etsi ja hoida syy: ultraääni ja vieritestit (keuhkoembolia, tamponaatio, hypovolemia, ilmarinta, asidoosi, elektrolyytit).
-- Vammapotilaan elvytys: ventilaatio, torakosenteesi, harkiten torakotomia lävistävässä vammassa alle 10 min pysähdyksestä.
+- Aikuinen: 5–6 cm, 100–120/min, adrenaliini 1 mg heti ei-iskettävässä / 3. iskun jälkeen iskettävässä, amiodaroni 300 mg + 150 mg.
+- Supraglottinen väline ensisijainen; ventilaatio 10/min; EtCO₂ alle 1,33 kPa = huono ennuste.
+- Vammapotilaan elvytys: ventilaatio, vuodon tyrehdytys, TXA, torakostomia; torakotomia lävistävässä vammassa, jos avoin hieronta alkaa 15 min kuluessa.
+- ROSC: SpO₂ 94–98 %, PaCO₂ 4,5–6, MAP > 65, kuumeen esto alle 37,8 °C.
+- Lopettamista harkitaan asystolessa 20 min hoitoelvytyksen jälkeen ilman hoidettavaa syytä.
 - Mekaaninen painelulaite ei rutiinisti paranna selviytymistä, mutta on lähes välttämätön kuljetettaessa elvyttäen.
 - LUCAS: elektrodit ja hengitystie ensin, imukupin alareuna rintalastan pään yläpuolelle, 30:2 ilman tiivistä hengitystietä.
 - Kuljetus elvyttäen, kun syy on hoidettavissa sairaalassa: hypotermia, toistuva VF, keuhkoembolia, valikoidut myrkytykset.

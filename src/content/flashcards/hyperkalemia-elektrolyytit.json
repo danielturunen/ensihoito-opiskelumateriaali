@@ -5,5 +5,5 @@
   {"id":"hk-f4","front":"Hyperkalemian tyyppipotilaat","back":"Munuaispotilaat (dialyysi, virtsantulon loppuminen), diabeetikot (DKA), kuivuneet, pitkään maanneet (rabdomyolyysi), kaliumia säästävät diureetit/ACE-estäjät/kaliumtabletit."},
   {"id":"hk-f5","front":"Hyperkalemian oireet","back":"Epämääräiset: lihasheikkous jopa halvaukseen asti, huono olo, hikoilu, rytmihäiriöt ja -tuntemukset."},
   {"id":"hk-f6","front":"Hypokalemian EKG","back":"Yleensä K alle 3 mmol/l: T madaltuu tai kääntyy, U-aalto ilmaantuu (voi jäljitellä pitkää QT:tä). Tavallisin syy diureetit."},
-  {"id":"hk-f7","front":"Hyperkalemia elvytyksessä","back":"Varmista kalium, kalsiumglukonaatti 10 % 10 ml, insuliini 10 IU + glukoosi 25 g, bikarbonaatti 50 mmol vaikeassa asidoosissa, harkitse elvyttäen kuljetusta dialyysiin."}
+  {"id":"hk-f7","front":"Hyperkalemia elvytyksessä (KH 2021)","back":"Kalsiumglukonaatti 3 g (30 ml 100 mg/ml) nopeasti i.v., insuliini 10 IU + glukoosi 25 g (250 ml G10) ja G10-infuusio, NaBic 7,5 % 50–100 ml; pitkittyessä mekaaninen painelu ja dialyysi."}
 ]

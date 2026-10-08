@@ -96,7 +96,7 @@ Lievässä hyperkalemiassa nesteytys voi riittää (0,9-prosenttinen keittosuola
 
 ### Hyperkalemia elvytyksessä
 
-Jos hyperkalemiaa epäillään vahvasti elottomuuden syyksi: varmista kaliumtaso, anna 10-prosenttista kalsiumglukonaattia 10 ml, glukoosia ja insuliinia (10 IU insuliinia ja 25 g glukoosia suoneen), natriumbikarbonaattia 50 mmol vaikeassa asidoosissa – ja harkitse elvyttäen kuljettamista dialyysiin. Katso myös [sydänpysähdyspotilaan hoito](topic:elvytys-sairaalan-ulkopuolella).
+Jos hyperkalemiaa epäillään vahvasti elottomuuden syyksi, Käypä hoito (Elvytys 2021) ohjeistaa: **kalsiumglukonaattia 3 g** (100 mg/ml = 30 ml) nopeana i.v.-injektiona, **insuliinia 10 IU ja 25 g glukoosia** (250 ml G10) nopeasti suoneen ja jatkoksi G10-infuusio, sekä **natriumbikarbonaattia 7,5 % 50–100 ml**. Jos elvytys pitkittyy, harkitaan mekaanista paineluelvytystä ja dialyysiä – eli elvyttäen kuljettamista. Elvytyksen ulkopuolella kalsiumglukonaatin annos on pienempi ja se annetaan hitaasti (yllä). Katso myös [sydänpysähdyspotilaan hoito](topic:elvytys-sairaalan-ulkopuolella).
 
 ## Potilastapaus
 

@@ -76,6 +76,8 @@ export const widgetMeta: Record<string, WidgetMeta> = {
   'heat-loss': { title: 'Lämpötalous kentällä', kind: 'Interaktiivinen kuva' },
   'hyperkalemia-ecg': { title: 'Hyperkalemia EKG:ssä', kind: 'Animaatio' },
   'dive-pressure': { title: 'Paine, keuhkot ja liuennut typpi', kind: 'Interaktiivinen kuva' },
+  'als-cycle': { title: 'Hoitoelvytyksen syklit', kind: 'Harjoitus' },
+  'pregnancy-bleeding': { title: 'Raskaudenaikaisen verenvuodon syyt', kind: 'Interaktiivinen kuva' },
 }
 
 const cache = new Map<string, LazyExoticComponent<ComponentType<WidgetProps>>>()

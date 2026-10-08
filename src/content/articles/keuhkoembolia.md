@@ -31,6 +31,8 @@ SpO2 voi olla matala tai yllättäen normaali, verenpaine tyypillisesti normaali
 
 Keuhkoemboliaa altistavia tekijöitä ovat aiempi keuhkoveritulppa, immobilisaatio (esimerkiksi pitkät matkat tai vuodelepo), raskaus tai hormonaalinen ehkäisy, iso leikkaus kahden edeltävän viikon aikana, syöpä ja tiedossa oleva syvä laskimotukos.
 
+Käypä hoidon (Syvä laskimotukos ja keuhkoembolia) mukaan merkittävimpiä tukosvaaratekijöitä ovat laaja trauma tai leikkaus (esim. lonkka- tai alaraajamurtuma, tekonivelleikkaus, selkäydinvaurio). **Raskaus 4–5-kertaistaa tukosriskin**, ja riski on suurimmillaan synnytyksen jälkeisinä kolmena viikkona. Raskausajan laskimotukos syntyy yli 80 %:ssa vasempaan alaraajaan. Huomaa myös, että **normaalit verikaasuarvot eivät sulje pois** keuhkoemboliaa.
+
 > [!tip] Muista tämä
 > Kysy aina riskitekijät: pitkä paikallaanolo, tuore leikkaus, aiempi laskimotukos, syöpä tai raskaus tukevat vahvasti keuhkoembolian epäilyä, vaikka auskultaatio olisi normaali.
 
@@ -70,6 +72,7 @@ Ensihoidon yleiset periaatteet:
 - **Asentohoito:** puoli-istuva asento on yleensä mukavin, mutta hypotensiossa potilas asetetaan makuulle.
 - **Nestehoito vain hypotensiossa:** varovainen nestebolus voi parantaa oikean kammion täyttöä, mutta liiallinen neste voi venyttää oikeaa kammiota entistä enemmän ja pahentaa tilannetta.
 - **Verenkierron tuki:** matalan verenpaineen korjaamiseksi voidaan nesteytyksen lisäksi käyttää verenpainetta nostavaa lääkitystä (esim. noradrenaliini-infuusiota) hoito-ohjeen mukaan, tavoitteena riittävä systolinen verenpaine.
+- **Liuotushoidon hyöty** ylittää vuotoriskin yksiselitteisesti vain **suuren kuolemanriskin keuhkoemboliassa**, jonka merkkejä ovat hypotensio, sokki ja sydänpysähdys (noin 5 % todetuista keuhkoembolioista). Sydänpysähdyksen yhteydessä liuotus voi parantaa ennustetta, ja elvytystä jatketaan 60–90 minuuttia liuotuksen jälkeen.
 - **Kriittisessä tilanteessa** vahvan epäilyn ja hengenvaarallisen tilan yhdistyessä voidaan ensihoitolääkärin konsultaation jälkeen harkita liuotushoitoa ja antikoagulaatiota (esim. [enoksapariini](topic:enoksapariini)) paikallisen hoito-ohjeen mukaisesti.
 - **Elvytys** aloitetaan välittömästi, jos potilas menee elottomaksi — keuhkoembolia on yksi korjattavista sydänpysähdyksen syistä.
 

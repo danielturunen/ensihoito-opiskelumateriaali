@@ -33,6 +33,8 @@ Synnyttäjän yleisilmeestä arvioidaan asento, levottomuus ja puhekyky supistuk
 
 Pääsääntö on kuljettaa viiveettä synnytyssairaalaan vasemmassa kylkiasennossa, jos synnytys ei ole välittömästi käynnissä. Kohteeseen jäädään hoitamaan synnytys, kun pää tai muu tarjoutuva osa on jo näkyvissä, ponnistuspakko on voimakas ja synnytys etenee nopeasti, tai kun ambulanssissa toimiminen olisi tilan ja riskien vuoksi huonompi vaihtoehto. Valmistaudu kuitenkin aina myös siirtoon ambulanssiin, jos ponnistusvaihe ei etenekään odotetusti.
 
+Suomessa noin 0,4 % lapsista syntyy suunnittelemattomasti sairaalan ulkopuolella, ja valtaosa heistä on täysiaikaisia ja hyväkuntoisia (Duodecim 2023). **Syöksysynnytys** kestää ensisynnyttäjällä alle 4 ja uudelleensynnyttäjällä alle 2 tuntia. Nopeaa synnytystä ennustavat aiempi nopea synnytys, uudelleensynnyttäjän säännölliset ja tiheät (alle 5 min välein) supistukset kalvojen puhkeamisen jälkeen, ponnistamisen tarve ja se, ettei synnyttäjä pysty puhumaan puhelimessa. Ensisynnyttäjän avautumisvaihe kestää keskimäärin 10 tuntia ja ponnistusvaihe noin 50 minuuttia; uudelleensynnyttäjällä vaiheet ovat keskimäärin puolet lyhyemmät. Ambulanssissa synnyttäjä sijoitetaan paareille jalat menosuuntaan ja kuljetetaan kylkiasennossa.
+
 ## Normaalin synnytyksen avustaminen
 
 Ponnistusvaiheessa tuetaan synnyttäjää ja annetaan hänen tehdä työtä rauhassa — aktiivisesti puututaan vasta kun pää alkaa syntyä. Yhdellä kädellä tuetaan välilihaa, toisella kontrolloidaan pään syntymistä niin, ettei se "ponnahda" ulos hallitsemattomasti. Kun pää on syntynyt, tarkistetaan napanuora kaulan ympäriltä: löysä pujotetaan pään yli, tiukkaa ei revitä väkisin, vaan lapsi autetaan syntymään ja napanuora vapautetaan heti. Hartiat syntyvät usein seuraavalla supistuksella: ensin autetaan ylempi hartia painamalla päätä varovasti kohti äidin selkää, sitten alempi hartia nostamalla päätä kohti äidin vatsaa. Ulosautto on aina rauhallinen ja aaltomainen — ei koskaan voimalla tehty.
@@ -43,8 +45,9 @@ Ponnistusvaiheessa tuetaan synnyttäjää ja annetaan hänen tehdä työtä rauh
 
 ### Poikkeavat tilanteet
 
-- **Hartiadystokia** (pää syntynyt, hartiat eivät seuraa normaalisti): hälytä lisäapu, aseta synnyttäjän jalat voimakkaaseen koukistukseen ("polvet korviin", McRoberts-asento) ja paina häpyluun yläpuolelta. Älä koskaan paina kohdun pohjasta.
-- **Perätilasynnytys**: korkean riskin tilanne. Älä vedä lasta äläkä koske siihen ennen kuin se on syntynyt lapaluiden tasolle. Anna synnyttäjän ponnistaa, konttausasento voi auttaa.
+- **Hartiadystokia** (pää syntynyt, hartiat eivät seuraa normaalisti – ylempi hartia kiilautunut häpyliitoksen taakse): hälytä lisäapu, aseta koroke synnyttäjän pakaroiden alle ja jalat voimakkaaseen koukistukseen ja loitonnukseen ("polvet korviin", McRoberts-asento) ja paina ylempää hartiaa voimakkaasti häpyluun yläpuolelta. Ellei tämä auta, koulutettu avustaja yrittää kiertää hartialinjan viistoon tai vetää lapsen takimmaisen käden ulos (Duodecim 2023). Älä koskaan paina kohdun pohjasta.
+- **Perätilasynnytys** (noin 4 % täysiaikaisista): korkean riskin tilanne – sairaalaan olisi hyvä ehtiä. Älä vedä lasta äläkä koske siihen ennen kuin se on syntynyt napavartta ja lapaluita myöten. Konttausasennossa painovoima auttaa hartioiden ja pään syntymistä. Jos pää ei synny, lapsi asetetaan hajareisin avustajan kyynärvarrelle, sormi lapsen ylähuulelle tai suuhun ja toinen käsi niskaan, ja vartalo käännetään äidin vatsan suuntaan; toinen auttaja voi painaa häpyliitoksen päältä.
+- **Napanuoran esiinluiskahdus** ja raskaudenaikaiset vuodot: ks. [raskaudenaikaiset verenvuodot ja hätätilanteet](topic:raskauden-verenvuodot).
 
 ## Vastasyntyneen välitön hoito
 
@@ -54,24 +57,33 @@ Hyväkuntoinen vastasyntynyt hengittää tai itkee ponnekkaasti, on jäntevä, p
 {"widget":"apgar"}
 ```
 
-Huonokuntoinen (veltto, riittämättömästi hengittävä tai reagoimaton) vastasyntynyt tarvitsee välittömästi lämmönhukan eston, hengitystien avaamisen neutraaliin asentoon ja stimulaatiota kuivaamalla. Jos hengitys on puutteellista tai syke alle 100/min, aloitetaan ventilaatio vastasyntyneen maskilla taajuudella noin 30–60/min ja varmistetaan rintakehän nousu. Jos syke pysyy alle 60/min tehokkaasta ventiloinnista huolimatta, aloitetaan paineluelvytys suhteella 3:1.
+Huonokuntoinen (veltto, riittämättömästi hengittävä tai reagoimaton) vastasyntynyt tarvitsee välittömästi lämmönhukan eston, hengitystien avaamisen neutraaliin asentoon ja stimulaatiota kuivaamalla. Käypä hoito -suosituksen (Elvytys, vastasyntynyt 2022) mukaan:
+
+- **Napanuora** suljetaan hyväkuntoisella aikaisintaan 60 sekunnin kuluttua. **Imua ei tehdä ennen ventilaatiota** – ei myöskään mekoniumvedessä.
+- **Lämpö** pidetään 36,5–37,5 °C:ssa. Sairaalan ulkopuolella vauva kuivataan ja keskonen laitetaan muovipussiin kasvot näkyvillä; ihokontakti, jos raskaus yli 30 vk ja vointi hyvä.
+- Jos hengitys on puutteellista tai syke alle 100/min: **5 avaavaa puhallusta** 30 cmH₂O:n paineella (alle 32 vk 25 cmH₂O), kukin 2–3 s, sitten ventilaatio **30/min**. Varmista rintakehän nousu ja arvioi syke 30 s välein (yli 100 normaali, 60–100 hidas, alle 60 kriittinen).
+- **Happi**: täysiaikainen ja ≥ 32 vk huoneilmalla (21 %), 28–31 vk 21–30 %, alle 28 vk 30 %. Lisää happea, jos syke pysyy hitaana tai saturaatio jää tavoitteesta; vähennä, kun SpO₂ yli 95 % (oikea käsi).
+- Jos syke pysyy **alle 60/min 30 sekunnin tehokkaasta ventilaatiosta** huolimatta: paineluelvytys **3:1** 100 % hapella, kahden peukalon tekniikalla rintalastan alakolmannekselta, syvyys 1/3 rintakehästä, noin 15 sykliä 30 sekunnissa.
+- Lääkkeet (lääkäri): adrenaliini 0,01–0,03 mg/kg i.v./i.o. (napalaskimo ensisijainen), volyymi 10 ml/kg, glukoosi G10 2,5 ml/kg.
+
+Apgar-pisteitä ei käytetä elvytyspäätöksen tekemiseen. Noin 85 % vastasyntyneistä hengittää itse, noin 5 % tarvitsee ventilaatiota ja alle 0,3 % paineluelvytystä – **tehokas ventilaatio on tärkein hoito**.
 
 ```media
 {"widget":"flow","title":"Huonokuntoinen vastasyntynyt","steps":[
 {"title":"Lämmönhukan esto, hengitystie neutraaliin asentoon, stimulaatio kuivaamalla"},
 {"title":"Onko hengitys puutteellista tai syke alle 100/min?","tone":"warning","branches":[
-{"label":"Kyllä","title":"Ventilaatio vastasyntyneen maskilla 30–60/min","text":"Varmista rintakehän nousu.","tone":"danger"},
+{"label":"Kyllä","title":"5 avaavaa puhallusta, sitten ventilaatio 30/min","text":"30 cmH₂O (keskonen alle 32 vk 25), 2–3 s/puhallus. Varmista rintakehän nousu, arvioi syke 30 s välein.","tone":"danger"},
 {"label":"Ei","title":"Kuivaus, lämpö, ihokontakti","text":"Seuraa ja kirjaa Apgar.","tone":"ok"}
 ]},
-{"title":"Syke yhä alle 60/min tehokkaasta ventiloinnista huolimatta?","tone":"warning","branches":[
-{"label":"Kyllä","title":"Paineluelvytys 3:1","tone":"danger"},
+{"title":"Syke yhä alle 60/min 30 s tehokkaan ventiloinnin jälkeen?","tone":"warning","branches":[
+{"label":"Kyllä","title":"Paineluelvytys 3:1, happi 100 %","text":"Kahden peukalon tekniikka, 1/3 syvyys, ~15 sykliä / 30 s.","tone":"danger"},
 {"label":"Ei","title":"Jatka ventilaatiota ja seurantaa","tone":"ok"}
 ]}
 ]}
 ```
 
 > [!info] Tausta: SpO₂-tavoitteet syntymän jälkeen
-> Terveen vastasyntyneen happisaturaatio nousee asteittain: noin 65 % kahden minuutin kohdalla, noin 85 % viiden minuutin kohdalla ja noin 90 % kymmenen minuutin kohdalla. Täyttä 100 %:n tavoitetta ei haeta heti.
+> Terveen vastasyntyneen happisaturaatio nousee asteittain: alaraja (oikeasta kädestä) on 65 % kahden minuutin, 85 % viiden minuutin ja 90 % kymmenen minuutin iässä (KH 2022). Täyttä 100 %:n tavoitetta ei haeta – lisähappea vähennetään, kun saturaatio ylittää 95 %.
 
 ```media
 {"widget":"newborn-spo2"}
@@ -79,7 +91,7 @@ Huonokuntoinen (veltto, riittämättömästi hengittävä tai reagoimaton) vasta
 
 ## Jälkeisvaihe: äidin uhkaavin hetki kentällä
 
-Istukka syntyy tavallisesti 5–60 minuutin kuluessa lapsen syntymästä. Normaali verenvuoto synnytyksen jälkeen on yleensä alle 500 ml, mutta vuoto voi kertyä näkymättömissä kohtuun. Huolestuttavia löydöksiä ovat yli 500 ml:n tai nopeasti lisääntyvä vuoto, pehmeä ja kookas kohtu, sokin merkit sekä vuoto joka jatkuu istukan synnyttyä. Toimintana on kohdun hieronta vatsanpeitteiden läpi, vauvan annettaminen imeä rintaa (tukee kohdun supistumista), suoniyhteyden avaaminen ja sokin hoito, sekä oksitosiini ja traneksaamihappo paikallisen hoito-ohjeen mukaan. Istukkaa ei revitä väkisin — jos se ei irtoa helposti, lopetetaan yritys ja kuljetetaan.
+Istukka syntyy tavallisesti 5–60 minuutin kuluessa lapsen syntymästä. Normaali verenvuoto synnytyksen jälkeen on yleensä alle 500 ml, mutta vuoto voi kertyä näkymättömissä kohtuun. Huolestuttavia löydöksiä ovat yli 500 ml:n tai nopeasti lisääntyvä vuoto, pehmeä ja kookas kohtu, sokin merkit sekä vuoto joka jatkuu istukan synnyttyä. Toimintana on kohdun hieronta vatsanpeitteiden läpi, vauvan annettaminen imeä rintaa (tukee kohdun supistumista), suoniyhteyden avaaminen ja sokin hoito, sekä oksitosiini (esim. 5 IU i.v. tai i.m.) ja traneksaamihappo paikallisen hoito-ohjeen mukaan. Vuotosokissa vuotoa korvataan mahdollisuuksien mukaan jo kentällä verituotteilla, mutta **nopea kuljetus on ensisijaista**. Jälkeisvaihe hoidetaan usein vasta sairaalassa, jos vuoto on vähäistä ja matka lyhyt; istukan irtoamisen merkki on "hulahdus" vuotoa, ja sen voi auttaa ulos kevyesti napanuorasta ohjaten. Istukkaa ei revitä väkisin — jos se ei irtoa helposti, lopetetaan yritys ja kuljetetaan. Syntynyt istukka otetaan mukaan muovipussissa.
 
 ```media
 {"widget":"postpartum"}
@@ -87,9 +99,12 @@ Istukka syntyy tavallisesti 5–60 minuutin kuluessa lapsen syntymästä. Normaa
 
 ## Raskaudenaikaiset hätätilanteet
 
+Tarkemmin, kuvan kera: [raskaudenaikaiset verenvuodot ja hätätilanteet](topic:raskauden-verenvuodot).
+
+
 Verinen vuoto keski- ja loppuraskaudessa on aina otettava vakavasti. **Istukan ennenaikainen irtoaminen** (ablaatio) näkyy jatkuvana vatsakipuna, kovana ja aristavana kohtuna ja mahdollisesti sokkina vaikka ulkoista vuotoa olisi vähän. **Etisistukka** (placenta praevia) aiheuttaa tyypillisesti kivuttoman, kirkkaanpunaisen vuodon — sisätutkimusta ei saa tehdä. **Kohdun repeämä** (ruptura uteri) on riski erityisesti aiemman sektion jälkeen: kova kipu, joka voi hetkeksi helpottaa ja sitä seuraa nopea sokki.
 
-Alkuraskauden runsas vuoto viittaa keskenmenoon, mutta toispuoleinen kipu ja hartiapistos niukan vuodon kanssa voivat viitata [kohdunulkoiseen raskauteen](topic:akuutti-vatsa) — muista, että potilas ei aina tiedä olevansa raskaana.
+Alkuraskauden runsas vuoto viittaa keskenmenoon, mutta toispuoleinen kipu ja hartiapistos niukan vuodon kanssa voivat viitata [kohdunulkoiseen raskauteen](topic:raskauden-verenvuodot) — muista, että potilas ei aina tiedä olevansa raskaana.
 
 **Pre-eklampsia/eklampsia** epäillään, kun verenpaineen nousuun liittyy päänsärkyä, näköhäiriöitä, ylävatsakipua tai turvotuksia. Kouristuksen ensisijainen lääke on magnesium paikallisen ohjeen mukaan; vältä kirkkaita valoja ja turhia ärsykkeitä.
 
