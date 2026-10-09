@@ -78,6 +78,24 @@ Ennakkoilmoitus vastaanottavaan hoitopaikkaan on tärkeä: siinä kerrotaan ampu
 
 Ensihoidossa kuljetetaan pääsääntöisesti aina. Myös esimerkiksi sormen kärkijäsenen amputaatio voidaan tapauskohtaisesti ohjata konsultaation perusteella hoitoon, jossa replantaatiota harkitaan.
 
+```media
+{"widget":"scene-card","id":"amputaatio","title":"Kohteessa: irtileikkautunut raaja","know":[
+{"label":"Replantaation aikaraja","detail":"Lihaskudosta sisältävä amputaatti 8 tunnissa, muu kudos 16 tunnissa."},
+{"label":"Vuodon hallinta lievimmällä riittävällä keinolla","detail":"Kohoasento → paineside → hemostaattinen side → kiristysside."},
+{"label":"Potilas ensin, amputaatti sitten"}
+],"examine":[
+{"label":"Vuodon määrä ja sokin merkit"},
+{"label":"Amputaation taso ja amputaatin kunto"},
+{"label":"Muut vammat vammamekanismin mukaan"},
+{"label":"Kivun voimakkuus (VAS)"}
+],"do":[
+{"label":"Vuoto hallintaan"},
+{"label":"Amputaatti talteen oikein","detail":"Puhtaaseen kosteaan liinaan ja pussiin, pussi jäähän tai kylmään veteen – ei suoraan jäihin eikä kuivajäähän."},
+{"label":"Kivunhoito","detail":"VAS yli 4: opioidi, fentanyyli myös i.n.; esketamiini hypotensiiviselle lääkärin konsultaatiolla."},
+{"label":"Ennakkoilmoitus replantaatioon kykenevään yksikköön"}
+],"redFlags":["Vuoto ei lakkaa paineella","Sokin merkit","Aikaraja lähestyy – kuljetus viipymättä"]}
+```
+
 ## Muista tämä -kertaus
 
 - Verenvuoto hoidetaan asteittain lievimmästä keinosta alkaen: kohoasento, paineside, hemostaattinen side, ja vasta tarvittaessa kiristysside.

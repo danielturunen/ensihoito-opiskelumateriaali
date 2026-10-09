@@ -33,7 +33,9 @@ Synnyttäjän yleisilmeestä arvioidaan asento, levottomuus ja puhekyky supistuk
 
 Pääsääntö on kuljettaa viiveettä synnytyssairaalaan vasemmassa kylkiasennossa, jos synnytys ei ole välittömästi käynnissä. Kohteeseen jäädään hoitamaan synnytys, kun pää tai muu tarjoutuva osa on jo näkyvissä, ponnistuspakko on voimakas ja synnytys etenee nopeasti, tai kun ambulanssissa toimiminen olisi tilan ja riskien vuoksi huonompi vaihtoehto. Valmistaudu kuitenkin aina myös siirtoon ambulanssiin, jos ponnistusvaihe ei etenekään odotetusti.
 
-Suomessa noin 0,4 % lapsista syntyy suunnittelemattomasti sairaalan ulkopuolella, ja valtaosa heistä on täysiaikaisia ja hyväkuntoisia (Duodecim 2023). **Syöksysynnytys** kestää ensisynnyttäjällä alle 4 ja uudelleensynnyttäjällä alle 2 tuntia. Nopeaa synnytystä ennustavat aiempi nopea synnytys, uudelleensynnyttäjän säännölliset ja tiheät (alle 5 min välein) supistukset kalvojen puhkeamisen jälkeen, ponnistamisen tarve ja se, ettei synnyttäjä pysty puhumaan puhelimessa. Ensisynnyttäjän avautumisvaihe kestää keskimäärin 10 tuntia ja ponnistusvaihe noin 50 minuuttia; uudelleensynnyttäjällä vaiheet ovat keskimäärin puolet lyhyemmät. Ambulanssissa synnyttäjä sijoitetaan paareille jalat menosuuntaan ja kuljetetaan kylkiasennossa.
+Ensihoito-oppaan (Hoppu 2023) mukaan synnytys katsotaan alkaneeksi, kun supistuksia tulee säännöllisesti **5 minuutin välein noin 30 minuutin ajan** tai lapsivesi menee; sairaalaan lähdetään myös, jos supistukset ovat kivuliaita tai mukana on veristä vuotoa tai lapsiveden tihkumista. Synnytystä ei yleensä estetä, jos raskaus on kestänyt yli 34 viikkoa, ja **alle 32 viikon synnytykset hoidetaan yliopistosairaalassa**. Komplisoituneissa tilanteissa pyydetään herkästi hoito-ohje kätilöltä, lääkäriyksiköltä tai synnytyssairaalasta, ja kuljetuksen aikana seurataan äidin verenpainetta, pulssia ja lämpöä.
+
+Suomessa noin 0,4 % lapsista syntyy suunnittelemattomasti sairaalan ulkopuolella, ja valtaosa heistä on täysiaikaisia ja hyväkuntoisia (Duodecim 2023). **Syöksysynnytys** kestää ensisynnyttäjällä alle 4 ja uudelleensynnyttäjällä alle 2 tuntia. Nopeaa synnytystä ennustavat aiempi nopea synnytys, uudelleensynnyttäjän säännölliset ja tiheät (alle 5 min välein) supistukset kalvojen puhkeamisen jälkeen, ponnistamisen tarve ja se, ettei synnyttäjä pysty puhumaan puhelimessa. Ensisynnyttäjän avautumisvaihe kestää keskimäärin 10 tuntia ja ponnistusvaihe noin 50 minuuttia; uudelleensynnyttäjällä vaiheet ovat keskimäärin puolet lyhyemmät (Ensihoito-oppaassa ensisynnyttäjän avautumisvaihe noin 7–9 tuntia, ponnistusvaihe muutamasta minuutista pariin tuntiin). Jos ponnistamisen tarve on tullut, sitä ei kannata estää – silloin lapsi syntyy sairaalan ulkopuolella, ja äiti arvioi yleensä itse parhaan ponnistusasennon. Ambulanssissa synnyttäjä sijoitetaan paareille jalat menosuuntaan ja kuljetetaan kylkiasennossa.
 
 ## Normaalin synnytyksen avustaminen
 
@@ -48,6 +50,32 @@ Ponnistusvaiheessa tuetaan synnyttäjää ja annetaan hänen tehdä työtä rauh
 - **Hartiadystokia** (pää syntynyt, hartiat eivät seuraa normaalisti – ylempi hartia kiilautunut häpyliitoksen taakse): hälytä lisäapu, aseta koroke synnyttäjän pakaroiden alle ja jalat voimakkaaseen koukistukseen ja loitonnukseen ("polvet korviin", McRoberts-asento) ja paina ylempää hartiaa voimakkaasti häpyluun yläpuolelta. Ellei tämä auta, koulutettu avustaja yrittää kiertää hartialinjan viistoon tai vetää lapsen takimmaisen käden ulos (Duodecim 2023). Älä koskaan paina kohdun pohjasta.
 - **Perätilasynnytys** (noin 4 % täysiaikaisista): korkean riskin tilanne – sairaalaan olisi hyvä ehtiä. Älä vedä lasta äläkä koske siihen ennen kuin se on syntynyt napavartta ja lapaluita myöten. Konttausasennossa painovoima auttaa hartioiden ja pään syntymistä. Jos pää ei synny, lapsi asetetaan hajareisin avustajan kyynärvarrelle, sormi lapsen ylähuulelle tai suuhun ja toinen käsi niskaan, ja vartalo käännetään äidin vatsan suuntaan; toinen auttaja voi painaa häpyliitoksen päältä.
 - **Napanuoran esiinluiskahdus** ja raskaudenaikaiset vuodot: ks. [raskaudenaikaiset verenvuodot ja hätätilanteet](topic:raskauden-verenvuodot).
+
+> [!info] Napanuora, istukka ja kivunlievitys (Ensihoito-opas)
+> Napanuora katkaistaan 1–2 minuutin kuluttua syntymästä, ja lapsi annetaan äidille ihokontaktiin lämpimästi peiteltynä. Istukka irtoaa supistusten myötä yleensä viimeistään tunnin kuluessa, ja sen aikana verta vuotaa keskimäärin 500 ml. Lapsen synnyttyä oksitosiini annetaan äidin reisilihakseen. Kipua voidaan lievittää parasetamolilla, tulehduskipulääkkeellä i.m. ja tarvittaessa opioidilla. **Huomaa lähde-ero**: Käypä hoidon (Kipu 2026) mukaan tulehduskipulääkkeet ovat vasta-aiheisia raskausviikon 28 jälkeen – tarkista oman alueen ohje.
+
+```media
+{"widget":"scene-card","id":"synnytys","title":"Kohteessa: synnyttäjä","know":[
+{"label":"Synnytys on alkanut","detail":"Supistukset 5 min välein noin 30 min ajan tai lapsivesi mennyt."},
+{"label":"Kuljetus vai synnytys kohteessa","detail":"Pää näkyy, voimakas ponnistuspakko ja nopea eteneminen → valmistaudu synnytykseen."},
+{"label":"Riskit","detail":"Alle 37 rv (alle 32 rv yliopistosairaala), perätila, monisikiöisyys, vuoto, napanuora."},
+{"label":"Jälkeisvaihe on äidin vaarallisin hetki","detail":"Normaali vuoto noin 500 ml; oksitosiini lapsen synnyttyä."}
+],"examine":[
+{"label":"Raskausviikot, aiemmat synnytykset ja niiden kesto"},
+{"label":"Supistusten tiheys ja ponnistamisen tarve"},
+{"label":"Lapsiveden väri ja vuoto"},
+{"label":"Tarjonta – näkyykö pää vai perä?"},
+{"label":"Äidin verenpaine, pulssi ja lämpö"},
+{"label":"Vastasyntyneen hengitys, syke ja väri (Apgar)"}
+],"do":[
+{"label":"Pyydä kätilön tai synnytyssairaalan tuki herkästi"},
+{"label":"Pään hallittu syntyminen, napanuoran tarkistus kaulalta"},
+{"label":"Napanuoran katkaisu 1–2 min kuluttua"},
+{"label":"Lapsi ihokontaktiin ja lämpimästi peitettynä"},
+{"label":"Oksitosiini äidin reisilihakseen, kohdun hieronta"},
+{"label":"Huonokuntoiselle vastasyntyneelle tehokas ventilaatio"}
+],"redFlags":["Hartiadystokia tai perätila","Napanuora näkyy","Runsas vuoto istukan syntymän jälkeen","Vastasyntynyt ei hengitä tai syke alle 100"]}
+```
 
 ## Vastasyntyneen välitön hoito
 

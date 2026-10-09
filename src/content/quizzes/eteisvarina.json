@@ -1,0 +1,78 @@
+[
+  {
+    "id": "eteisvarina-q1",
+    "type": "mcq",
+    "question": "Eteisvärinäpotilaan verenpaine on romahtanut. Mikä on Käypä hoidon mukainen toimenpide?",
+    "options": [
+      "Odotetaan 24 h spontaania palautumista",
+      "Sähköinen rytminsiirto heti kestosta ja antikoagulaatiosta riippumatta",
+      "Aloitetaan ensin antikoagulaatio 3 viikoksi",
+      "Annetaan digoksiinia ja seurataan"
+    ],
+    "correctIndex": 1,
+    "explanation": "Jos eteisvärinä romahduttaa hemodynamiikan, sähköinen rytminsiirto tehdään heti riippumatta kestosta ja antikoagulaatiosta."
+  },
+  {
+    "id": "eteisvarina-q2",
+    "type": "mcq",
+    "question": "Miksi oireiden alkamisaika on eteisvärinäpotilaalla niin tärkeä kirjata?",
+    "options": [
+      "Sillä ei ole merkitystä hoidolle",
+      "Kesto (alle 12 h, 12–48 h, yli 48 h) ratkaisee, voidaanko rytmi siirtää varhain ja tarvitaanko antikoagulaatio",
+      "Se määrää kipulääkkeen",
+      "Se kertoo potilaan iän"
+    ],
+    "correctIndex": 1,
+    "explanation": "Akuutin kohtauksen keston arviointi ratkaisee varhaisen rytminsiirron mahdollisuuden. Yli 48 h tai epäselvä kesto edellyttää 3 viikon antikoagulaatiota tai kaikututkimusta ennen rytminsiirtoa."
+  },
+  {
+    "id": "eteisvarina-q3",
+    "type": "mcq",
+    "question": "Mikä on akuutin eteisvärinän sykkeenhallinnan tavoitetaajuus Käypä hoidon mukaan?",
+    "options": [
+      "Alle 60/min",
+      "Alle 110/min",
+      "Alle 150/min",
+      "Ei tavoitetta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hemodynaamisesti vakaan kohtauksen alussa kammiotaajuutta hidastetaan AV-johtumista jarruttavilla lääkkeillä, tavoitteena alle 110/min."
+  },
+  {
+    "id": "eteisvarina-q4",
+    "type": "truefalse",
+    "question": "WPW-oireyhtymää sairastavan eteisvärinää voi turvallisesti hidastaa verapamiililla.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Väärin. Kalsiuminestäjät, digoksiini ja beetasalpaajat lisäävät johtumista oikoradassa, joten niitä ei suositella, jos potilaalla on delta-aalto."
+  },
+  {
+    "id": "eteisvarina-q5",
+    "type": "mcq",
+    "question": "Ensihoito-oppaan mukaan oireetonta eteisvärinää...",
+    "options": [
+      "käännetään aina kentällä",
+      "ei rutiinisti hidasteta eikä käännetä hoitolaitoksen ulkopuolella",
+      "hoidetaan aina amiodaronilla",
+      "hoidetaan adenosiinilla"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oireetonta eteisvärinää ei pyritä rutiinisti hidastamaan eikä kääntämään hoitolaitoksen ulkopuolella. Iskemiaa, rintakipua tai vajaatoiminnan hengenahdistusta aiheuttava nopea eteisvärinä hidastetaan."
+  },
+  {
+    "id": "eteisvarina-q6",
+    "type": "mcq",
+    "question": "Kuinka monta CHA₂DS₂-VA-pistettä saa 78-vuotias verenpainepotilas, jolla on diabetes?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ikä ≥ 75 v = 2, kohonnut verenpaine = 1, diabetes = 1 → yhteensä 4 pistettä (suuri riski)."
+  }
+]

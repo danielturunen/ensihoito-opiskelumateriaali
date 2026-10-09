@@ -1,0 +1,32 @@
+[
+  {
+    "id": "eteisvarina-f1",
+    "front": "CHA₂DS₂-VA-pisteytys (2025)?",
+    "back": "Sydämen vajaatoiminta 1, kohonnut verenpaine 1, ikä ≥ 75 v 2, diabetes 1, aiempi AVH/TIA 2, valtimosairaus 1, ikä 65–74 v 1. Max 8. Sukupuolta ei pisteytetä."
+  },
+  {
+    "id": "eteisvarina-f2",
+    "front": "Rytminsiirto ja antikoagulaatio akuutissa eteisvärinässä?",
+    "back": "CHA₂DS₂-VA ≤ 1 ja alle 12 h: ilman antikoagulaatiota. 12–48 h tai ≥ 2 pistettä: antikoagulaatio ennen rytminsiirtoa. Yli 48 h/epäselvä: 3 vk antikoagulaatio tai TEE/TT ensin."
+  },
+  {
+    "id": "eteisvarina-f3",
+    "front": "Eteisvärinän tavallisimmat oireet?",
+    "back": "Sydämentykytys, väsymys ja suorituskyvyn lasku, huimaus, rintakipu, hengenahdistus, polyuria. Voi olla oireeton. Synkopee harvinainen – epäile vakavaa syytä."
+  },
+  {
+    "id": "eteisvarina-f4",
+    "front": "Pulssivaje eteisvärinässä?",
+    "back": "Ranteesta tunnusteltu syke on usein hitaampi kuin stetoskoopilla tai EKG:stä laskettu – osa supistuksista ei tuota tuntuvaa pulssia."
+  },
+  {
+    "id": "eteisvarina-f5",
+    "front": "Eteisvärinän akuutit laukaisijat?",
+    "back": "Alkoholin liikakäyttö (krapulaflimmeri), akuutti sydäninfarkti, perikardiitti, myokardiitti, keuhkoembolia. Laukaisijan hoito palauttaa usein sinusrytmin."
+  },
+  {
+    "id": "eteisvarina-f6",
+    "front": "Milloin eteisvärinäpotilas kuljetetaan (Ensihoito-opas)?",
+    "back": "Lääkkeellisesti hoidetut, iskemiamuutokset, uusi eteisvärinä ja alle 2 vrk kestänyt eteisvärinä. Tiedossa oleva krooninen eteisvärinä ja vakaa hemodynamiikka: ei kuljetustarvetta."
+  }
+]

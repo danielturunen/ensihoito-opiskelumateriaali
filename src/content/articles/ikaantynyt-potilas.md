@@ -119,6 +119,37 @@ WHO on määritellyt monilääkityksen (polyfarmasian) tilanteeksi, jossa iäkk�
 
 **Kipulääkkeet**: perusvalmiste on **parasetamoli** (enintään 3–4 g/vrk). Tulehduskipulääkkeitä käytetään vain tulehduskipuun ja lyhyen aikaa, koska iäkkäillä ne aiheuttavat herkästi suolistovuotoja (jopa kivuttoman ulkuksen, ensioireena voi olla äkillinen anemia), nesteen kertymistä, verenpaineen nousua sekä sydämen ja munuaisten vajaatoiminnan pahenemista. **Heikot opioidit** (tramadoli, kodeiini) ovat tavallisimpia sekavuutta aiheuttavia lääkkeitä. Vahvojen opioidien annostelu aloitetaan iäkkäälle hyvin varovasti (Tilvis, Oppiportti).
 
+### Monisairas potilas (Käypä hoito 2021)
+
+Monisairaalla tarkoitetaan henkilöä, jolla on **vähintään kaksi pitkäaikaista sairautta, vammaa tai toiminnanvajausta**. Erityisen tärkeää on tunnistaa **riskissä oleva monisairas**: palveluiden käyttö on runsasta, potilaalla on sekä ruumiillisia sairauksia että mielenterveyden ongelmia, todetaan gerastenia, käytössä on monia lääkkeitä tai arjessa selviytyminen on muuten vaikeaa. Monilääkityksellä tarkoitetaan Käypä hoidossa tavallisimmin **viittä tai useampaa pitkäaikaisesti käytettävää lääkettä**.
+
+- Suomalaisessa tutkimuksessa **lähes neljäsosa (23 %) iäkkäiden päivystyskäynneistä** liittyi todennäköisesti tai mahdollisesti lääkityksen haittoihin. Tavallisimpia haittoja olivat **huimaus, kaatuminen ja murtuma**, ja yli puolet (53 %) liittyi hermostoon vaikuttaviin lääkkeisiin – yleisimmin opioideihin, psykoosilääkkeisiin ja masennuslääkkeisiin.
+- Haittatapahtumien ja kuoleman riski kasvaa lääkemäärän mukana ja on erityisen suuri, kun lääkkeitä on **vähintään 15**. Lukumäärää olennaisempaa on kuitenkin lääkityksen tarkoituksenmukaisuus.
+- Gerasteniaa voidaan seuloa vakaassa tilanteessa kävelynopeudella tai TUG-testillä (Timed Up and Go); kliiniseen arvioon sopii Clinical Frailty Scale.
+- Monisairaan hoidossa korostuvat hoidon jatkuvuus, potilaan omat tavoitteet ja yksilöllinen hoitosuunnitelma – ensihoidossa se tarkoittaa, että selvitetään hoitosuunnitelma ja hoitotahto ja välitetään tieto eteenpäin.
+
+```media
+{"widget":"scene-card","id":"monisairas","title":"Kohteessa: monisairas iäkäs potilas","know":[
+{"label":"Oireet ovat usein epätyypillisiä","detail":"Infektio tai infarkti voi näkyä vain sekavuutena, kaatumisena tai yleiskunnon laskuna."},
+{"label":"Uusi oire on lääkehaitta, kunnes toisin todetaan","detail":"Huimaus, kaatuminen ja murtuma ovat tavallisimmat lääkehaitat; hermostoon vaikuttavat lääkkeet yleisimpiä."},
+{"label":"Gerastenia ennustaa romahdusta","detail":"Pienikin sairaus voi viedä toimintakyvyn."},
+{"label":"Riskissä oleva monisairas","detail":"Runsas palveluiden käyttö, mielenterveyden ongelmat, gerastenia, monilääkitys, arjen vaikeudet."}
+],"examine":[
+{"label":"Koko lääkitys – myös käsikauppa- ja luontaistuotteet","detail":"Muutokset viime aikoina? Otettiinko lääkkeet oikein?"},
+{"label":"Toimintakyky ennen sairastumista – kysy omaisilta tai hoitajilta"},
+{"label":"Tajunta ja orientaatio – delirium vai muistisairaus?"},
+{"label":"Ortostaattinen verenpaine, syke ja rytmi"},
+{"label":"Kaatumisen syy ja vammat (pää, lonkka, ranne)"},
+{"label":"Kipu – myös muistisairaalta käyttäytymistä havainnoiden"},
+{"label":"Hoitosuunnitelma ja hoitotahto"}
+],"do":[
+{"label":"Pienet, titratut lääkeannokset"},
+{"label":"Kirjaa lääkitys ja epäilty lääkehaitta ennakkoilmoitukseen ja raporttiin"},
+{"label":"Hoitopaikan valinta potilaan tavoitteiden ja hoitolinjauksen mukaan"},
+{"label":"Jos potilas jää kotiin: varmista seuranta ja tiedonkulku hoitavalle taholle"}
+],"redFlags":["Äkillinen sekavuus","Toistuvat kaatumiset lyhyessä ajassa","Uusi lääke ja uusi oire","Toimintakyky romahtanut päivissä"]}
+```
+
 ## Masennus
 
 Masennus on vanhusten yleisin mielenterveyden häiriö: masennustila on 2,5–5 %:lla eläkeikäisistä ja lievempiä oireita 15–20 %:lla. Iäkkäällä se näkyy usein **somaattisina oireina**, ruokahaluttomuutena, painon laskuna, unihäiriöinä, rauhattomuutena tai hidastuneisuutena – ja voi muistuttaa muistisairautta ("pseudodementia"). Masennukseen liittyy lisääntynyt **itsemurhavaara**, ja vanhojen ihmisten itsemurhayritykset päätyvät kuolemaan huomattavasti useammin kuin nuorten. Iäkkäät eivät usein ota itsetuhoisia ajatuksia puheeksi itse, joten niistä kysytään suoraan (Leinonen ja Koponen, Oppiportti). SSRI-lääkkeet voivat aiheuttaa iäkkäälle **hyponatremiaa** (10–15 %:lle), jonka oireet – väsymys, ruokahaluttomuus, toimintakyvyn heikkeneminen – sekoittuvat masennukseen.

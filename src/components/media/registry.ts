@@ -91,6 +91,10 @@ export const widgetMeta: Record<string, WidgetMeta> = {
   'ecg-artifacts': { title: 'EKG:n häiriöt ja virheet', kind: 'Animaatio' },
   'vf-decay': { title: 'Aika, alkurytmi ja ennuste', kind: 'Animaatio' },
   'rosc-care': { title: 'Hoito heti verenkierron palattua', kind: 'Harjoitus' },
+  'cord-prolapse': { title: 'Napanuoran esiinluiskahdus: asento ratkaisee', kind: 'Interaktiivinen kuva' },
+  'af-cardioversion': { title: 'Eteisvärinä: voiko rytmin siirtää?', kind: 'Laskuri' },
+  venturi: { title: 'Venturimaskin venttiilit', kind: 'Interaktiivinen kuva' },
+  'headache-check': { title: 'Päänsärky: vaaranmerkki vai migreeni?', kind: 'Harjoitus' },
   'scene-card': { title: 'Kohteessa: tiedä, tutki, osaa', kind: 'Itsearviointi' },
 }
 

@@ -72,6 +72,26 @@ Nestehoito arvioidaan suhteessa palovamman laajuuteen ja lisätään tarvittaess
 
 Räjähdysvamman jälkeen potilas kuljetetaan ensihoidossa aina, koska piilevien vammojen riski on suuri. Hypotermian ehkäisy aloitetaan varhain ja tutkiminen toistetaan säännöllisesti kuljetuksen aikana, koska tila voi heikentyä yllättäen. Vastaanottavan hoitolaitoksen valmius kannattaa varmistaa ennakkoilmoituksella.
 
+```media
+{"widget":"scene-card","id":"rajahdys","title":"Kohteessa: räjähdysvamma","know":[
+{"label":"Oma turvallisuus ensin","detail":"Lähestytään vasta pelastusviranomaisten luvalla."},
+{"label":"Ajalliset tavoitteet","detail":"Vuoto 1 min, hengitystie 2 min, käsitys vammoista 5 min, hätäkuljetus 10 min, kiireellinen 25 min."},
+{"label":"Verenpainetavoite","detail":"Ilman aivovammaa SAP alle 100 sallitaan, jos tajunta tai rannesyke riittää; aivovammassa yli 120 mmHg."},
+{"label":"Painevamma voi olla piilossa","detail":"Keuhkot ja suolisto; verenvuoto korvista viittaa painevammaan."}
+],"examine":[
+{"label":"Massiiviset ulkoiset vuodot ja amputaatiot"},
+{"label":"Hengitys ja paineilmarinnan merkit"},
+{"label":"Kaikki kehonosat sirpaleiden varalta"},
+{"label":"Tajunta (lievä aivovamma on yleinen) ja kuulo"}
+],"do":[
+{"label":"Kiristysside raajavuotoon heti"},
+{"label":"Happi, normoventilaatio, paineilmarinnan purku","detail":"PEEP ja CPAP vain harkiten – voivat pahentaa keuhkovauriota."},
+{"label":"TXA 1 g i.v. runsaan vuodon epäilyssä"},
+{"label":"Kivunhoito ja lämmönhukan esto"},
+{"label":"Ennakkoilmoitus, monipotilastilanteessa luokittelu"}
+],"redFlags":["Verenvuoto korvista","Hengitysvaikeus ilman ulkoisia vammoja – painevamma keuhkoissa?","Sokki ilman näkyvää vuotoa","Usea potilas – johtaminen ja triage"]}
+```
+
 ## Muista tämä -kertaus
 
 - Räjähdysvammassa esiintyy neljä mekanismia samanaikaisesti: paineaalto (primaari), sirpaleet (sekundaari), heittovaikutus (tertiaari) ja kuumuus/kemikaalit (kvaternaari).

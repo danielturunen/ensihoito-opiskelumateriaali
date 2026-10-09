@@ -72,6 +72,30 @@ Ensihoidossa kuljetetaan oireinen potilas korkealla vammaenergialla, samoin oire
 > [!tip] Muista tämä
 > Tylpän vammaenergian aiheuttamalla monivammapotilaalla epäillään aina aivovammaa, kunnes se on poissuljettu – ja vuotosokin hyvä hoito on samalla myös aivovamman parasta ensihoitoa ([pään vamma](topic:paan-vamma)).
 
+```media
+{"widget":"scene-card","id":"tylppa","title":"Kohteessa: tylppä vamma","know":[
+{"label":"Ajalliset tavoitteet","detail":"Ulkoinen vuoto tyrehdytetty 1 min, hengitystie ja hengitys 2 min, tarkennettu arvio alle 10 min, kuljetus 15–30 min."},
+{"label":"Verenpainetavoite","detail":"SAP yli 80 mmHg (rannesyke tuntuu tai tajunta riittävä); aivovammassa SAP yli 120 mmHg."},
+{"label":"Piilevät vammat","detail":"Vammaenergia ennustaa – ennakoi tilan muutokset."},
+{"label":"Rankalauta ja kauhapaarit vain evakuointiin","detail":"Kuljetus ensisijaisesti tyhjiöpatjassa; laudalla vain alle 30 min."}
+],"examine":[
+{"label":"Massiivinen ulkoinen vuoto ensin"},
+{"label":"Hengitystie ja hengitys: liikkuuko rintakehä symmetrisesti, ihonalainen ilma, hengitysäänet"},
+{"label":"Verenkierto: iho, rannesyke, verenpaine, sokin merkit"},
+{"label":"Tajunta, pupillat, puolierot – verensokeri ja päihteet"},
+{"label":"NEXUS-kriteerit 15–65-vuotiaalla","detail":"Keskilinjan aristus, neurologiset oireet, GCS alle 15, päihtymys, kivuliaat lisävammat."},
+{"label":"Systemaattinen vammastatus toistaen kuljetuksen aikana","detail":"Lantion stabiliteettia ei tutkita."}
+],"do":[
+{"label":"Paine- tai kiristysside, vartalon vuoto pakaten"},
+{"label":"Happi, tavoite SpO₂ yli 94 % ja EtCO₂ 4–4,5 kPa"},
+{"label":"Paineilmarinnan purku","detail":"Neulatorakosenteesi korjaa harvoin – torakostomia lääkäriyksikkö."},
+{"label":"TXA 1 g i.v. runsaassa vuodossa"},
+{"label":"Lämmönhukan esto heti"},
+{"label":"Kivunhoito","detail":"Fentanyyli 100–200 µg tai esketamiini 50–100 mg i.n., sitten i.v."},
+{"label":"Ennakkoilmoitus ja oikea hoitopaikka"}
+],"redFlags":["Hengitysvaikeus ja yksipuolisesti puuttuvat hengitysäänet","Rannesyke ei tunnu tai tajunta laskee","Korkea vammaenergia – myös oireeton tutkitaan"]}
+```
+
 ## Muista tämä -kertaus
 
 - Tylppä vamma säilyttää ihon eheyden, mutta sisäinen vaurio voi silti olla laaja – piilevää vammaa epäillään aina korkeaenergisessä mekanismissa.

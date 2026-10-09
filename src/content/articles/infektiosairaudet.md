@@ -63,6 +63,48 @@ Vaikea sepsis ja septinen sokki kuuluvat tehohoitoon, lievempi sepsis vähintä�
 
 Pehmytkudosinfektio, johon liittyy poikkeavan kova kipu suhteessa näkyviin ihomuutoksiin, on pidettävä välittömästi uhkaavana tilana. Nekrotisoiva faskiitti ja kaasukuolio (gangreena) leviävät tunneissa kudosrajapintoja pitkin, ja päältä näkyvät muutokset voivat olla paljon lievemmät kuin syvällä tapahtuva tuho. Oireena on nopeasti huonontunut yleiskunto, septinen oireisto ja poikkeuksellisen kova paikallinen kipu (usein raajassa, kyljessä tai genitaalialueella). Hoitona on nesteytys ja välitön kuljetus sairaalaan, jossa kirurginen revisio on mahdollinen.
 
+## Ihoinfektiot (Käypä hoito 2025)
+
+Ihon bakteeri-infektiot ovat tavallisia, ja suurin osa hoidetaan perusterveydenhuollossa. Ensihoitajan tehtävä on tunnistaa yleisoireinen infektio, erottaa se nopeasti etenevästä nekrotisoivasta infektiosta ja huomata ne erityistilanteet, jotka vaativat päivystyksellistä arviota.
+
+- **Ruusutulehdus** (erysipelas, selluliitti) on ihon ja ihonalaiskudoksen **akuutti yleisoireinen** bakteeri-infektio, yleensä beetahemolyyttisen streptokokin aiheuttama. **Kasvojen ruusuun** ei aina liity merkittävää kuumetta tai yleisoireita. Yleisoireista potilasta hoidetaan yleensä suonensisäisellä antibiootilla (ensisijaisesti penisilliini). **Infektioraja voidaan piirtää iholle** seurannan helpottamiseksi; raajan kohoasento ja viilentävät keittosuolakääreet helpottavat.
+- **Erotettavat tilat**: paise (avataan), **nekrotisoiva infektio** (kirurginen hoito) ja diabeetikon neuropatiaan tai iskemiaan liittyvä jalkainfektio. Muita erotusdiagnooseja ovat märkäinen niveltulehdus, kihti, **syvä laskimotukos**, staasiekseema ja lymfedeema.
+- **Nekrotisoivaa infektiota epäillään**, jos kipu on suhteettoman voimakas iholöydöksiin nähden tai potilas on septisesti sairas.
+- **Paise** on yleensä *S. aureuksen* aiheuttama; kasvojen keskialueen paiseisiin voi harvoin liittyä keskushermostoinfektio. Immuunipuutos, diabetes ja aliravitsemus altistavat.
+- **Vyöruusu** alkaa ihon kipuna ja kihelmöintinä, ja rakkulat ilmaantuvat yleensä 1–5 päivän kuluttua toispuoleisesti dermatomin alueelle (tavallisimmin vartalo tai kasvot). Silmähermon alueen vyöruusussa on silmäkomplikaatioiden vaara, ja korvan alueen vyöruusuun voi liittyä kasvohermohalvaus (Ramsay Huntin oireyhtymä). Kuumetta ei yleensä ole.
+- **Herpes**: atoopikolla nopeasti leviävä laaja herpesinfektio (eczema herpeticum) vaatii yleensä sairaalahoitoa, ja **silmän lähistön herpesinfektiossa** tarvitaan silmälääkärin päivystyksellinen arvio.
+- **Punkin purema**: rutiininomaista mikrobilääkitystä ei tarvita, mutta varhainen borreliainfektio hoidetaan aina.
+
+```media
+{"widget":"matching","title":"Tunnista ihoinfektio","pairs":[
+{"left":"Kuumeinen potilas, säären punoitus ja turvotus, selvä raja","right":"Ruusutulehdus – yleisoireisena suonensisäinen penisilliini"},
+{"left":"Kipu suhteettoman kova näkyviin muutoksiin nähden, septinen","right":"Nekrotisoiva infektio – kiireellinen kirurginen hoito"},
+{"left":"Toispuoleinen kipu ja kihelmöinti, muutaman päivän päästä rakkulat dermatomin alueelle","right":"Vyöruusu"},
+{"left":"Aristava, märkäinen kyhmy karvatupen kohdalla","right":"Paise – avaus"},
+{"left":"Atoopikon kasvoille nopeasti leviävä rakkulainen ihottuma","right":"Eczema herpeticum – yleensä sairaalahoito"}
+]}
+```
+
+```media
+{"widget":"scene-card","id":"iho","title":"Kohteessa: ihoinfektio","know":[
+{"label":"Kipu suhteeton löydöksiin → nekrotisoiva infektio","detail":"Leviää tunneissa – nesteytys ja välitön kuljetus kirurgiseen hoitoon."},
+{"label":"Ruusu on yleisoireinen infektio","detail":"Kasvojen ruusussa kuume voi puuttua."},
+{"label":"Erotusdiagnoosit","detail":"Syvä laskimotukos, kihti, märkäinen niveltulehdus, staasiekseema, lymfedeema."},
+{"label":"Silmän alue","detail":"Herpes tai vyöruusu silmän lähellä → päivystyksellinen silmälääkärin arvio."}
+],"examine":[
+{"label":"Sepsiksen merkit: syke, verenpaine, hengitystaajuus, tajunta, lämpö"},
+{"label":"Punoituksen laajuus, raja ja turvotus"},
+{"label":"Kivun voimakkuus suhteessa löydöksiin"},
+{"label":"Haava, purema tai luonnonvesikontakti"},
+{"label":"Riskitekijät: diabetes, immuunipuutos, päihteet"}
+],"do":[
+{"label":"Piirrä punoituksen raja iholle ja kirjaa kellonaika"},
+{"label":"Raajan kohoasento"},
+{"label":"Septisellä potilaalla sepsiksen ensihoito ja ennakkoilmoitus"},
+{"label":"Kuljetus, jos yleisoireinen tai epäily nekrotisoivasta infektiosta"}
+],"redFlags":["Suhteettoman kova kipu","Sepsiksen merkit","Nopeasti huonontunut yleiskunto","Silmän alueen rakkulat"]}
+```
+
 ## Tärkeimmät yksittäiset tartuntataudit ensihoidon kannalta
 
 | Tauti | Ensihoidon kannalta keskeistä |

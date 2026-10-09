@@ -79,6 +79,28 @@ Vammamekanismin perusteella osataan epäillä myös kaularankavammaa, ja monivam
 
 Ensihoidossa kuljetetaan potilaat, joilla on alentunut tajunnantaso (myös ohimenevä), muita neurologisia oireita tai muistihäiriö, antikoagulaatiolääkitys yhdistettynä merkittävään pään vammaan, korkeaenerginen vammamekanismi, murtumaepäily tai lävistävä vamma, tai jatkuva oksentelu. Oireettomat potilaat, joilla kotiseuranta ei ole mahdollista, ohjataan päivystykseen seurantaan. Oireettomat potilaat, joilla kotiseuranta on mahdollista ja kirjalliset ohjeet on annettu, voidaan jättää kotiin.
 
+```media
+{"widget":"scene-card","id":"paa","title":"Kohteessa: pään vamma","know":[
+{"label":"Tavoitteet","detail":"SpO₂ yli 94 %, SAP yli 120 mmHg, EtCO₂ 4–4,5 kPa, normoglykemia."},
+{"label":"Aivovamma ei yleensä aiheuta hypotensiota","detail":"Etsi muut vammat ja vuoto."},
+{"label":"Ajalliset tavoitteet","detail":"Tajunnan ja hengitystien uhka tunnistetaan 1 min, verenkierto ja neurologia 5 min, kuljetus 20 min."},
+{"label":"SAP yli 180 mmHg lisää kallonsisäisiä komplikaatioita"}
+],"examine":[
+{"label":"GCS, pupillien koko ja symmetria, puolierot ja puutosoireet","detail":"Toistetaan kuljetuksen aikana."},
+{"label":"Hengitystien uhka","detail":"GCS alle 8, reuhtominen tai GCS laskee 2 pistettä."},
+{"label":"Kaularanka ja muut vammat vammamekanismin perusteella"},
+{"label":"Verensokeri ja ydinlämpö"},
+{"label":"Antikoagulaatio, muistihäiriö, oksentelu"}
+],"do":[
+{"label":"Lääkäriyksikön hälytys vakavassa aivovammassa"},
+{"label":"Hengitystie auki, maskiventilaatio tarvittaessa"},
+{"label":"Kristalloidi 300–500 ml ja tarvittaessa noradrenaliini","detail":"Tavoite SAP yli 120 mmHg."},
+{"label":"Pää suorassa, kaulalaskimot vapaina, pääpuoli 20–30° koholla"},
+{"label":"Ei kovakauluria","detail":"Tuenta käsin, sivutuilla tai tyhjiöpatjan reunoilla."},
+{"label":"Kivunhoito ja sedaatio ensin, jos SAP yli 180"}
+],"redFlags":["GCS laskee 2 pistettä tai enemmän","Pupillien epäsymmetria","Antikoaguloitu potilas ja merkittävä pään vamma","Jatkuva oksentelu"]}
+```
+
 ## Muista tämä -kertaus
 
 - Ensihoidon tavoite on estää sekundaarivaurio: turvaa riittävä happeutuminen, verenkierto ja normoventilaatio.

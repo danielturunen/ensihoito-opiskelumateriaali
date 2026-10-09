@@ -1,0 +1,27 @@
+[
+  {
+    "id": "paansarky-ja-migreeni-f1",
+    "front": "Aurattoman migreenin kriteerit (ICHD-3)?",
+    "back": "Kesto 4–72 h; särystä vähintään 2: toispuoleinen, sykkivä, kohtalainen/kova, rasitus pahentaa; lisäksi pahoinvointi/oksentelu tai valo- ja ääniarkuus; vähintään 5 kohtausta."
+  },
+  {
+    "id": "paansarky-ja-migreeni-f2",
+    "front": "Päänsäryn vaaranmerkit (Käypä hoito)?",
+    "back": "Tajunnan lasku ja kallonsisäisen paineen oireet, kuume/meningiittiepäily, meningeaaliset oireet, tuore fokaalioire joka ei sovi auraksi, antikoaguloidun poikkeava särky, pään vamma, pitkittynyt hoitoon reagoimaton särky."
+  },
+  {
+    "id": "paansarky-ja-migreeni-f3",
+    "front": "Mikä aura vaatii selvittelyä?",
+    "back": "Motorinen heikkous (hemipleginen), aivorunko-oireet, vain toisen silmän näköhäiriö ja yli tunnin kestävä auraoire. Aurallisen migreenin aivoinfarktiriski noin kaksinkertainen."
+  },
+  {
+    "id": "paansarky-ja-migreeni-f4",
+    "front": "Migreenikohtauksen hoito päivystyksessä?",
+    "back": "Sekundaarisen syyn poissulku, i.v. neste 1 000 ml, metoklopramidi 10 mg tai ondansetroni 4 mg i.v., sumatriptaani 6 mg s.c. tai ketorolaakki/deksketoprofeeni/diklofenaakki i.v.; deksametasoni uusiutumisen estoon."
+  },
+  {
+    "id": "paansarky-ja-migreeni-f5",
+    "front": "Lääkepäänsärky?",
+    "back": "Kohtauslääkkeiden (kipulääkkeet, triptaanit) liikakäyttö voi aiheuttaa uuden tai pahentaa aiempaa päänsärkyä – kysy jo otetut lääkkeet ja annosvälit."
+  }
+]

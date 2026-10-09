@@ -77,7 +77,7 @@ Eteisvärinä on yleisin rytmihäiriö (2-4 % aikuisista): eteisten sähköinen 
 - **Eteislepatus**: sahalaitainen F-aalto alaseinäkytkennöissä, eteistaajuus 250–300/min, ja kammiovaste on sen murto-osa: **2:1 = 150/min, 3:1 = 100/min, 4:1 = 75/min**. Johtuminen ei aina ole vakaa, ja lepatus voi vaihdella eteisvärinän kanssa. Tavallisempi keuhkosairailla. Tasainen 150/min kapeakompleksinen takykardia – muista lepatus.
 
 > [!warning] Red flag
-> Myös kohtauksittaiseen eteisvärinään liittyy aivohalvauksen riski. Tromboembolisten komplikaatioiden vaara arvioidaan CHA2DS2-VASc-pisteytyksellä, ja antikoagulaatiota suositellaan, kun pisteitä kertyy kaksi tai enemmän.
+> Myös kohtauksittaiseen eteisvärinään liittyy aivohalvauksen riski. Käypä hoito (2025) arvioi tukosvaaran **CHA₂DS₂-VA**-pisteytyksellä (sukupuolta ei enää pisteytetä), ja antikoagulaatio on aiheellinen lähes poikkeuksetta, kun pisteitä on kaksi tai enemmän. Kohtauksen kesto, rytminsiirron edellytykset ja sykkeenhallinta: [eteisvärinä](topic:eteisvarina).
 
 ## PSVT ja WPW-oireyhtymä
 

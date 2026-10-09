@@ -1,0 +1,65 @@
+[
+  {
+    "id": "paansarky-ja-migreeni-q1",
+    "type": "mcq",
+    "question": "Mikä seuraavista on päänsäryn vaaranmerkki, joka edellyttää päivystyksellistä arviota?",
+    "options": [
+      "Särky on sykkivää",
+      "Valoarkuus",
+      "Antikoagulaatiota käyttävän aiemmasta poikkeava päänsärky",
+      "Särky helpottaa levossa"
+    ],
+    "correctIndex": 2,
+    "explanation": "Vaaranmerkkejä ovat mm. tajunnan lasku, kuume ja meningeaaliset oireet, tuore fokaalioire, joka ei sovi auraksi, antikoaguloidun poikkeava päänsärky, pään vamma ja pitkittynyt kotihoitoon reagoimaton särky."
+  },
+  {
+    "id": "paansarky-ja-migreeni-q2",
+    "type": "mcq",
+    "question": "Kuinka kauan tyypillinen yksittäinen auraoire kestää?",
+    "options": [
+      "Alle minuutin",
+      "5–60 minuuttia",
+      "2–3 tuntia",
+      "Vuorokauden"
+    ],
+    "correctIndex": 1,
+    "explanation": "Yksittäinen auraoire kestää 5–60 minuuttia, kehittyy hitaasti ja on täysin palautuva. Yli tunnin kestävä aura vaatii lisätutkimuksia."
+  },
+  {
+    "id": "paansarky-ja-migreeni-q3",
+    "type": "truefalse",
+    "question": "Triptaani on tehokas lääke auraoireiden hoitoon.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Väärin. Triptaanilla ei hoideta auraoireita – ne ovat kipuvaiheen täsmälääkkeitä."
+  },
+  {
+    "id": "paansarky-ja-migreeni-q4",
+    "type": "mcq",
+    "question": "Mitä tarkoittaa status migrenosus?",
+    "options": [
+      "Migreeni, jossa on aura",
+      "Yli 72 tuntia yhtäjaksoisesti kestänyt migreeni",
+      "Ensimmäinen migreenikohtaus",
+      "Lääkepäänsärky"
+    ],
+    "correctIndex": 1,
+    "explanation": "Yli 72 tuntia kestävä migreeni on status migrenosus. Hoitoon kuuluu ensin sekundaaristen syiden poissulku ja parenteraalinen lääkitys."
+  },
+  {
+    "id": "paansarky-ja-migreeni-q5",
+    "type": "mcq",
+    "question": "Mikä piirre sopii parhaiten jännityspäänsärkyyn?",
+    "options": [
+      "Toispuoleinen sykkivä särky ja oksentelu",
+      "Pantamainen puristava särky, liikunta helpottaa eikä liitännäisoireita ole",
+      "Näkökenttäpuutos ennen särkyä",
+      "Särky pahenee rasituksessa ja valo häiritsee"
+    ],
+    "correctIndex": 1,
+    "explanation": "Jännityspäänsärky on pantamaista ja puristavaa koko pään alueella, liikunta helpottaa, liitännäisoireita ei ole ja toimintakyky säilyy."
+  }
+]

@@ -53,7 +53,23 @@ Tyypillisiä löydöksiä: hengenahdistus, krooninen yskä ja limaisuus, vinkuna
 ]}
 ```
 
-COPD-paheneman ensihoidossa annetaan kontrolloitu happi hoito-ohjeen mukaan, inhaloitava bronkodilataattori (beeta-2-agonisti ja/tai antikolinergi), seurataan hengitystyötä, tajuntaa ja hoitovastetta sekä huomioidaan mahdollinen hiilidioksidiretentio. Potilas kuuljetetaan päivystykseen, jos hengenahdistus on merkittävä, tajunta muuttuu, hengitysvajaus pahenee, hoitovaste jää heikoksi tai epäillään pahenemisen taustalla infektiota.
+COPD-paheneman ensihoidossa annetaan kontrolloitu happi hoito-ohjeen mukaan, inhaloitava bronkodilataattori (beeta-2-agonisti ja/tai antikolinergi), seurataan hengitystyötä, tajuntaa ja hoitovastetta sekä huomioidaan mahdollinen hiilidioksidiretentio. Potilas kuljetetaan päivystykseen, jos hengenahdistus on merkittävä, tajunta muuttuu, hengitysvajaus pahenee, hoitovaste jää heikoksi tai epäillään pahenemisen taustalla infektiota.
+
+### Käypä hoito: keuhkoahtaumataudin pahenemisvaihe
+
+Pahenemisvaiheen diagnoosi on kliininen: **lisääntynyt hengenahdistus, yskä ja mahdollisesti märkäiset yskökset**. Tärkein laukaisija on hengitystieinfektio (60–80 %), noin 10 %:lla ilmansaasteet; myös lääkityksen keskeyttäminen voi laukaista pahenemisen. Sairastettu pahenemisvaihe on seuraavan merkittävin riskitekijä, ja sairaalahoitoon johtaneen pahenemisen jälkeen 3 vuoden kuolleisuus on 43 % ja 5 vuoden 51 % (Käypä hoito, Keuhkoahtaumatauti).
+
+- **Sulje pois muut syyt** – ne voivat myös laukaista pahenemisen: keuhkokuume, toistuva aspiraatio, sydäninfarkti, rytmihäiriöt, sydämen vajaatoiminta, keuhkoembolia, ilmarinta ja keuhkopussineste.
+- **Kysy**: montako kortisonilla tai antibiootilla hoidettua pahenemisvaihetta on ollut vuodessa, onko ollut sairaalahoitoa, uusien oireiden kesto, muut sairaudet, nykyinen lääkitys ja inhalaatiotekniikka.
+- **Tutki**: syanoosi, kalpeus tai punakkuus, hengitystaajuus, sydän- ja hengitysäänet, apulihasten käyttö, turvotukset, SpO₂ ja yskösten ulkonäkö – kellertävä tai vihertävä yskös viittaa bakteeritulehdukseen. EKG.
+- **Bronkodilataattori**: lyhytvaikutteinen beeta₂-agonisti (salbutamoli 5–10 mg sumutteena) yksin tai ipratropiumin (0,5 mg) kanssa; ponnekaasuannostelija tilanjatkeella (salbutamoli 4 × 100 µg) lienee yhtä tehokas. Toistetaan alkuun tarvittaessa 20–60 minuutin välein kolmesti. Ipratropiumin lisäämisestä salbutamoliin ei ilmeisesti ole hyötyä.
+- **Glukokortikoidi**: prednisoloni 40 mg suun kautta 5 vuorokautta; jos potilas ei voi niellä, metyyliprednisoloni 40 mg i.v.
+- **Happi hallitusti**: tavoite **SpO₂ 88–92 %** happiviiksillä tai venturimaskilla; hallittu hapenanto vähentää komplikaatioita ja kuolleisuutta suurivirtauksiseen happeen verrattuna. Riittämätön hapenanto pitkittää kudosten hapenpuutetta.
+- **Hiilidioksidin kertymisen oireita** ovat uneliaisuus, päänsärky, desorientaatio ja ihon punakkuus. Oireisella, erityisesti tajunnaltaan häiriintyneellä potilaalla **NIV aloitetaan mahdollisimman varhain** – se vähentää intubaation tarvetta ja kuolleisuutta.
+
+```media
+{"widget":"venturi","caption":"Venturimaskin venttiilin väri kertoo, kuinka paljon happivirtausta se tarvitsee ja minkä happipitoisuuden se antaa."}
+```
 
 ### Beeta-2-agonistit vs. antikolinergit — eri mekanismi, täydentävä vaikutus
 
@@ -108,6 +124,30 @@ Kriittisen hengitysvajauksen merkkejä ovat uupuminen tai riuhtominen, kyvyttöm
 
 > [!info] Lähteiden ero
 > Ensihoito-opas aloittaa COPD-potilaan lisähapen, kun SpO₂ on alle 85 %, kun taas yleinen titraustavoite on 88–92 %. Molemmat korostavat liiallisen hapen välttämistä.
+
+```media
+{"widget":"scene-card","id":"copd","title":"Kohteessa: keuhkoahtaumataudin pahenemisvaihe","know":[
+{"label":"Tavoite SpO₂ 88–92 %","detail":"Happi hallitusti viiksillä tai venturimaskilla."},
+{"label":"Laukaisija on yleensä hengitystieinfektio (60–80 %)"},
+{"label":"Hiilidioksidin kertymisen merkit","detail":"Uneliaisuus, päänsärky, desorientaatio, ihon punakkuus → NIV varhain."},
+{"label":"Muut syyt voivat matkia tai laukaista","detail":"Keuhkokuume, infarkti, rytmihäiriö, vajaatoiminta, keuhkoembolia, ilmarinta."}
+],"examine":[
+{"label":"Hengitystaajuus, apulihasten käyttö, puhekyky"},
+{"label":"SpO₂ ja potilaan tavanomainen taso"},
+{"label":"Tajunta – uneliaisuus ja sekavuus"},
+{"label":"Yskösten määrä ja väri"},
+{"label":"Kuume, turvotukset, sydän- ja hengitysäänet"},
+{"label":"EKG"},
+{"label":"Aiemmat pahenemisvaiheet, kotihappi, lääkitys ja inhalaatiotekniikka"}
+],"do":[
+{"label":"Kontrolloitu happi ja tiivis SpO₂-seuranta"},
+{"label":"Salbutamoli (± ipratropium) sumutteena tai tilanjatkeella, toistaen"},
+{"label":"Glukokortikoidi hoito-ohjeen mukaan"},
+{"label":"Seuraa hoitovastetta: hengitystyö, tajunta, SpO₂"},
+{"label":"CPAP/NIV-valmius hyperkapniassa"},
+{"label":"Ennakkoilmoitus, jos tajunta laskee tai hengitysvajaus pahenee"}
+],"redFlags":["Uneliaisuus tai sekavuus – hiilidioksidi kertyy","Hengitystaajuus nousee ja puhe katkeilee","SpO₂ ei nouse hallitulla hapella","Rintakipu tai uusi rytmihäiriö"]}
+```
 
 ## Muista tämä -kertaus
 

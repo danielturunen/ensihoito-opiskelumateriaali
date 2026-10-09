@@ -107,6 +107,26 @@ Sairaalassa ensimmäisen vuorokauden nestetarve arvioidaan **Parklandin kaavalla
 > [!warning] "Honeymoon" voi hämätä
 > Laajan palovamman saanut voi olla ensimmäiset tunnit niin vakaa, että vamman vakavuus aliarvioidaan. Turvotuksen edetessä hengitys vaikeutuu, tajunta voi laskea ja perifeeriset nesteyhteydet lakata toimimasta. Siksi siirto on turvallisinta tehdä varhain, ja pitkää siirtoa ennen potilas kannattaa intuboida ja kanyloida – muutaman tunnin päästä intubaatio voi olla lähes mahdotonta. Yli 20 %:n syvät palovammat pyritään hoitamaan palovammakeskuksessa.
 
+```media
+{"widget":"scene-card","id":"palovamma","title":"Kohteessa: laaja palovamma","know":[
+{"label":"Laaja palovamma","detail":"Aikuisella yli 20 %, lapsella yli 10 % kehon pinta-alasta."},
+{"label":"Hengitystie voi turvota nopeasti","detail":"Uhka tunnistetaan 1 minuutissa ja lisäapu hälytetään."},
+{"label":"Häkä ja syanidi palokaasuissa","detail":"Muovi, silkki ja villa – syanidiepäilyssä hydroksokobalamiini 5 g i.v."},
+{"label":"Korkeajännitevamma","detail":"Huomio ensin elintoimintahäiriöihin."}
+],"examine":[
+{"label":"Hengitystie: noki, käheys, kasvojen palovammat"},
+{"label":"Palaneen alueen laajuus (9 %:n sääntö, kämmen 1 %)"},
+{"label":"Häkäoksimetria"},
+{"label":"Liitännäisvammat ja lämpötila"}
+],"do":[
+{"label":"Happi 100 % varaajamaskilla 2 minuutissa"},
+{"label":"Nesteytys","detail":"Aikuiselle 1 000 ml/h, lapselle 20 ml/kg/h, kunnes tarkempi annostelu."},
+{"label":"Kivunhoito","detail":"VAS yli 4: opioidi, fentanyyli myös i.n.; yli 70-vuotiaalle pienempi annos."},
+{"label":"Lämmönhukan esto"},
+{"label":"Ylipainehappihoidon harkinta häkämyrkytyksessä"}
+],"redFlags":["Käheys, stridor tai noki suussa","Tajunnan lasku palavassa tilassa – häkä tai syanidi","Hypotensio nestehoidosta huolimatta"]}
+```
+
 ## Muista tämä -kertaus
 
 - Laaja palovamma: aikuisella yli 20 %, lapsella yli 10 % kehon pinta-alasta; 9:n sääntö ja kämmensääntö auttavat arviossa.

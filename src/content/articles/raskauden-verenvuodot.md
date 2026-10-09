@@ -71,6 +71,19 @@ Pre-eklampsia (raskausmyrkytys) on istukkaan liittyvä sairaus, joka kehittyy ke
 - **Komplikaatioita**: kouristus (eklampsia), aivoturvotus, aivoverenvuoto, keuhkopöhö, DIC, HELLP-oireyhtymä ja HUS.
 - **Ensihoito**: kuljetus kylkiasennossa, rauhallinen ympäristö ja kirkkaiden valojen välttäminen. Magnesium on raskaana olevan kouristuksen ensisijainen lääke. Verenpainetta ei saa laskea liian nopeasti (istukan irtoamisen riski) – **konsultoi**. Sulje pois muut kouristuksen syyt.
 
+**Ensihoito-oppaan ohje** (Kämäräinen 2023): selvitä pre-eklampsian mahdollisuus, neuvolaseurannan tiedot ja akuutit oireet. Vakavissa tilanteissa kiireellinen kuljetus synnytyssairaalaan ja lisäapu.
+
+```media
+{"widget":"timeline","title":"Eklampsia – ajalliset tavoitteet ja hoito","items":[
+{"time":"2 min","title":"Hengitystie ja hengitys","text":"Kouristelevan raskaana olevan hengitystie- tai hengitysongelma tunnistetaan ja hoidetaan – vasen kylkiasento.","tone":"danger"},
+{"time":"5 min","title":"Kouristelun lääkehoito alkaa","text":"Magnesiumsulfaatti ensisijainen hoito-ohjeen mukaan, esim. 5 g (2 × 10 ml) / 100 ml NaCl i.v. 15–20 minuutissa. Bentsodiatsepiini: midatsolaami bukkaalisesti 10 mg, tarvittaessa 2,5–5 mg i.v., tai loratsepaami.","tone":"warning"},
+{"time":"Verenpaine","title":"Hoito-ohje, jos paine kriittinen","text":"Tavoite systolinen alle 180 mmHg tai oireiden (päänsärky, näköhäiriöt) helpottuminen. Ensisijainen lääke labetaloli esim. 5–10 mg i.v. Keuhkopöhössä CPAP ja nitro hoito-ohjeen mukaan.","tone":"warning"},
+{"time":"15 min","title":"Hätäkuljetus","text":"Oireiset kuljetetaan aina synnytyssairaalaan.","tone":"ok"}
+]}
+```
+
+Muista raskaana olevan erityispiirteet hätätilanteessa: vaikea hengitystie, pieni hengitysreservi ja taipumus hypoksiaan, alaonttolaskimon puristuminen (hypotensio) ja turvotukset.
+
 ### Napanuoran esiinluiskahdus
 
 Riskinä on runsas lapsivesi, poikkeava tarjonta ja tarjoutuva osa, joka ei ole kiinnittynyt lantioon. Napanuora jää puristuksiin, ja sikiön verenkierto vaarantuu.
@@ -83,9 +96,50 @@ Riskinä on runsas lapsivesi, poikkeava tarjonta ja tarjoutuva osa, joka ei ole 
 > [!tip] Lapsivesi mennyt ja perätila
 > Lapsivesimennyt perätilainen synnyttäjä kuljetetaan aina kylkiasennossa, jos perä ei ole kiinnittynyt – napanuoran esiinluiskahduksen riski.
 
+Ensihoito-oppaan (Kämäräinen 2023) mukaan tilanne tunnistetaan ja **kuljetus aloitetaan alle 5 minuutissa** – kyseessä on sikiön hätätilanne, joka vaatii yleensä hätäsektion. **Äiti ei saa ponnistaa**; ponnistustarpeessa hän läähättää voimakkaasti. Synnyttäjä autetaan ensisijaisesti kävelemään ambulanssiin – kantotuoli tai muu istuma-asento lisää napanuoraan kohdistuvaa painetta. Jos siirtyminen ei onnistu heti, äiti asettuu kontalleen polvien ja kyynärpäiden varaan. **Ambulanssissa turvallisin kuljetusasento on jyrkkä vasen kylkiasento lantion alle laitetun reilun korotuksen kanssa**, koska kontallaan olevaa on vaikea kiinnittää ja sivuttaisliikkeet voivat kaataa hänet. Tarjoutuvan osan työntäminen steriilein käsinein kohtua kohti tehdään hoito-ohjeen perusteella, aukileen kohtaa varoen.
+
+```media
+{"widget":"cord-prolapse","caption":"Vaihda asentoa ja seuraa, miten painovoima siirtää tarjoutuvaa osaa napanuorasta. Kaaviokuva."}
+```
+
+> [!info] Lähteiden ero kuljetusasennossa
+> Edellä mainittu konttausasento koko kuljetuksen ajan perustuu toiseen lähteeseen; Ensihoito-opas pitää ambulanssissa turvallisimpana jyrkkää vasenta kylkiasentoa lantio korotettuna ja konttausasentoa vaihtoehtona, kun siirtyminen ei heti onnistu.
+
 ### Trauma raskaana olevalla
 
 Yleisimmät vakavat vammamekanismit ovat liikenneonnettomuus, kaatuminen ja vatsaan kohdistuneet iskut. Sikiötä uhkaavat keskenmeno, ennenaikainen synnytys, istukan irtoaminen ja sikiökuolema. Äiti hoidetaan kuten muutkin traumapotilaat – **sikiön paras hoito on äidin hyvä hapetus ja verenkierto** – ja sikiön vointi tarkistetaan sairaalassa. Jos raskausviikkoja ei tiedetä, navan tasolle ulottuva kohtu viittaa noin 20. raskausviikkoon, jolloin kohtu alkaa painaa alaonttolaskimoa. Raskaana olevan elvytyksestä katso [elvytys sairaalan ulkopuolella](topic:elvytys-sairaalan-ulkopuolella).
+
+### Ensihoito-oppaan ohje: raskaudenaikainen verenvuoto
+
+Ensihoito-oppaan (Kämäräinen 2023) aikatavoitteet: **runsas vuoto tai sen uhka tunnistetaan 5 minuutissa ja hätäkuljetukseen lähdetään 10 minuutissa.** Verenvuoto **22. raskausviikon jälkeen** edellyttää aina päivystyksellistä arviota synnytyssairaalassa.
+
+- **Vuoto emättimestä**: ei sisätutkimusta, nopea kuljetus vasemmassa kylkiasennossa, suoniyhteydet kuljetuksen aikana, traneksaamihappo 1 g i.v. hoito-ohjeen perusteella; hoito-ohje tai lisäapu, jos potilas on sokissa.
+- **Voimakas vatsakipu** (istukan irtoaminen, kohdun repeämä): kipu on jatkuva, toisin kuin supistuskipu, ja kohtu voi olla pinkeä ja arka. Ulkoinen vuoto voi olla niukkaa, vaikka äiti on sokissa. Hoito on leikkaus synnytyssairaalassa – kiireellinen kuljetus.
+- Alkuraskauden vuoto tai keskenmenoepäily ilman komplikaatioita voidaan ohjata päivystykseen konsultaation perusteella.
+
+```media
+{"widget":"scene-card","id":"raskausvuoto","title":"Kohteessa: vuotava tai kouristeleva raskaana oleva","know":[
+{"label":"Vuoto 22. raskausviikon jälkeen → synnytyssairaala aina"},
+{"label":"Istukkakomplikaatio voi vuotaa sisäisesti","detail":"Ablaatio ja kohdun repeämä: jatkuva kipu, pinkeä arka kohtu, sokki ilman runsasta ulkoista vuotoa."},
+{"label":"Pre-eklampsian oireet","detail":"Päänsärky, näköhäiriöt, ylävatsakipu, turvotukset, korkea verenpaine."},
+{"label":"Napanuoran esiinluiskahdus","detail":"Kuljetus alkaa alle 5 minuutissa – hätäsektio."},
+{"label":"Raskaana olevan fysiologia","detail":"Vaikea hengitystie, hypoksia-alttius, aortokavaalinen kompressio."}
+],"examine":[
+{"label":"Raskausviikot ja neuvolatiedot"},
+{"label":"Vuodon määrä ja laatu – katso housuihin"},
+{"label":"Kivun luonne: jatkuva vai supistusmainen"},
+{"label":"Kohdun kovuus ja arkuus"},
+{"label":"Verenpaine, syke, sokin merkit"},
+{"label":"Sikiön liikkeet; näkyykö tai tuntuuko napanuora"},
+{"label":"Ei sisätutkimusta vuotavalle"}
+],"do":[
+{"label":"Vasen kylkiasento tai kohdun siirto vasemmalle"},
+{"label":"Suoniyhteydet kuljetuksen aikana, TXA hoito-ohjeella"},
+{"label":"Eklampsiassa magnesium ja bentsodiatsepiini"},
+{"label":"Napanuora: ei ponnistusta, läähätys, kävele ambulanssiin, jyrkkä vasen kylki + lantion korotus"},
+{"label":"Ennakkoilmoitus ja hoito-ohje / kätilön konsultaatio"}
+],"redFlags":["Sokki ja niukka ulkoinen vuoto (sisäinen vuoto)","Kouristus raskaana olevalla","Systolinen paine yli 180 mmHg tai päänsärky ja näköhäiriöt","Napanuora näkyy tai tuntuu"]}
+```
 
 ## Synnytyksen jälkeinen massiivinen vuoto
 

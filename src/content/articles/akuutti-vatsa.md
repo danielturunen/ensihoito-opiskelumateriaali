@@ -159,6 +159,24 @@ Huonokuntoisesta tai sokkisesta potilaasta tehdään aina ennakkoilmoitus sairaa
 ],"redFlags":["Äkillinen kova vatsa- tai selkäkipu ja pyörtyminen tai matala verenpaine","Kova kipu mutta pehmeä vatsa iäkkäällä sydänpotilaalla","Koko vatsan arkuus ja lihassuoja","Verioksennus tai meleena ja sokin merkit","Fertiili-ikäinen nainen, alavatsakipu ja sokin merkit"]}
 ```
 
+## Ylävatsavaivat ja refluksioireet
+
+Toistuvat ylävatsa- ja refluksioireet ovat yleisiä: refluksitaudin oireita on noin 30 %:lla aikuisista, ja noin puolet ylävatsavaivoista on toiminnallisia (Käypä hoito, Ylävatsavaivat ja refluksioireet). **Dyspepsian** pääoireita ovat ruokailun jälkeinen täyteläisyys, varhainen kylläisyys, ylävatsakipu ja polttelu; **refluksitaudin** närästys ja mahansisällön käänteisvirtaus. Refluksitauti on **yleisin ei-sydänperäisen rintakivun syy** – mutta dyspepsian kaltaisia oireita voivat aiheuttaa myös iskeeminen sydänsairaus, keuhkokuume, sappi- ja haimaperäiset syyt sekä diabetes ja muut aineenvaihduntasairaudet. Katso [rintakipu ja AKS](topic:rintakipu-ja-aks).
+
+```media
+{"widget":"checklist","title":"Ylävatsavaivojen hälyttävät oireet","prompt":"Merkitse potilaalla todetut oireet.","rule":{"type":"any"},"items":[
+{"label":"Oireet alkaneet ensimmäistä kertaa 55-vuotiaana tai vanhempana"},
+{"label":"Nielemisvaikeus tai -kipu, ruoka juuttuu"},
+{"label":"Anemia tai verenvuoto – verioksennus tai veriuloste"},
+{"label":"Tunnusteltava resistenssi ylävatsalla tai suurentunut kaulan imusolmuke"},
+{"label":"Toistuva oksentelu tai pahoinvointi"},
+{"label":"Selkään säteilevä tai yhtäjaksoisesti jatkuva vatsakipu"},
+{"label":"Tahaton laihtuminen (yli 3 kg puolessa vuodessa)"}
+],
+"met":{"title":"Hälyttävä oire – lääkärin arvio","text":"Hälyttävät oireet ovat vakavan sairauden merkki ja kiireellisen tähystyksen aihe. Verioksennus tai meleena: arvioi vuodon ja sokin vakavuus (ks. GI-verenvuoto). Selkään säteilevä jatkuva kipu: muista haima ja aortta.","tone":"danger"},
+"notMet":{"title":"Ei hälyttäviä oireita","text":"Ilman hälyttäviä oireita refluksitauti voidaan diagnosoida ja hoitaa oireiden perusteella. Sulje silti pois sydänperäinen syy, jos kipu on rintakipua.","tone":"neutral"}}
+```
+
 ## Ruoansulatuskanavan verenvuoto
 
 GI-verenvuoto voi näkyä verioksennuksena (hematemeesi), tervamaisena ulosteena (meleena) tai kirkkaana verenä peräsuolesta (hematoketsia). Noin 80 % vuodoista on peräisin ruoansulatuskanavan yläosasta, yleisimpänä syynä maha- tai pohjukaissuolihaava. Kirkas peräsuolivuoto viittaa useimmiten alaosan syyhyn (divertikuloosi yleisin), mutta 10–15 %:ssa tapauksista kyse on rajusta ylävuodosta, jolloin potilaalla on jo sokin oireita.

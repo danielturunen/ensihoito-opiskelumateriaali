@@ -1,10 +1,152 @@
 [
-  {"id":"rv-q1","type":"mcq","question":"Alkuraskauden potilaalla on toispuoleinen alavatsakipu, niukka verinen vuoto ja äkillisesti alkanut hartiakipu. Mitä epäilet?","options":["Etisistukka","Revennyt kohdunulkoinen raskaus ja vuoto vatsaonteloon","Normaali keskenmeno","Pre-eklampsia"],"correctIndex":1,"explanation":"Hartiapistos syntyy, kun vatsaonteloon vuotanut veri ärsyttää palleaa. Äkillinen voimakas kipu, hartiakipu ja pyörtyminen viittaavat munanjohtimen repeämään."},
-  {"id":"rv-q2","type":"mcq","question":"Mikä erottaa istukan ennenaikaisen irtoamisen (ablaation) tyypillisesti supistuskivusta?","options":["Kipu on aaltomaista","Kipu on jatkuvaa ja kohtu tuntuu kovalta ja pinkeältä","Kipua ei ole lainkaan","Kipu on vain hartiassa"],"correctIndex":1,"explanation":"Supistuskipu tulee rytmisesti ja laukeaa supistusten välillä. Ablaatiossa kipu on jatkuvaa, kohtu kova ja aristava – ja ulkoinen vuoto voi jäädä vähäiseksi."},
-  {"id":"rv-q3","type":"truefalse","question":"Etisistukkaa epäiltäessä ensihoitaja tekee sisätutkimuksen vuotokohdan selvittämiseksi.","options":["Oikein","Väärin"],"correctIndex":1,"explanation":"Etisistukassa sisätutkimusta ei tehdä, koska se voi pahentaa vuotoa. Etisistukan vuoto on tyypillisesti kivuton ja kirkas."},
-  {"id":"rv-q4","type":"mcq","question":"Millä altistavalla tekijällä on suurin merkitys kohdun repeämässä?","options":["Ensisynnyttäjyys","Aiempi keisarileikkaus tai kohtuleikkaus","Raskausdiabetes","Nuori ikä"],"correctIndex":1,"explanation":"Kohdun repeämälle altistavat aiemmat sektiot, kohdun runko-osan toimenpiteet ja kohdun epämuodostumat. Oireena kova kipu, joka voi hetkeksi helpottaa, ja nopea sokki."},
-  {"id":"rv-q5","type":"mcq","question":"Miten toimit napanuoran esiinluiskahduksessa?","options":["Vedät napanuoran ulos ja leikkaat sen","Äiti konttausasentoon ja tarjoutuvaa osaa painetaan ylöspäin koko kuljetuksen ajan","Äiti selinmakuulle ja kehotat ponnistamaan","Odotat kohteessa kätilöä"],"correctIndex":1,"explanation":"Konttausasento ja tarjoutuvan osan painaminen ylöspäin estävät napanuoran puristumisen. Ulos valunut napanuora asetetaan varovasti takaisin emättimeen ja kuljetetaan nopeasti ennakkoilmoituksin."},
-  {"id":"rv-q6","type":"mcq","question":"Pre-eklampsiaa sairastava äiti kouristelee. Mikä on ensisijainen lääke?","options":["Diatsepaami","Magnesium","Labetaloli","Oksitosiini"],"correctIndex":1,"explanation":"Magnesium on raskaana olevan (eklampsian) kouristuksen ensisijainen lääke. Verenpainetta ei saa laskea liian nopeasti – konsultoi."},
-  {"id":"rv-q7","type":"truefalse","question":"Loppuraskauden kuukautisvuotoa runsaampi verenvuoto on aina syytä selvittää synnytyssairaalan päivystyksessä.","options":["Oikein","Väärin"],"correctIndex":0,"explanation":"Runsaampi vuoto on useimmiten peräisin istukasta (ablaatio tai etisistukka) ja voi uhata sikiön hyvinvointia."},
-  {"id":"rv-q8","type":"mcq","question":"Mikä on ensisijaista synnytyksen jälkeisessä massiivisessa vuodossa kentällä?","options":["Istukan irrottaminen voimalla","Kohdun supistaminen (oksitosiini, hieronta) ja nopea kuljetus – vuodon tyrehdytys vaatii yleensä leikkaussalin","Pelkkä nesteytys kohteessa kunnes vuoto loppuu","Äidin asettaminen istumaan"],"correctIndex":1,"explanation":"Oksitosiini, kohdun hieronta ja painaminen, traneksaamihappo ja verituotteet, mutta nopea kuljetus on ensisijaista. Istukkaa ei revitä."}
+  {
+    "id": "rv-q1",
+    "type": "mcq",
+    "question": "Alkuraskauden potilaalla on toispuoleinen alavatsakipu, niukka verinen vuoto ja äkillisesti alkanut hartiakipu. Mitä epäilet?",
+    "options": [
+      "Etisistukka",
+      "Revennyt kohdunulkoinen raskaus ja vuoto vatsaonteloon",
+      "Normaali keskenmeno",
+      "Pre-eklampsia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hartiapistos syntyy, kun vatsaonteloon vuotanut veri ärsyttää palleaa. Äkillinen voimakas kipu, hartiakipu ja pyörtyminen viittaavat munanjohtimen repeämään."
+  },
+  {
+    "id": "rv-q2",
+    "type": "mcq",
+    "question": "Mikä erottaa istukan ennenaikaisen irtoamisen (ablaation) tyypillisesti supistuskivusta?",
+    "options": [
+      "Kipu on aaltomaista",
+      "Kipu on jatkuvaa ja kohtu tuntuu kovalta ja pinkeältä",
+      "Kipua ei ole lainkaan",
+      "Kipu on vain hartiassa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Supistuskipu tulee rytmisesti ja laukeaa supistusten välillä. Ablaatiossa kipu on jatkuvaa, kohtu kova ja aristava – ja ulkoinen vuoto voi jäädä vähäiseksi."
+  },
+  {
+    "id": "rv-q3",
+    "type": "truefalse",
+    "question": "Etisistukkaa epäiltäessä ensihoitaja tekee sisätutkimuksen vuotokohdan selvittämiseksi.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Etisistukassa sisätutkimusta ei tehdä, koska se voi pahentaa vuotoa. Etisistukan vuoto on tyypillisesti kivuton ja kirkas."
+  },
+  {
+    "id": "rv-q4",
+    "type": "mcq",
+    "question": "Millä altistavalla tekijällä on suurin merkitys kohdun repeämässä?",
+    "options": [
+      "Ensisynnyttäjyys",
+      "Aiempi keisarileikkaus tai kohtuleikkaus",
+      "Raskausdiabetes",
+      "Nuori ikä"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kohdun repeämälle altistavat aiemmat sektiot, kohdun runko-osan toimenpiteet ja kohdun epämuodostumat. Oireena kova kipu, joka voi hetkeksi helpottaa, ja nopea sokki."
+  },
+  {
+    "id": "rv-q5",
+    "type": "mcq",
+    "question": "Miten toimit napanuoran esiinluiskahduksessa?",
+    "options": [
+      "Vedät napanuoran ulos ja leikkaat sen",
+      "Äiti konttausasentoon ja tarjoutuvaa osaa painetaan ylöspäin koko kuljetuksen ajan",
+      "Äiti selinmakuulle ja kehotat ponnistamaan",
+      "Odotat kohteessa kätilöä"
+    ],
+    "correctIndex": 1,
+    "explanation": "Konttausasento ja tarjoutuvan osan painaminen ylöspäin estävät napanuoran puristumisen. Ulos valunut napanuora asetetaan varovasti takaisin emättimeen ja kuljetetaan nopeasti ennakkoilmoituksin."
+  },
+  {
+    "id": "rv-q6",
+    "type": "mcq",
+    "question": "Pre-eklampsiaa sairastava äiti kouristelee. Mikä on ensisijainen lääke?",
+    "options": [
+      "Diatsepaami",
+      "Magnesium",
+      "Labetaloli",
+      "Oksitosiini"
+    ],
+    "correctIndex": 1,
+    "explanation": "Magnesium on raskaana olevan (eklampsian) kouristuksen ensisijainen lääke. Verenpainetta ei saa laskea liian nopeasti – konsultoi."
+  },
+  {
+    "id": "rv-q7",
+    "type": "truefalse",
+    "question": "Loppuraskauden kuukautisvuotoa runsaampi verenvuoto on aina syytä selvittää synnytyssairaalan päivystyksessä.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Runsaampi vuoto on useimmiten peräisin istukasta (ablaatio tai etisistukka) ja voi uhata sikiön hyvinvointia."
+  },
+  {
+    "id": "rv-q8",
+    "type": "mcq",
+    "question": "Mikä on ensisijaista synnytyksen jälkeisessä massiivisessa vuodossa kentällä?",
+    "options": [
+      "Istukan irrottaminen voimalla",
+      "Kohdun supistaminen (oksitosiini, hieronta) ja nopea kuljetus – vuodon tyrehdytys vaatii yleensä leikkaussalin",
+      "Pelkkä nesteytys kohteessa kunnes vuoto loppuu",
+      "Äidin asettaminen istumaan"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oksitosiini, kohdun hieronta ja painaminen, traneksaamihappo ja verituotteet, mutta nopea kuljetus on ensisijaista. Istukkaa ei revitä."
+  },
+  {
+    "id": "raskauden-verenvuodot-q1",
+    "type": "mcq",
+    "question": "Mikä on Ensihoito-oppaan mukaan turvallisin kuljetusasento ambulanssissa napanuoran esiinluiskahduksessa?",
+    "options": [
+      "Istuma-asento kantotuolissa",
+      "Selinmakuu",
+      "Jyrkkä vasen kylkiasento ja reilu korotus lantion alle",
+      "Oikea kylkiasento pää koholla"
+    ],
+    "correctIndex": 2,
+    "explanation": "Jyrkkä vasen kylkiasento lantio korotettuna on turvallisin kuljetusasento. Kontallaan oleva synnyttäjä on vaikea kiinnittää, ja istuma-asento lisää painetta napanuoraan."
+  },
+  {
+    "id": "raskauden-verenvuodot-q2",
+    "type": "mcq",
+    "question": "Mikä on eklampsian ensisijainen lääke Ensihoito-oppaan mukaan?",
+    "options": [
+      "Labetaloli",
+      "Magnesiumsulfaatti, esim. 5 g / 100 ml NaCl i.v. 15–20 minuutissa",
+      "Furosemidi",
+      "Diatsepaami rektaalisesti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Magnesiumsulfaatti on ensisijainen hoito-ohjeen mukaan; lisäksi bentsodiatsepiini (midatsolaami bukkaalisesti 10 mg, tarvittaessa 2,5–5 mg i.v.)."
+  },
+  {
+    "id": "raskauden-verenvuodot-q3",
+    "type": "truefalse",
+    "question": "Raskaana olevan verenvuoto 22. raskausviikon jälkeen voidaan arvioida terveyskeskuksessa, jos vuoto on vähäistä.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Väärin. Verenvuoto 22. raskausviikon jälkeen edellyttää aina päivystyksellistä arviota synnytyssairaalassa."
+  },
+  {
+    "id": "raskauden-verenvuodot-q4",
+    "type": "mcq",
+    "question": "Raskaana olevalla on jatkuva voimakas vatsakipu, kohtu on pinkeä ja arka ja hän on sokissa, mutta ulkoinen vuoto on niukkaa. Mitä epäilet?",
+    "options": [
+      "Normaalia supistuskipua",
+      "Istukan irtoamista tai kohdun repeämää – sisäinen vuoto",
+      "Virtsatieinfektiota",
+      "Ummetusta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Istukan irtoamisessa ja kohdun repeämässä kipu on jatkuvaa, ja vuoto voi olla sisäistä. Hoito on leikkaus synnytyssairaalassa – kiireellinen kuljetus."
+  }
 ]

@@ -77,6 +77,27 @@ Lähes kaikki lävistävät vammat kuljetetaan ensihoidossa – myös oireettoma
 > [!tip] Muista tämä
 > "Vain henkeä pelastavat toimenpiteet saavat viivästyttää vakavasti loukkaantuneen kuljetusta oikeaan hoitopaikkaan." Lävistävässä vammassa kuljetuksen aloittaminen nopeasti on usein tärkeämpää kuin kentällä tehtävä laaja tutkiminen.
 
+```media
+{"widget":"scene-card","id":"lavistava","title":"Kohteessa: lävistävä vamma","know":[
+{"label":"Kuljetuksen kiireellisyys ratkaisee","detail":"Vain henkeä pelastavat toimet saavat viivästyttää; hätäkuljetuksen tarve arvioidaan alle 10 min, lähtö 15 min."},
+{"label":"Sallittu hypotensio","detail":"SAP alle 100 mmHg sallitaan, jos rannesyke tuntuu tai tajunta riittää."},
+{"label":"Sydäntamponaatio rintakehän vammassa","detail":"Arvioi ensin jänniteilmarinnan mahdollisuus."},
+{"label":"Kaikki lävistävät vammat kuljetetaan","detail":"Myös oireettomat; vain pinnallinen raajan haava voidaan ohjata muualle."}
+],"examine":[
+{"label":"Kaikki haavat – myös selkä, kainalot ja pakarat"},
+{"label":"Hengitys ja paineilmarinnan merkit"},
+{"label":"Tamponaation merkit","detail":"Matala paine, takykardia, kaulalaskimot pullottavat, kapea pulssipaine, hiljaiset sydänäänet, pulsus paradoxus."},
+{"label":"Tajunta, verensokeri ja päihteet"}
+],"do":[
+{"label":"Massiivisen vuodon tyrehdytys 1 minuutissa"},
+{"label":"Lävistäneitä esineitä ei poisteta, haavaa ei sondeerata"},
+{"label":"TXA 1 g i.v. runsaan vuodon epäilyssä"},
+{"label":"Suoniyhteys ja tarkennettu status matkalla"},
+{"label":"Lämmönhukan esto ja kivunhoito"},
+{"label":"Ennakoiva ilmoitus ja vastaanottavan sairaalan valmius"}
+],"redFlags":["Rintakehän vamma ja hypotensio – jänniteilmarinta vai tamponaatio?","Rannesyke katoaa tai tajunta laskee","Vartalon haava ja sokki – kirurginen hemostaasi kiireellisesti"]}
+```
+
 ## Muista tämä -kertaus
 
 - Lävistävässä vammassa ulkoinen löydös ei kerro vamman todellista syvyyttä tai vakavuutta – ratkaisevaa on, mitä rakenteita esine on vaurioittanut.

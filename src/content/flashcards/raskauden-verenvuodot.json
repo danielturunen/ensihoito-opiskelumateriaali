@@ -1,10 +1,62 @@
 [
-  {"id":"rv-f1","front":"Raskaana olevan verenvuoto – mitä selvität?","back":"Raskausviikot, vuodon laatu ja määrä (katso housuihin), kivun luonne (jatkuva vai aaltomainen), sokin merkit, sikiön liikkeet, edeltävät tapahtumat (trauma, yhdyntä), äitiyskortti."},
-  {"id":"rv-f2","front":"Kohdunulkoisen raskauden oireet","back":"Rv 6–9: toispuoleinen / kouristeleva alavatsakipu ja niukka vuoto. Repeämä: äkillinen kova kipu, hartiapistos, pyörtyminen, sokki."},
-  {"id":"rv-f3","front":"Kohdunulkoisen raskauden riskitekijät","back":"Aiempi sisäsynnytintulehdus, lantion leikkaukset, aiempi kohdunulkoinen raskaus, kierukka, endometrioosi, tupakointi, lapsettomuushoidot."},
-  {"id":"rv-f4","front":"Ablaatio","back":"Istukka irtoaa ennen syntymää (0,5–2 %). Jatkuva kipu, kova pinkeä kohtu, vuoto voi olla piilossa. Hätätilanne äidille ja sikiölle."},
-  {"id":"rv-f5","front":"Etisistukka","back":"Istukka kohdunsuun päällä (alle 1 %). Kivuton kirkas vuoto, voi olla runsas. Ei sisätutkimusta."},
-  {"id":"rv-f6","front":"Kohdun repeämä","back":"Riskinä aiempi sektio. Kova kipu, joka voi hetkeksi helpottaa, nopea sokki, kohdun muoto voi muuttua."},
-  {"id":"rv-f7","front":"Pre-eklampsian oireet","back":"Päänsärky, näköhäiriöt, valonarkuus, vannemainen ylävatsakipu, turvotus, outo käytös; RR koholla, vilkkaat refleksit. Kylkiasento, hämärä, magnesium kouristukseen, konsultoi."},
-  {"id":"rv-f8","front":"Napanuoran esiinluiskahdus","back":"Konttausasento, tarjoutuvaa osaa painetaan ylös koko ajan, ulos valunut napanuora varovasti takaisin emättimeen, nopea kuljetus ja ennakkoilmoitus."}
+  {
+    "id": "rv-f1",
+    "front": "Raskaana olevan verenvuoto – mitä selvität?",
+    "back": "Raskausviikot, vuodon laatu ja määrä (katso housuihin), kivun luonne (jatkuva vai aaltomainen), sokin merkit, sikiön liikkeet, edeltävät tapahtumat (trauma, yhdyntä), äitiyskortti."
+  },
+  {
+    "id": "rv-f2",
+    "front": "Kohdunulkoisen raskauden oireet",
+    "back": "Rv 6–9: toispuoleinen / kouristeleva alavatsakipu ja niukka vuoto. Repeämä: äkillinen kova kipu, hartiapistos, pyörtyminen, sokki."
+  },
+  {
+    "id": "rv-f3",
+    "front": "Kohdunulkoisen raskauden riskitekijät",
+    "back": "Aiempi sisäsynnytintulehdus, lantion leikkaukset, aiempi kohdunulkoinen raskaus, kierukka, endometrioosi, tupakointi, lapsettomuushoidot."
+  },
+  {
+    "id": "rv-f4",
+    "front": "Ablaatio",
+    "back": "Istukka irtoaa ennen syntymää (0,5–2 %). Jatkuva kipu, kova pinkeä kohtu, vuoto voi olla piilossa. Hätätilanne äidille ja sikiölle."
+  },
+  {
+    "id": "rv-f5",
+    "front": "Etisistukka",
+    "back": "Istukka kohdunsuun päällä (alle 1 %). Kivuton kirkas vuoto, voi olla runsas. Ei sisätutkimusta."
+  },
+  {
+    "id": "rv-f6",
+    "front": "Kohdun repeämä",
+    "back": "Riskinä aiempi sektio. Kova kipu, joka voi hetkeksi helpottaa, nopea sokki, kohdun muoto voi muuttua."
+  },
+  {
+    "id": "rv-f7",
+    "front": "Pre-eklampsian oireet",
+    "back": "Päänsärky, näköhäiriöt, valonarkuus, vannemainen ylävatsakipu, turvotus, outo käytös; RR koholla, vilkkaat refleksit. Kylkiasento, hämärä, magnesium kouristukseen, konsultoi."
+  },
+  {
+    "id": "rv-f8",
+    "front": "Napanuoran esiinluiskahdus",
+    "back": "Konttausasento, tarjoutuvaa osaa painetaan ylös koko ajan, ulos valunut napanuora varovasti takaisin emättimeen, nopea kuljetus ja ennakkoilmoitus."
+  },
+  {
+    "id": "raskauden-verenvuodot-f1",
+    "front": "Eklampsian ajalliset tavoitteet (Ensihoito-opas)?",
+    "back": "Hengitystie- ja hengitysongelma hoidettu 2 minuutissa (vasen kylkiasento), kouristelun lääkehoito alkaa 5 minuutissa, hätäkuljetus 15 minuutissa."
+  },
+  {
+    "id": "raskauden-verenvuodot-f2",
+    "front": "Pre-eklampsian verenpaineen hoito?",
+    "back": "Hoito-ohje, jos paine kriittinen. Tavoite systolinen alle 180 mmHg tai oireiden helpottuminen; ensisijaisesti labetaloli esim. 5–10 mg i.v."
+  },
+  {
+    "id": "raskauden-verenvuodot-f3",
+    "front": "Napanuoran esiinluiskahdus – toimet?",
+    "back": "Kuljetus alkaa alle 5 min; ei ponnistusta (läähätys); kävele ambulanssiin (ei kantotuolia); tarvittaessa konttaus; ambulanssissa jyrkkä vasen kylki + lantion korotus; hoito-ohjeella tarjoutuvan osan työntö ylös."
+  },
+  {
+    "id": "raskauden-verenvuodot-f4",
+    "front": "Raskaudenaikaisen vuodon aikatavoitteet?",
+    "back": "Runsas vuoto tai sen uhka tunnistetaan 5 minuutissa, hätäkuljetukseen 10 minuutissa. Ei sisätutkimusta, vasen kylkiasento, TXA 1 g hoito-ohjeella."
+  }
 ]

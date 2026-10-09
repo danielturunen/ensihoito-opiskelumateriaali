@@ -32,6 +32,7 @@ export const topics: TopicMeta[] = [
   { id: 'ekg-perusteet', moduleId: 'sydan', title: 'EKG:n perusteet ja systemaattinen tulkinta', summary: 'Normaaliarvot, kytkennät, sähköinen akseli, haarakatkokset ja virhelähteet.', readMinutes: 10, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'ekg-ja-iskemia', moduleId: 'sydan', title: 'EKG:n iskemiatulkinta', summary: 'Kytkennät ja suonet, iskemian eteneminen, erityiset kuviot ja haarakatkokset.', readMinutes: 11, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'rytmihairiot', moduleId: 'sydan', title: 'Rytmihäiriöt', summary: 'Rytmihäiriömekanismit ja yleisimpien rytmien hoitoperiaatteet.', readMinutes: 11, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'eteisvarina', moduleId: 'sydan', title: 'Eteisvärinä', summary: 'Kesto, CHA₂DS₂-VA, sykkeenhallinta ja rytminsiirron edellytykset.', readMinutes: 8, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'hyperkalemia-elektrolyytit', moduleId: 'sydan', title: 'Elektrolyyttihäiriöt ja hyperkalemia', summary: 'EKG-muutokset, tyyppipotilaat ja hyperkalemian hoidon kulmakivet.', readMinutes: 8, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'case-rintakipu-704', moduleId: 'sydan', title: 'Tapaus: Rintakipu', summary: 'Harjoittele rintakipupotilaan arviointia ja päätöksentekoa.', readMinutes: 10, hasQuiz: false, hasFlashcards: false, hasScenario: true, dispatchCode: '704' },
 
@@ -43,6 +44,7 @@ export const topics: TopicMeta[] = [
   { id: 'tajuttomuus', moduleId: 'neurologia', title: 'Tajuttomuus', summary: 'Tajunnan säätely, tajuttomuuden syyt ja tutkiminen kentällä.', readMinutes: 12, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'aivoverenkiertohairio', moduleId: 'neurologia', title: 'Aivoverenkiertohäiriö (AVH) ja SAV', summary: 'Tunnistaminen, aikaikkunat, liuotus ja trombektomia sekä lukinkalvonalainen verenvuoto.', readMinutes: 8, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'kouristelu', moduleId: 'neurologia', title: 'Kouristelu ja epilepsia', summary: 'Pitkittynyt kouristelu, lääkeportaat ja kuljetuskriteerit.', readMinutes: 6, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'paansarky-ja-migreeni', moduleId: 'neurologia', title: 'Päänsärky ja migreeni', summary: 'Vaaranmerkit, migreenin ja auran tunnistaminen ja kohtauksen hoito.', readMinutes: 7, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'yleistilan-lasku-ja-pyortyminen', moduleId: 'neurologia', title: 'Äkillinen yleistilan heikkeneminen ja pyörtyminen', summary: 'Epäspesifisen oireilun ja synkopeen erotusdiagnostiikka.', readMinutes: 10, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'case-tajuttomuus-702', moduleId: 'neurologia', title: 'Tapaus: Tajuton potilas', summary: 'Harjoittele tajuttoman potilaan systemaattista tutkimista.', readMinutes: 10, hasQuiz: false, hasFlashcards: false, hasScenario: true, dispatchCode: '702' },
 
