@@ -1,0 +1,76 @@
+[
+  {
+    "id": "maksakirroosi-q1",
+    "type": "mcq",
+    "question": "Mitkä kolme tilaa määrittävät maksakirroosin dekompensaation?",
+    "options": [
+      "Kuume, ripuli ja oksentelu",
+      "Askites, hepaattinen enkefalopatia ja variksvuoto",
+      "Keltaisuus, kutina ja väsymys",
+      "Hämähäkkiluomet, kämmenten punoitus ja perna"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kirroosin dekompensaatiolla tarkoitetaan askiteksen, hepaattisen enkefalopatian tai variksvuodon ilmaantumista. Silloin ennuste huononee jyrkästi."
+  },
+  {
+    "id": "maksakirroosi-q2",
+    "type": "truefalse",
+    "question": "Spontaani bakteeriperitoniitti aiheuttaa aina kuumetta ja vatsakipua.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Väärin. Jopa kolmasosalla potilaista ei ole kuumetta eikä kipua, joten askitespotilaan äkillinen voinnin heikkeneminen on syytä selvittää infektiona."
+  },
+  {
+    "id": "maksakirroosi-q3",
+    "type": "mcq",
+    "question": "Mikä on hepaattiselle enkefalopatialle tyypillinen löydös?",
+    "options": [
+      "Puolierinen halvaus",
+      "Asterixis eli flapping tremor",
+      "Niskajäykkyys",
+      "Mioosi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ilmeisessä enkefalopatiassa (West Haven ≥ 2) nähdään asterixis, desorientaatiota, uneliaisuutta ja lopulta kooma. Oireet vaihtelevat tyypillisesti."
+  },
+  {
+    "id": "maksakirroosi-q4",
+    "type": "mcq",
+    "question": "Mikä seuraavista EI ole tavallinen akuutin dekompensaation laukaisija?",
+    "options": [
+      "Verenvuoto",
+      "Infektio",
+      "Runsas alkoholinkäyttö",
+      "Säännöllinen liikunta"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tavallisia laukaisijoita ovat verenvuoto, infektio, runsas alkoholinkäyttö ja albumiinikorvauksen laiminlyönti askitestyhjennyksessä."
+  },
+  {
+    "id": "maksakirroosi-q5",
+    "type": "mcq",
+    "question": "Kuinka suuri osa maksakirrooseista todetaan vasta dekompensaatiovaiheessa?",
+    "options": [
+      "Noin 5 %",
+      "Noin 25 %",
+      "Jopa 75 %",
+      "Kaikki"
+    ],
+    "correctIndex": 2,
+    "explanation": "Kirroosi on pitkään oireeton, ja jopa 75 % tapauksista diagnosoidaan vasta taudin dekompensoituessa."
+  },
+  {
+    "id": "maksakirroosi-q6",
+    "type": "truefalse",
+    "question": "Dekompensoituneessa kirroosissa opioidit ja muut rauhoittavat lääkkeet voivat lisätä hepaattisen enkefalopatian riskiä.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Oikein. Käypä hoidon mukaan rauhoittavia aineita, kuten opioideja, sisältävä lääkitys lisää enkefalopatian riskiä. Kodeiinia vältetään ja muiden opioidien annosta pienennetään."
+  }
+]

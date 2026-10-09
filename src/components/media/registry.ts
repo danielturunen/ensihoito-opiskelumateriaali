@@ -83,6 +83,15 @@ export const widgetMeta: Record<string, WidgetMeta> = {
   'ischemia-ecg': { title: 'Iskemia EKG:ssä', kind: 'Animaatio' },
   'triage-practice': { title: 'Primaariluokitteluharjoitus', kind: 'Harjoitus' },
   'ecg-axis': { title: 'Sydämen sähköinen akseli', kind: 'Interaktiivinen kuva' },
+  'pain-onset': { title: 'Kivun alkamistapa kertoo mekanismin', kind: 'Animaatio' },
+  angioedema: { title: 'Histamiini vai bradykiniini?', kind: 'Animaatio' },
+  analgesia: { title: 'Kipulääkkeen valinta kentällä', kind: 'Harjoitus' },
+  cirrhosis: { title: 'Portahypertensio ja kirroosin komplikaatiot', kind: 'Interaktiivinen kuva' },
+  'ecg-leads': { title: 'EKG-elektrodien paikat', kind: 'Harjoitus' },
+  'ecg-artifacts': { title: 'EKG:n häiriöt ja virheet', kind: 'Animaatio' },
+  'vf-decay': { title: 'Aika, alkurytmi ja ennuste', kind: 'Animaatio' },
+  'rosc-care': { title: 'Hoito heti verenkierron palattua', kind: 'Harjoitus' },
+  'scene-card': { title: 'Kohteessa: tiedä, tutki, osaa', kind: 'Itsearviointi' },
 }
 
 const cache = new Map<string, LazyExoticComponent<ComponentType<WidgetProps>>>()

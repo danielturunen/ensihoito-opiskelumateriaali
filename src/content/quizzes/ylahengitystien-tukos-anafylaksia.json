@@ -3,7 +3,12 @@
     "id": "ylahengitystien-tukos-anafylaksia-q1",
     "type": "mcq",
     "question": "Mikä on anafylaksian tärkein ja ensisijainen lääke?",
-    "options": ["Antihistamiini", "Hydrokortisoni", "Adrenaliini", "Parasetamoli"],
+    "options": [
+      "Antihistamiini",
+      "Hydrokortisoni",
+      "Adrenaliini",
+      "Parasetamoli"
+    ],
     "correctIndex": 2,
     "explanation": "Adrenaliini supistaa verisuonia, laajentaa keuhkoputkia ja vähentää turvotusta. Antihistamiini ja kortisoni ovat tärkeitä lisähoitoja, mutta eivät korvaa adrenaliinia vaikeassa reaktiossa."
   },
@@ -11,7 +16,10 @@
     "id": "ylahengitystien-tukos-anafylaksia-q2",
     "type": "truefalse",
     "question": "Anafylaksian diagnoosi edellyttää aina ihottumaa.",
-    "options": ["Oikein", "Väärin"],
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
     "correctIndex": 1,
     "explanation": "Väärin. Diagnoosi perustuu oireisiin vähintään kahdessa elinjärjestelmässä (iho, hengitys, verenkierto, maha-suolikanava) — ihottuma ei ole pakollinen löydös."
   },
@@ -32,7 +40,10 @@
     "id": "ylahengitystien-tukos-anafylaksia-q4",
     "type": "truefalse",
     "question": "Epiglottiittia epäiltäessä potilas kannattaa asettaa makuulle tutkimisen helpottamiseksi.",
-    "options": ["Oikein", "Väärin"],
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
     "correctIndex": 1,
     "explanation": "Väärin. Potilaan pakottaminen makuulle ja ilmatien tarpeeton ärsyttäminen voivat nopeuttaa tukkeutumista. Anna potilaan olla itselleen parhaassa asennossa, usein istuvassa."
   },
@@ -66,7 +77,10 @@
     "id": "ylahengitystien-tukos-anafylaksia-q7",
     "type": "truefalse",
     "question": "Anafylaksiassa voi esiintyä samanaikaisesti hengitystieturvotusta, bronkospasmia ja verenkierron romahdusta.",
-    "options": ["Oikein", "Väärin"],
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
     "correctIndex": 0,
     "explanation": "Oikein. Anafylaksia on sekä ilmatie- että verenkiertohätätila: limakalvoturvotus, bronkospasmi ja laaja-alainen verisuonten laajeneminen voivat tapahtua yhtä aikaa."
   },
@@ -87,7 +101,10 @@
     "id": "ylahengitystien-tukos-anafylaksia-q9",
     "type": "truefalse",
     "question": "Lievä allerginen reaktio ilman hengitys- tai verenkierto-oireita voidaan joissain tilanteissa hoitaa terveysasematasoisesti.",
-    "options": ["Oikein", "Väärin"],
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
     "correctIndex": 0,
     "explanation": "Oikein. Lievä reaktio, jossa on vain iho-oireita ja potilas on koko ajan vakaa, voidaan joissain tilanteissa arvioida terveysasemalla tai hoitaa kotiseurannassa oireiden helpotuttua."
   },
@@ -103,5 +120,79 @@
     ],
     "correctIndex": 2,
     "explanation": "Keskivaikeassa reaktiossa tajunta on kunnossa ja verenpaine normaali, mutta esiintyy hengitysoireita kuten vinkunaa ja hengenahdistusta — tämä erottaa sen lievästä (vain iho-oireet) ja vaikeasta (hypotensio/tajunnan lasku) reaktiosta."
+  },
+  {
+    "id": "ylahengitystien-tukos-anafylaksia-q11",
+    "type": "mcq",
+    "question": "Anafylaksiapotilas käyttää beetasalpaajaa ja on hypotensiivinen toistetusta adrenaliinista huolimatta. Mikä on hypotension tavallisin syy Akuuttihoito-oppaan mukaan?",
+    "options": [
+      "Adrenaliiniallergia",
+      "Riittämätön nesteytys",
+      "Liian suuri adrenaliiniannos",
+      "Antihistamiinin puute"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hypotension tavallisin syy on riittämätön nesteytys – neste siirtyy kudoksiin ja voidaan tarvita usean litran infuusio. Beetasalpaaja voi heikentää adrenaliinin tehoa; bradykardiassa ja hypotensiossa voidaan antaa glukagonia 1–5 mg i.v."
+  },
+  {
+    "id": "ylahengitystien-tukos-anafylaksia-q12",
+    "type": "truefalse",
+    "question": "Jos potilaalla ei ole iho-oireita, kyse ei voi olla anafylaksiasta.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Väärin. Iho-oireita on 80–90 %:ssa reaktioista, joten osalta ne puuttuvat. Sokki voi olla joskus ainoa anafylaksian ilmenemismuoto, erityisesti suonensisäisten lääkkeiden ja hyönteisten pistojen yhteydessä."
+  },
+  {
+    "id": "ylahengitystien-tukos-anafylaksia-q13",
+    "type": "mcq",
+    "question": "Miksi adrenaliini annetaan anafylaksiassa lihakseen eikä ihon alle?",
+    "options": [
+      "Ihon alle annettuna se aiheuttaa kuolion",
+      "Ihon alta imeytyminen voi olla liian hidasta",
+      "Lihakseen annettuna se ei nosta verenpainetta",
+      "Ihon alle annettuna annos pitäisi kymmenkertaistaa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Akuuttihoito-oppaan mukaan ihon alle annetun adrenaliinin imeytyminen voi olla liian hidasta. I.m.-annoksella bronkusobstruktio laukeaa yleensä 5–10 minuutissa."
+  },
+  {
+    "id": "ylahengitystien-tukos-anafylaksia-q14",
+    "type": "mcq",
+    "question": "Kuinka usein ja milloin anafylaksia tyypillisesti uusiutuu?",
+    "options": [
+      "Aina, 30 minuutin kuluttua",
+      "Noin 5–20 %:lla, tavallisimmin 8–10 tunnin kuluessa (1–72 h)",
+      "Ei koskaan, jos adrenaliini on annettu",
+      "Vain lapsilla, viikon kuluttua"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oireisto uusiutuu toipumisen jälkeen 1–72 tunnin, tavallisimmin 8–10 tunnin kuluessa noin 5–20 %:lla potilaista."
+  },
+  {
+    "id": "ylahengitystien-tukos-anafylaksia-q15",
+    "type": "mcq",
+    "question": "Potilaalla on kielen ja huulten turvotus ilman kutinaa tai nokkosihottumaa. Hän käyttää ACE:n estäjää. Mikä pitää paikkansa?",
+    "options": [
+      "Antihistamiini ja kortisoni laukaisevat turvotuksen varmasti",
+      "Kyse voi olla bradykiniinivälitteisestä turvotuksesta, johon allergialääkkeet eivät tehoa",
+      "ACE:n estäjä suojaa turvotukselta",
+      "Turvotus on aina vaaraton"
+    ],
+    "correctIndex": 1,
+    "explanation": "ACE:n estäjät lisäävät bradykiniiniä ja voivat aiheuttaa HAE:n kaltaisia turvotuskohtauksia. Kortikosteroidista tai antihistamiinista ei ole hyötyä; nieluoireista potilasta seurataan intubaatiovalmiudessa."
+  },
+  {
+    "id": "ylahengitystien-tukos-anafylaksia-q16",
+    "type": "truefalse",
+    "question": "Antihistamiini auttaa nopeasti anafylaksian hengitysteiden obstruktioon ja hypotensioon.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Väärin. H1-antihistamiinit vaikuttavat hitaasti (30–45 min) ja lievittävät ihottumaa ja kutinaa, mutta eivät auta hengitysteiden obstruktioon eivätkä hypotensioon."
   }
 ]

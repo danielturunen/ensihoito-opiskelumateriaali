@@ -1,0 +1,32 @@
+[
+  {
+    "id": "kivunhoito-f1",
+    "front": "Kova kipu – mikä opioidi kenelle (Ensihoito-opas)?",
+    "back": "Pitkävaikutteinen (morfiini, oksikodoni) peruselintoiminnoiltaan vakaalle; lyhytvaikutteinen lievästi tajunnaltaan alentuneelle (myös i.n.); vaikeassa verenkiertovajauksessa harkitse esketamiinia."
+  },
+  {
+    "id": "kivunhoito-f2",
+    "front": "Kenellä opioiditoleranssi on huomioitava?",
+    "back": "Syöpäpotilaat ja muut pitkäaikaisesta kivusta kärsivät, opioideja väärin käyttävät ja opioidikorvaushoitoa saavat."
+  },
+  {
+    "id": "kivunhoito-f3",
+    "front": "Neljä kiputyyppiä?",
+    "back": "Nosiseptiivinen (kudosvaurio, jomottava), viskeraalinen (sisäelin, huonosti paikannettava), neuropaattinen (hermovaurio, polttava/sähköttävä), nosiplastinen (herkistyminen ilman vauriota)."
+  },
+  {
+    "id": "kivunhoito-f4",
+    "front": "Miten arvioit kipua, jos potilas ei pysty kertomaan?",
+    "back": "Levottomuuden ja tuskaisuuden perusteella; muistisairaalla PAINAD, kehitysvammaisella DisDAT. Tajunnaltaan madaltunutkin voi kokea kipua."
+  },
+  {
+    "id": "kivunhoito-f5",
+    "front": "Akuutti, subakuutti ja pitkäaikainen kipu (Käypä hoito)?",
+    "back": "Akuutti alle 1 kk, subakuutti 1–3 kk, pitkäaikainen yli 3 kk. Ensihoito-oppaassa krooninen kipuoireyhtymä = yli 6 kk."
+  },
+  {
+    "id": "kivunhoito-f6",
+    "front": "Iäkkään kipulääkityksessä vältettävät?",
+    "back": "Pitkäaikaisesti opioidit, kodeiini ja tramadoli; parasetamolia pitkäaikaisesti enintään 2 g/vrk. Ei tramadolia SSRI-, SNRI- tai trisyklisten kanssa."
+  }
+]

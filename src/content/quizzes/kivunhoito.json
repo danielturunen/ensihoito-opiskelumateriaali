@@ -1,0 +1,78 @@
+[
+  {
+    "id": "kivunhoito-q1",
+    "type": "mcq",
+    "question": "Mikä NRS-lukema tarkoittaa Ensihoito-oppaan mukaan kovaa kipua?",
+    "options": [
+      "Yli 2",
+      "Yli 4",
+      "Yli 7",
+      "Vain 10"
+    ],
+    "correctIndex": 1,
+    "explanation": "Asteikolla 0–10 yli 4 merkitsee kovaa kipua. Lievässä kivussa (alle 4) voi harkita parasetamolia, erityisesti kuumeiselle."
+  },
+  {
+    "id": "kivunhoito-q2",
+    "type": "mcq",
+    "question": "Kovasta kivusta kärsivä potilas on lievästi tajunnaltaan alentunut. Mikä on Ensihoito-oppaan periaate?",
+    "options": [
+      "Kipua ei hoideta lainkaan",
+      "Pitkävaikutteinen opioidi suurella annoksella",
+      "Lyhytvaikutteinen opioidi, jotta tajunnan arviointi onnistuu jatkossa",
+      "Pelkkä parasetamoli"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lyhytvaikutteista opioidia käytetään esimerkiksi lievästi tajunnaltaan alentuneelle potilaalle, jotta jatkohoidossa tajunnan tason arviointi olisi mahdollista. Sitä voi antaa myös intranasaalisesti."
+  },
+  {
+    "id": "kivunhoito-q3",
+    "type": "mcq",
+    "question": "Milloin esketamiinia voidaan harkita kentän kivunhoidossa?",
+    "options": [
+      "Lievässä kivussa",
+      "Vaikeassa verenkiertovajauksessa",
+      "Kaikille iäkkäille",
+      "Vain lapsille"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vaikeasta verenkiertovajauksesta kärsivälle voidaan harkita esketamiinia, mutta sen poikkeava vaikutus tulee tuntea tarkoin."
+  },
+  {
+    "id": "kivunhoito-q4",
+    "type": "truefalse",
+    "question": "Opioidia saanut kipupotilas voi jäädä kotiin, jos kipu helpottaa hyvin.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Väärin. Ensihoidossa akuuttiin kipuun annettu opioidi edellyttää aina potilaan kuljettamista ambulanssilla monitoroituna."
+  },
+  {
+    "id": "kivunhoito-q5",
+    "type": "mcq",
+    "question": "Mikä kipulääke on raskauden aikana turvallisin ja ensisijainen?",
+    "options": [
+      "Ibuprofeeni",
+      "Parasetamoli",
+      "Tramadoli",
+      "Kodeiini"
+    ],
+    "correctIndex": 1,
+    "explanation": "Käypä hoidon mukaan raskauden ja imetyksen aikana turvallisin ja ensisijainen kipulääke on parasetamoli. Raskausviikon 28 jälkeen tulehduskipulääkkeet ovat vasta-aiheisia."
+  },
+  {
+    "id": "kivunhoito-q6",
+    "type": "mcq",
+    "question": "Polttava, sähköttävä kipu, johon liittyy tuntoaistin poikkeavuuksia hermon alueella, viittaa",
+    "options": [
+      "nosiseptiiviseen kipuun",
+      "neuropaattiseen kipuun",
+      "viskeraaliseen kipuun",
+      "nosiplastiseen kipuun"
+    ],
+    "correctIndex": 1,
+    "explanation": "Neuropaattinen eli hermovauriokipu johtuu kipua välittävän hermojärjestelmän vauriosta tai sairaudesta. Se on usein polttavaa tai sähköttävää."
+  }
+]

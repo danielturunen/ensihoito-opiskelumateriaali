@@ -1,9 +1,154 @@
 [
-  {"id":"ekgp-q1","type":"mcq","question":"Mikä on normaali PQ-aika?","options":["40–80 ms","120–200 ms","250–350 ms","Yli 400 ms"],"correctIndex":1,"explanation":"PQ kuvaa johtumista AV-solmukkeen läpi. Yli 210 ms on 1. asteen AV-katkos (Kettunen); Oppiportin normaaliraja on 200 ms."},
-  {"id":"ekgp-q2","type":"mcq","question":"QRS on positiivinen kytkennässä I mutta negatiivinen kytkennässä aVF. Mihin akseli on kääntynyt?","options":["Normaali","Vasemmalle","Oikealle","Äärimmäiseen oikeaan"],"correctIndex":1,"explanation":"I+ ja aVF– = vasemmalle ylös. Syitä: vasen etuhaarakekatkos, LBBB, vasemman kammion hypertrofia, alaseinäinfarkti, tahdistin."},
-  {"id":"ekgp-q3","type":"mcq","question":"Paperinopeus 25 mm/s, R–R-välissä 4 suurta ruutua. Mikä on syke?","options":["60/min","75/min","100/min","150/min"],"correctIndex":1,"explanation":"300 / 4 = 75. Nopeudella 50 mm/s jaettava on 600."},
-  {"id":"ekgp-q4","type":"mcq","question":"P-aallot ja QRS ovat negatiivisia kytkennöissä I ja aVL. Mikä on todennäköisin selitys?","options":["Vasen haarakatkos","Käsielektrodit ovat vaihtaneet paikkaa","Alaseinäinfarkti","Hypotermia"],"correctIndex":1,"explanation":"Raajaelektrodien kytkentävirhe näkyy poikkeavana akselina ja erikoisena P-aallon suuntana."},
-  {"id":"ekgp-q5","type":"mcq","question":"Mikä on oikean haarakatkoksen tyypillinen löydös V1:ssä?","options":["Syvä QS","RSR' – \"pupunkorvat\"","Delta-aalto","Korkea piikkimäinen T"],"correctIndex":1,"explanation":"RBBB: leveä QRS, RSR' V1–V3 ja leventynyt S lateraalikytkennöissä. LBBB:ssä V1 on alaspäin."},
-  {"id":"ekgp-q6","type":"truefalse","question":"Syvät T-inversiot voivat johtua aivoverenvuodosta.","options":["Oikein","Väärin"],"correctIndex":0,"explanation":"Neurologiset syyt, kuten aivoverenvuoto, ovat yksi T-aaltomuutosten ei-iskeeminen syy."},
-  {"id":"ekgp-q7","type":"mcq","question":"Mikä vähentää vapinan aiheuttamaa häiriötä EKG:ssä?","options":["Kalibraation muuttaminen 20 mm/mV","Raajaelektrodien siirtäminen raajojen tyviin","Paperinopeuden puolittaminen","Potilaan pyytäminen pidättämään hengitystä minuuteiksi"],"correctIndex":1,"explanation":"Perifeerisen vapinan häiriö vähenee, kun elektrodit sijoitetaan raajojen proksimaaliosiin."}
+  {
+    "id": "ekgp-q1",
+    "type": "mcq",
+    "question": "Mikä on normaali PQ-aika?",
+    "options": [
+      "40–80 ms",
+      "120–200 ms",
+      "250–350 ms",
+      "Yli 400 ms"
+    ],
+    "correctIndex": 1,
+    "explanation": "PQ kuvaa johtumista AV-solmukkeen läpi. Yli 210 ms on 1. asteen AV-katkos (Kettunen); Oppiportin normaaliraja on 200 ms."
+  },
+  {
+    "id": "ekgp-q2",
+    "type": "mcq",
+    "question": "QRS on positiivinen kytkennässä I mutta negatiivinen kytkennässä aVF. Mihin akseli on kääntynyt?",
+    "options": [
+      "Normaali",
+      "Vasemmalle",
+      "Oikealle",
+      "Äärimmäiseen oikeaan"
+    ],
+    "correctIndex": 1,
+    "explanation": "I+ ja aVF– = vasemmalle ylös. Syitä: vasen etuhaarakekatkos, LBBB, vasemman kammion hypertrofia, alaseinäinfarkti, tahdistin."
+  },
+  {
+    "id": "ekgp-q3",
+    "type": "mcq",
+    "question": "Paperinopeus 25 mm/s, R–R-välissä 4 suurta ruutua. Mikä on syke?",
+    "options": [
+      "60/min",
+      "75/min",
+      "100/min",
+      "150/min"
+    ],
+    "correctIndex": 1,
+    "explanation": "300 / 4 = 75. Nopeudella 50 mm/s jaettava on 600."
+  },
+  {
+    "id": "ekgp-q4",
+    "type": "mcq",
+    "question": "P-aallot ja QRS ovat negatiivisia kytkennöissä I ja aVL. Mikä on todennäköisin selitys?",
+    "options": [
+      "Vasen haarakatkos",
+      "Käsielektrodit ovat vaihtaneet paikkaa",
+      "Alaseinäinfarkti",
+      "Hypotermia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Raajaelektrodien kytkentävirhe näkyy poikkeavana akselina ja erikoisena P-aallon suuntana."
+  },
+  {
+    "id": "ekgp-q5",
+    "type": "mcq",
+    "question": "Mikä on oikean haarakatkoksen tyypillinen löydös V1:ssä?",
+    "options": [
+      "Syvä QS",
+      "RSR' – \"pupunkorvat\"",
+      "Delta-aalto",
+      "Korkea piikkimäinen T"
+    ],
+    "correctIndex": 1,
+    "explanation": "RBBB: leveä QRS, RSR' V1–V3 ja leventynyt S lateraalikytkennöissä. LBBB:ssä V1 on alaspäin."
+  },
+  {
+    "id": "ekgp-q6",
+    "type": "truefalse",
+    "question": "Syvät T-inversiot voivat johtua aivoverenvuodosta.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Neurologiset syyt, kuten aivoverenvuoto, ovat yksi T-aaltomuutosten ei-iskeeminen syy."
+  },
+  {
+    "id": "ekgp-q7",
+    "type": "mcq",
+    "question": "Mikä vähentää vapinan aiheuttamaa häiriötä EKG:ssä?",
+    "options": [
+      "Kalibraation muuttaminen 20 mm/mV",
+      "Raajaelektrodien siirtäminen raajojen tyviin",
+      "Paperinopeuden puolittaminen",
+      "Potilaan pyytäminen pidättämään hengitystä minuuteiksi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Perifeerisen vapinan häiriö vähenee, kun elektrodit sijoitetaan raajojen proksimaaliosiin."
+  },
+  {
+    "id": "ekg-perusteet-q1",
+    "type": "mcq",
+    "question": "Mihin kohtaan V4-elektrodi sijoitetaan?",
+    "options": [
+      "4. kylkiluuväli rintalastan vasemmalle puolelle",
+      "5. kylkiluuväli keskisolisviivaan",
+      "Keskiaksillaariviivaan 6. kylkiluuväliin",
+      "V3:n ja V5:n puoliväliin"
+    ],
+    "correctIndex": 1,
+    "explanation": "V4 sijoitetaan keskisolisviivaan 5. kylkiluuväliin. V5 ja V6 tulevat samalle vaakatasolle kuin V4 – ei kylkiluuväliä seuraten."
+  },
+  {
+    "id": "ekg-perusteet-q2",
+    "type": "mcq",
+    "question": "Kytkennässä I sekä P-aalto että QRS ovat negatiivisia. Mikä on todennäköisin tekninen syy?",
+    "options": [
+      "Liian pieni kalibraatio",
+      "Oikean ja vasemman käden elektrodit ovat vaihtaneet paikkaa",
+      "Lihasvapina",
+      "50 Hz:n häiriö"
+    ],
+    "correctIndex": 1,
+    "explanation": "Raajaelektrodien kytkentävirhe näkyy poikkeavana akselina ja eteisaallon erikoisena suuntana. Käsielektrodien vaihtuessa P ja QRS ovat negatiivisia kytkennöissä I ja aVL."
+  },
+  {
+    "id": "ekg-perusteet-q3",
+    "type": "mcq",
+    "question": "Mikä EKG-löydös sopii parhaiten myoperikardiittiin?",
+    "options": [
+      "ST-nousu II, III, aVF ja ST-lasku I, aVL",
+      "Kovera ST-nousu useissa kytkennöissä ilman peilikuvamuutoksia ja PR-segmentin lasku",
+      "Delta-aalto ja lyhyt PQ",
+      "Leveä QRS ja korkeat T-aallot"
+    ],
+    "correctIndex": 1,
+    "explanation": "Myoperikardiitissa tyypillinen on kovera, vähintään 1 mm:n ST-nousu useissa kytkennöissä (ei V1, aVR), ei juuri peilikuvamuutoksia, ja PR-segmentti on laskenut useimmissa kytkennöissä."
+  },
+  {
+    "id": "ekg-perusteet-q4",
+    "type": "mcq",
+    "question": "Miten eteisvärinän kammiotaajuus lasketaan luotettavasti?",
+    "options": [
+      "Yhdestä R–R-välistä",
+      "Lasketaan QRS-kompleksit 6 sekunnin ajalta ja kerrotaan kymmenellä",
+      "Lasketaan P-aallot",
+      "Mitataan QT-aika"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vaihtelevassa rytmissä käytetään pidemmän ajan keskiarvoa: QRS-kompleksien määrä 6 sekunnissa × 10."
+  },
+  {
+    "id": "ekg-perusteet-q5",
+    "type": "truefalse",
+    "question": "Hemodynaamisesti epävakaan potilaan EKG:stä rytmi analysoidaan ensimmäisenä.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Oikein. Jos potilas on epävakaa ja tarvitsee välitöntä hoitoa, rytmihäiriö analysoidaan ensin; vakaalla potilaalla se voi tulla viimeisenä."
+  }
 ]

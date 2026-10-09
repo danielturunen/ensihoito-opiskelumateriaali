@@ -9,6 +9,18 @@ Yksittäisten hoitajien taitojen parantaminen ei yksin riitä: tehokas hoito ede
 - **Vapaaehtoiset ensiauttajat** voidaan hälyttää sovelluksella: esimerkiksi Sveitsin Ticinossa ensiauttaja tavoittaa yli puolet potilaista ennen ensihoitoa, noin 80 %:ssa alle viidessä minuutissa.
 - **Sydänpysähdysrekisteri** ja elvytyksen laadun tallenteet paljastavat kehityskohteet ja mahdollistavat palautteen elvyttäneelle tiimille.
 
+## Aika ja alkurytmi ratkaisevat
+
+Akuuttihoito-oppaan (Hoppu ja Silfvast 2025) mukaan ennustetta parantavat tilanteen tunnistaminen ja nopea hoidon aloitus, laadukas tauoton painelu-puhalluselvytys, kammiovärinän nopea defibrillaatio ja sydänpysähdyksen syyn nopea hoito.
+
+- **Aivot sietävät normaalilämpöistä hapenpuutetta vaurioitumatta alle 10 minuuttia.** Jos normaalilämpöisen potilaan elottomuuden alkua ei ole havaittu ja hänet löydetään asystoliassa epämääräisen ajan kuluttua, hän on kuollut.
+- Ilman painelu-puhalluselvytystä **kammiovärinä hiipuu asystoliaksi noin 10 minuutissa**.
+- Muusta kuin sydänperäisestä syystä johtuvan sydänpysähdyksen ennuste on huono – poikkeuksena hypotermia.
+
+```media
+{"widget":"vf-decay","caption":"Siirrä aikaa ja vertaa alkurytmejä. Nauha on kaaviomainen."}
+```
+
 ## Aikuisen perus- ja hoitoelvytys (Käypä hoito 2021)
 
 Sydänpysähdys tunnistetaan, kun potilas ei reagoi eikä hengitä normaalisti – **agonaalinen, haukkova hengitys ja kouristuksen kaltaiset liikkeet** voivat kuulua sydänpysähdyksen alkuun. Hätäkeskukseen soitetaan mieluiten kaiutin päällä, jotta ohjeita voi seurata samalla.
@@ -19,11 +31,21 @@ Sydänpysähdys tunnistetaan, kun potilas ei reagoi eikä hengitä normaalisti �
 - **Amiodaroni 300 mg** 3. iskun jälkeen ja **150 mg** 5. iskun jälkeen. Jos amiodaronia ei ole, lidokaiini 100 mg ja 50 mg.
 - **Hengitystie**: supraglottinen väline on ensisijainen. Intubaatiota käyttää vain, jos onnistuminen on yli 95 % kahdella yrityksellä ja painelutauko jää alle 5 sekunnin. Varmistetun hengitystien kautta ventiloidaan 10/min painelua keskeyttämättä; jos supraglottinen väline vuotaa, palataan 30:2-rytmiin.
 - **Kapnografia**: pysyvästi alle 1,33 kPa:n EtCO₂ tai laskeva trendi viittaa huonoon ennusteeseen, nouseva trendi verenkierron palautumiseen.
+- **Lääkkeenantoreitti**: mahdollisimman sentraalinen suoniyhteys. Intubaatioputken kautta lääkkeitä ei anneta huonon imeytymisen vuoksi. Ellei suonta saada helposti, luunsisäinen yhteys sääriluun etupintaan tai olkavarren päähän – samat annokset kuin i.v.
 - **Ultraääni** ei saa pidentää painelutaukoja, eikä yksittäistä löydöstä käytetä yksin lopettamisen perusteena.
 
 ```media
 {"widget":"als-cycle"}
 ```
+
+### Akuuttihoito-oppaan tarkennuksia
+
+- Sydänpysähdyksen alussa voi esiintyä **lyhytkestoista jäykistelyä, haukkovaa korisevaa hengitystä ja inkontinenssia** – ne eivät ole merkki toimivasta verenkierrosta.
+- **Monitoroidun potilaan nopea kolmen iskun sarja tulkitaan yhdeksi iskuyritykseksi** adrenaliinin ajoituksessa.
+- Jos sydän käynnistyy 1. tai 2. iskun jälkeen ja **kammiovärinä uusiutuu**, ensimmäinen toimenpide on välitön uusi defibrillaatio ja **amiodaroni – ei adrenaliini**.
+- Amiodaronia ei anneta, jos monitorissa on antohetkellä muu kuin iskettävä rytmi. Bolus aiheuttaa hypotensiota – huolehdi nesteytyksestä.
+- **Atropiinista ei ole hyötyä elottomuuden hoidossa.**
+- Jos defibrilloimaan päästään heti kammiovärinän alkaessa, hengitystie varmistetaan vasta, jos sydän ei käynnisty 2–3 minuutissa: tajunta palaa usein nopeasti, eikä intubaatiota tarvita. Nielun heijasteet säilyvät pitkään, ja nielun manipulointi laukaisee herkästi oksennusrefleksin.
 
 > [!tip] Ajalliset tavoitteet (Duodecim Ensihoito-opas, Kurola 2023)
 > Ensimmäinen defibrillaatio **1 minuutin** kuluessa potilaan luo saapumisesta · taustatiedot ja tapahtumatiedot selvillä **5–10 minuutissa** · syyn mukainen hoito (4H/4T) alkaa viimeistään **10 minuutin** kuluttua elvytyksen aloittamisesta · 12–15-kytkentäinen EKG verenkierron palauduttua. ROSC-vaiheen tavoitteet: SpO₂ yli 94 %, EtCO₂ 4,0–4,5 kPa ja systolinen paine yli 100 mmHg. Elvytyksen lopettamisen jälkeen potilasta seurataan monitorilla 10 minuuttia (Lasarus-ilmiö).
@@ -143,6 +165,19 @@ Kuljetus elvyttäen on perusteltua silloin, kun se on osa elvytystä – eli kun
 
 ## Verenkierron palautumisen jälkeen
 
+**Uuden sydänpysähdyksen riski on suurin ensimmäisten minuuttien aikana**, joten rytmiä tarkkaillaan tiiviisti ja tilanteen annetaan rauhoittua ennen potilaan liikuttelua. Jatkohoitopaikan suunnittelu alkaa samaan aikaan vakauttamisen kanssa (Akuuttihoito-opas 2025).
+
+- **Hengitys**: omat hengitysliikkeet eivät takaa riittävää ventilaatiota. Muutaman minuutin ajan ventiloidaan noin 20 kertaa minuutissa, jotta sydänpysähdyksen aikana kertynyt hiilidioksidi purkautuu; sen jälkeen tavoite on etCO₂ 4,5–6 kPa ja SpO₂ yli 94 %.
+- **Verenkierto**: monitorinäyttöön ei voi luottaa – tunnustele syke ja mittaa verenpaine 3–5 minuutin välein. Elvytyksessä annettu adrenaliini aiheuttaa takykardiaa ja usein rytmihäiriöitä noin 5 minuutin ajan, joten **beetasalpaajaa ei anneta heti**. Adrenaliinin vaikutuksen loputtua ongelma on useammin hypotensio kuin hypertensio.
+- **Lämpö**: elvytetty on yleensä spontaanisti hypoterminen; kuumetta (yli 37,8 °C) vältetään aktiivisesti.
+
+```media
+{"widget":"rosc-care","caption":"Valitse verenpaine ja syke – näet Akuuttihoito-oppaan mukaiset ensitoimet."}
+```
+
+> [!info] Lähteiden erot ROSC-vaiheessa
+> Ensihoito-oppaan (Kurola 2023) tavoitteet ovat EtCO₂ 4,0–4,5 kPa ja systolinen paine yli 100 mmHg, Akuuttihoito-oppaan etCO₂ 4,5–6 kPa ja MAP yli 65 mmHg. Käypä hoito tavoittelee normokapniaa (PaCO₂ 4,5–6 kPa) ja SpO₂ 94–98 %. Toimi alueesi hoito-ohjeen mukaan.
+
 ```media
 {"widget":"timeline","title":"ROSC-vaiheen tavoitteet","items":[
 {"time":"Happeutus","title":"SpO₂ 94–98 %","text":"FiO₂ titrataan – vältä sekä hypoksiaa että hyperoksiaa (PaO₂ 10–13 kPa).","tone":"ok"},
@@ -159,6 +194,31 @@ Elvytys jätetään aloittamatta tai keskeytetään, jos auttaja joutuu hengenva
 > [!warning] Ei yksinään lopettamisen perusteeksi
 > Pupillien koko, elvytyksen kesto, EtCO₂, perussairaudet, laktaatti tai itsemurhayritys eivät yksinään riitä perusteeksi lopettaa elvytys. Ultraäänilöydöstä ei myöskään käytetä yksin.
 
+Akuuttihoito-oppaan mukaan sairaalan ulkopuolella elvytetyistä **puolet menehtyy sairaalahoidon aikana**. Ellei oma verenkierto käynnisty viimeistään **30–40 minuutissa** sydämen pysähtymisestä, ennuste on hyvin huono, ja sairaalaan elvyttäen tuodun potilaan ennuste on erittäin huono (etenkin asystoliassa) – **hypotermia on poikkeus**. Elvytetyn lopullinen ennustearvio tehdään yleensä vasta 72 tunnin kuluttua. Elinluovutus verenkierron pysähtymisen jälkeen (DCDD) tulee mahdollistaa potilaalle, jolla on peruuttamaton aivovaurio ja toivoton ennuste.
+
+```media
+{"widget":"scene-card","id":"elvytys","title":"Kohteessa: sydänpysähdys","know":[
+{"label":"Aivot sietävät hapenpuutetta alle 10 min","detail":"VF hiipuu asystoliaksi noin 10 minuutissa ilman painelua."},
+{"label":"Ennuste alkurytmin mukaan","detail":"VF välittömällä defibrillaatiolla jopa 80 %, sairaalan ulkopuolella jopa 35 %; PEA 5–8 %; asystolia hyvin huono."},
+{"label":"Lääkkeet","detail":"Adrenaliini 1 mg 3–5 min välein; amiodaroni 300 mg + 150 mg; atropiinista ei hyötyä."},
+{"label":"Lopettamisen periaatteet","detail":"Tahdonilmaisu; asystolia 20 min hoitoelvytyksen jälkeen ilman hoidettavaa syytä."}
+],"examine":[
+{"label":"Reagoimattomuus ja epänormaali hengitys","detail":"Haukkova hengitys ja jäykistely kuuluvat sydänpysähdyksen alkuun."},
+{"label":"Alkurytmi defibrillaattorista"},
+{"label":"4H/4T: tapahtumat, anamneesi, löydökset"},
+{"label":"Kapnografia: taso ja trendi"},
+{"label":"Hoitotahto ja tavoittamisviive"},
+{"label":"ROSC: syke tunnustellen, verenpaine 3–5 min välein, 12-kytkentäinen EKG"}
+],"do":[
+{"label":"Laadukas painelu 5–6 cm, 100–120/min, vaihto 2 min välein"},
+{"label":"Defibrillaatio viiveettä, painelu jatkuu heti iskun jälkeen"},
+{"label":"Supraglottinen hengitystie, ventilaatio 10/min"},
+{"label":"I.v.- tai i.o.-yhteys ilman painelutaukoja"},
+{"label":"Johda: roolit, suljettu viestintäkehä, ajanotto"},
+{"label":"ROSC-hoito: happi, ventilaatio, MAP yli 65, ei kuumetta"}
+],"redFlags":["Painelutauot pitkiä – laatu heikkenee","VF uusiutuu – heti isku ja amiodaroni","ROSC ja hypotensio tai bradykardia – uusi pysähdys uhkaa"]}
+```
+
 ## Muista tämä -kertaus
 
 - Maallikkoelvytys vähintään kaksinkertaistaa selviytymisen; varhainen defibrillaatio voi pelastaa joka toisen.
@@ -168,6 +228,8 @@ Elvytys jätetään aloittamatta tai keskeytetään, jos auttaja joutuu hengenva
 - Vammapotilaan elvytys: ventilaatio, vuodon tyrehdytys, TXA, torakostomia; torakotomia lävistävässä vammassa, jos avoin hieronta alkaa 15 min kuluessa.
 - ROSC: SpO₂ 94–98 %, PaCO₂ 4,5–6, MAP > 65, kuumeen esto alle 37,8 °C.
 - Lopettamista harkitaan asystolessa 20 min hoitoelvytyksen jälkeen ilman hoidettavaa syytä.
+- Aivot sietävät hapenpuutetta alle 10 min; VF hiipuu asystoliaksi noin 10 minuutissa ilman painelua. PEA:n selviytyminen vain 5–8 %.
+- ROSC: uusi pysähdys uhkaa ensiminuuteilla; adrenaliinin takykardia kestää noin 5 min – ei beetasalpaajaa heti. Hypotensio + bradykardia → atropiini 0,5 mg (enintään 3 mg), adrenaliini 0,05 mg, tahdistus.
 - Mekaaninen painelulaite ei rutiinisti paranna selviytymistä, mutta on lähes välttämätön kuljetettaessa elvyttäen.
 - LUCAS: elektrodit ja hengitystie ensin, imukupin alareuna rintalastan pään yläpuolelle, 30:2 ilman tiivistä hengitystietä.
 - Kuljetus elvyttäen, kun syy on hoidettavissa sairaalassa: hypotermia, toistuva VF, keuhkoembolia, valikoidut myrkytykset.

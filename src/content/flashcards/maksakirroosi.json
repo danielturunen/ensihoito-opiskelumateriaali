@@ -1,0 +1,37 @@
+[
+  {
+    "id": "maksakirroosi-f1",
+    "front": "Mitä portahypertensio aiheuttaa?",
+    "back": "Arpeutunut maksa vastustaa porttilaskimon virtausta → paine nousee → suonikohjut (ruokatorvi, maha), pernan suureneminen ja askites."
+  },
+  {
+    "id": "maksakirroosi-f2",
+    "front": "Variksvuodon hoito (Käypä hoito)?",
+    "back": "Aloitetaan jo epäilystä: hemodynamiikan ja Hb:n korjaus (70–80 g/l), oktreotidi tai terlipressiini heti, profylaktinen antibiootti, gastroskopia 12 h sisällä, laktuloosi."
+  },
+  {
+    "id": "maksakirroosi-f3",
+    "front": "West Haven -asteet 0–4?",
+    "back": "0 minimaalinen (vain testeissä), 1 euforia/ärtyneisyys, käänteinen unirytmi, 2 hidastunut puhe, lievä desorientaatio, asterixis, 3 unelias mutta reagoi puheeseen, 4 tajuton. Aste 3–4 sairaalaan, varaudu intubaatioon."
+  },
+  {
+    "id": "maksakirroosi-f4",
+    "front": "Hepaattisen enkefalopatian laukaisijat?",
+    "back": "Alkoholi, keskushermostoon vaikuttavat lääkkeet, GI-vuoto, elektrolyyttihäiriöt, infektiot, kuivuminen, ummetus, porttilaskimotukos."
+  },
+  {
+    "id": "maksakirroosi-f5",
+    "front": "Mitkä lääkkeet lopetetaan askiteksen ilmaantuessa?",
+    "back": "Tulehduskipulääkkeet sekä ACE:n estäjät ja AT2-salpaajat – akuutin munuaisvaurion riski."
+  },
+  {
+    "id": "maksakirroosi-f6",
+    "front": "Kirroosin kliiniset löydökset?",
+    "back": "Hämähäkkiluomet, kämmenten punoitus, keltaisuus, kutina, laajentuneet vatsan laskimot, suurentunut perna, askites, turvotukset, lihaskato."
+  },
+  {
+    "id": "maksakirroosi-f7",
+    "front": "ACLF?",
+    "back": "Acute-on-chronic-maksan vajaatoiminta: vaikea akuutti dekompensaatio + muiden elinten häiriöt. 1 kk kuolleisuus 15 % (1 elin), 32 % (2), 79 % (≥ 3)."
+  }
+]

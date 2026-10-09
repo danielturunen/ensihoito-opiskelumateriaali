@@ -16,7 +16,10 @@
     "id": "akuutti-vatsa-q2",
     "type": "truefalse",
     "question": "Vatsakivun voimakkuus korreloi luotettavasti taudin vakavuuteen.",
-    "options": ["Oikein", "Väärin"],
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
     "correctIndex": 1,
     "explanation": "Väärin. Esimerkiksi mesenteriaali-iskemiassa potilas voi olla erittäin kivulias, vaikka vatsa tunnustellen on pehmeä. Myös iäkkäillä henkeä uhkaava tila voi oireilla vain lievänä kipuna."
   },
@@ -50,7 +53,10 @@
     "id": "akuutti-vatsa-q5",
     "type": "truefalse",
     "question": "Mesenteriaali-iskemiassa tyypillinen löydös on, että potilas on erittäin kivulias, mutta vatsa on tunnustellen pehmeä.",
-    "options": ["Oikein", "Väärin"],
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
     "correctIndex": 0,
     "explanation": "Oikein. Tämä ristiriita kivun voimakkuuden ja vähäisten palpaatiolöydösten välillä on tyypillinen mesenteriaali-iskemialle, ja usein taustalla on eteisvärinä. Hoidon viivästyminen muutamalla tunnilla nostaa kuolleisuuden merkittävästi."
   },
@@ -84,7 +90,10 @@
     "id": "akuutti-vatsa-q8",
     "type": "truefalse",
     "question": "Kirkas verenvuoto peräsuolesta tarkoittaa aina, että vuoto on peräisin ruoansulatuskanavan alaosasta.",
-    "options": ["Oikein", "Väärin"],
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
     "correctIndex": 1,
     "explanation": "Väärin. Noin 10-15 % kirkkaista peräsuolivuodoista johtuu todellisuudessa rajusta ylemmän ruoansulatuskanavan vuodosta, joka kulkee suoliston läpi nopeasti. Tällöin potilaalla on usein myös sokin oireita."
   },
@@ -118,7 +127,10 @@
     "id": "akuutti-vatsa-q11",
     "type": "truefalse",
     "question": "Kureutunutta tyrää saa yrittää reponoida (painaa takaisin) kentällä, jos se ei aiheuta kovaa kipua.",
-    "options": ["Oikein", "Väärin"],
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
     "correctIndex": 1,
     "explanation": "Väärin. Reponointia ei pidä yrittää tehdä kohteessa, koska suolen kunto ei ole arvioitavissa kentällä - mahdollinen kuolioituminen vaatii aina sairaalan arvion ja tarvittaessa leikkauksen."
   },
@@ -134,5 +146,105 @@
     ],
     "correctIndex": 1,
     "explanation": "Palpaatio voi provosoida kipua ja muuttaa suoliäänten laatua, joten se tehdään viimeisenä, jotta aiemmat havainnot (ulkoinen olemus, suoliäänet) jäävät mahdollisimman luotettaviksi."
+  },
+  {
+    "id": "akuutti-vatsa-q13",
+    "type": "mcq",
+    "question": "Vatsakipu alkoi yhtäkkiä ja on heti kova. Mihin mekanismiin alkamistapa viittaa Akuuttihoito-oppaan mukaan?",
+    "options": [
+      "Tulehdukseen, kuten appendisiittiin",
+      "Puhkeamaan, repeämään tai embolian aiheuttamaan suoli-iskemiaan",
+      "Putkimaisen elimen tukokseen",
+      "Toiminnalliseen vatsavaivaan"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nopeasti – yhtäkkiä tai minuuteissa – alkanut kova kipu viittaa perforaatioon, ruptuuraan (aneurysma, kysta, parenkyymielin) tai emboliseen suoli-iskemiaan. Koliikki viittaa tukokseen ja vähitellen alkava kipu tulehdukseen."
+  },
+  {
+    "id": "akuutti-vatsa-q14",
+    "type": "mcq",
+    "question": "Mikä on akuutin vatsan tärkein kliininen tutkimus?",
+    "options": [
+      "Auskultaatio",
+      "Palpaatio",
+      "Tuseeraus",
+      "Verenpaineen mittaus molemmista käsistä"
+    ],
+    "correctIndex": 1,
+    "explanation": "Akuuttihoito-oppaan mukaan palpaatio on akuutin vatsan tärkein tutkimus. Se tehdään kuitenkin viimeisenä inspektion ja auskultaation jälkeen."
+  },
+  {
+    "id": "akuutti-vatsa-q15",
+    "type": "truefalse",
+    "question": "Akuutin vatsakivun kivunhoito kannattaa jättää sairaalaan, koska se heikentää diagnostiikkaa.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Väärin. Kivunhoito on tärkeää eikä se heikennä kliinisen diagnostiikan osuvuutta, kunhan tajunnantaso ei merkittävästi laske. Tulehduskipulääkkeitä tulee välttää."
+  },
+  {
+    "id": "akuutti-vatsa-q16",
+    "type": "mcq",
+    "question": "Iäkäs eteisvärinäpotilas valittaa voimakasta keskivatsakipua, mutta vatsa tuntuu tunnustellen pehmeältä. Mitä epäilet ensimmäisenä?",
+    "options": [
+      "Ummetusta",
+      "Akuuttia suoli-iskemiaa",
+      "Sappikivikohtausta",
+      "Gastroenteriittiä"
+    ],
+    "correctIndex": 1,
+    "explanation": "Suoli-iskemian kipu on tyypillisesti suhteettoman kova vatsanpeitteiden pehmeyteen nähden, koska vatsakalvon ärsytys tulee vasta myöhemmin. Taustalla on usein sydänperäinen embolia."
+  },
+  {
+    "id": "akuutti-vatsa-q17",
+    "type": "mcq",
+    "question": "Miten vatsa-aortan aneurysman repeämää epäiltäessä nesteytetään ennen leikkausta?",
+    "options": [
+      "Runsaasti, tavoitteena normaali verenpaine",
+      "Minimaalisesti – systolinen alle 90 mmHg hyväksytään, kunhan potilas pysyy tajuissaan",
+      "Ei lainkaan, vaikka potilas menettäisi tajuntansa",
+      "Vain glukoosiliuoksella"
+    ],
+    "correctIndex": 1,
+    "explanation": "Verenpaineen nousu ja hemodiluutio lisäävät vuotoa, joten nesteytys pidetään minimaalisena. Hypotension on oltava hallittu niin, että potilas pysyy tajuissaan."
+  },
+  {
+    "id": "akuutti-vatsa-q18",
+    "type": "truefalse",
+    "question": "Normaalit tulehdusarvot sulkevat pois vatsakalvotulehduksen.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Väärin. Tulehdusarvot suurenevat vasta, kun oireiden alusta on kulunut aikaa – akuutissa vaiheessa ne voivat olla täysin normaalit."
+  },
+  {
+    "id": "akuutti-vatsa-q19",
+    "type": "mcq",
+    "question": "Mitä Akuuttihoito-opas sanoo traneksaamihaposta ruoansulatuskanavan vuodossa?",
+    "options": [
+      "Se on ensisijainen hoito kaikissa vuodoissa",
+      "Sen käytöstä ei ole todettu olevan hyötyä",
+      "Se annetaan aina yhdessä nenä-mahaletkun kanssa",
+      "Se korvaa protonipumpun estäjän"
+    ],
+    "correctIndex": 1,
+    "explanation": "Akuuttihoito-oppaan mukaan nenä-mahaletkusta tai traneksaamihaposta ei ole todettu olevan hyötyä. Ensihoito-opas (2023) ohjeistaa kuitenkin antamaan traneksaamihappoa 1 g i.v. – lähteet eroavat, joten toimi alueesi hoito-ohjeen mukaan."
+  },
+  {
+    "id": "akuutti-vatsa-q20",
+    "type": "mcq",
+    "question": "Mikä pitää paikkansa vatsa-aortan aneurysman repeämästä?",
+    "options": [
+      "Aneurysma on lähes aina tiedossa ennestään",
+      "Noin 85 %:lla aneurysma ei ole ollut aiemmin tiedossa",
+      "Kipu tuntuu aina vain vatsassa",
+      "Aneurysma tuntuu palpoiden aina"
+    ],
+    "correctIndex": 1,
+    "explanation": "85 %:lla aneurysma ei ole ollut tiedossa. Kipu voi säteillä selkään, kylkeen, nivusiin tai kiveksiin, ja palpaatio voi olla negatiivinen lihavuuden, hypotension tai hematooman vuoksi."
   }
 ]

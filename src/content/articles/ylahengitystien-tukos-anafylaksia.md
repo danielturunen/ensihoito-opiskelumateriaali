@@ -48,6 +48,22 @@ Anafylaksia on äkillinen, nopeasti etenevä ja hengenvaarallinen yleistynyt all
 
 Tyypillisiä oireita ovat kurkun turvotuksen tunne, äänen muutos, hengenahdistus, nokkosihottuma (urtikaria) ja muut ihoreaktiot, verenpaineen lasku, huimaus tai kollapsi.
 
+### Aiheuttajat, oireiden eteneminen ja riskitekijät
+
+Akuuttihoito-oppaan (Kekki 2025) mukaan tavallisimpia aiheuttajia ovat lääkeaineet ja rokotteet, hyönteisten pistot, ruoka-aineet (erityisesti selleri, kala, äyriäiset, pähkinä, maapähkinä ja siemenet), röntgenvarjoaineet, verivalmisteet ja lateksi sekä ruumiillinen rasitus, tärinä ja kylmyys. **Mitä nopeammin oireet alkavat altistuksen jälkeen, sitä vaikeampi reaktio yleensä on.**
+
+```media
+{"widget":"timeline","title":"Anafylaksian oireiden eteneminen","items":[
+{"time":"Ensin","title":"Ensioireet","text":"Iho kuumottaa, punoittaa ja kutisee, syke kiihtyy, täyteläisyyden tunne kurkussa ja rinnassa, joskus pahoinvointia.","tone":"neutral"},
+{"time":"Sitten","title":"Seuraavat oireet","text":"Angioedeema (silmäluomet, huulet), nokkosihottuma, kurkunpään turvotus, käheys ja stridor, vinkuna, vatsakipu, pahoinvointi, ripuli, verenpaineen lasku.","tone":"warning"},
+{"time":"Vaikein","title":"Henkeä uhkaavat","text":"Kurkunpään obstruktio, hengityspysähdys, sokki ja sydänpysähdys. Sokki voi olla ainoa oire – erityisesti suonensisäisten lääkkeiden ja hyönteisten pistojen jälkeen.","tone":"danger"}
+]}
+```
+
+Reaktio näkyy iholla 80–90 %:ssa, hengityselimissä 70 %:ssa, ruoansulatuskanavassa 40 %:ssa ja verenkierrossa 35 %:ssa – **iho-oireiden puuttuminen ei siis sulje anafylaksiaa pois**. Keuhko- ja sydänsairailla sekä vakavan infektion yhteydessä anafylaksia on vaarallisempi. Lääkitys vaikuttaa: **beetasalpaajat heikentävät adrenaliinin vaikutusta**, ACE:n estäjät (erityisesti hyönteispistoallergiassa) voivat vaikeuttaa reaktiota, ja MAO:n estäjät sekä trisykliset masennuslääkkeet voivat voimistaa adrenaliinin vaikutusta.
+
+**Erotusdiagnostiikka**: akuutissa vaikeassa astmakohtauksessa ei ole iho-oireita ja verenpaine on normaali tai koholla; vasovagaalisessa pyörtymisessä iho- ja hengitystieoireet puuttuvat ja potilas on yleensä bradykardinen. Muita erotettavia ovat keuhkoembolia, muut sokkitilat, hengitysteiden tukokset ja aspiraatio sekä henkinen ahdistus. Diagnoosia vaikeuttavat tajuttomuus, humala ja rauhoittavat lääkkeet.
+
 Diagnoosi perustuu oireisiin vähintään kahdessa elinjärjestelmässä (iho, hengitys, verenkierto, maha-suolikanava).
 
 ```media
@@ -83,9 +99,49 @@ Adrenaliini on anafylaksian tärkein lääke, koska se supistaa verisuonia (nost
 
 Asentohoito valitaan oirekuvan mukaan: matalassa verenpaineessa potilas makuulle jalat koholla, hengitysvaikeudessa vakaalla verenpaineella puoli-istuvaan asentoon.
 
+### Adrenaliini käytännössä (Akuuttihoito-opas 2025)
+
+- **Lihakseen**: laimennos 1 mg/ml, annos 0,3–0,5 mg (0,3–0,5 ml) i.m. Bronkusobstruktio laukeaa yleensä 5–10 minuutissa, ja annos voidaan uusia 5–15 minuutin kuluttua. **Ihon alle** annetun adrenaliinin imeytyminen voi olla liian hidasta.
+- **Suoneen** vain sokissa: laimennos 0,1 mg/ml, 0,05–0,1 mg (0,5–1 ml) hitaasti i.v., tarvittaessa muutaman minuutin välein verenpaineen ja sydämen toimintaa seuraten. Lievässä reaktiossa i.v.-adrenaliinin riski on hyötyä suurempi.
+- **Yli kolmasosa** potilaista tarvitsee useamman kuin yhden annoksen; tarvittaessa jatketaan infuusiona.
+- Muut lääkkeet eivät korvaa adrenaliinia, eikä anafylaksiassa ole adrenaliinin käytölle absoluuttisia vasta-aiheita.
+
+> [!info] Lähteiden ero annoksessa
+> Ensihoito-opas (Lund 2023) antaa aikuisen i.m.-annokseksi 0,5 mg, Akuuttihoito-opas (Kekki 2025) 0,3–0,5 mg. Ensihoito-oppaan aikatavoite on, että vaikeassa reaktiossa adrenaliini on annettu **alle 5 minuutissa**.
+
+### Kun adrenaliini ei tehoa
+
+```media
+{"widget":"flow","title":"Hypotensio adrenaliinista huolimatta","steps":[
+{"title":"Tavallisin syy: riittämätön nesteytys","text":"Neste karkaa verenkierrosta kudoksiin – tarvitaan usein litroja. Ensimmäisinä minuutteina 5–10 ml/kg, ensimmäisen tunnin aikana tilanteen mukaan 1–2 litraa NaCl 0,9 % tai Ringeriä.","tone":"warning"},
+{"title":"Käyttääkö potilas beetasalpaajaa?","text":"Adrenaliinin teho voi olla heikentynyt. Bradykardiassa ja hypotensiossa glukagoni 1–5 mg i.v. 5 minuutin aikana – vaikutus kestää 10–20 min, ei auta hengitysteiden obstruktioon.","tone":"neutral"},
+{"title":"Vaikea hypotensio ilman bronkusobstruktiota","text":"Noradrenaliini-infuusio.","tone":"neutral"},
+{"title":"Seuraa verenpainetta, hengitystä ja happeutumista","text":"Normotensiiviselle riittää 100–150 ml/h. Kapillaarivuodon keuhkoedeemassa PEEP – diureetit pahentavat hypovolemiaa.","tone":"ok"}
+]}
+```
+
+Antihistamiinin ja kortisonin vaikutus on hidas: antihistamiini vaikuttaa 30–45 minuutissa ja lievittää vain ihottumaa ja kutinaa, eikä se auta hengitystieobstruktioon tai hypotensioon. Salbutamoli (2,5–5 mg nebulisaattorilla) auttaa bronkusobstruktioon, mutta ei nielun tai kurkunpään tukokseen eikä hypotensioon.
+
+```media
+{"widget":"angioedema","caption":"Vaihda välittäjäainetta ja kokeile lääkkeitä – huomaa, että allergialääkkeet eivät tehoa bradykiniinin aiheuttamaan turvotukseen."}
+```
+
 ### Bifaasinen reaktio ja kuljetus
 
 Anafylaksian oireet voivat uusiutua useita tunteja alkuoireiden helpottamisen jälkeen (bifaasinen reaktio). Tämän vuoksi kaikki anafylaksiapotilaat kuljetetaan sairaalaseurantaan vaikeusasteesta riippumatta — myös silloin, kun oireet ovat hetkellisesti helpottaneet.
+
+Akuuttihoito-oppaan mukaan oireisto uusiutuu toipumisen jälkeen **1–72 tunnin, tavallisimmin 8–10 tunnin kuluessa noin 5–20 %:lla** potilaista. Jos reaktio ei ole ollut vaikea ja potilas on toipunut nopeasti täysin oireettomaksi, hänet voidaan yleensä kotiuttaa sairaalasta 6–10 tunnin kuluttua; vaikeiden nielu- tai hengitystieoireiden tai sokin jälkeen suositellaan vähintään vuorokauden seurantaa. Ensihoito-oppaan mukaan pelkässä lievässä allergisessa reaktiossa (tajunta normaali, ei hengitysvaikeutta, urtikaria tai limakalvojen kutina ilman turvotusta) potilas voi oireiden helpotuttua jäädä kotiin.
+
+**Itsehoito**: kertakäyttöisen adrenaliiniruiskun annokset reisilihakseen ovat painon mukaan 15–30 kg: 0,15 mg, 30–60 kg: 0,3 mg ja yli 60 kg: 0,3–0,5 mg; osa tarvitsee toisen annoksen 5–15 minuutin kuluttua. Potilas tutkitaan päivystyksessä joka tapauksessa.
+
+## Perinnöllinen angioedeema (HAE) ja ACE:n estäjän turvotus
+
+HAE on vallitsevasti periytyvä turvotuskohtauksia aiheuttava tauti (Suomessa arviolta 100–150 potilasta); joka neljännellä se johtuu uudesta mutaatiosta ilman sukuhistoriaa. Turvotus johtuu pääosin **bradykiniinistä**, ei histamiinista – siksi **allergialääkkeet eivät tehoa, vaan tarvitaan HAE-taudin omia lääkkeitä**: kortikosteroidista tai antihistamiinista ei ole hyötyä, ja vaste niihin viittaa muuhun syyhyn (Hyry, Akuuttihoito-opas 2025).
+
+- **Oireet**: turvotus kasvoissa tai raajoissa **ilman kutinaa tai nokkosihottumaa**, kielessä ja huulissa, harvemmin nielussa ja kurkunpäässä. Vatsaoireet (kipu, ripuli, oksentelu) voivat muistuttaa akuuttia vatsaa. Turvotus lisääntyy ensimmäisen vuorokauden ajan ja häviää yleensä 2–3 vuorokaudessa.
+- **Vaikean kohtauksen merkit**: hengitys- ja nielemisvaikeus sekä äänen käheys.
+- **Laukaisijat**: suun, nielun ja kaulan alueen vammat ja toimenpiteet, infektio, stressi, kuukautiset, estrogeeni, raskaus ja **ACE:n estäjät** – ne voivat aiheuttaa samankaltaisia turvotuskohtauksia myös ilman HAE:a.
+- **Hoito**: kaikki hengitysteitä mahdollisesti uhkaavat kohtaukset hoidetaan heti HAE-lääkkeellä: ikatibantti 30 mg s.c. tai C1-inhibiittorikonsentraatti i.v. Monella potilaalla on oma lääke mukana, ja he hoitavat kohtauksen itse heti ensioireisiin. Nieluoireista potilasta seurataan intubaatio- ja trakeostomiavalmiudessa.
 
 ## Yleinen lähestymistapa kentällä: ABCD
 
@@ -108,11 +164,37 @@ Selvä ylähengitystien uhka — stridor, kuolaaminen, äänen muutos, nielemisk
 
 **Anafylaksia**: adrenaliini aikuiselle **0,5 mg i.m.** tai 0,05–0,1 mg i.v., lapselle 0,01 mg/kg i.m. tai 0,001 mg/kg i.v., tarvittaessa toistaen tai infuusiona; hydrokortisoni, inhaloitavat sympatomimeetit ja antihistamiini (esim. setiritsiini 10 mg p.o.). Keskivaikeassa ja vaikeassa reaktiossa uusiutumisriski on suuri, joten kuljetus on tarpeen (Lund, Ensihoito-opas 2023).
 
+```media
+{"widget":"scene-card","id":"anafylaksia","title":"Kohteessa: anafylaksia ja angioedeema","know":[
+{"label":"Adrenaliini on ensilinjan lääke – alle 5 minuutissa","detail":"Antihistamiini ja kortisoni eivät korvaa sitä."},
+{"label":"Iho-oireet puuttuvat 10–20 %:lta","detail":"Sokki voi olla ainoa oire, erityisesti i.v.-lääkkeen tai pistiäisen jälkeen."},
+{"label":"Mitä nopeammin oireet alkavat, sitä vaikeampi reaktio"},
+{"label":"Reaktio voi uusiutua 1–72 h kuluttua","detail":"Tavallisimmin 8–10 h, 5–20 %:lla."},
+{"label":"Bradykiniiniturvotus ei vastaa allergialääkkeisiin","detail":"HAE ja ACE:n estäjä: ei kutinaa eikä urtikariaa."}
+],"examine":[
+{"label":"Ilmatie: stridor, käheys, nielemisvaikeus, kielen ja huulten turvotus"},
+{"label":"Hengitys: vinkuna, hengitystyö, SpO₂"},
+{"label":"Verenkierto: verenpaine, syke, iho, tajunta"},
+{"label":"Iho ja limakalvot: nokkosihottuma, punoitus, angioedeema"},
+{"label":"Altiste ja aikajana","detail":"Mikä, milloin, kuinka nopeasti oireet alkoivat; aiemmat reaktiot."},
+{"label":"Lääkitys","detail":"Beetasalpaaja, ACE:n estäjä, MAO:n estäjä tai trisyklinen masennuslääke; oma adrenaliinikynä tai HAE-lääke."}
+],"do":[
+{"label":"Lopeta altistus heti"},
+{"label":"Adrenaliini i.m. reiteen ja uusinta 5–15 min välein tarvittaessa"},
+{"label":"Asento oireiden mukaan","detail":"Hypotensiossa makuulle jalat koholla, hengitysvaikeudessa puoli-istuvaan."},
+{"label":"Happi, suoniyhteys ja nesteet","detail":"Hypotensiossa 5–10 ml/kg nopeasti ja tarvittaessa lisää."},
+{"label":"Valmistaudu vaikeaan ilmatiehen","detail":"Nopeasti etenevä kurkunpään turvotus."},
+{"label":"Kuljetus seurantaan","detail":"Keskivaikea ja vaikea reaktio aina."}
+],"redFlags":["Stridor, käheys tai nielemiskyvyttömyys","Hypotensio tai tajunnan lasku","Oireet alkoivat minuuteissa altistuksesta","Ei vastetta toistettuun adrenaliiniin"]}
+```
+
 ## Muista tämä -kertaus
 
 - Epiglottiitissa vältä ilmatien ärsyttämistä ja potilaan pakottamista makuulle.
 - Vierasesinetukoksessa arvioi nopeasti, onko tukos täydellinen vai osittainen, ja toimi algoritmin mukaan.
 - Anafylaksia on sekä ilmatie- että verenkiertohätätila — oireet vähintään kahdessa elinjärjestelmässä.
 - Adrenaliini on anafylaksian tärkein lääke, anna se viipymättä vaikeassa reaktiossa.
-- Bifaasinen reaktio voi tulla tuntien viiveellä — kaikki anafylaksiapotilaat kuljetetaan seurantaan.
+- Bifaasinen reaktio voi tulla tuntien viiveellä (tavallisimmin 8–10 h, 5–20 %:lla) — kaikki anafylaksiapotilaat kuljetetaan seurantaan.
+- Iho-oireet puuttuvat 10–20 %:lta; sokki voi olla ainoa oire. Beetasalpaaja heikentää adrenaliinin tehoa – hypotensiossa nesteet ja tarvittaessa glukagoni.
+- HAE ja ACE:n estäjän turvotus: ei kutinaa eikä urtikariaa, allergialääkkeet eivät tehoa – ikatibantti tai C1-inhibiittori.
 - Selvä yläilmatien uhka kuuluu aina päivystykseen.

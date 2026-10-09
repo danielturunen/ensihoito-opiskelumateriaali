@@ -38,7 +38,8 @@ export default function Scale(props: WidgetProps) {
     for (let i = 0; i < bands.length; i++) {
       const b = bands[i]
       if (v <= b.to || i === bands.length - 1) {
-        const t = Math.min(1, Math.max(0, (v - b.from) / (b.to - b.from)))
+        // Single-value bands (from === to, e.g. a 0–4 grade) sit in the middle of their slot.
+        const t = b.to === b.from ? 0.5 : Math.min(1, Math.max(0, (v - b.from) / (b.to - b.from)))
         return start + t * (cum[i] - start)
       }
       start = cum[i]
@@ -61,7 +62,9 @@ export default function Scale(props: WidgetProps) {
 
   const [value, setValue] = useState<number>((props.value as number | undefined) ?? bands[Math.floor(bands.length / 2)]?.from ?? 0)
   const pos = toPos(value)
-  const current = bands.find((b, i) => value >= b.from && (value < b.to || (i === bands.length - 1 && value <= b.to))) ?? bands[bands.length - 1]
+  const current =
+    bands.find((b, i) => (b.from === b.to ? value === b.from : value >= b.from && (value < b.to || (i === bands.length - 1 && value <= b.to)))) ??
+    bands[bands.length - 1]
 
   return (
     <div>

@@ -1,9 +1,62 @@
 [
-  {"id":"ekgp-f1","front":"EKG:n normaaliarvot","back":"P alle 120 ms ja enintään 2,5 mm · PQ 120–200 ms · QRS alle 120 ms · QTc alle 440–460 ms."},
-  {"id":"ekgp-f2","front":"Akselin pikamääritys","back":"I+ aVF+ normaali · I+ aVF– vasemmalle · I– aVF+ oikealle · I– aVF– äärimmäinen oikea (VT?)."},
-  {"id":"ekgp-f3","front":"Sykkeen laskeminen","back":"300 (25 mm/s) tai 600 (50 mm/s) jaettuna R–R-välin suurilla ruuduilla."},
-  {"id":"ekgp-f4","front":"Rintaelektrodien paikat","back":"V1–V2 4. kylkiluuväli rintalastan molemmin puolin, V4–V6 5. kylkiluuväli, V3 V2:n ja V4:n puolivälissä."},
-  {"id":"ekgp-f5","front":"Leveän QRS:n syyt","back":"Haarakatkos, kammioperäinen rytmi (VT, korvausrytmi), hyperkalemia, hypotermia, WPW, tahdistinrytmi."},
-  {"id":"ekgp-f6","front":"LBBB vs RBBB","back":"LBBB: V1 alaspäin, lateraaleissa leveä R, ST/T vastakkain QRS:n kanssa. RBBB: RSR' V1–V3, leveä S lateraaleissa."},
-  {"id":"ekgp-f7","front":"ST-nousun muita syitä kuin infarkti","back":"Varhainen repolarisaatio, perikardiitti, LVH, LBBB, kammioaneurysma, keuhkoembolia, hypotermia (J-aalto), Takotsubo, Brugada, kaliumhäiriöt."}
+  {
+    "id": "ekgp-f1",
+    "front": "EKG:n normaaliarvot",
+    "back": "P alle 120 ms ja enintään 2,5 mm · PQ 120–200 ms · QRS alle 120 ms · QTc alle 440–460 ms."
+  },
+  {
+    "id": "ekgp-f2",
+    "front": "Akselin pikamääritys",
+    "back": "I+ aVF+ normaali · I+ aVF– vasemmalle · I– aVF+ oikealle · I– aVF– äärimmäinen oikea (VT?)."
+  },
+  {
+    "id": "ekgp-f3",
+    "front": "Sykkeen laskeminen",
+    "back": "300 (25 mm/s) tai 600 (50 mm/s) jaettuna R–R-välin suurilla ruuduilla."
+  },
+  {
+    "id": "ekgp-f4",
+    "front": "Rintaelektrodien paikat",
+    "back": "V1–V2 4. kylkiluuväli rintalastan molemmin puolin, V4–V6 5. kylkiluuväli, V3 V2:n ja V4:n puolivälissä."
+  },
+  {
+    "id": "ekgp-f5",
+    "front": "Leveän QRS:n syyt",
+    "back": "Haarakatkos, kammioperäinen rytmi (VT, korvausrytmi), hyperkalemia, hypotermia, WPW, tahdistinrytmi."
+  },
+  {
+    "id": "ekgp-f6",
+    "front": "LBBB vs RBBB",
+    "back": "LBBB: V1 alaspäin, lateraaleissa leveä R, ST/T vastakkain QRS:n kanssa. RBBB: RSR' V1–V3, leveä S lateraaleissa."
+  },
+  {
+    "id": "ekgp-f7",
+    "front": "ST-nousun muita syitä kuin infarkti",
+    "back": "Varhainen repolarisaatio, perikardiitti, LVH, LBBB, kammioaneurysma, keuhkoembolia, hypotermia (J-aalto), Takotsubo, Brugada, kaliumhäiriöt."
+  },
+  {
+    "id": "ekg-perusteet-f1",
+    "front": "Raajaelektrodien värit?",
+    "back": "Oikea käsi punainen, vasen käsi keltainen, vasen jalka vihreä, oikea jalka musta (maa). I = punainen–keltainen, II = punainen–vihreä, III = keltainen–vihreä."
+  },
+  {
+    "id": "ekg-perusteet-f2",
+    "front": "Rintaelektrodien paikat?",
+    "back": "V1 ja V2 4. kylkiluuväli rintalastan oikealla ja vasemmalla, V4 5. kylkiluuväli keskisolisviivassa, V3 V2:n ja V4:n puolivälissä, V5 etuaksillaari- ja V6 keskiaksillaariviivassa V4:n tasolla."
+  },
+  {
+    "id": "ekg-perusteet-f3",
+    "front": "Lihasvapina vs. eteislepatus?",
+    "back": "Lihasjännityksen nopea perusviivan heilahtelu voi muistuttaa lepatuksen F-aaltoja alaseinäkytkennöissä. Korjaa: potilas rennoksi ja lämpimäksi, raajaelektrodit raajojen tyviin."
+  },
+  {
+    "id": "ekg-perusteet-f4",
+    "front": "50 Hz:n häiriö – mistä tunnistaa ja miten korjata?",
+    "back": "Hienojakoinen tasainen tärinä (50 mm/s: 1 piikki/mm). Tarkista elektrodit, niputa johtimet, ei metallikosketusta; tarvittaessa suodatin."
+  },
+  {
+    "id": "ekg-perusteet-f5",
+    "front": "Myoperikardiitin EKG:n neljä vaihetta?",
+    "back": "1) ST-nousu useissa kytkennöissä, 2) ST normalisoituu, EKG voi olla lähes normaali, 3) T-inversiot, 4) normalisoituminen (noin 2 kk)."
+  }
 ]

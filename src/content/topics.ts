@@ -8,6 +8,7 @@ export const topics: TopicMeta[] = [
   // --- perusteet ---
   { id: 'abcde-arviointi', moduleId: 'perusteet', title: 'ABCDE ja peruselintoimintojen arviointi', summary: 'Systemaattinen ensiarvio ja uhkien tunnistaminen.', readMinutes: 8, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'socrates-kivun-arviointi', moduleId: 'perusteet', title: 'SOCRATES – kivun jäsennelty arviointi', summary: 'Muistisääntö kivun systemaattiseen haastatteluun.', readMinutes: 5, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'kivunhoito', moduleId: 'perusteet', title: 'Kivunhoito ensihoidossa', summary: 'Kiputyypit, NRS-arvio, opioidit, esketamiini ja erityisryhmät.', readMinutes: 7, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'konsultaatiomallit', moduleId: 'perusteet', title: 'Konsultaatiomallit ja kliiniset arviointityökalut', summary: 'ISBAR, NEWS2, GCS ja muut kentän pisteytysmenetelmät.', readMinutes: 10, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'patologiakertaus', moduleId: 'perusteet', title: 'Patologiakertaus – lääketieteellinen arviointi', summary: 'Keskeiset patofysiologian periaatteet ensihoitajan näkökulmasta.', readMinutes: 10, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'patofysiologian-perusteet', moduleId: 'perusteet', title: 'Patofysiologian perusteet', summary: 'Solujen sopeutuminen ja vaurio, tulehdus ja puolustus, kudosten paraneminen ja kasvaimet.', readMinutes: 8, hasQuiz: true, hasFlashcards: true, hasScenario: false },
@@ -47,6 +48,7 @@ export const topics: TopicMeta[] = [
 
   // --- vatsa ---
   { id: 'akuutti-vatsa', moduleId: 'vatsa', title: 'Akuutti vatsa ja GI-verenvuoto', summary: 'Vatsakivun mekanismit, hälyttävät oireet ja verenvuodon tunnistus.', readMinutes: 11, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'maksakirroosi', moduleId: 'vatsa', title: 'Maksakirroosi ja sen komplikaatiot', summary: 'Portahypertensio, variksvuoto, askites, bakteeriperitoniitti ja hepaattinen enkefalopatia.', readMinutes: 9, hasQuiz: true, hasFlashcards: true, hasScenario: false },
 
   // --- sokeri ---
   { id: 'sokeritasapainon-hairiot', moduleId: 'sokeri', title: 'Hypoglykemia, hyperglykemia ja DKA', summary: 'Sokeritasapainon häiriöiden tunnistaminen ja hoito kentällä.', readMinutes: 10, hasQuiz: true, hasFlashcards: true, hasScenario: false },
