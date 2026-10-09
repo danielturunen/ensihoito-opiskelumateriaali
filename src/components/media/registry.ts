@@ -95,6 +95,12 @@ export const widgetMeta: Record<string, WidgetMeta> = {
   'af-cardioversion': { title: 'Eteisvärinä: voiko rytmin siirtää?', kind: 'Laskuri' },
   venturi: { title: 'Venturimaskin venttiilit', kind: 'Interaktiivinen kuva' },
   'headache-check': { title: 'Päänsärky: vaaranmerkki vai migreeni?', kind: 'Harjoitus' },
+  'cognition-course': { title: 'Muistisairauksien kulku vs. äkillinen muutos', kind: 'Animaatio' },
+  'aki-types': { title: 'Akuutin munuaisvaurion kolme tyyppiä', kind: 'Animaatio' },
+  'drowning-time': { title: 'Hukkuminen: aika, vesi ja ikä', kind: 'Laskuri' },
+  orthostatic: { title: 'Ortostaattisen kokeen tulkinta', kind: 'Laskuri' },
+  'stroke-window': { title: 'AVH: aikaikkuna ja hoitopaikka', kind: 'Laskuri' },
+  reperfusion: { title: 'STEMI: pallolaajennus vai liuotus?', kind: 'Laskuri' },
   'scene-card': { title: 'Kohteessa: tiedä, tutki, osaa', kind: 'Itsearviointi' },
 }
 

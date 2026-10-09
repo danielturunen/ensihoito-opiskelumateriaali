@@ -101,6 +101,27 @@ Keuhkoemboliaepäily edellyttää aina kuljetusta, vaikka oireet olisivat hetkel
 > [!info] Lähteiden ero
 > Ensihoito-opas antaa kriittisessä keuhkoemboliassa nestettä 500–1 000 ml, kun taas osa oppimateriaalista korostaa varovaista nesteytystä, koska liika neste voi venyttää oikeaa kammiota.
 
+```media
+{"widget":"scene-card","id":"ke","title":"Kohteessa: keuhkoemboliaepäily","know":[
+{"label":"Verenkierron ongelma, joka näyttää hengitysongelmalta"},
+{"label":"Auskultaatio on usein täysin normaali","detail":"Äkillinen hengenahdistus ja takykardia ilman selittävää löydöstä = keuhkoembolia, kunnes toisin todistetaan."},
+{"label":"Kriittisen keuhkoembolian merkit","detail":"SpO₂ alle 90 %, systolinen alle 100 mmHg, syke yli 110/min, voimaton, levoton tai pyörtyilevä."},
+{"label":"Korjattavissa oleva sydänpysähdyksen syy","detail":"Usein PEA – ennakoi elvytys."}
+],"examine":[
+{"label":"Oireiden alku: äkillinen hengenahdistus, pleuraalinen rintakipu, veriyskä, pyörtyminen"},
+{"label":"Riskitekijät","detail":"Immobilisaatio, tuore leikkaus, syöpä, raskaus tai hormonaalinen ehkäisy, aiempi tukos."},
+{"label":"Toispuoleinen jalan turvotus ja kipu"},
+{"label":"SpO₂, syke, verenpaine, hengitystaajuus"},
+{"label":"EKG – oikean puolen kuormitus (S1Q3T3)"}
+],"do":[
+{"label":"Happi varaajamaskilla suurella virtauksella"},
+{"label":"Puoli-istuva asento, hypotensiossa makuulle"},
+{"label":"Nestettä vain hypotensiossa ja varovasti; tarvittaessa noradrenaliini"},
+{"label":"Konsultoi lääkäriä liuotuksesta kriittisessä tilassa"},
+{"label":"Potilas ei kävele – kuljetus aina"}
+],"redFlags":["Hypotensio","Synkopee","SpO₂ alle 90 %","Voimakas syanoosi"]}
+```
+
 ## Muista tämä -kertaus
 
 - Keuhkoembolia on ensisijaisesti verenkierron ongelma, joka ilmenee hengenahdistuksena.

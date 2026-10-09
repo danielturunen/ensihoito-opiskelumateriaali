@@ -56,6 +56,26 @@ Hyvän toipumisen paras ennusmerkki on tajunnan palautuminen viilennyksen aikana
 
 Kuumuuden aiheuttamia sairauksia ehkäistään totuttautumalla korkeaan lämpötilaan vähitellen (akklimatisaatio) ja huolehtimalla riittävästä nesteytyksestä. Iäkkäät, lapset ja muut riskiryhmät tarvitsevat pidemmän totutteluajan.
 
+```media
+{"widget":"scene-card","id":"lampo","title":"Kohteessa: lämpöhalvaus","know":[
+{"label":"Ydinlämpö yli 40 °C ja keskushermoston häiriö"},
+{"label":"Kuolleisuus jopa 50–70 %"},
+{"label":"Suomessa tavallisimmin sauna ja humala, myös helle ja rasitus"},
+{"label":"Lääkkeet eivät viilennä","detail":"Dantroleeni ja kuumelääkkeet eivät auta."}
+],"examine":[
+{"label":"Ydinlämpö"},
+{"label":"Tajunta – palaako viilennyksen aikana?"},
+{"label":"Verensokeri"},
+{"label":"Infektion merkit – erotusdiagnostiikka"},
+{"label":"Riskitekijät: ikä, lääkkeet, alkoholi, ympäristö"}
+],"do":[
+{"label":"Pois kuumuudesta heti"},
+{"label":"Ulkoinen viilennys välittömästi"},
+{"label":"ABCDE: hengitystie ja verenkierto"},
+{"label":"Ennakkoilmoitus – monielinvaurion ja hyytymishäiriön riski"}
+],"redFlags":["Tajunnanhäiriö kuumassa","Kouristelu","Hypotensio","Tajunta ei palaa viilennyksessä"]}
+```
+
 ## Muista tämä -kertaus
 
 - Lämpöhalvaus: ydinlämpö yli 40 °C + keskushermoston häiriö.

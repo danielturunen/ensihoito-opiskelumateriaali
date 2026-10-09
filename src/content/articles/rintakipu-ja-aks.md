@@ -164,6 +164,10 @@ STEMI on henkeä uhkaava tila, jossa aika on lihasta: nopea reperfuusio (tukkeut
 
 Liuotuksen jälkeen potilas kuljetetaan suoraan sairaalaan, jossa on valmius välittömään varjoainekuvaukseen.
 
+```media
+{"widget":"reperfusion","caption":"Säädä aikoja – näet, ohjaavatko ne pallolaajennukseen vai liuotukseen."}
+```
+
 Verenkiertokomplikaatiot pitää hoitaa välittömästi: bradykardiaan [atropiini](topic:atropiini) tai ulkoinen tahdistus, hypotensioon/sokkiin nesteytys ja tarvittaessa noradrenaliini, takykardisiin rytmihäiriöihin tilanteen mukaan [amiodaroni](topic:amiodaroni), kardioversio tai defibrillaatio.
 
 > [!warning] Nitrokollapsi
@@ -188,6 +192,29 @@ Kun kyse ei todennäköisesti ole sepelvaltimotautikohtauksesta, arvioidaan seur
 - Potilaalla voi olla kaksi rintakipua aiheuttavaa tilaa yhtä aikaa, ja aiemmin vatsa- tai tule-vaivoista kärsivälle voi kehittyä sepelvaltimotauti.
 
 **Kotiin** voidaan harkiten jättää vain, jos riskitekijöitä, tyypillistä kuvaa ja uhkaavia löydöksiä ei ole, potilas pärjää kotona ja häntä on ohjeistettu soittamaan uudelleen, jos vointi huononee. Ensihoito-oppaan mukaan kuljetetaan, jos epäillään vakavaa taustasyytä, peruselintoiminnot ovat poikkeavat, yleistila on huono tai kipua on hoidettu opioideilla.
+
+```media
+{"widget":"scene-card","id":"rintakipu","title":"Kohteessa: rintakipupotilas","know":[
+{"label":"Rintakipu on aina riskioire","detail":"Kivun luonne ei riitä AKS:n poissulkuun."},
+{"label":"Aikatavoitteet","detail":"EKG 10 min kuluessa kohtaamisesta; STEMI-kuljetus alkaa alle 20 min; PCI 120 min tai liuotus 10 min kuluessa diagnoosista."},
+{"label":"Vähäisen todennäköisyyden mutta suuren vaaran syyt","detail":"Dissekaatio, keuhkoembolia, paineilmarinta, tamponaatio."},
+{"label":"Alaseinäinfarktissa bradykardia ja hypotensio","detail":"Oikean kammion infarktissa ei nitraattia."}
+],"examine":[
+{"label":"Kivun alku, luonne, säteily, kesto ja nitraattivaste"},
+{"label":"Riskitekijät ja aiempi sepelvaltimotauti"},
+{"label":"15–16-kytkentäinen EKG (V4R, V7–V9)","detail":"Normaali EKG ja vahva epäily → uusi nauha noin 15 min kuluttua."},
+{"label":"Verenpaine molemmista käsistä ja pulssierot"},
+{"label":"SpO₂, hengitys, kaulalaskimot, kuume"},
+{"label":"Kivun voimakkuus NRS/VAS"}
+],"do":[
+{"label":"Puoli-istuva asento, rauhoittaminen, jatkuva monitorointi defibrillaattorilla"},
+{"label":"ASA 250–500 mg pureskellen"},
+{"label":"Nitraatti, jos systolinen paine vähintään 100 mmHg"},
+{"label":"Happi vain, jos SpO₂ alle 90 % tai hengitysvajaus"},
+{"label":"Suoniyhteys ja kivunhoito tarvittaessa"},
+{"label":"EKG:n lähetys ja konsultaatio, ennakkoilmoitus"}
+],"redFlags":["ST-nousut","Repivä, vaeltava kipu ja pulssiero","Hypotensio, bradykardia tai sokki","Kipu ei helpotu perushoidolla"]}
+```
 
 ## Muista tämä -kertaus
 

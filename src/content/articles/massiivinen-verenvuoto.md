@@ -55,6 +55,27 @@ Lontoossa sairaalan "code red" -protokolla voidaan käynnistää kentältä, kun
 > [!info] Tapaus: ammuttu vatsaan
 > Nuorta naista oli ammuttu oikeaan ylävatsaan, verenpaine 80/40 mmHg. Lääkäriyksikkö antoi traneksaamihappoa 1 g, otti verinäytteen ja pyysi kenttäjohtajaa tuomaan hätäveripaketin. Kaksi yksikköä ORh-negatiivisia punasoluja aloitettiin maantiellä yhtä aikaa, ja sairaalaan tehtiin ennakkoilmoitus. Leikkauksessa vuoto oli noin 5,5 litraa, ja maksa, perna, haima ja ohutsuoli olivat vaurioituneet – potilas selvisi vammanhallintaleikkaukseen ja tehohoitoon.
 
+```media
+{"widget":"scene-card","id":"vuoto","title":"Kohteessa: massiivisesti vuotava potilas","know":[
+{"label":"Tavoite: hapenkuljetus, veritilavuus ja hyytymiskyky kirurgiseen hemostaasiin asti"},
+{"label":"Hypotermia, asidoosi ja laimeneminen pahentavat hyytymishäiriötä"},
+{"label":"Traneksaamihappo 3 tunnin kuluessa vammasta","detail":"Suurin hyöty ensimmäisen tunnin aikana."},
+{"label":"Lävistävässä vammassa systolista ei nosteta yli 80 mmHg:n"}
+],"examine":[
+{"label":"Ulkoiset vuodot – myös pienet, esim. päänahka"},
+{"label":"Lantiomurtuman ja raajamurtumien epäily"},
+{"label":"Sokin merkit ja tajunta"},
+{"label":"Lämpö"},
+{"label":"Punasolukriteerit: pitkä kohdeaika tai kuljetus, hätäkirurginen toimenpide"}
+],"do":[
+{"label":"Painesidos, hemostaattinen sidos, kiristysside"},
+{"label":"Lantiovyö ja lastat"},
+{"label":"Varovainen käsittely – kauhapaarit kääntämisen sijaan"},
+{"label":"Lyhyt kohdeaika, TXA kuljetuksen aikana"},
+{"label":"Verinäyte ennen verensiirtoa, ennakkoilmoitus ja massiivivuotoprotokolla"}
+],"redFlags":["Rannesyke katoaa","Tajunta laskee","Hypotermia","Vuoto ei tyrehdy paineella"]}
+```
+
 ## Muista tämä -kertaus
 
 - Tavoite: hapenkuljetus, veritilavuus ja hyytymiskyky turvataan, kunnes vuoto tyrehdytetään kirurgisesti.

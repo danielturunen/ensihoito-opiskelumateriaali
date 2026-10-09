@@ -121,6 +121,29 @@ Tajuton tai yhteistyökyvytön: **G10 100–200 ml nopeana infuusiona** (lapsi 1
 
 **Kotiin voi jäädä vain, jos kaikki täyttyvät**: tyypin 1 diabetes, hypoglykemialle on järkevä selitys, potilas ei ole päihtynyt, on orientoitunut ja asiallinen ja hänellä on aikuista seuraa, hän on syönyt ja verensokeri pysyy normaalina – ja lääkäriä on konsultoitu. **Lapsi kuljetetaan aina**, samoin jos hypoglykemialle on muu syy.
 
+```media
+{"widget":"scene-card","id":"sokeri","title":"Kohteessa: diabeetikko, jonka vointi on poikkeava","know":[
+{"label":"Epäile ensin hypoglykemiaa","detail":"Verensokeri enintään 3,9 mmol/l; vaikeat keskushermosto-oireet usein alle 2,5."},
+{"label":"Pitkävaikutteinen insuliini = suuri uusiutumisriski"},
+{"label":"DKA: nesteytys on kiireellisempi kuin insuliini"},
+{"label":"Pumppuvika voi johtaa DKA:han 3–5 tunnissa"},
+{"label":"HHS: nesteytys aina ennen insuliinia"}
+],"examine":[
+{"label":"Verensokeri heti"},
+{"label":"Veren ketoaineet, jos sokeri koholla","detail":"Yli 3,0 mmol/l viittaa vahvasti DKA:han."},
+{"label":"Hengitys: Kussmaul ja asetonin haju"},
+{"label":"Nestetila: kuiva iho, takykardia, hypotensio"},
+{"label":"Tajunta ja nielemiskyky"},
+{"label":"Insuliinit ja pumppu, syöminen, infektio"}
+],"do":[
+{"label":"Tajuissaan ja nielee: nopeat hiilihydraatit suun kautta"},
+{"label":"Tajuton tai alle 2,8 mmol/l: glukoosi i.v.","detail":"Esim. 100 ml 10 %; ilman suoniyhteyttä glukagoni 1 mg i.m."},
+{"label":"Uusintamittaus ja syyn selvitys"},
+{"label":"DKA: nesteytys, esim. 1 litra ensimmäisen puolen tunnin aikana"},
+{"label":"Kotiin vain, jos kaikki kotiinjättökriteerit täyttyvät"}
+],"redFlags":["Kouristelu tai tajuttomuus","Kussmaulin hengitys","Hypotensio ja kuivuma","Ensimmäinen vakava hypoglykemia tai alle kouluikäinen lapsi"]}
+```
+
 ## Muista tämä -kertaus
 
 - Epäile aina ensin hypoglykemiaa, kun diabeetikon tila on poikkeava – se on nopeasti korjattavissa.

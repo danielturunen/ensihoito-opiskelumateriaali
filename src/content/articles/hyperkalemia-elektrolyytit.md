@@ -107,6 +107,25 @@ Noin 50-vuotias verenpainelääkettä käyttävä mies on huonovointinen ja niin
 >
 > Opetus: kun elottomuuden syy on epäselvä, kysy lääkkeet, luontaistuotteet ja lisäravinteet – ja muista, että vaikeassa hyperkalemiassa (yli 7,5 mmol/l tai vakavat rytmihäiriöt) hoito aloitetaan viipymättä EKG-seurannassa.
 
+```media
+{"widget":"scene-card","id":"kalium","title":"Kohteessa: hyperkalemiaepäily","know":[
+{"label":"Yleisin syy on munuaisten toimintahäiriö","detail":"Muista myös lääkkeet, asidoosi ja kudostuho."},
+{"label":"EKG-kulku","detail":"Korkea piikkimäinen T → PQ pitenee, P katoaa → QRS levenee → sinikäyrä."},
+{"label":"Atropiinille reagoimaton leveäkompleksinen bradykardia → muista kalium"},
+{"label":"Kalsium ja bikarbonaatti eri reittiä"}
+],"examine":[
+{"label":"12-kytkentäinen EKG"},
+{"label":"Lihasheikkous, huono olo, rytmihäiriöt"},
+{"label":"Munuaissairaus, dialyysi, virtsaneritys"},
+{"label":"Lääkkeet, jotka nostavat kaliumia"}
+],"do":[
+{"label":"Suojaa sydän: kalsiumglukonaatti 10 ml hitaasti i.v., jos EKG-muutoksia"},
+{"label":"Aja kalium soluihin: glukoosi-insuliini, salbutamoli, bikarbonaatti asidoosissa"},
+{"label":"Jatkuva rytmiseuranta"},
+{"label":"Ennakkoilmoitus – dialyysivalmius"}
+],"redFlags":["Leveä QRS","Sinikäyrä","Bradykardia, joka ei vastaa atropiiniin","Lihasheikkous halvaukseen asti"]}
+```
+
 ## Muista tämä -kertaus
 
 - Henkeä uhkaavat rytmihäiriöt liittyvät useimmiten kaliumiin, erityisesti hyperkalemiaan.

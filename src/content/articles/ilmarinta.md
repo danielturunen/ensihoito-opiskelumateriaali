@@ -66,6 +66,26 @@ Jänniteilmarinta muistuttaa oireiltaan osittain muita rintaontelon ja verenkier
 > [!tip] Muista tämä
 > Jos intuboitua potilasta on yllättäen vaikea ventiloida ja verenkierto samalla pettää, epäile aina jänniteilmarintaa.
 
+```media
+{"widget":"scene-card","id":"ilmarinta","title":"Kohteessa: ilmarinta tai jänniteilmarinta","know":[
+{"label":"Jänniteilmarinta on kliininen diagnoosi","detail":"Sitä ei odoteta kuvantamisella."},
+{"label":"Ylipainehengitys ennen dekompressiota pahentaa","detail":"Ei CPAP:ia ennen paineen purkua."},
+{"label":"Spontaani ilmarinta","detail":"Nuoret hoikat miehet ja keuhkosairaat (COPD)."},
+{"label":"Veririnnassa korostuu verenvajauksen hoito"}
+],"examine":[
+{"label":"Hengitysäänet molemmilta puolilta","detail":"Toispuolisesti puuttuvat tai vaimeat = kardinaalilöydös."},
+{"label":"Rintakehän liike ja ihonalainen ilma"},
+{"label":"Kaulalaskimot ja henkitorven asento"},
+{"label":"Sokin merkit"},
+{"label":"Vammamekanismi tai keuhkosairaus"}
+],"do":[
+{"label":"Happi varaajamaskilla ennen ja jälkeen dekompression"},
+{"label":"Neulatorakosenteesi epäilyn perusteella, jos tila on heikko"},
+{"label":"Lääkäriyksikkö torakostomiaan – neula korjaa harvoin pysyvästi"},
+{"label":"Nopea kuljetus traumakeskukseen"}
+],"redFlags":["Toispuolisesti puuttuvat hengitysäänet ja sokki","Kaulalaskimot pullottavat","Hengitysvaikeus pahenee ventilaatiossa"]}
+```
+
 ## Muista tämä -kertaus
 
 - Pleuratilaan kertyvä ilma tai veri painaa keuhkoa kasaan ja heikentää hengitystä.

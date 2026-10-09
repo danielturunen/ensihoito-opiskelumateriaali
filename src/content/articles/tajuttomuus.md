@@ -104,6 +104,28 @@ Ensiarvio ja työdiagnoosi 5 minuutissa, välitön ensihoito 5–15 minuutissa j
 - Syvästi tajuttoman (GCS alle 8) hengitystie turvataan ensihoitolääkärin ohjeen mukaan; normoventilaatio.
 - Normovoleemisen hypotensiossa efedriini tai noradrenaliini. Tajunnanhäiriöinen potilas kuuluu vähintään keskussairaalaan. Katso [AVH](topic:aivoverenkiertohairio) ja [kouristelu](topic:kouristelu).
 
+```media
+{"widget":"scene-card","id":"tajuton","title":"Kohteessa: tajuton potilas","know":[
+{"label":"Tajuttomuus on oire, ei diagnoosi"},
+{"label":"Kallonsisäisen syyn merkit","detail":"Hypertensio ja bradykardia, toispuoliset oireet, katsedeviaatio, anisokoria."},
+{"label":"Uhkaava herniaatio","detail":"Nopeasti laskeva GCS ja toispuolinen laaja valojäykkä pupilli."},
+{"label":"Ajalliset tavoitteet","detail":"Ensiarvio ja työdiagnoosi 5 min, välitön hoito 5–15 min, kuljetus 15–30 min."}
+],"examine":[
+{"label":"Hengitystie ja ventilaatio ensin"},
+{"label":"GCS ja vertailuarvo – lasku 2 pisteellä on hälytysmerkki"},
+{"label":"Pupillien koko ja valoreaktio, puolierot"},
+{"label":"Verensokeri aina"},
+{"label":"Lämpö, iho, petekiat"},
+{"label":"Silminnäkijät: alkamisnopeus, edeltävät oireet, lääkkeet"}
+],"do":[
+{"label":"Kylkiasento ja alaleuan kohotus","detail":"GCS alle 8: hengitystie turvataan lääkärin ohjeen mukaan."},
+{"label":"Tavoitteet: SpO₂ yli 94 %, systolinen yli 100 mmHg"},
+{"label":"Hypoglykemian ja kouristelun hoito"},
+{"label":"Pää 20–30° koholla, jos rannesyke vahva; pää suorassa"},
+{"label":"Kuljetus vähintään keskussairaalaan"}
+],"redFlags":["GCS laskee","Anisokoria","Hypertensio ja bradykardia","Kuume ja petekiat"]}
+```
+
 ## Muista tämä -kertaus
 
 - Tajuttomuus on aina oire, ei diagnoosi – taustasyy on selvitettävä, viimeistään sairaalassa.

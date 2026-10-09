@@ -103,6 +103,27 @@ Nestettä on, mutta väärässä paikassa: suonet laajenevat, niiden läpäisevy
 | **Palovamma** | Turvotus ja haihtuminen ihon läpi, mahdollinen häkä- tai palokaasumyrkytys. Happi 100 %, i.v.-nesteytys (esim. 1000 ml/h kahden ensimmäisen tunnin ajan), lämpötalous, kivunhoito. Ks. [palovamma](topic:palovamma). |
 | **Neurogeeninen** | Selkäydinvammaan liittyvä harvinaisempi muoto. ETC:n mukaan se syntyy yli T6-tason vammassa: sympaattinen hermotus katoaa, ääreissuonet laajenevat ja verenpaine laskee. Yli T2-tason vammassa mukana on myös **bradykardia**, koska sydämen sympaattinen hermotus menetetään. Ei sekoiteta selkäydinsokkiin. Hoitona voidaan tarvita vasopressoreita; glukoosia sisältäviä nesteitä ei anneta. |
 
+```media
+{"widget":"scene-card","id":"sokki","title":"Kohteessa: sokkipotilas","know":[
+{"label":"Neljä tyyppiä","detail":"Hypovoleeminen, kardiogeeninen, obstruktiivinen, distributiivinen."},
+{"label":"Normaali verenpaine ei sulje pois sokkia"},
+{"label":"Vain noin puolet on nestevasteisia"},
+{"label":"Kardiogeenisessä ei beetasalpausta eikä nitroa"}
+],"examine":[
+{"label":"Iho, kapillaaritäyttö, polvien marmoroituminen"},
+{"label":"Tajunta ja levottomuus"},
+{"label":"Sokki-indeksi (syke / systolinen)"},
+{"label":"Kaulalaskimot – pullottavat obstruktiivisessa"},
+{"label":"Syyn etsintä: vuoto, EKG, infektio, allergia, vamma"}
+],"do":[
+{"label":"Happi ja tarvittaessa CPAP tai NIV"},
+{"label":"Nestekokeilu 250–500 ml ja vasteen arvio"},
+{"label":"Vajaa vaste → noradrenaliini, tavoite MAP 65 mmHg"},
+{"label":"Vuotava potilas: verta, ei runsaasti kirkkaita"},
+{"label":"Syyn mukainen hoito ja lämpötalous"}
+],"redFlags":["Sokki-indeksi yli 1","Marmoroituminen","Tajunnan lasku","Pullottavat kaulalaskimot ja hypotensio"]}
+```
+
 ## Muista tämä -kertaus
 
 - Sokki = kudosten riittämätön hapensaanti; tyypit hypovoleeminen, kardiogeeninen, obstruktiivinen ja distributiivinen.

@@ -108,6 +108,27 @@ Ensihoito-opas (Lund 2023) erottaa **äkillisen** (tunneissa tai parissa vuoroka
 
 Potilas kuuluu yhteispäivystykseen, jos hänellä on ensihoitoa vaativa peruselintoimintojen häiriö tai vakavan syyn epäily; muuten ensiarvio voidaan tehdä terveyskeskuksessa. Hoitolaitoksessa asuvan hoitotahto, hoidon rajaukset ja toimintakyky selvitetään ennen kuljetuspäätöstä, ja jos potilasta voidaan hoitaa paikan päällä, kuljetusta ei tarvita. Mieti aina, mikä palvelu parhaiten auttaisi potilasta – terveyskeskus, sosiaalipäivystys tai kotisairaala.
 
+```media
+{"widget":"scene-card","id":"yleistila","title":"Kohteessa: yleistilan lasku tai pyörtyminen","know":[
+{"label":"Nopeus kertoo vakavuudesta","detail":"Romahdus alle tunnissa on lähes aina vakava akuutti tila."},
+{"label":"Normaali verenpaine ei sulje pois sokkia"},
+{"label":"Vaaralliset syyt","detail":"Sepsis, keuhkoembolia, AVH, sydäntapahtuma, ketoasidoosi, suoli-iskemia, GI-vuoto, RAAA, elektrolyyttihäiriö."},
+{"label":"Pyörtyminen on yleensä hyvänlaatuinen","detail":"Sydänsairaus, rasitus, rintakipu tai rytmihäiriötuntemus, vamma, kouristukset tai ensimmäinen pyörtyminen iäkkäänä → sydänsyy poissuljettava."}
+],"examine":[
+{"label":"Miksi soitettiin juuri nyt? Mikä on muuttunut?"},
+{"label":"ABCDE ja peruselintoiminnot"},
+{"label":"EKG kaikilta, joiden yleistila on äkillisesti heikentynyt"},
+{"label":"Verensokeri, lämpö, iho"},
+{"label":"Neurologia, vatsa, alaraajat"},
+{"label":"Lääkitys ja potilasryhmän erityispiirteet"}
+],"do":[
+{"label":"Seuraa pyörtyneen hengitystä ja tajunnan palautumista"},
+{"label":"Hoida löydetty syy"},
+{"label":"Kirjaa tarkka oirekuvaus ja aikajana"},
+{"label":"Kuljetuspäätös vakavuuden ja nopeuden mukaan"}
+],"redFlags":["Romahdus alle tunnissa","Levottomuus, hapennälkä ja tiheä hengitys","Pyörtyminen rasituksessa","Uusi EKG-muutos"]}
+```
+
 ## Muista tämä -kertaus
 
 - Epäspesifinen oire ("yleistila laskenut") ei ole riittävä pääoire – kysy aktiivisesti, mikä tarkalleen on muuttunut ja kuinka nopeasti.

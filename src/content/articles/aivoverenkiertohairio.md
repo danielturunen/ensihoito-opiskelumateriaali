@@ -9,6 +9,10 @@ Ensihoidon päätavoite on tunnistaa ne aivoverenkiertohäiriöpotilaat, jotka h
 
 Uudet AVH-löydökset saanut, aiemmin omatoiminen potilas kuljetetaan kiireellisesti (varausaste A). Oleellista jatkohoidon kannalta on selvittää **oireiden alkamisaika** (milloin potilas on viimeksi nähty oireettomana) ja **aiempi toimintakyky**.
 
+```media
+{"widget":"stroke-window","caption":"Säädä aikaa ja potilaan tietoja – näet, mihin Ensihoito-opas ohjaa potilaan."}
+```
+
 ## Tunnistaminen
 
 Keskeistä on toispuolisen raajojen ja kasvolihasten heikkouden sekä puheentuottohäiriön havaitseminen. Lisäksi tutkitaan tajunnan taso, pupillien koko ja valoreaktio sekä kipureaktion puolierot.
@@ -46,6 +50,30 @@ Keskeistä on toispuolisen raajojen ja kasvolihasten heikkouden sekä puheentuot
 SAV:n taustalla on yleensä aivovaltimon pullistuman (aneurysman) puhkeaminen; Suomessa sen saa vuosittain noin 300–400 ihmistä. Veri leviää lukinkalvon alle, ei aivokudokseen, joten oireet poikkeavat aivoverenvuodosta: **äkkiä alkava kova, hellittämätön päänsärky**, pahoinvointi ja oksentelu, niskajäykkyys ja valonarkuus; joskus kouristelu ja tajuttomuus, harvoin halvausoireet. Kirjo on laaja – syvästä tajuttomuudesta taksilla saapuvaan hyväkuntoiseen potilaaseen. Riskitekijöitä ovat kohonnut verenpaine, tupakointi ja runsas alkoholinkäyttö; aneurysmat puhkeavat useimmiten levossa (Terveyskirjasto).
 
 Ensihoidossa hoidetaan päänsärkyä ja pahoinvointia ja tarvittaessa lasketaan verenpainetta, ja potilas kuljetetaan nopeasti sairaalaan, jossa on päivystävä TT. Noin neljäsosa potilaista kuolee vuoden kuluessa. Tajuttomalla SAV- tai aivoverenvuotopotilaalla on usein edeltävä päänsärky, koukistus- tai ojennusreaktio kipuun, nykinää ja pupillien poikkeavuuksia – katso [tajuttomuus](topic:tajuttomuus).
+
+```media
+{"widget":"scene-card","id":"avh","title":"Kohteessa: AVH-epäily","know":[
+{"label":"Kohdeaika alle 20 minuuttia"},
+{"label":"Liuotus 90 min kuluessa oireiden alusta, aikaikkuna 9 h"},
+{"label":"Trombektomia: omatoiminen ja suuren suonen tukoksen epäily","detail":"Toispuolihalvaus + katsedeviaatio → yliopistosairaala, konsultoi."},
+{"label":"Herännyt oireisiin: soveltuu hoitoon enintään 24 h"},
+{"label":"SAV: äkillinen kova päänsärky, niskajäykkyys, oksentelu"}
+],"examine":[
+{"label":"Viimeksi nähty oireettomana – kellonaika"},
+{"label":"Aiempi toimintakyky (mRS)"},
+{"label":"Suupieli, yläraaja, puhe, alaraaja, katsedeviaatio"},
+{"label":"Tajunta, pupillat, kipureaktion puolierot"},
+{"label":"Verensokeri"},
+{"label":"Verenpaine ja lämpö"},
+{"label":"Kouristelu tai nykinä – hoidetaan normaalisti"}
+],"do":[
+{"label":"Pääty 20–30° koholla, ei mitään suun kautta"},
+{"label":"Suoniyhteys, kristalloidia 500 ml ensimmäisen tunnin aikana"},
+{"label":"Verenpainetta lasketaan vain, jos systolinen yli 220 mmHg"},
+{"label":"Ennakkoilmoitus ja A-kiireellinen kuljetus oikeaan sairaalaan"},
+{"label":"Toinen laskimoyhteys matkalla"}
+],"redFlags":["Toispuolihalvaus ja katsedeviaatio","Tajunnan lasku","Äkillinen kova päänsärky","Systolinen paine yli 220 mmHg"]}
+```
 
 ## Muista tämä -kertaus
 

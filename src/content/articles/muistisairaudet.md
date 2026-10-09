@@ -11,12 +11,26 @@ Keskivaikean tai vaikean dementian esiintyvyys nousee jyrkästi iän mukana: 65�
 | **Vaskulaarinen kognitiivinen heikentymä** | noin 15 % | Aivoinfarktien tai pienten suonten taudin seuraus; voi edetä portaittain, toiminnanohjaus heikkenee, kävely töpöttelevää, yöllinen sekavuus |
 | Muut | | Otsalohkorappeuma (käytöksen muutokset, impulsiivisuus), Parkinsonin tautiin liittyvä dementia, alkoholidementia, Huntingtonin ja Creutzfeldt–Jakobin tauti |
 
+```media
+{"widget":"cognition-course","caption":"Vertaa muistisairauksien tyypillistä kulkua äkilliseen muutokseen. Käyrät ovat kaaviomaisia."}
+```
+
 ## Hoidettavat syyt – älä oleta dementiaksi
 
 Kognitiivisen heikkenemisen taustalla voi olla **sekavuustila (delirium)**, masennus, lääkkeiden haittavaikutus (rauhoittavat ja antikolinergiset lääkkeet), metabolinen häiriö (hypo- tai hypertyreoosi), B12-vitamiinin puute, krooninen subduraalihematooma, normaalipaineinen hydrokefalia (kävelyhäiriö, virtsanpidätyskyvyttömyys ja kognitiivinen heikentyminen), aivokasvain tai aivovamma.
 
 > [!warning] Äkillinen muutos ei ole "vain dementiaa"
 > Muistisairauden tyypillinen kulku on hidas. **Äkillinen sekavuus, tajunnan vaihtelu tai uusi neurologinen oire** viittaa johonkin muuhun – infektioon, lääkkeeseen, aivoverenkiertohäiriöön tai pään vammaan kaatumisen jälkeen. Antikoaguloidulla kaatuneella muista subduraalivuoto. Katso [aivoverenkiertohäiriö](topic:aivoverenkiertohairio) ja [ikääntynyt potilas](topic:ikaantynyt-potilas).
+
+```media
+{"widget":"matching","title":"Hoidettava syy – mistä vihje?","pairs":[
+{"left":"Kävelyhäiriö, virtsanpidätyskyvyttömyys ja kognition heikkeneminen","right":"Normaalipaineinen hydrokefalia"},
+{"left":"Antikoaguloitu, kaatui viikkoja sitten, nyt hiljalleen sekavampi","right":"Krooninen subduraalihematooma"},
+{"left":"Uusi rauhoittava tai antikolinerginen lääke","right":"Lääkkeen haittavaikutus"},
+{"left":"Äkillinen sekavuus ja tajunnan vaihtelu infektion aikana","right":"Delirium"},
+{"left":"Mieliala matala, unihäiriöt, ruokahaluttomuus","right":"Masennus"}
+]}
+```
 
 ## Lewyn kappale -tauti ja neuroleptit
 
@@ -28,6 +42,27 @@ Lewy-potilaat ovat **hyvin herkkiä neuroleptien haittavaikutuksille**: pienetki
 - Puhu rauhallisesti, yksi asia kerrallaan; kiire, pakottaminen ja melu lisäävät käytösoireita.
 - Selvitä potilaan tavanomainen tila: mikä on uutta?
 - Kotona asumisen päättymistä ennustavat käytösoireet, yksin asuminen, kävelyvaikeus ja omaishoitajan kuormittuminen – välitä huoli eteenpäin.
+
+```media
+{"widget":"scene-card","id":"muisti","title":"Kohteessa: muistisairas potilas","know":[
+{"label":"Muistisairauden kulku on hidas","detail":"Äkillinen muutos viittaa akuuttiin syyhyn."},
+{"label":"Hoidettavat syyt","detail":"Delirium, masennus, lääkkeet, kilpirauhanen, B12, subduraalihematooma, NPH."},
+{"label":"Lewy-potilas on herkkä neurolepteille","detail":"Haloperidoli voi aiheuttaa vaarallisen jäykkyyden."},
+{"label":"Muistisairas ei välttämättä osaa kertoa kivustaan"}
+],"examine":[
+{"label":"Tavanomainen tila omaisilta tai hoitajilta – mikä on uutta?"},
+{"label":"Tajunta ja vireys, vaihtelu"},
+{"label":"Infektion merkit, lämpö, nestetila"},
+{"label":"Neurologiset puolierot ja pään vammat","detail":"Antikoaguloidulla kaatumisen jälkeen subduraalivuoto."},
+{"label":"Lääkitys ja sen muutokset"},
+{"label":"Kipu käyttäytymistä havainnoiden"}
+],"do":[
+{"label":"Rauhallinen puhe, yksi asia kerrallaan"},
+{"label":"Vältä kiirettä, pakottamista ja melua"},
+{"label":"Kirjaa tavanomainen toimintakyky ja muutos"},
+{"label":"Välitä huoli kotona pärjäämisestä ja omaishoitajan jaksamisesta"}
+],"redFlags":["Äkillinen sekavuus","Uusi neurologinen oire","Kaatuminen antikoagulaatiolla","Syvä tajuttomuus Lewy-potilaalla infektion aikana"]}
+```
 
 ## Muista tämä -kertaus
 

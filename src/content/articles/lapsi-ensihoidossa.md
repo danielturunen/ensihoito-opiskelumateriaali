@@ -232,6 +232,29 @@ Lue tapaus ja määritä työdiagnoosi, arvioi lapsen paino ja suunnittele toime
 
 Vaikeassa ylähengitystieahtaumassa (SpO₂ yli 94 % ei toteudu, hengitystyö lisääntynyt merkittävästi tai lapsi väsähtänyt) annetaan adrenaliinia inhaloiden painon mukaan, pitoisuus 1 mg/ml: **3–5 kg 1,5 ml · 6–8 kg 3,0 ml · 9–12 kg 4,0 ml · yli 13 kg 5,0 ml**. Inhalaatio toistetaan, ellei vaste ole selvä. **Epiglottiittiepäilyssä suuhun ei saa koskea**: nopea kuljetus ehdottomasti istuen, lapsi huoltajan sylissä. Kotiin voidaan jättää lapsi, jolla on ollut laryngiitti aiemmin, tilanne on tuttu, huoltaja yhteistyökykyinen, yleistila hyvä, kuume alle 39 °C eikä yleisinfektion merkkejä ole (Silfvast, Ensihoito-opas 2023).
 
+```media
+{"widget":"scene-card","id":"lapsi","title":"Kohteessa: lapsipotilas","know":[
+{"label":"Kompensaatio voi pettää nopeasti","detail":"Verenpaineen lasku on myöhäinen ja vakava merkki."},
+{"label":"Normaaliarvot, koko ja annokset mietitään jo autossa"},
+{"label":"Tylppä vamma voi vaurioittaa sisäelimiä ilman ulkoisia merkkejä"},
+{"label":"Alle 3 kk ikäisen yli 38 °C:n kuume → päivystysarvio viiveettä"},
+{"label":"Lastensuojeluilmoitus on henkilökohtainen velvollisuus"}
+],"examine":[
+{"label":"Ensivaikutelma BBB: olemus, hengitys, ihon väri"},
+{"label":"Hengitystyö: retraktiot, sieraimet, pään nyökyttely"},
+{"label":"Syke, kapillaaritäyttö, iho – sokin merkit"},
+{"label":"Lapsen GCS ja verensokeri (myös kouristelevalta)"},
+{"label":"Kipu käytöksestä – vanhemman havainnot"},
+{"label":"Vammamekanismi ja kertomuksen sopivuus vammoihin"}
+],"do":[
+{"label":"Pää neutraalissa asennossa ventilaatiossa"},
+{"label":"Sokissa 10 ml/kg boluksina vastetta arvioiden – ei sokeripitoisia nesteitä"},
+{"label":"Vierasesine: 5 iskua lapaluiden väliin, yli 1-vuotiaalle Heimlich"},
+{"label":"Elvytys: 5 puhallusta, 15:2, syvyys 1/3"},
+{"label":"Vanhempi mukaan ja rauhallinen kohtaaminen"}
+],"redFlags":["Veltto, katse ei kiinnity, vaimea itku","Harmaa tai marmoroitunut iho","Hengitystyö lisääntyy tai uupuminen","Verenpaineen lasku"]}
+```
+
 ## Muista tämä -kertaus
 
 - Lapsen pää pidetään naamariventilaatiossa ja intubaatiossa neutraalissa asennossa – ei taaksepäin taivutettuna kuten aikuisella.

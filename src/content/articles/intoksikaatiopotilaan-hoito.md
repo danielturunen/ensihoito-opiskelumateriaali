@@ -111,6 +111,31 @@ Vasta-aineella herätetty voi mennä uudelleen tajuttomaksi – annoksia voidaan
 > [!info] Lähteiden ero
 > Ensihoito-opas sallii flumatseniilin, kun muiden lääkkeiden osuus on varmasti poissuljettu; muu oppimateriaali neuvoo välttämään sitä ensihoidossa kouristusriskin vuoksi. Yhteistä on: ei sekamyrkytyksessä.
 
+```media
+{"widget":"scene-card","id":"myrkytys","title":"Kohteessa: myrkytyspotilas","know":[
+{"label":"Hoida potilasta, älä myrkkyä","detail":"ABCDE ennen antidootteja ja diagnoosia."},
+{"label":"Pulssioksimetri ei paljasta häkä- tai syanidimyrkytystä"},
+{"label":"Lääkehiili ei tehoa","detail":"Alkoholit, metallit (rauta, litium), syanidi, hapot ja emäkset."},
+{"label":"Antidootin jälkeen uusiutumisriski","detail":"Naloksonin vaikutus lyhyt – kuljetus aina."},
+{"label":"Ajalliset tavoitteet","detail":"Ensiarvio 5 min, aiheuttaja ja vasta-ainehoito 6–15 min, kuljetuskuntoon 16–30 min."}
+],"examine":[
+{"label":"Oma turvallisuus: kaasut, kemikaalit, agitaatio, neulat"},
+{"label":"Kohde tiedonlähteenä: pakkaukset, välineet, viestit – mukaan sairaalaan"},
+{"label":"Hengitystaajuus, SpO₂, pupillit, GCS toistuvasti"},
+{"label":"Verensokeri kaikilta tajunnaltaan poikkeavilta"},
+{"label":"EKG: johtumishäiriöt, QRS- ja QT-aika"},
+{"label":"Riisu ja tutki: pistosjäljet, lääkelaastarit, lämpö"},
+{"label":"Toksidromi: mikä oireyhtymä?"}
+],"do":[
+{"label":"Ilmatie, aspiraation esto (kylkiasento, imuvalmius)"},
+{"label":"Happi; häkä- ja syanidiepäilyssä 100 % tiiviillä maskilla"},
+{"label":"Antidootti hoito-ohjeen mukaan","detail":"Esim. naloksoni 0,08–0,4 mg i.v. kerta-annoksina."},
+{"label":"Lääkehiili juottamalla, jos GCS yli 13 ja aine sitoutuu"},
+{"label":"Hypotension ja bradykardian hoito"},
+{"label":"Lämmönhukan esto tai hypertermiassa aktiivinen jäähdytys"}
+],"redFlags":["Hengityslama","Leveä QRS tai rytmihäiriö","Kouristelu","Hypertermia"]}
+```
+
 ## Muista tämä -kertaus
 
 - "Hoida potilasta, älä myrkkyä" – ABCDE menee aina antidoottien ja diagnoosin edelle.

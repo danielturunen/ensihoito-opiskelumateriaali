@@ -7,6 +7,10 @@ Suomessa hukkuu vuosittain noin 150 ihmistä, ja korkeintaan saman verran joutuu
 Kylmässä vedessä (alle 10 °C) jäähtyminen voi olla ehtinyt suojata aivoja ennen hapenpuutetta. **Mitä pienempi lapsi ja mitä kylmempi vesi, sitä pidempi hypoksia-aika hyväksytään elvytyksen aloittamiselle** – lapsia ja nuoria on selvinnyt jopa 45–60 minuutin hukuksissaolon jälkeen erittäin kylmästä vedestä alkurytmistä riippumatta. Uimalämpöisessä vedessä ennuste alkaa huonontua jo 10 minuutin jälkeen, ja yli 30 minuutin jälkeen selviytyminen on veden lämpötilasta riippumatta heikkoa.
 
 ```media
+{"widget":"drowning-time","caption":"Muuta hukuksissaoloaikaa, veden lämpötilaa ja ikää – näet, miten Ensihoito-opas ohjaa elvytyspäätöstä."}
+```
+
+```media
 {"widget":"flow","title":"Hukkuneen ensihoito","steps":[
 {"title":"Hengitystie ja 5 alkupuhallusta","text":"Hengitystien tyhjennys (valutus, imu), alkupuhallukset heti – osaavat auttajat jo vedessä.","tone":"danger"},
 {"title":"Painelu–puhalluselvytys","text":"Elvytys aloitetaan, jos toipuminen on mahdollista – harkitse myös asystolessa (havaittu tapahtuma, lapsi, nopea jäähtyminen).","tone":"danger"},
@@ -30,6 +34,27 @@ Kotiin voi jäädä vain, jos potilas pääsi itse ylös, elintoiminnot ovat nor
 - Lääkäriyksikkö intuboi, jos GCS on alle 8, hengitysvajaus on vaikea, kasvoissa tai hengitysteissä on palovammoja tai aspiraatioriski on suuri.
 - Hypotensiossa noradrenaliini, hypertensiossa labetaloli; kouristelu hoidetaan tavalliseen tapaan.
 - **Korkea jännite voi aiheuttaa suuret sisäiset vammat**, vaikka ulkoiset palovammat olisivat pienet – ensisijainen huomio elintoimintojen häiriöihin. Katso [palovamma](topic:palovamma).
+
+```media
+{"widget":"scene-card","id":"hukkuminen","title":"Kohteessa: hukkunut tai sähköiskun saanut","know":[
+{"label":"Hukkuneen ensisijainen hoito on hengitystie ja happeutuminen","detail":"5 alkupuhallusta ennen painelua."},
+{"label":"Kylmä vesi ja pieni lapsi: hypoksia-aikaa hyväksytään pidempään"},
+{"label":"Viivästynyt keuhkopöhö","detail":"Myös nopeasti toipunut kuljetetaan."},
+{"label":"Sähköisku: asystole ei tarkoita huonoa ennustetta","detail":"Korkea jännite: suuret sisäiset vammat pienistä ulkoisista palovammoista huolimatta."}
+],"examine":[
+{"label":"Hukuksissaoloaika ja veden lämpötila"},
+{"label":"Syy: sairaskohtaus, hyppy tai putoaminen (rankavamma), laitesukellus"},
+{"label":"Ydinlämpö – hypotermia"},
+{"label":"Hengitys, SpO₂ ja keuhkojen kuuntelu"},
+{"label":"Sähkö: virran tulo- ja poistumiskohdat, rytmi, tajunta"}
+],"do":[
+{"label":"Oma turvallisuus – sähkö: eristä virtalähteestä ennen kosketusta"},
+{"label":"Hengitystien tyhjennys ja alkupuhallukset"},
+{"label":"Elvytys; kylmästä vedestä harkitse kuljetusta elvyttäen sydän-keuhkokoneeseen"},
+{"label":"CPAP tai kaksoispaine hengitysvajauksessa – varo oksentelua"},
+{"label":"Lämmönhukan esto ja kuljetus keskus- tai yliopistosairaalaan"}
+],"redFlags":["Hengitysvaikeus tai SpO₂ laskee toipumisen jälkeen","Tajunnan lasku","Korkeajännitevamma","Laitesukeltaja nousi nopeasti"]}
+```
 
 ## Muista tämä -kertaus
 

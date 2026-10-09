@@ -81,7 +81,12 @@ Sykkeestä huomioidaan taajuus, säännöllisyys, pulssiaallon muoto ja voimakku
 2. Potilas nousee itse nopeasti seisomaan ilman tukea.
 3. Mittaa heti ja 2 minuutin kuluttua; kirjaa oireet.
 
-Normaalisti systolinen paine muuttuu enintään ±10 mmHg ja syke nousee hieman (enintään noin 20/min). **Ortostaattisessa hypotensiossa** systolinen paine laskee vähintään 20 mmHg ja tulee huimausta. Sykkeen tavallista suurempi nousu voi viitata **hypovolemiaan**; jos syke ei nouse lainkaan, syynä voi olla autonomisen hermoston vajaus (diabetes, Parkinsonin tauti, antikolinergiset lääkkeet). Koe tehdään herkästi iäkkäille ja huimauksen tai synkopeen jälkeen. Katso myös [ikääntynyt potilas](topic:ikaantynyt-potilas).
+Normaalisti systolinen paine muuttuu enintään ±10 mmHg ja syke nousee hieman (enintään noin 20/min). **Ortostaattisessa hypotensiossa** systolinen paine laskee vähintään 20 mmHg ja tulee huimausta. Sykkeen tavallista suurempi nousu voi viitata **hypovolemiaan**; jos syke ei nouse lainkaan, syynä voi olla autonomisen hermoston vajaus (diabetes, Parkinsonin tauti, antikolinergiset lääkkeet). Koe tehdään herkästi iäkkäille ja huimauksen tai synkopeen jälkeen.
+
+```media
+{"widget":"orthostatic","caption":"Syötä makuu- ja seisoma-arvot – laskuri tulkitsee muutoksen artikkelin rajojen mukaan."}
+```
+ Katso myös [ikääntynyt potilas](topic:ikaantynyt-potilas).
 
 ## Kaulalaskimot ja turvotukset
 
@@ -92,6 +97,29 @@ Alaraajaturvotus on epäspesifinen löydös. Sydämen vajaatoiminnan turvotus on
 ## Hengenahdistus
 
 Rasitushengenahdistus tulee rasituksessa ja helpottaa levossa. Levossa tuntuva hengenahdistus, joka ei pahene rasituksessa, johtuu harvoin sydämestä. **Ortopnea** – makuulla tuleva, istumaan noustessa helpottava hengenahdistus – viittaa sydämen vajaatoimintaan. Äkillisen hengenahdistuksen tärkeimmät sydänperäiset syyt ovat akuutti vajaatoiminta, rytmihäiriöt ja keuhkoveritulppa; myös sepelvaltimotautikohtaus voi ilmetä pelkkänä hengenahdistuksena. Katso [sydänperäinen keuhkopöhö](topic:keuhkopoho).
+
+```media
+{"widget":"scene-card","id":"sydantutkimus","title":"Kohteessa: sydänoireinen potilas","know":[
+{"label":"Vaaralliset hypoteesit","detail":"Infarkti, aortan dissekaatio, keuhkoembolia, ilmarinta, tamponaatio, ruokatorven repeämä."},
+{"label":"Uusi sydänoire tai tutun oireen äkillinen paheneminen on aina vakava"},
+{"label":"Iäkkään naisen poikkeava väsymys voi olla sepelvaltimotautia"},
+{"label":"NYHA, CCS ja EHRA kuvaavat oireisuutta I–IV"}
+],"examine":[
+{"label":"Oireet omin sanoin, sitten tarkentaen ilman johdattelua"},
+{"label":"Iho: syanoosi, kalpeus, viileys, keltaisuus"},
+{"label":"Syke: taajuus, säännöllisyys, puolierot, pulssivaje"},
+{"label":"Verenpaine molemmista käsistä","detail":"Yli 10 mmHg ero on merkittävä."},
+{"label":"Kaulalaskimot pääpuoli 30–45° koholla"},
+{"label":"Turvotukset: molemminpuolinen kuoppaturvotus vai toispuolinen"},
+{"label":"Hengitystaajuus ja ortopnea"},
+{"label":"Ortostaattinen koe huimauksen tai synkopeen jälkeen"}
+],"do":[
+{"label":"12-kytkentäinen EKG"},
+{"label":"Lääkitys, riskitekijät, sukuanamneesi"},
+{"label":"Toimintakyky ja hoitotahto"},
+{"label":"Punaisen lipun kohdalla vaihda suuntaa heti"}
+],"redFlags":["Pulssiero tai verenpaine-ero käsien välillä","Matala paine ja pullottavat kaulalaskimot","Rintakipu ja kollapsi","Sykkivä resistenssi vatsalla"]}
+```
 
 ## Muista tämä -kertaus
 

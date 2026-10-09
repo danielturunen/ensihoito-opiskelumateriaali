@@ -81,6 +81,25 @@ Ensihoito-opas (Lund 2023) arvioi hypotermian asteen kliinisesti: **lievä** –
 > [!info] Lähteiden ero
 > Ensihoito-oppaan alilämpöisyysohjeessa kammiovärinään annetaan yksi isku ja ellei verenkierto palaa, siirrytään kuljettamaan elvyttäen; ohjeessa mainitaan myös jatkuva painelu 60–80/min kuljetuksen aikana. Käypä hoito (Elvytys 2021) sallii kolme iskua ennen pidättäytymistä. Adrenaliinia koskeva ohje (ei alle 30 °C, yli 30 °C 6–10 min välein) on sama.
 
+```media
+{"widget":"scene-card","id":"hypotermia","title":"Kohteessa: hypoterminen potilas","know":[
+{"label":"Asteet","detail":"Lievä 32–35 °C, kohtalainen 30–32 °C, vaikea alle 30 °C."},
+{"label":"Alle 30 °C liikuttelu voi laukaista kammiovärinän"},
+{"label":"Kylmä suojaa aivoja","detail":"Pitkästäkin elottomuudesta voi toipua."},
+{"label":"Uhkaavan sydänpysähdyksen merkit","detail":"Ydinlämpö alle 30 °C, kammioperäinen rytmihäiriö tai systolinen alle 90 → ECMO-sairaalaan."}
+],"examine":[
+{"label":"Elonmerkit enintään minuutin ajan","detail":"Harva syke tai PEA voi näyttää asystolialta – EKG apuna."},
+{"label":"Ydinlämpö: korvakäytävä (hengittää) tai ruokatorvi (intuboitu)"},
+{"label":"Tajunta ja lihasvärinä"},
+{"label":"Elvytyksen esteet","detail":"Kuolemaan johtava vamma, pitkittynyt hapenpuute, jäätynyt rintakehä, vaarallinen ympäristö."}
+],"do":[
+{"label":"Hellävarainen käsittely","detail":"Keskivaikeassa huomioi \"after drop\" -ilmiö."},
+{"label":"Estä lisäjäähtyminen ja lämmitä"},
+{"label":"Elvytys: alle 30 °C enintään kolme iskua, ei adrenaliinia"},
+{"label":"Eloton: kuljetus elvyttäen alkaa 5 minuutissa","detail":"Mekaaninen painelulaite; ECMO- tai sydän-keuhkokonesairaala ennakkoilmoituksin."}
+],"redFlags":["Ydinlämpö alle 30 °C","Kammioperäinen rytmihäiriö","Systolinen alle 90 mmHg","Tajunnan lasku"]}
+```
+
 ## Muista tämä -kertaus
 
 - Hypotermia: ydinlämpö alle 35 °C – lievä 32–35, kohtalainen 30–32, vaikea alle 30 °C.

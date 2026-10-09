@@ -54,6 +54,25 @@ Sukeltajantautiin tunnetaan vain yksi varsinainen hoito: **rekompressio eli uude
 
 Suomessa sukeltajantautitapauksia on noin 30 vuodessa, ja hoitotulokset ovat hyviä. Toistuva tai puutteellisesti hoidettu tauti voi johtaa keskushermostovaurioon, ja myöhäisoireena voi kuukausien kuluttua kehittyä luukuolio.
 
+```media
+{"widget":"scene-card","id":"sukellus","title":"Kohteessa: sukeltajantautiepäily","know":[
+{"label":"Ainoa varsinainen hoito on rekompressio painekammiossa"},
+{"label":"Oireet tuntien kuluessa pintaan noususta"},
+{"label":"Tyyppi I: iho ja nivelet; tyyppi II: keskushermosto, hengitys, verenkierto"},
+{"label":"Riskit","detail":"Ylipaino, rasitus heti sukelluksen jälkeen, kuivuminen, PFO, lentäminen sukelluspäivänä."}
+],"examine":[
+{"label":"Sukellusprofiili: syvyys, aika, nousu"},
+{"label":"Iho-oireet ja nivel- tai lihaskivut"},
+{"label":"Neurologia: tuntohäiriöt, heikkous, huimaus, pikkuaivo-oireet"},
+{"label":"Hengitys ja verenkierto"}
+],"do":[
+{"label":"100 % happi heti ja koko kuljetuksen ajan"},
+{"label":"Nesteytys suun kautta tai suonensisäisesti"},
+{"label":"Konsultoi ja kuljeta painekammiohoitoon"},
+{"label":"Ei uudelleenpaineistusta veden alla"}
+],"redFlags":["Keskushermosto-oireet","Hengitysvaikeus","Tajunnan häiriö","Oireet pahenevat"]}
+```
+
 ## Muista tämä -kertaus
 
 - Sukeltajantauti syntyy, kun ylipaineessa kudoksiin liuennut typpi kuplii nousun aikana.

@@ -76,6 +76,27 @@ Kriittisessä hengitysvajauksessa potilas on uupunut tai riuhtova, iho kylmä ja
 
 Sydänperäistä hengitysvaikeutta epäiltäessä potilas kuljetetaan aina. Perustason opetusmateriaalissa (Kettunen ja Koskimies 2024) nitrosuihketta toistetaan verenpaineen salliessa tavoitteena alle 140/80 mmHg, ja perustaso valmistelee CPAP-laitteiston mutta ei aloita hoitoa itsenäisesti.
 
+```media
+{"widget":"scene-card","id":"kp","title":"Kohteessa: sydänperäinen keuhkopöhö","know":[
+{"label":"Tunnusmerkit","detail":"Äkillinen alku, tunnettu sydänsairaus, molemminpuoliset rahinat, vaahtoava yskös, ortopnea."},
+{"label":"Hoidon ydin: istuva asento, happi, nitraatti ja CPAP"},
+{"label":"Ei nestettä","detail":"Keuhkopöhö ja keuhkokuume ovat nestehoidon suhteen vastakohtia."},
+{"label":"Infarkti on yleinen laukaisija"}
+],"examine":[
+{"label":"Hengitystaajuus, hengitystyö, puhekyky"},
+{"label":"Keuhkojen kuuntelu: molemminpuoliset rahinat alaosista"},
+{"label":"Verenpaine ennen nitraattia","detail":"Nitraatti, jos systolinen yli 100 mmHg tai rannesyke tuntuu vahvana."},
+{"label":"Iho: kylmä, hikinen, marmoroitunut?"},
+{"label":"12–15-kytkentäinen EKG"}
+],"do":[
+{"label":"Tuettu istuva asento, jalat alas"},
+{"label":"Happi varaajamaskilla ja CPAP – pidä maskia aluksi käsin"},
+{"label":"Nitraatti kielen alle, sitten infuusio verenpaineen mukaan"},
+{"label":"Kardiogeenisessä sokissa noradrenaliini"},
+{"label":"Rauhallinen, määrätietoinen ote"}
+],"redFlags":["Hengitystaajuus yli 30–35/min","Uupuminen tai riuhtominen","Systolinen alle 100 mmHg","ST-nousut EKG:ssä"]}
+```
+
 ## Muista tämä -kertaus
 
 - Keuhkopöhössä vasemman kammion vajaatoiminta nostaa painetta keuhkoverenkierrossa ja nestettä tihkuu alveoleihin.

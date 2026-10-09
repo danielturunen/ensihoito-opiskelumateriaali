@@ -12,6 +12,10 @@ AKI:ssa munuaisten toiminta heikkenee tuntien tai päivien kuluessa: kuona-ainee
 | **Renaalinen** | Munuaiskudoksen vaurio | Pitkittynyt iskemia, röntgenvarjoaine, lääkkeet, rabdomyolyysi, hemolyysi, glomerulonefriitti, vaskuliitti |
 | **Postrenaalinen** | Virtsankulun este | Eturauhassairaudet, kivet, kasvaimet, rakon tyhjenemishäiriö – tavallinen iäkkäällä |
 
+```media
+{"widget":"aki-types","caption":"Valitse tyyppi – korostus näyttää, missä kohtaa verenkierto- ja virtsatietä ongelma on."}
+```
+
 **Riskitekijöitä**: korkea ikä, diabetes, valtimonkovettumatauti, sydämen tai maksan vajaatoiminta, krooninen munuaisten vajaatoiminta, monet lääkkeet ja röntgenvarjoaineet, sepsis, rabdomyolyysi, kuivuminen ja verenvuoto.
 
 **Oireet** ovat usein epämääräisiä: vähentynyt virtsaneritys (oliguria alle 400 ml/vrk, anuria alle 100 ml/vrk – mutta virtsaa voi tulla normaalisti), turvotukset, hengenahdistus ja keuhkopöhö, rytmihäiriöt, pahoinvointi, päänsärky, väsymys, tajunnanhäiriö ja kouristelu. **Vanhuksella yleistilan lasku voi olla ainoa oire.** Kuume viittaa infektioon (sepsis, munuaistulehdus).
@@ -56,6 +60,27 @@ Dialyysi ei ole kaikille paras vaihtoehto: iäkkäällä, monisairaalla ja haura
 
 > [!tip] Milloin keinomunuaishoitoa?
 > Keinomunuaishoidon aiheita ovat konservatiiviselle hoidolle reagoimaton nesteen kertyminen, hyperkalemia, asidoosi ja muut uremian oireet. Ylläpitodialyysissä oleva loppuvaiheen munuaispotilas voi saada röntgenvarjoaineen normaalisti.
+
+```media
+{"widget":"scene-card","id":"munuainen","title":"Kohteessa: munuaispotilas","know":[
+{"label":"Hätätilanteet: hyperkalemia, asidoosi, nesteen kertyminen ja keuhkopöhö"},
+{"label":"AKI: prerenaalinen, renaalinen, postrenaalinen","detail":"Iäkkäällä yleistilan lasku voi olla ainoa oire."},
+{"label":"Munuaisille haitalliset lääkkeet","detail":"Tulehduskipulääkkeet, ACE:n estäjät, AT-salpaajat, metformiini, vankomysiini, luontaistuotteet."},
+{"label":"Kivunhoito","detail":"Parasetamoli, oksikodoni tai fentanyyli; ei tulehduskipulääkkeitä; morfiinin aineenvaihduntatuotteet kertyvät."}
+],"examine":[
+{"label":"Virtsaneritys: määrä ja milloin viimeksi"},
+{"label":"Nestetila: kuivuminen vai turvotukset, keuhkojen rahina"},
+{"label":"EKG ja rytmi – hyperkalemian merkit"},
+{"label":"Täysi rakko alavatsalla – virtsaumpi?"},
+{"label":"Kuume ja infektion merkit"},
+{"label":"Lääkitys, dialyysi ja hoitolinjaukset"}
+],"do":[
+{"label":"Hypovolemian korjaus harkiten – ei liikaa nestettä"},
+{"label":"Hyperkalemian hoito ohjeen mukaan, rytmiseuranta"},
+{"label":"Kivunhoito munuaisille sopivilla lääkkeillä"},
+{"label":"Selvitä hoitotahto ennen raskaita ratkaisuja"}
+],"redFlags":["Rytmihäiriö tai leveä QRS","Keuhkopöhö ja niukka virtsaneritys","Tajunnanhäiriö tai kouristelu","Anuria"]}
+```
 
 ## Muista tämä -kertaus
 

@@ -59,6 +59,28 @@ Keuhkokuumeen vaikeat muodot korostuvat erityisesti hyvin nuorilla, iäkkäillä
 
 Ensihoitajan tulee tunnistaa sepsisriski systemaattisesti, esimerkiksi hyödyntämällä pisteytysmenetelmiä, ks. [konsultaatiomallit ja kliiniset arviointityökalut](topic:konsultaatiomallit). Sairaalaan ilmoitetaan selkeästi, jos epäillään vakavaa tulehdusta ja mahdollista sepsistä, jotta antibioottihoito ja muu jatkotutkimus voidaan aloittaa viipymättä.
 
+```media
+{"widget":"scene-card","id":"pneumonia","title":"Kohteessa: keuhkokuumepotilas","know":[
+{"label":"Tärkein tehtävä on tunnistaa sepsis"},
+{"label":"Iäkkäällä hypotensio tai sekavuus voi olla ainoa merkki"},
+{"label":"Paikallinen rahina erottaa keuhkopöhön molemminpuolisesta"},
+{"label":"Nesteytys sepsiksessä – toisin kuin keuhkopöhössä"}
+],"examine":[
+{"label":"Hengitystaajuus","detail":"Yli 22–25/min on sepsiksen merkki."},
+{"label":"Verenpaine, syke, tajunta ja lämpö"},
+{"label":"SpO₂ ja hengitystyö"},
+{"label":"Keuhkojen kuuntelu: paikalliset rahinat tai ritinä"},
+{"label":"Yskökset ja oireiden kesto"},
+{"label":"Riskiryhmä: iäkäs, perussairaudet, immuunipuutos"}
+],"do":[
+{"label":"Happi, tavoite SpO₂ noin 92–96 %"},
+{"label":"Puoli-istuva asento"},
+{"label":"CPAP/NIV, jos hengitystyö on suuri tai happeutuminen ei korjaannu"},
+{"label":"Suoniyhteys ja nesteytys sepsiksen merkeissä"},
+{"label":"Ennakkoilmoitus sepsisepäilystä"}
+],"redFlags":["Systolinen alle 100 mmHg","Sekavuus","Hengitystaajuus yli 25/min","Lämpö alle 36 °C"]}
+```
+
 ## Muista tämä -kertaus
 
 - Keuhkokuume täyttää keuhkorakkulat tulehduseritteellä, mikä estää paikallisesti kaasujenvaihdon.

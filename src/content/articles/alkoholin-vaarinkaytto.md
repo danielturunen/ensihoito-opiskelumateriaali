@@ -80,6 +80,26 @@ Päihtymys ei saa koskaan estää potilaan akuuttihoidon tarpeen arviointia. Taj
 
 Sairaalahoidon tai -seurannan aiheita ovat myös myrkytysepäily, rintakipu, hengitysvaikeus, vatsakipu tai muu peruselintoimintojen häiriö. Aggressiivinen potilas voidaan luovuttaa poliisille, ja rauhallinen, somaattisesti ja psykiatrisesti vakaa potilas voidaan ohjata selviämishoitoasemalle tai muuhun jatkohoitoon, jos sellainen on saatavilla. Hoidon yhteydessä on syytä arvioida myös päihdehuollon tarve.
 
+```media
+{"widget":"scene-card","id":"alkoholi","title":"Kohteessa: päihtynyt tai vieroitusoireinen","know":[
+{"label":"Vieroitusoireet alkavat 1–6 vrk juomisen lopettamisesta","detail":"Vaikeimmillaan delirium tremens – voi johtaa kuolemaan."},
+{"label":"Tiamiini ennen glukoosia","detail":"Wernicken taudin ehkäisy."},
+{"label":"Älä oleta kaiken johtuvan alkoholista","detail":"Hypoglykemia, aivovamma, infektio."},
+{"label":"Subduraalihematooman riski on kohonnut"}
+],"examine":[
+{"label":"Verenpaine ja verensokeri aina"},
+{"label":"Tajunta, pupillat ja pään vammat"},
+{"label":"Vieroitusoireet: vapina, hikoilu, harhat, kuume, kouristelu"},
+{"label":"Infektion merkit"},
+{"label":"Lääkkeet ja mahdollinen antabus"}
+],"do":[
+{"label":"Oma turvallisuus ja rauhallinen kohtaaminen"},
+{"label":"Hypoglykemian hoito – tiamiini ensin"},
+{"label":"Kouristelun hoito"},
+{"label":"Kuljetus, jos vaikeat oireet tai epäselvä tajunnanhäiriö"}
+],"redFlags":["Sekavuus ja kuume vieroituksessa","Kouristelu","Pään vamma ja tajunnan lasku","Antabusreaktio sydänpotilaalla"]}
+```
+
 ## Muista tämä -kertaus
 
 - Alkoholivieroitusoireet voivat edetä hengenvaaralliseen delirium tremensiin – älä aliarvioi "tavallista krapulaa".
