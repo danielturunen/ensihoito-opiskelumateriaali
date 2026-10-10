@@ -117,6 +117,8 @@ export const widgetMeta: Record<string, WidgetMeta> = {
   'sync-cardioversion': { title: 'Synkronoitu rytminsiirto', kind: 'Harjoitus' },
   'cpap-valve': { title: 'CPAP-maskin paineventtiili', kind: 'Animaatio' },
   'select-all': { title: 'Valitse kaikki oikeat', kind: 'Harjoitus' },
+  'als-sim': { title: 'Hoitoelvytyksen päätösharjoitus', kind: 'Harjoitus' },
+  'cpr-rate': { title: 'Painelutahti', kind: 'Harjoitus' },
   'scene-card': { title: 'Kohteessa: tiedä, tutki, osaa', kind: 'Itsearviointi' },
 }
 

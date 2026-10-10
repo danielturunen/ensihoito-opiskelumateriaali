@@ -1,0 +1,82 @@
+[
+  {
+    "id": "elvytys-f1",
+    "front": "Sydänpysähdyksen selviytymisketjun avaintekijät",
+    "back": "Hätäkeskuksen tunnistus ja elvytysohjeet, maallikkoelvytys, varhainen defibrillaatio (myös AED), laadukas hoitoelvytys, syyn hoito ja elvytyksen jälkeinen hoito."
+  },
+  {
+    "id": "elvytys-f2",
+    "front": "Ultraäänellä ja vieritesteillä löydettäviä hoidettavia syitä",
+    "back": "Massiivinen keuhkoembolia, sydäntamponaatio, hypovolemia, ilmarinta/jänniteilmarinta, asidoosi, elektrolyyttihäiriöt."
+  },
+  {
+    "id": "elvytys-f3",
+    "front": "Hyvän aivoperfuusion merkit elvytyksen aikana",
+    "back": "Korkea uloshengityksen CO2, spontaani hengitys, liikehdintä ja silmien avaaminen."
+  },
+  {
+    "id": "elvytys-f4",
+    "front": "Aikuisen hoitoelvytyksen lääkkeet (iskettävä rytmi)",
+    "back": "3. iskun jälkeen adrenaliini 1 mg + amiodaroni 300 mg; 5. iskun jälkeen amiodaroni 150 mg; adrenaliini 3–5 min välein. Vaihtoehto: lidokaiini 100 / 50 mg."
+  },
+  {
+    "id": "elvytys-f5",
+    "front": "Painelun laatu aikuisella",
+    "back": "Rintalastan alaosa, 5–6 cm, 100–120/min, painelija vaihtuu 2 min välein, 30:2 ilman varmistettua hengitystietä; varmistettuna ventilaatio 10/min."
+  },
+  {
+    "id": "elvytys-f6",
+    "front": "ROSC-tavoitteet",
+    "back": "SpO₂ 94–98 %, PaCO₂ 4,5–6 kPa, MAP > 65 mmHg, kuumeen esto < 37,8 °C 72 h, ei kylmiä nesteitä ensihoidossa, ST-nousu → PCI."
+  },
+  {
+    "id": "elvytys-f7",
+    "front": "Elvytyksen lopettaminen",
+    "back": "Pidättäydy: vaara auttajalle, kuolettava vamma / kuoleman merkit, tahdonilmaisu tai hoitosuunnitelma. Harkitse: asystole 20 min hoitoelvytyksen jälkeen ilman hoidettavaa syytä."
+  },
+  {
+    "id": "elvytys-f8",
+    "front": "Selviytyminen alkurytmin mukaan (Akuuttihoito-opas)?",
+    "back": "VF välittömällä defibrillaatiolla jopa 80 %, sairaalan ulkopuolella hyvin toteutuneella ensihoidolla jopa 35 %; PEA 5–8 %; asystolia hyvin huono."
+  },
+  {
+    "id": "elvytys-f9",
+    "front": "Elvytyslääkkeiden antoreitti?",
+    "back": "Mahdollisimman sentraalinen suoniyhteys. Ei intubaatioputken kautta. Muuten luunsisäinen: sääriluun etupinta tai olkavarren pää, samat annokset."
+  },
+  {
+    "id": "elvytys-f10",
+    "front": "Ventilaatio heti ROSCin jälkeen (Akuuttihoito-opas)?",
+    "back": "Noin 20/min muutaman minuutin ajan, jotta kertynyt CO₂ purkautuu; sitten tavoite etCO₂ 4,5–6 kPa, SpO₂ yli 94 %."
+  },
+  {
+    "id": "elvytys-f11",
+    "front": "Ennuste, jos oma verenkierto ei palaa?",
+    "back": "Ellei ROSC 30–40 minuutissa, ennuste hyvin huono. Elvyttäen sairaalaan tuodun ennuste erittäin huono (etenkin asystolia) – paitsi hypotermiassa."
+  },
+  {
+    "id": "elvytys-f12",
+    "front": "Monitoroidun potilaan kolmen iskun sarja?",
+    "back": "Viiveettä havaitussa VF:ssä voidaan iskeä jopa kolmesti peräkkäin ennen painelua; sarja tulkitaan yhdeksi iskuyritykseksi adrenaliinin ajoituksessa."
+  },
+  {
+    "id": "elvytys-f13",
+    "front": "Elvytystehtävän ajalliset tavoitteet (Ensihoito-opas)?",
+    "back": "1. defibrillaatio 1 min kuluessa, taustatiedot 5–10 min, syyn mukainen hoito viimeistään 10 min, 12–15-kytkentäinen EKG ROSC:n jälkeen."
+  },
+  {
+    "id": "elvytys-f14",
+    "front": "Peruuttamattomat kuoleman merkit?",
+    "back": "Lautumat (alkavat noin 20 minuutissa), kuolonkankeus pikkunivelissä (noin 2 tunnissa) ja ilmiselvä kuolettava vamma (murskautuminen, keskeisen ruumiinosan irtoaminen)."
+  },
+  {
+    "id": "elvytys-f15",
+    "front": "ICPC-2: A96 vai K98?",
+    "back": "A96 = kuolema ilman ensihoidon elvytysyritystä. K98 = sydänpysähdys, jossa ensihoito yritti elvyttää (sisältää ROSC:n ja tuloksettoman elvytyksen)."
+  },
+  {
+    "id": "elvytys-f16",
+    "front": "Miten painelu tuottaa verenkiertoa?",
+    "back": "Sydän puristuu rintalastan ja selkärangan väliin, ja rintakehän painevaihtelu kierrättää verta ja lisää laskimopaluuta – siksi jatkuvuus ja täydellinen palautuminen ovat tärkeitä."
+  }
+]

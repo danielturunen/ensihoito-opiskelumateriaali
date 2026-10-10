@@ -1,15 +1,5 @@
 [
   {
-    "id": "elv-f1",
-    "front": "Sydänpysähdyksen selviytymisketjun avaintekijät",
-    "back": "Hätäkeskuksen tunnistus ja elvytysohjeet, maallikkoelvytys, varhainen defibrillaatio (myös AED), laadukas hoitoelvytys, syyn hoito ja elvytyksen jälkeinen hoito."
-  },
-  {
-    "id": "elv-f2",
-    "front": "Ultraäänellä ja vieritesteillä löydettäviä hoidettavia syitä",
-    "back": "Massiivinen keuhkoembolia, sydäntamponaatio, hypovolemia, ilmarinta/jänniteilmarinta, asidoosi, elektrolyyttihäiriöt."
-  },
-  {
     "id": "elv-f3",
     "front": "Vammapotilaan elvytys",
     "back": "Ellei kuolettava vamma: ventilaatio, vuodon tyrehdytys ja verituotteet, TXA 1 g/10 min (< 3 h), torakostomia (tehokkaampi kuin neula) → harkiten torakotomia lävistävässä vammassa, jos avoin sydänhieronta alkaa 15 min kuluessa."
@@ -30,53 +20,13 @@
     "back": "Hoidettava syy sairaalassa: vaikea hypotermia (ECMO), toistuva VF (PCI), massiivinen keuhkoembolia, valikoidut myrkytykset. Suotuisaa: nähty pysähdys, tehokas maallikkoelvytys, iskettävä rytmi."
   },
   {
-    "id": "elv-f7",
-    "front": "Hyvän aivoperfuusion merkit elvytyksen aikana",
-    "back": "Korkea uloshengityksen CO2, spontaani hengitys, liikehdintä ja silmien avaaminen."
-  },
-  {
-    "id": "elv-f8",
-    "front": "Aikuisen hoitoelvytyksen lääkkeet (iskettävä rytmi)",
-    "back": "3. iskun jälkeen adrenaliini 1 mg + amiodaroni 300 mg; 5. iskun jälkeen amiodaroni 150 mg; adrenaliini 3–5 min välein. Vaihtoehto: lidokaiini 100 / 50 mg."
-  },
-  {
-    "id": "elv-f9",
-    "front": "Painelun laatu aikuisella",
-    "back": "Rintalastan alaosa, 5–6 cm, 100–120/min, painelija vaihtuu 2 min välein, 30:2 ilman varmistettua hengitystietä; varmistettuna ventilaatio 10/min."
-  },
-  {
-    "id": "elv-f10",
-    "front": "ROSC-tavoitteet",
-    "back": "SpO₂ 94–98 %, PaCO₂ 4,5–6 kPa, MAP > 65 mmHg, kuumeen esto < 37,8 °C 72 h, ei kylmiä nesteitä ensihoidossa, ST-nousu → PCI."
-  },
-  {
-    "id": "elv-f11",
-    "front": "Elvytyksen lopettaminen",
-    "back": "Pidättäydy: vaara auttajalle, kuolettava vamma / kuoleman merkit, tahdonilmaisu tai hoitosuunnitelma. Harkitse: asystole 20 min hoitoelvytyksen jälkeen ilman hoidettavaa syytä."
-  },
-  {
     "id": "elvytys-sairaalan-ulkopuolella-f1",
-    "front": "Selviytyminen alkurytmin mukaan (Akuuttihoito-opas)?",
-    "back": "VF välittömällä defibrillaatiolla jopa 80 %, sairaalan ulkopuolella hyvin toteutuneella ensihoidolla jopa 35 %; PEA 5–8 %; asystolia hyvin huono."
+    "front": "Milloin mekaaniseen painelulaitteeseen siirrytään (Ensihoito-opas)?",
+    "back": "Ei yleensä alkuvaiheessa – paitsi ilmiselvässä erityistilanteessa (hypotermia). Kun kuljetetaan elvyttäen (esim. STEMI-PCI) tai keuhkoembolian liuotuksen vuoksi varaudutaan pitkään elvytykseen."
   },
   {
     "id": "elvytys-sairaalan-ulkopuolella-f2",
-    "front": "Elvytyslääkkeiden antoreitti?",
-    "back": "Mahdollisimman sentraalinen suoniyhteys. Ei intubaatioputken kautta. Muuten luunsisäinen: sääriluun etupinta tai olkavarren pää, samat annokset."
-  },
-  {
-    "id": "elvytys-sairaalan-ulkopuolella-f3",
-    "front": "Ventilaatio heti ROSCin jälkeen (Akuuttihoito-opas)?",
-    "back": "Noin 20/min muutaman minuutin ajan, jotta kertynyt CO₂ purkautuu; sitten tavoite etCO₂ 4,5–6 kPa, SpO₂ yli 94 %."
-  },
-  {
-    "id": "elvytys-sairaalan-ulkopuolella-f4",
-    "front": "Ennuste, jos oma verenkierto ei palaa?",
-    "back": "Ellei ROSC 30–40 minuutissa, ennuste hyvin huono. Elvyttäen sairaalaan tuodun ennuste erittäin huono (etenkin asystolia) – paitsi hypotermiassa."
-  },
-  {
-    "id": "elvytys-sairaalan-ulkopuolella-f5",
-    "front": "Monitoroidun potilaan kolmen iskun sarja?",
-    "back": "Viiveettä havaitussa VF:ssä voidaan iskeä jopa kolmesti peräkkäin ennen painelua; sarja tulkitaan yhdeksi iskuyritykseksi adrenaliinin ajoituksessa."
+    "front": "Miten hukkuneen elvytys alkaa?",
+    "back": "Viidellä puhalluksella, koska syy on hypoksia. Yli 30 minuutin hukuksissaolon jälkeen ennuste on heikko veden lämpötilasta ja suolapitoisuudesta riippumatta."
   }
 ]

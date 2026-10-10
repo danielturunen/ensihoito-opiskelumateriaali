@@ -42,7 +42,7 @@ Kapnometri mitataan keinoilmatien (intubaatioputki, kurkunpäämaski tai -putki)
 > [!danger] Matala EtCO₂ ei aina ole ventilaatio-ongelma
 > Säämäsen kartoituksessa hyperventilaation, vuotavan kuffin ja massiivisen keuhkoembolian yhteyden matalaan EtCO₂:een tunnisti 63–75 % vastaajista, mutta **hypovoleemisen sokin vain 13 %**. Kaksi kolmasosaa luuli, että elvytyksen aikana kapnometri näyttää tyypillisesti yli 4,5 kPa – vaikka noin 1 kPa on elvytettävälle tavallinen. Väärä tulkinta voi johtaa turhiin ja haitallisiin toimenpiteisiin, kuten putken poistoon tai ventilaation hidastamiseen.
 
-Ks. [elvytys](topic:elvytys-sairaalan-ulkopuolella) ja [anestesiaintubaatio](topic:anestesiaintubaatio).
+Ks. [elvytys](topic:elvytys) ja [anestesiaintubaatio](topic:anestesiaintubaatio).
 
 ## Synkronoitu rytminsiirto
 

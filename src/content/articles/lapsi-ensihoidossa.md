@@ -207,7 +207,7 @@ Lapsen sydänpysähdys on harvinainen, ja selviytyminen on heikkoa. Yleisimmät 
 > [!tip] Kapnografia elvytyksessä
 > Elvytyksen aikana kapnografia kertoo verenkierrosta. Älä säädä ventilaatiota kapnolukeman mukaan, vaan ventiloi intuboitua iänmukaisella taajuudella. Äkillinen putoaminen nollaan: putki on lipsahtanut tai potilas elottomaksi. Äkillinen nousu: perfusoiva rytmi on palannut.
 
-Katso myös [sydänpysähdyspotilaan hoito](topic:elvytys-sairaalan-ulkopuolella).
+Katso myös [sydänpysähdyspotilaan hoito](topic:elvytys).
 
 ## Lapsen pahoinpitely ja kuolema
 

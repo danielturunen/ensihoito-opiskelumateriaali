@@ -38,7 +38,8 @@ export const topics: TopicMeta[] = [
   { id: 'case-rintakipu-704', moduleId: 'sydan', title: 'Tapaus: Rintakipu', summary: 'Harjoittele rintakipupotilaan arviointia ja päätöksentekoa.', readMinutes: 10, hasQuiz: false, hasFlashcards: false, hasScenario: true, dispatchCode: '704' },
 
   // --- elvytys ---
-  { id: 'elvytys-sairaalan-ulkopuolella', moduleId: 'elvytys', title: 'Sydänpysähdys, mekaaninen painelu ja elvyttäen kuljetus', summary: 'Selviytymisketju, syyn hoitaminen, LUCAS-laite ja milloin kuljettaa elvyttäen.', readMinutes: 10, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'elvytys', moduleId: 'elvytys', title: 'Aikuisen elvytys', summary: 'Tunnistaminen, painelu, hoitoelvytys, hoidettavat syyt, ROSC-hoito ja elvytyksen lopettaminen.', readMinutes: 12, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'elvytys-sairaalan-ulkopuolella', moduleId: 'elvytys', title: 'Elvytyksen erityistilanteet', summary: 'Vammapotilaan sydänpysähdys, mekaaninen painelu, kuljetus elvyttäen, hukkunut ja raskaana oleva.', readMinutes: 10, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'anestesiaintubaatio', moduleId: 'elvytys', title: 'Anestesiaintubaatio ensihoidossa', summary: 'Vakioitu prosessi, esihappeutus, työnjako ja epäonnistuneen intubaation suunnitelma.', readMinutes: 9, hasQuiz: true, hasFlashcards: true, hasScenario: false },
 
   // --- neurologia ---

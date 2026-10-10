@@ -1,31 +1,5 @@
 [
   {
-    "id": "elv-q1",
-    "type": "mcq",
-    "question": "Kuinka paljon maallikkoelvytys vaikuttaa sydänpysähdyspotilaan selviytymiseen?",
-    "options": [
-      "Ei vaikutusta",
-      "Vähintään kaksinkertaistaa selviytymismahdollisuudet",
-      "Parantaa vain 1 %",
-      "Huonontaa ennustetta"
-    ],
-    "correctIndex": 1,
-    "explanation": "Maallikkoelvytys vähintään kaksinkertaistaa selviytymisen; varhaisella defibrillaatiolla joka toinen voi toipua neurologisesti ongelmitta."
-  },
-  {
-    "id": "elv-q2",
-    "type": "mcq",
-    "question": "Kammiovärinä jatkuu toistuvista defibrilloinneista huolimatta työikäisellä potilaalla. Mikä on todennäköinen syy ja kohdennettu hoito?",
-    "options": [
-      "Hypoglykemia – glukoosi",
-      "Akuutti sepelvaltimotukos – kuljetus elvyttäen pallolaajennukseen",
-      "Hypotermia – peitteet",
-      "Anafylaksia – adrenaliini lihakseen"
-    ],
-    "correctIndex": 1,
-    "explanation": "Defibrillaatioon reagoimaton tai toistuva VF voi johtua sepelvaltimotukoksesta; valikoiduille potilaille tehdään varjoainekuvaus ja pallolaajennus elvytyksen aikana."
-  },
-  {
     "id": "elv-q3",
     "type": "truefalse",
     "question": "Mekaanisen paineluelvytyslaitteen rutiinikäytön on osoitettu parantavan selviytymistä kaikissa sydänpysähdyksissä.",
@@ -89,56 +63,6 @@
     "explanation": "Käypä hoito 2021: avoin sydänhieronta 15 min kuluessa elottomuuden havaitsemisesta, kokenut tiimi sekä sopivat olosuhteet ja välineet. Tavoitteena ensisijaisesti tamponaation purku."
   },
   {
-    "id": "elv-q8",
-    "type": "mcq",
-    "question": "Milloin aikuiselle annetaan ensimmäinen adrenaliini iskettävässä rytmissä (VF/VT)?",
-    "options": [
-      "Heti ensimmäisen iskun jälkeen",
-      "Kolmannen iskun jälkeen",
-      "Viidennen iskun jälkeen",
-      "Ei lainkaan iskettävissä rytmeissä"
-    ],
-    "correctIndex": 1,
-    "explanation": "Käypä hoito 2021: iskettävissä rytmeissä adrenaliini 1 mg 3. iskun jälkeen (samalla amiodaroni 300 mg), sitten 3–5 min välein. Ei-iskettävissä rytmeissä adrenaliini annetaan heti."
-  },
-  {
-    "id": "elv-q9",
-    "type": "mcq",
-    "question": "Mikä on aikuisen elvytyksen ensisijainen hengitystien hallintaväline Käypä hoidon mukaan?",
-    "options": [
-      "Intubaatioputki aina",
-      "Supraglottinen hengitystieväline",
-      "Pelkkä nieluputki",
-      "Kirurginen hengitystie"
-    ],
-    "correctIndex": 1,
-    "explanation": "Supraglottinen väline on ensisijainen. Intubaatiota käyttää vain, jos onnistuminen on yli 95 % kahdella yrityksellä ja painelutauko alle 5 s."
-  },
-  {
-    "id": "elv-q10",
-    "type": "truefalse",
-    "question": "Pysyvästi alle 1,33 kPa:n EtCO₂ elvytyksen aikana liittyy huonoon ennusteeseen, mutta se ei yksinään riitä perusteeksi lopettaa elvytys.",
-    "options": [
-      "Oikein",
-      "Väärin"
-    ],
-    "correctIndex": 0,
-    "explanation": "Matala tai laskeva EtCO₂ ennustaa huonoa tulosta, mutta EtCO₂, pupillit, kesto, laktaatti ym. eivät yksinään ole lopettamisen perusteita."
-  },
-  {
-    "id": "elv-q11",
-    "type": "mcq",
-    "question": "Mitkä ovat ROSC-vaiheen happeutus- ja verenpainetavoitteet?",
-    "options": [
-      "SpO₂ 100 %, MAP yli 50",
-      "SpO₂ 94–98 %, MAP yli 65 mmHg",
-      "SpO₂ 88–92 %, systolinen yli 140",
-      "SpO₂ yli 90 %, ei verenpainetavoitetta"
-    ],
-    "correctIndex": 1,
-    "explanation": "Happi titrataan SpO₂ 94–98 %:iin, normokapnia (PaCO₂ 4,5–6 kPa), MAP yli 65 mmHg ja kuumeen esto alle 37,8 °C 72 tunnin ajan."
-  },
-  {
     "id": "elv-q12",
     "type": "mcq",
     "question": "Raskaana olevan elvytyksessä hätäsektio pyritään aloittamaan...",
@@ -150,68 +74,5 @@
     ],
     "correctIndex": 1,
     "explanation": "Kohtu painaa alaonttolaskimoa raskausviikolta 20; kiila oikean lantion alle tai kohtu vasemmalle 15–30°. Sektion aloitus 4 min ja synnytys 5 min kuluessa parantaa äidin ja lapsen ennustetta."
-  },
-  {
-    "id": "elvytys-sairaalan-ulkopuolella-q1",
-    "type": "mcq",
-    "question": "Kammiovärinä uusiutuu sen jälkeen, kun sydän käynnistyi 2. iskun jälkeen. Mikä on ensimmäinen toimenpide Akuuttihoito-oppaan mukaan?",
-    "options": [
-      "Adrenaliini 1 mg",
-      "Välitön uusi defibrillaatio ja amiodaroni",
-      "Atropiini 0,5 mg",
-      "Odotetaan 2 minuuttia ja analysoidaan uudelleen"
-    ],
-    "correctIndex": 1,
-    "explanation": "Jos sydän käynnistyy 1. tai 2. iskun jälkeen ja kammiovärinä uusiutuu, ensimmäinen toimenpide on välitön defibrillaatio ja amiodaronin anto – ei adrenaliini."
-  },
-  {
-    "id": "elvytys-sairaalan-ulkopuolella-q2",
-    "type": "truefalse",
-    "question": "Atropiinia suositellaan asystolian hoitoon elvytyksen aikana.",
-    "options": [
-      "Oikein",
-      "Väärin"
-    ],
-    "correctIndex": 1,
-    "explanation": "Väärin. Atropiinista ei ole hyötyä elottomuuden hoidossa, eikä sitä suositella sydänpysähdystilanteessa."
-  },
-  {
-    "id": "elvytys-sairaalan-ulkopuolella-q3",
-    "type": "mcq",
-    "question": "Kuinka kauan aivot sietävät normaalilämpöistä hapenpuutetta vaurioitumatta?",
-    "options": [
-      "Alle 2 minuuttia",
-      "Alle 10 minuuttia",
-      "Noin 30 minuuttia",
-      "Tunnin"
-    ],
-    "correctIndex": 1,
-    "explanation": "Aivot sietävät normotermistä iskemiaa vaurioitumatta alle 10 minuuttia – siksi painelu-puhalluselvytys aloitetaan mahdollisimman nopeasti."
-  },
-  {
-    "id": "elvytys-sairaalan-ulkopuolella-q4",
-    "type": "mcq",
-    "question": "Miksi beetasalpaajaa ei anneta heti verenkierron palattua, vaikka potilas on takykardinen?",
-    "options": [
-      "Beetasalpaaja on vasta-aiheinen kaikilla elvytetyillä",
-      "Elvytyksessä annettu adrenaliini aiheuttaa takykardiaa noin 5 minuutin ajan, ja sen jälkeen ongelma on useammin hypotensio",
-      "Beetasalpaaja laukaisee aina asystolian",
-      "Takykardia on ROSCin jälkeen tavoite"
-    ],
-    "correctIndex": 1,
-    "explanation": "Adrenaliini aiheuttaa takykardiaa ja rytmihäiriöitä noin 5 minuutin ajan. Verenkiertoa lamaavia lääkkeitä ei anneta ennen kuin verenkierron tila on vakiintunut."
-  },
-  {
-    "id": "elvytys-sairaalan-ulkopuolella-q5",
-    "type": "mcq",
-    "question": "Verenkierto palasi, mutta potilas on hypotensiivinen ja bradykardinen. Mikä hoidetaan ensin?",
-    "options": [
-      "Hypertensio",
-      "Bradykardia – atropiini 0,5 mg i.v. toistaen, enintään 3 mg",
-      "Kuume",
-      "Ei mitään, odotetaan sairaalaan"
-    ],
-    "correctIndex": 1,
-    "explanation": "Ensin hoidetaan bradykardia atropiinilla. Ellei vakaudu tai syke on alle 35/min, adrenaliinia 0,05 mg erissä; ellei auta, ulkoinen tahdistus."
   }
 ]
