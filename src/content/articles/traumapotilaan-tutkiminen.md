@@ -91,7 +91,7 @@ Kun peruselintoiminnot on saatu hallintaan, tehdään tarkempi tutkimus, jonka t
 
 ## Lantiovamma (European Trauma Course)
 
-Epävakaa lantiorenkaan murtuma on hengenvaarallinen vamma – välitön uhka on verenvuoto. Lantion **keikuttelua tai jousto­testiä ei enää suositella**, koska se voi irrottaa jo muodostuneen hyytymän ja lisätä vuotoa; suoliluun harjanteet ja häpyluu voi tunnustella varovasti arkuuden toteamiseksi, ja tämä tehdään vain kerran. Etsi myös pehmytkudosvammoja: haavoja suoliluun harjanteilla ja ihonalaisia irtoamia (Morel-Lavallée) ison sarvennoisen ja reiden yläosan seudussa sekä lantion takana. **Lantiovyö asetetaan heti, kun epävakaata lantiomurtumaa epäillään** – sen puuttuessa lakana toimii samoin. Vyö pienentää lantion tilavuutta ja estää liikkeitä käsittelyn ja kuljetuksen aikana, ja vatsa jää vapaaksi toimenpiteille.
+Epävakaa lantiorenkaan murtuma on hengenvaarallinen vamma – välitön uhka on verenvuoto. Lantion **keikuttelua tai jousto­testiä ei enää suositella**, koska se voi irrottaa jo muodostuneen hyytymän ja lisätä vuotoa; suoliluun harjanteet ja häpyluu voi tunnustella varovasti arkuuden toteamiseksi, ja tämä tehdään vain kerran. Etsi myös pehmytkudosvammoja: haavoja suoliluun harjanteilla ja ihonalaisia irtoamia (Morel-Lavallée) ison sarvennoisen ja reiden yläosan seudussa sekä lantion takana. **Lantiovyö asetetaan heti, kun epävakaata lantiomurtumaa epäillään** – sen puuttuessa lakana toimii samoin. Vyö pienentää lantion tilavuutta ja estää liikkeitä käsittelyn ja kuljetuksen aikana, ja vatsa jää vapaaksi toimenpiteille. Murtumatyypit ja vyön asettaminen: [vatsan ja lantion vammat](topic:vatsan-ja-lantion-vammat).
 
 ## Rangan tukeminen – vähemmän on joskus enemmän
 
@@ -100,7 +100,7 @@ Vammapotilaan rutiinimaisen rangan tukemisen hyötyjä ja haittoja on tutkittu p
 - **Lävistävissä vammoissa** rangan tukemista ei suositella.
 - Tylppä vamma ja **kriittinen peruselintoiminnon häiriö**: tue vain sen verran, ettei se haittaa hoitoa tai nopeaa kuljetusta – esimerkiksi kauhapaareilla kaularankaa käsin tukien.
 - **Tajuton vammapotilas** käännetään kaularankaa käsin tukien vasempaan kylkiasentoon (hengitystie pysyy auki, aspiraatioriski pienenee), ellei lääkäriyksikkö varmista hengitystietä intuboimalla.
-- Kiireettömämmissä tilanteissa käytetään **NEXUS-kriteerejä**: keskilinjan arkuus, neurologiset puutosoireet, tajunnan heikkeneminen, päihtymys tai merkittävä muu (huomiota vievä) vamma – yhdenkin täyttyessä koko ranka tuetaan. Päihtynyt tai sekava potilas tuetaan tyhjiöpatjalle suurienergiaisen vamman jälkeen. Ahdistuneelle kovaa kauluria ei aseteta väkisin.
+- Kiireettömämmissä tilanteissa käytetään **NEXUS-kriteerejä**: keskilinjan arkuus, neurologiset puutosoireet, tajunnan heikkeneminen, päihtymys tai merkittävä muu (huomiota vievä) vamma – yhdenkin täyttyessä koko ranka tuetaan. Päihtynyt tai sekava potilas tuetaan tyhjiöpatjalle suurienergiaisen vamman jälkeen. Ahdistuneelle kovaa kauluria ei aseteta väkisin. Ks. myös [selkäranka- ja selkäydinvamma](topic:selkaranka-ja-selkaydinvamma).
 
 ## Kivunhoito ja lämpötalous
 

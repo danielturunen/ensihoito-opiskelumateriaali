@@ -1,0 +1,102 @@
+[
+  {
+    "id": "rintakehavammat-q1",
+    "type": "mcq",
+    "question": "Mikä seuraavista EI kuulu ETC:n kuuteen välittömästi henkeä uhkaavaan rintakehävammaan?",
+    "options": [
+      "Massiivinen veririnta",
+      "Läppärintakehä",
+      "Aortan repeämä",
+      "Sydämen tamponaatio"
+    ],
+    "correctIndex": 2,
+    "explanation": "Kuusi välitöntä uhkaa ovat jänniteilmarinta, avoin ilmarinta, massiivinen veririnta, läppärintakehä, tamponaatio sekä ilmatien tukos tai repeämä. Aortan repeämä kuuluu mahdollisesti henkeä uhkaaviin vammoihin, joita etsitään täydennetyssä tilannearviossa."
+  },
+  {
+    "id": "rintakehavammat-q2",
+    "type": "mcq",
+    "question": "Miten jänniteilmarinta tyypillisesti alkaa spontaanisti hengittävällä potilaalla ETC:n mukaan?",
+    "options": [
+      "Äkillisenä hypotensiona ja henkitorven siirtymänä",
+      "Rintakipuna ja hengenahdistuksena – potilas ei aluksi ole sokissa",
+      "Bradykardiana ja tajunnan laskuna",
+      "Kaulalaskimoiden pullotuksena ilman hengitysoireita"
+    ],
+    "correctIndex": 1,
+    "explanation": "Spontaanisti hengittävällä rintakipu ja hengenahdistus ovat aina läsnä, ja potilas on aluksi hengenahdistunut, ei sokissa. Henkitorven siirtymä ja hypotensio ovat epäluotettavia merkkejä."
+  },
+  {
+    "id": "rintakehavammat-q3",
+    "type": "truefalse",
+    "question": "ETC:n mukaan neulatorakosenteesi on jänniteilmarinnan ensisijainen hoito.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 1,
+    "explanation": "ETC:n ensisijainen menetelmä on lateraalinen torakostomia; neula on viimeinen keino, jos osaavaa lääkäriä tai välineitä ei ole. Suomalaisessa ensihoidossa ensihoitaja tekee neulatorakosenteesin ja lääkäriyksikkö torakostomian – toimi hoito-ohjeen mukaan."
+  },
+  {
+    "id": "rintakehavammat-q4",
+    "type": "mcq",
+    "question": "Avoimen ilmarinnan haavassa on tiivis sidos, ja potilaan hengitys vaikeutuu. Mitä teet ensin?",
+    "options": [
+      "Lisäät toisen tiiviin sidoksen",
+      "Poistat tiiviin sidoksen, jotta ilma pääsee ulos, ja asetat venttiilitarran",
+      "Aloitat ylipaineventilaation",
+      "Annat nesteboluksen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tiivis sidos voi muuttaa avoimen ilmarinnan jänniteilmarinnaksi. Välitön hoito on poistaa tiivis sidos ja asettaa yksisuuntainen venttiilitarra."
+  },
+  {
+    "id": "rintakehavammat-q5",
+    "type": "mcq",
+    "question": "Mikä on massiivisen veririnnan määritelmä?",
+    "options": [
+      "Yli 300 ml verta keuhkopussissa",
+      "Yli 500 ml verta keuhkopussissa",
+      "Yli 1 500 ml verta keuhkopussissa",
+      "Mikä tahansa veririnta ja hypotensio"
+    ],
+    "correctIndex": 2,
+    "explanation": "Massiivinen veririnta on yli 1 500 ml verta keuhkopussissa. Löydöksiä ovat hypovoleeminen sokki, vaimea koputusääni, heikentyneet hengitysäänet ja hypoksia."
+  },
+  {
+    "id": "rintakehavammat-q6",
+    "type": "truefalse",
+    "question": "Beckin triadi (hypotensio, pullottavat kaulalaskimot, vaimeat sydänäänet) näkyy useimmilla tamponaatiopotilailla.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 1,
+    "explanation": "ETC:n mukaan tamponaation kliiniset merkit näkyvät vain noin kolmanneksella vammapotilaista. Ultraääni on luotettavin."
+  },
+  {
+    "id": "rintakehavammat-q7",
+    "type": "mcq",
+    "question": "Miksi läppärintakehäpotilaan nesteytyksen tulee olla varovaista?",
+    "options": [
+      "Neste pahentaa kipua",
+      "Alla on lähes aina keuhkoruhje, ja liika neste altistaa keuhkopöhölle",
+      "Neste lisää paradoksaalista liikettä",
+      "Neste aiheuttaa jänniteilmarinnan"
+    ],
+    "correctIndex": 1,
+    "explanation": "Läppärintakehän alla on lähes aina keuhkoruhje. Siksi nesteytys on riittävä mutta varovainen, ja lisäksi annetaan lämmin kostutettu happi ja tehokas kivunhoito."
+  },
+  {
+    "id": "rintakehavammat-q8",
+    "type": "mcq",
+    "question": "Mitä 1.–3. kylkiluun murtuma kertoo?",
+    "options": [
+      "Lievästä vammasta",
+      "Suuresta energiasta – etsi aortan, ilmatien ja keuhkojen vammaa",
+      "Maksan ja pernan vammasta",
+      "Pelkästä kipuongelmasta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ylimpien kylkiluiden murtuma viittaa suureen energiaan ja aortan vammaan, vaikeaan keuhkoruhjeeseen tai ilmatien repeämään. Alimpien kylkiluiden murtuma lisää maksan ja pernan vamman riskiä."
+  }
+]

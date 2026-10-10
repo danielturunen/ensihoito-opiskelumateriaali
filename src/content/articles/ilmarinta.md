@@ -41,6 +41,9 @@ Lisäksi annetaan runsasvirtauksista happea varaajamaskilla sekä ennen että j�
 
 Jänniteilmarinta on yleisin rintakehävamman saaneilla potilailla, mutta se voi syntyä myös spontaanisti — tyypillisesti nuorilla, hoikilla miehillä (primaarinen ilmarinta) tai keuhkosairautta, erityisesti COPD:ta, sairastavilla potilailla keuhkorakkulan puhjetessa.
 
+> [!info] Lisää rintakehävammoista
+> European Trauma Coursen näkökulma kaikkiin kuuteen välittömästi henkeä uhkaavaan rintakehävammaan – ja lähteiden ero neulan ja torakostomian välillä – on sivulla [rintakehävammat](topic:rintakehavammat).
+
 ## Veririnta (hemothorax)
 
 Veririnnassa verta kertyy pleuratilaan ja painaa keuhkoa kasaan samaan tapaan kuin ilma ilmarinnassa. Tyypillisiä löydöksiä ovat rintakipu, hengenahdistus, toispuoleisesti heikentyneet hengitysäänet sekä hypovolemian (verenvajauksen) merkit, kuten hypotensio ja takykardia — koska veririntaan voi menetyksenä hukkua merkittävä määrä verta.

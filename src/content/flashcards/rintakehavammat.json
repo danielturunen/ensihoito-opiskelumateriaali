@@ -1,0 +1,42 @@
+[
+  {
+    "id": "rintakehavammat-f1",
+    "front": "Mitkä ovat ETC:n kuusi välittömästi henkeä uhkaavaa rintakehävammaa?",
+    "back": "Jänniteilmarinta, avoin ilmarinta, massiivinen veririnta, läppärintakehä, sydämen tamponaatio sekä ilmatien tukos tai repeämä."
+  },
+  {
+    "id": "rintakehavammat-f2",
+    "front": "Miten jänniteilmarinta näkyy ventiloidulla potilaalla?",
+    "back": "Minuuttitilavuus, verenpaine ja SpO₂ laskevat nopeasti; ventilaatiopaineet nousevat, vammapuoli laajenee ja liikkuu vähemmän, ihonalaista ilmaa. Kehittyy nopeasti, koska ylipaine pakottaa ilmaa keuhkopussiin."
+  },
+  {
+    "id": "rintakehavammat-f3",
+    "front": "Mikä on läppärintakehä?",
+    "back": "Vähintään kaksi vierekkäistä kylkiluuta on murtunut vähintään kahdesta kohdasta. Irtonainen segmentti liikkuu hengityksessä paradoksaalisesti; alla on lähes aina keuhkoruhje."
+  },
+  {
+    "id": "rintakehavammat-f4",
+    "front": "Mikä on tamponaation alkuhoito ETC:n mukaan?",
+    "back": "Laskimopaluun tukeminen: jalat koholle (jos mahdollista) ja nopea nesteytys. Lopullinen hoito on kirurginen."
+  },
+  {
+    "id": "rintakehavammat-f5",
+    "front": "Missä on rintakehän \"vaaralaatikko\"?",
+    "back": "Solisluista rintalastan kärkeen ja oikeasta nännistä vasempaan kylkeen, edestä ja takaa. Tämän alueen lävistävä haava herättää tamponaatioepäilyn."
+  },
+  {
+    "id": "rintakehavammat-f6",
+    "front": "Mitkä ovat elvytystorakotomian aiheet ETC:n mukaan?",
+    "back": "Sydänpysähdys lävistävän vamman jälkeen ja elvytystä alle 15 min; tylpän vamman jälkeen alle 10 min; hoitoon reagoimaton hypotensio (systolinen alle 60 mmHg) rintakehävammassa."
+  },
+  {
+    "id": "rintakehavammat-f7",
+    "front": "Mikä voi olla aortan repeämän ainoa vihje alussa?",
+    "back": "Ohimenevä hypotensio, joka korjaantuu hyvin nesteytyksellä, jos aortan ulkokerros pitää. Epäile nopeassa hidastuvuudessa; verenpaine pidetään hallinnassa."
+  },
+  {
+    "id": "rintakehavammat-f8",
+    "front": "Miksi pallean repeämä on tavallisempi vasemmalla?",
+    "back": "Maksa suojaa oikeaa puolta. Kylkikolari aiheuttaa pallean repeämän kolme kertaa useammin kuin nokkakolari."
+  }
+]

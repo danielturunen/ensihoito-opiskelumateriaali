@@ -1,0 +1,89 @@
+[
+  {
+    "id": "vatsan-ja-lantion-vammat-q1",
+    "type": "mcq",
+    "question": "Kuinka suuri osa vatsan ensitutkimuksista voi ETC:n mukaan olla virheellisesti normaaleja?",
+    "options": [
+      "Alle 1 %",
+      "Noin 5 %",
+      "Jopa 20 %",
+      "Yli 50 %"
+    ],
+    "correctIndex": 2,
+    "explanation": "Jopa 20 % vatsan ensitutkimuksista on virheellisesti normaaleja, ja osuus on suurempi nuorilla, jotka kompensoivat hyvin."
+  },
+  {
+    "id": "vatsan-ja-lantion-vammat-q2",
+    "type": "mcq",
+    "question": "Miksi vatsaonteloon vuotava potilas voi olla normosykkinen?",
+    "options": [
+      "Vuoto on aina pieni",
+      "Vatsakalvon ärsytys aiheuttaa vagusärsytystä, joka estää sykkeen nousun",
+      "Kipu hidastaa sykettä",
+      "Potilas on aina beetasalpaajalla"
+    ],
+    "correctIndex": 1,
+    "explanation": "Veren tai suolensisällön ärsyttämä vatsakalvo aiheuttaa vagusärsytystä, joka estää hypovolemian odotetun sykkeennousun."
+  },
+  {
+    "id": "vatsan-ja-lantion-vammat-q3",
+    "type": "truefalse",
+    "question": "Normaali FAST-ultraäänilöydös sulkee pois vatsaontelon vamman.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 1,
+    "explanation": "FAST on toteava, ei poissulkeva tutkimus: se voi ohittaa kiinteän elimen vamman ehjän kapselin sisällä ja vatsakalvon takaiset vammat."
+  },
+  {
+    "id": "vatsan-ja-lantion-vammat-q4",
+    "type": "mcq",
+    "question": "Mikä lantiorengasmurtuma liittyy massiiviseen vuotoon, koska pienen lantion tilavuus kasvaa?",
+    "options": [
+      "Suoliluun siiven reunamurtuma",
+      "Avautuva kirja (voima edestä)",
+      "Sivupuristus ilman siirtymää",
+      "Häntäluun murtuma"
+    ],
+    "correctIndex": 1,
+    "explanation": "Avautuvassa kirjassa lantion puoliskot kiertyvät ulospäin, pienen lantion tilavuus kasvaa ja lukuisat suoniyhteydet repeävät. Pystyleikkaus vuotaa myös massiivisesti."
+  },
+  {
+    "id": "vatsan-ja-lantion-vammat-q5",
+    "type": "mcq",
+    "question": "Mille tasolle lantiovyö asetetaan?",
+    "options": [
+      "Suoliluun harjanteille",
+      "Napan tasolle",
+      "Isojen sarvennoisten (trokantereiden) tasolle",
+      "Reisien puoliväliin"
+    ],
+    "correctIndex": 2,
+    "explanation": "Vyö liu'utetaan polvitaipeiden alta ylös isojen sarvennoisten tasolle ja suljetaan jalat lievässä koukussa ja sisäkierrossa."
+  },
+  {
+    "id": "vatsan-ja-lantion-vammat-q6",
+    "type": "truefalse",
+    "question": "Lantion vakautta testataan keinuttelemalla, jotta murtuma löydetään varmasti.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Keinuttelua ja jousto­testiä ei enää suositella, koska ne voivat irrottaa hyytymän ja lisätä vuotoa. Varovainen tunnustelu tehdään vain kerran."
+  },
+  {
+    "id": "vatsan-ja-lantion-vammat-q7",
+    "type": "mcq",
+    "question": "Kuinka suurella osalla lantiovammapotilaista on aktiivinen valtimovuoto?",
+    "options": [
+      "Alle 10 %:lla",
+      "Noin 30 %:lla",
+      "Noin puolella",
+      "Lähes kaikilla"
+    ],
+    "correctIndex": 0,
+    "explanation": "Aktiivinen valtimovuoto on alle 10 %:lla. Suurin osa vuodosta tulee luunpaloista ja laskimopunoksista – siksi lantiovyö ja lantion liikkeen estäminen ovat tärkeitä."
+  }
+]

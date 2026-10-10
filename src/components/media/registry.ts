@@ -101,6 +101,10 @@ export const widgetMeta: Record<string, WidgetMeta> = {
   orthostatic: { title: 'Ortostaattisen kokeen tulkinta', kind: 'Laskuri' },
   'stroke-window': { title: 'AVH: aikaikkuna ja hoitopaikka', kind: 'Laskuri' },
   reperfusion: { title: 'STEMI: pallolaajennus vai liuotus?', kind: 'Laskuri' },
+  'chest-trauma': { title: 'Rintakehävammat: kuusi välitöntä uhkaa', kind: 'Interaktiivinen kuva' },
+  'cspine-rule': { title: 'Kanadalainen kaularankasääntö', kind: 'Laskuri' },
+  'cord-syndromes': { title: 'Epätäydelliset selkäydinvammat', kind: 'Interaktiivinen kuva' },
+  'pelvis-types': { title: 'Lantiorengasvammat ja lantiovyö', kind: 'Animaatio' },
   'scene-card': { title: 'Kohteessa: tiedä, tutki, osaa', kind: 'Itsearviointi' },
 }
 

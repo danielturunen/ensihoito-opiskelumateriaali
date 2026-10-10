@@ -1,0 +1,89 @@
+[
+  {
+    "id": "selkaranka-ja-selkaydinvamma-q1",
+    "type": "mcq",
+    "question": "Selkäydinvammapotilaan systolinen paine on 68 mmHg ja syke 52/min. Mitä epäilet ensisijaisesti, ja mitä et saa unohtaa?",
+    "options": [
+      "Spinaalisokkia – vuoto on poissuljettu",
+      "Neurogeenistä sokkia – mutta vuotosokki on silti suljettava pois",
+      "Kardiogeenistä sokkia – EKG riittää",
+      "Anafylaksiaa – adrenaliini"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hypotensio ja bradykardia sopivat neurogeeniseen sokkiin (vamma yli T6, bradykardia yli T2). Vuotosokki voi esiintyä samanaikaisesti, ja potilas ei tunne kipua halvaantuneilla alueilla."
+  },
+  {
+    "id": "selkaranka-ja-selkaydinvamma-q2",
+    "type": "truefalse",
+    "question": "Spinaalisokki ja neurogeeninen sokki tarkoittavat samaa asiaa.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Neurogeeninen sokki on hypotensio ja bradykardia sympaattisen hermotuksen menetyksen vuoksi. Spinaalisokki on ohimenevä veltto halvaus ja heijasteiden puuttuminen vamman alapuolella."
+  },
+  {
+    "id": "selkaranka-ja-selkaydinvamma-q3",
+    "type": "mcq",
+    "question": "Sekava, levoton vammapotilas kieltäytyy makaamasta tyhjiöpatjalla. Mitä ETC suosittaa?",
+    "options": [
+      "Sidotaan potilas paikalleen",
+      "Rauhoitellaan ja annetaan liikkua; etsitään levottomuuden syy",
+      "Annetaan heti nukutus",
+      "Pakotetaan pää neutraaliasentoon"
+    ],
+    "correctIndex": 1,
+    "explanation": "Levotonta potilasta ei saa pakottaa tai sitoa. Lihaskouristus saa hereillä olevan pitämään niskansa paikallaan. Etsi syy: kipu, pelko, täysi virtsarakko tai kieliongelma."
+  },
+  {
+    "id": "selkaranka-ja-selkaydinvamma-q4",
+    "type": "mcq",
+    "question": "Kanadalaisen kaularankasäännön mukaan mikä on suuren riskin tekijä, joka johtaa suoraan kuvantamiseen?",
+    "options": [
+      "Yksinkertainen peräänajo",
+      "Niskakipu alkoi viiveellä",
+      "Ikä yli 65 vuotta",
+      "Potilas on kävellyt"
+    ],
+    "correctIndex": 2,
+    "explanation": "Suuren riskin tekijät ovat ikä yli 65 vuotta, vaarallinen vammamekanismi ja raajojen tuntoharhat. Muut vaihtoehdot ovat pienen riskin tekijöitä, jotka sallivat liikkuvuuden testaamisen."
+  },
+  {
+    "id": "selkaranka-ja-selkaydinvamma-q5",
+    "type": "mcq",
+    "question": "Iäkäs kaatui kasvoilleen. Kädet ovat selvästi heikommat kuin jalat. Mitä epäilet?",
+    "options": [
+      "Anteriorista selkäydinoireyhtymää",
+      "Sentraalista selkäydinoireyhtymää",
+      "Brown-Séquardin oireyhtymää",
+      "Spinaalisokkia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sentraalinen selkäydinoireyhtymä seuraa usein kaulan yliojennusta iäkkäällä, jolla on ahdas kaularanka. Kädet ovat heikommat kuin jalat; ennuste on kohtalaisen hyvä."
+  },
+  {
+    "id": "selkaranka-ja-selkaydinvamma-q6",
+    "type": "truefalse",
+    "question": "Selkäydinvammapotilaalle voi antaa glukoosia sisältäviä nesteitä normaalisti.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 1,
+    "explanation": "ETC:n mukaan glukoosia sisältäviä nesteitä ei anneta: glukoosin aineenvaihdunta tuottaa vapaata vettä, joka lisää turvotusta, ja hyperglykemia liittyy huonompaan ennusteeseen."
+  },
+  {
+    "id": "selkaranka-ja-selkaydinvamma-q7",
+    "type": "mcq",
+    "question": "Tajuttoman vammapotilaan rintakehä ja vatsa liikkuvat hengityksessä vastakkain. Mitä tämä viittaa?",
+    "options": [
+      "Läppärintakehään",
+      "Kaularangan selkäydinvammaan – palleahengitys",
+      "Normaaliin hengitykseen",
+      "Hyperventilaatioon"
+    ],
+    "correctIndex": 1,
+    "explanation": "Alemmassa kaulaydinvammassa pallea toimii, mutta kylkiväli- ja vatsalihakset lamaantuvat. Palleahengitys voi olla ensimmäinen vihje kaulaytimen vammasta."
+  }
+]

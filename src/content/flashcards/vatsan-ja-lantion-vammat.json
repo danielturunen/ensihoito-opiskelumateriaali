@@ -1,0 +1,37 @@
+[
+  {
+    "id": "vatsan-ja-lantion-vammat-f1",
+    "front": "Mitkä ovat vatsan rajat edessä ETC:n mukaan?",
+    "back": "Etukainalolinjojen välissä, nänniviivasta nivussiteeseen. Pallea voi uloshengityksessä nousta nänniviivan tasolle."
+  },
+  {
+    "id": "vatsan-ja-lantion-vammat-f2",
+    "front": "Mitkä löydökset viittaavat vatsan vuotoon?",
+    "back": "Turvavyön tai renkaan jäljet, haavat, kivespussin tai häpyhuulten verenpurkauma, kyljen verenpurkauma, arkuus, lihasjännitys ja olkapään kärjen kipu."
+  },
+  {
+    "id": "vatsan-ja-lantion-vammat-f3",
+    "front": "Mitkä ovat lantiorengasmurtuman kolme päätyyppiä?",
+    "back": "Avautuva kirja (voima edestä, rotaatioltaan epävakaa), sivupuristus (voima sivulta, rotaatioltaan epävakaa sisäänpäin) ja pystyleikkaus (putoaminen, sekä rotaatioltaan että pystysuunnassa epävakaa)."
+  },
+  {
+    "id": "vatsan-ja-lantion-vammat-f4",
+    "front": "Milloin lantiovyö asetetaan ETC:n mukaan?",
+    "back": "Heti, kun epävakaata lantiorengasvammaa ja hypotensiota epäillään – ennen kuljetusta. Kuvantamista ei tarvita; ilman vyötä käytetään lakanaa."
+  },
+  {
+    "id": "vatsan-ja-lantion-vammat-f5",
+    "front": "Mitkä ovat lantiovyön \"viisi P:tä\"?",
+    "back": "Pulses (pulssit), pockets (taskut), phones (puhelimet), penis (sukuelimet) ja uudelleen pulses."
+  },
+  {
+    "id": "vatsan-ja-lantion-vammat-f6",
+    "front": "Milloin lantiovyö poistetaan?",
+    "back": "Vasta vuotoriskin mentyä ohi ja erikoislääkärin kanssa sovittuna – ihanteellisesti 6 tunnin ja viimeistään 24 tunnin kuluessa vammasta, elvytystiimin läsnä ollessa."
+  },
+  {
+    "id": "vatsan-ja-lantion-vammat-f7",
+    "front": "Mitkä perineumin löydökset viittaavat lantiovammaan?",
+    "back": "Kivespussin tai häpyhuulten suuri verenpurkauma (lantionpohjan vamma), veri virtsaputken suulla (virtsarakon tai virtsaputken vamma) ja haavat peräaukon tai emättimen ympärillä."
+  }
+]

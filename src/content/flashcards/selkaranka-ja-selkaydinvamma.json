@@ -1,0 +1,42 @@
+[
+  {
+    "id": "selkaranka-ja-selkaydinvamma-f1",
+    "front": "Missä vammatasossa neurogeeninen sokki syntyy, ja milloin mukana on bradykardia?",
+    "back": "T6-tason yläpuolisessa vammassa (sympaattinen tonus katoaa). Yli T2-tason vammassa myös sydämen sympaattinen hermotus katoaa → bradykardia."
+  },
+  {
+    "id": "selkaranka-ja-selkaydinvamma-f2",
+    "front": "Mikä on ETC:n verenpainetavoite selkäydinvammassa?",
+    "back": "Keskiverenpaine yli 90 mmHg; hypotensiojaksoja vältetään, koska ne pahentavat sekundaarivauriota."
+  },
+  {
+    "id": "selkaranka-ja-selkaydinvamma-f3",
+    "front": "Mitkä löydökset viittaavat selkäydinvammaan tajuttomalla?",
+    "back": "Hypotensio ja bradykardia, veltot raajat ilman heijasteita, palleahengitys, puuttuva kipureaktio tai heijasteet tietyn tason alapuolella, priapismi."
+  },
+  {
+    "id": "selkaranka-ja-selkaydinvamma-f4",
+    "front": "Anteriorinen selkäydinoireyhtymä – löydökset ja ennuste?",
+    "back": "Veltto halvaus sekä kivun ja lämmön tunnon menetys vamman alapuolella; asento-, värinä- ja syvä painetunto säilyvät. Huono ennuste: liikekyky palautuu vain noin 10 %:lla."
+  },
+  {
+    "id": "selkaranka-ja-selkaydinvamma-f5",
+    "front": "Brown-Séquardin oireyhtymä – löydökset?",
+    "back": "Selkäytimen toispuoleinen katkeama (yleensä lävistävä vamma). Vamman puolella lihasvoima sekä asento-, värinä- ja syvä painetunto menetetty; vastakkaisella puolella kivun ja lämmön tunto menetetty."
+  },
+  {
+    "id": "selkaranka-ja-selkaydinvamma-f6",
+    "front": "Mitkä tekijät kuuluvat kanadalaisen kaularankasäännön suuren riskin tekijöihin?",
+    "back": "Ikä yli 65 vuotta, vaarallinen vammamekanismi (esim. putoaminen yli 1 m, yli 100 km/h, kierähdys, sinkoutuminen) ja raajojen tuntoharhat."
+  },
+  {
+    "id": "selkaranka-ja-selkaydinvamma-f7",
+    "front": "Miten lapsen kaularanka tuetaan ETC:n mukaan?",
+    "back": "Käsin tuenta (MILS) tai tyhjiölasta tai -patja. Kauluksista ei ole näyttöä lapsilla, eikä tuentaa pakoteta. Alle 8-vuotiaalla vammautuvat useimmiten C1–C3."
+  },
+  {
+    "id": "selkaranka-ja-selkaydinvamma-f8",
+    "front": "Mikä kertoo selkäydinvamman olevan epätäydellinen?",
+    "back": "Ristiluun hermojuurten toiminnan säilyminen: tunto peräaukon ympärillä ja sulkijalihaksen jänteys."
+  }
+]
