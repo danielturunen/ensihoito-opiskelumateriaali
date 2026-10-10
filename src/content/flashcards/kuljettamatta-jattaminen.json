@@ -1,0 +1,27 @@
+[
+  {
+    "id": "kuljettamatta-jattaminen-f1",
+    "front": "X-51 – milloin ei sovi?",
+    "back": "Peruselintoiminnot uhattuina, korjaantumaton hypoglykemia, kohteessa hoitamaton rytmihäiriö, kouristellut eikä orientoitunut, lääkkeille reagoimaton astma tai rintakipu, uusintakäynti saman ongelman vuoksi 24–48 h sisällä."
+  },
+  {
+    "id": "kuljettamatta-jattaminen-f2",
+    "front": "Mitkä vaikuttavat potilaan kykyyn päättää kieltäytymisestä?",
+    "back": "Mielenterveysongelmat (itsetuhoisuus, masennus, psykoosi), päihtymys-, kiihtymys-, myrkytys- ja pelkotilat, muistisairaudet ja kehitysvammat; myös aivovamma, kouristelu ja matala verensokeri."
+  },
+  {
+    "id": "kuljettamatta-jattaminen-f3",
+    "front": "X-44 (muu kuljetus) – edellytykset?",
+    "back": "Ei merkittävää sairautta tai vammaa, ei kivunhoidon tarvetta matkalla, ei odotettavaa heikkenemistä lähitunteina, istuma-asento ei pahenna, pääsee kyytiin omin voimin, ei merkittävää pahoinvointia tai eriteriskiä."
+  },
+  {
+    "id": "kuljettamatta-jattaminen-f4",
+    "front": "X-21 (poliisin valvontaan) – keskeiset edellytykset?",
+    "back": "Tapahtumat selvillä, ei riskioireita eikä merkittävää vammaa, peruselintoiminnot vakaat, heräteltävissä ja päihtymys lievittymässä, päihteet tiedossa, ei raskaana eikä alaikäinen."
+  },
+  {
+    "id": "kuljettamatta-jattaminen-f5",
+    "front": "X-31 – ketkä voivat hyötyä muusta avusta kuin päivystyksestä?",
+    "back": "Palvelutalojen asukkaat, saattohoitopotilaat, hoidon rajauksen piirissä olevat (esim. vaikeasti muistisairaat), lievästi oireilevat sekä sosiaalitoimesta ensisijaisesti hyötyvät."
+  }
+]

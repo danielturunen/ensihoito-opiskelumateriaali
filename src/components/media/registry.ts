@@ -119,6 +119,10 @@ export const widgetMeta: Record<string, WidgetMeta> = {
   'select-all': { title: 'Valitse kaikki oikeat', kind: 'Harjoitus' },
   'als-sim': { title: 'Hoitoelvytyksen päätösharjoitus', kind: 'Harjoitus' },
   'cpr-rate': { title: 'Painelutahti', kind: 'Harjoitus' },
+  'task-codes': { title: 'Tehtäväkoodit ja sivuston aiheet', kind: 'Interaktiivinen kuva' },
+  'go-nogo': { title: 'Päätöksen edellytykset', kind: 'Harjoitus' },
+  'gas-levels': { title: 'Kaasujen vaikutustaso hengitysteissä', kind: 'Interaktiivinen kuva' },
+  'rad-time': { title: 'Säteilyalueen työskentelyaika', kind: 'Laskuri' },
   'scene-card': { title: 'Kohteessa: tiedä, tutki, osaa', kind: 'Itsearviointi' },
 }
 

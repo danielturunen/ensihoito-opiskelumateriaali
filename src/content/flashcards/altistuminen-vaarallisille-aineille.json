@@ -1,0 +1,27 @@
+[
+  {
+    "id": "altistuminen-vaarallisille-aineille-f1",
+    "front": "Altistumisen perusvaiheet?",
+    "back": "Suojaudu ennen potilaskontaktia – poista potilas altisteen vaikutuksesta – dekontaminoi (vaatteet pois, iho puhtaaksi) – hoida elintoiminnot jo puhdistuksen aikana."
+  },
+  {
+    "id": "altistuminen-vaarallisille-aineille-f2",
+    "front": "Kemikaalionnettomuuden vasta-aineet?",
+    "back": "Hermokaasu: atropiini (+ oksiimi). Syanidi ja rikkivety: happi + hydroksokobalamiini. Opioidit: naloksoni. Häkä ja savukaasut: happi + hydroksokobalamiini. Fluorivetyhappo: kalsium."
+  },
+  {
+    "id": "altistuminen-vaarallisille-aineille-f3",
+    "front": "Hengitysteiden kaasuvamman hoito tason mukaan?",
+    "back": "Ylähengitystiet: adrenaliini- ja kortisoni-inhalaatiot, tarvittaessa kortisoni i.v. Keuhkoputket: salbutamoli ja inhaloitava steroidi. Rakkulataso: viivästynyt keuhkopöhö – seuranta."
+  },
+  {
+    "id": "altistuminen-vaarallisille-aineille-f4",
+    "front": "Akuutin säteilysairauden todennäköisyys?",
+    "back": "Äärimmäisen pieni ilman ydinvoimalaonnettomuutta tai ydinräjähdystä. Jos oireita on heti, annos on yleensä yli 3 000 mSv. Psykosomaattisia oireita voi olla ilman altistustakin."
+  },
+  {
+    "id": "altistuminen-vaarallisille-aineille-f5",
+    "front": "Tartuntavaarallinen potilas – suojaus kuljetuksessa?",
+    "back": "Pisaratartunnassa tai hyvin vakavassa taudissa potilaalle nenä-suumaski, henkilöstölle vähintään nenä-suumaski (kirurginen tai FFP) ja käsineet; erityistilanteessa muu suojavaatetus ja ajoneuvon desinfiointi."
+  }
+]

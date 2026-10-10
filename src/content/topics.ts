@@ -10,6 +10,8 @@ export const topics: TopicMeta[] = [
   { id: 'socrates-kivun-arviointi', moduleId: 'perusteet', title: 'SOCRATES – kivun jäsennelty arviointi', summary: 'Muistisääntö kivun systemaattiseen haastatteluun.', readMinutes: 5, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'kivunhoito', moduleId: 'perusteet', title: 'Kivunhoito ensihoidossa', summary: 'Kiputyypit, NRS-arvio, opioidit, esketamiini ja erityisryhmät.', readMinutes: 7, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'konsultaatiomallit', moduleId: 'perusteet', title: 'Konsultaatiomallit ja kliiniset arviointityökalut', summary: 'ISBAR, NEWS2, GCS ja muut kentän pisteytysmenetelmät.', readMinutes: 10, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'ensihoidon-tehtavakoodit', moduleId: 'perusteet', title: 'Ensihoidon tehtäväkoodit', summary: 'Tehtäväsarjat, kiireellisyysvasteet ja hakemisto: mistä kunkin tehtävän hoito löytyy.', readMinutes: 5, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'kuljettamatta-jattaminen', moduleId: 'perusteet', title: 'Kuljettamatta jättäminen ja X-koodit', summary: 'X-51- ja X-81-päätösten edellytykset, kieltäytyminen, muu kuljetus ja toisen yksikön peruuttaminen.', readMinutes: 10, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'patologiakertaus', moduleId: 'perusteet', title: 'Patologiakertaus – lääketieteellinen arviointi', summary: 'Keskeiset patofysiologian periaatteet ensihoitajan näkökulmasta.', readMinutes: 10, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'patofysiologian-perusteet', moduleId: 'perusteet', title: 'Patofysiologian perusteet', summary: 'Solujen sopeutuminen ja vaurio, tulehdus ja puolustus, kudosten paraneminen ja kasvaimet.', readMinutes: 8, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'sokki', moduleId: 'perusteet', title: 'Sokki eli verenkiertovajaus', summary: 'Sokkityypit, tunnistaminen, nestevaste ja yleishoito ensihoidossa.', readMinutes: 10, hasQuiz: true, hasFlashcards: true, hasScenario: false },
@@ -53,6 +55,7 @@ export const topics: TopicMeta[] = [
   // --- vatsa ---
   { id: 'akuutti-vatsa', moduleId: 'vatsa', title: 'Akuutti vatsa ja GI-verenvuoto', summary: 'Vatsakivun mekanismit, hälyttävät oireet ja verenvuodon tunnistus.', readMinutes: 11, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'maksakirroosi', moduleId: 'vatsa', title: 'Maksakirroosi ja sen komplikaatiot', summary: 'Portahypertensio, variksvuoto, askites, bakteeriperitoniitti ja hepaattinen enkefalopatia.', readMinutes: 9, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'verenvuoto-ilman-vammaa', moduleId: 'vatsa', title: 'Verenvuoto ilman vammaa', summary: 'Nenä-, suu-, gynekologiset ja leikkauksen jälkeiset vuodot: vaarallisuuden arvio, nestehoito ja jatkohoito.', readMinutes: 6, hasQuiz: true, hasFlashcards: true, hasScenario: false },
 
   // --- sokeri ---
   { id: 'sokeritasapainon-hairiot', moduleId: 'sokeri', title: 'Hypoglykemia, hyperglykemia ja DKA', summary: 'Sokeritasapainon häiriöiden tunnistaminen ja hoito kentällä.', readMinutes: 10, hasQuiz: true, hasFlashcards: true, hasScenario: false },
@@ -61,6 +64,7 @@ export const topics: TopicMeta[] = [
   // --- myrkytys ---
   { id: 'intoksikaatiopotilaan-hoito', moduleId: 'myrkytys', title: 'Intoksikaatiopotilaan ensihoito', summary: 'Yleisimmät myrkytykset ja niiden tunnistaminen/hoito.', readMinutes: 11, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'alkoholin-vaarinkaytto', moduleId: 'myrkytys', title: 'Alkoholin väärinkäyttö ensihoidossa', summary: 'Akuutti alkoholimyrkytys ja vieroitusoireiden tunnistaminen.', readMinutes: 9, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'mielenterveyden-hairio', moduleId: 'myrkytys', title: 'Mielenterveyden häiriö ja kiihtynyt potilas', summary: 'Kohtaaminen, rauhoittava lääkitys, tahdosta riippumaton hoito (M1) ja virka-apu.', readMinutes: 8, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'case-myrkytys-752', moduleId: 'myrkytys', title: 'Tapaus: Myrkytys', summary: 'Harjoittele myrkytyspotilaan kohtaamista ja hoitolinjauksia.', readMinutes: 10, hasQuiz: false, hasFlashcards: false, hasScenario: true, dispatchCode: '752' },
 
   // --- trauma ---
@@ -86,6 +90,7 @@ export const topics: TopicMeta[] = [
   { id: 'lampohalvaus', moduleId: 'ymparisto', title: 'Lämpöhalvaus (hypertermia)', summary: 'Tunnistaminen, riskitekijät ja välitön viilennys.', readMinutes: 6, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'sukeltajantauti', moduleId: 'ymparisto', title: 'Sukeltajantauti', summary: 'Paineen fysiikka, oireet, riskitekijät ja ensihoito ennen painekammiota.', readMinutes: 8, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'hukkuminen-ja-sahkotapaturma', moduleId: 'ymparisto', title: 'Hukkuminen ja sähkötapaturma', summary: 'Hukkuneen elvytys, kylmän veden suoja, viivästynyt keuhkopöhö ja sähköiskun erityispiirteet.', readMinutes: 6, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'altistuminen-vaarallisille-aineille', moduleId: 'ymparisto', title: 'Altistuminen kemikaalille, säteilylle tai taudinaiheuttajalle', summary: 'Suojautuminen, dekontaminaatio, kemikaalionnettomuuden vasta-aineet, säteily ja tartuntavaarallinen potilas.', readMinutes: 9, hasQuiz: true, hasFlashcards: true, hasScenario: false },
 
   // --- lapset ---
   { id: 'lapsi-ensihoidossa', moduleId: 'lapset', title: 'Lapsi ensihoidossa', summary: 'Lapsen fysiologiset erityispiirteet ja yleisimmät hätätilanteet.', readMinutes: 13, hasQuiz: true, hasFlashcards: true, hasScenario: false },

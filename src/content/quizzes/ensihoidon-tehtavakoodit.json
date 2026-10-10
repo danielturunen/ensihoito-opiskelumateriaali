@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ensihoidon-tehtavakoodit-q1",
+    "type": "mcq",
+    "question": "Kenellä on johtovastuu 2- ja 4-alkuisissa tehtävissä?",
+    "options": [
+      "Terveystoimella",
+      "Pelastustoimella",
+      "Poliisilla",
+      "Hätäkeskuksella"
+    ],
+    "correctIndex": 1,
+    "explanation": "2-sarja (liikenne) ja 4-sarja (onnettomuudet ja vaaralliset tilanteet) ovat pelastusjohtoisia; ensihoito toimii pelastusyksikön alaisuudessa."
+  },
+  {
+    "id": "ensihoidon-tehtavakoodit-q2",
+    "type": "mcq",
+    "question": "Mikä tehtäväkoodi on elvytys?",
+    "options": [
+      "700",
+      "701",
+      "702",
+      "713"
+    ],
+    "correctIndex": 1,
+    "explanation": "701 Peruselintoiminnan häiriö: elvytys – vaste A. 700 on eloton, 702 tajuttomuus ja 713 hirttyminen tai kuristuminen."
+  },
+  {
+    "id": "ensihoidon-tehtavakoodit-q3",
+    "type": "mcq",
+    "question": "Mihin sarjaan puukotus (032) kuuluu?",
+    "options": [
+      "Ensihoitotehtävät",
+      "Pelastusjohtoiset",
+      "Poliisijohtoiset",
+      "X-koodit"
+    ],
+    "correctIndex": 2,
+    "explanation": "0-alkuiset tehtävät ovat poliisijohtoisia, ja ensihoito toimii poliisiyksikön alaisuudessa."
+  },
+  {
+    "id": "ensihoidon-tehtavakoodit-q4",
+    "type": "mcq",
+    "question": "Mikä on tehtäväkoodi 785?",
+    "options": [
+      "Synnytys",
+      "Mielenterveysongelma",
+      "Vatsakipu",
+      "Selkäkipu"
+    ],
+    "correctIndex": 1,
+    "explanation": "785 Sairaus (ilmenee oireena): mielenterveysongelma, vaste C tai D."
+  },
+  {
+    "id": "ensihoidon-tehtavakoodit-q5",
+    "type": "truefalse",
+    "question": "X-koodeja käytetään tehtävissä, jotka eivät johda ensihoidon kuljetukseen tai peruuntuvat.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 0,
+    "explanation": "X-koodeilla kirjataan esim. kohteessa hoidettu, kieltäytynyt, muu kuljetus, kuollut tai peruutus."
+  }
+]

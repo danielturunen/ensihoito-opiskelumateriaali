@@ -1,0 +1,27 @@
+[
+  {
+    "id": "mielenterveyden-hairio-f1",
+    "front": "Tahdosta riippumattoman hoidon edellytykset (täysi-ikäinen)?",
+    "back": "1) Mielisairaus. 2) Hoidon tarve sen vuoksi: hoitamatta jättäminen pahentaisi sairautta tai vaarantaisi vakavasti oman tai muiden terveyden tai turvallisuuden. 3) Muut palvelut eivät sovellu tai riitä. Kaikki samanaikaisesti."
+  },
+  {
+    "id": "mielenterveyden-hairio-f2",
+    "front": "Kiihtyneen potilaan kohtaaminen – oma käytös?",
+    "back": "Rauhallisuus, kädet näkyvillä ja avoimina, rauhallinen ääni, ei äkkinäisiä liikkeitä tai tuijottamista; kerro kuka olet ja mitä teet; kuuntele ja tarjoa vaihtoehtoja."
+  },
+  {
+    "id": "mielenterveyden-hairio-f3",
+    "front": "Kiihtyneen potilaan kohtaaminen – turvallisuus?",
+    "back": "Poistumisreitti itselle ja parille, älä jää yksin, turvaetäisyys, älä käännä selkää, tarkista astaloiksi sopivat esineet."
+  },
+  {
+    "id": "mielenterveyden-hairio-f4",
+    "front": "ICPC-2-koodit mielenterveystehtävissä?",
+    "back": "P29 muu psyykkinen oire, P77 itsemurha tai -yritys (tarkentavana koodina), P98 psykoosi (sisältää päivystyksellisen mielentila-arvion)."
+  },
+  {
+    "id": "mielenterveyden-hairio-f5",
+    "front": "Milloin mielenterveyspotilas voi jäädä kotiin?",
+    "back": "Päivystävän lääkärin tai psykiatrisen tiimin konsultaation perusteella, kun ei ole viitteitä vaarallisuudesta ja potilas ja läheiset ovat yhteistyökykyisiä jatkohoidon järjestämiseen."
+  }
+]

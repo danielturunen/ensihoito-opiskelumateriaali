@@ -1,0 +1,78 @@
+[
+  {
+    "id": "altistuminen-vaarallisille-aineille-q1",
+    "type": "mcq",
+    "question": "Kuinka suuren osan kemikaalikontaminaatiosta vaatteiden riisuminen poistaa?",
+    "options": [
+      "Noin 10 %",
+      "Noin 50 %",
+      "Yli 90 %",
+      "Ei lainkaan"
+    ],
+    "correctIndex": 2,
+    "explanation": "Vaatteiden riisuminen poistaa yli 90 % kontaminaatiosta; pesun tarve riippuu kemikaalista."
+  },
+  {
+    "id": "altistuminen-vaarallisille-aineille-q2",
+    "type": "mcq",
+    "question": "Mikä on kemikaalionnettomuuden vaara-alueen triage?",
+    "options": [
+      "START",
+      "Kävelevät – tajuttomat – kuolleet",
+      "ABCDE",
+      "NEWS2"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vaara-alueella pelastajat eivät kykene monimutkaiseen lajitteluun: kävelevät – tajuttomat – kuolleet."
+  },
+  {
+    "id": "altistuminen-vaarallisille-aineille-q3",
+    "type": "truefalse",
+    "question": "Säteilylle altistunut potilas on vaarallinen auttajille, vaikka hän ei ole kontaminoitunut.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pelkästään säteilylle altistunut ei aiheuta riskiä – suojautumista tarvitaan vasta, jos potilas on kontaminoitunut säteilevällä aineella."
+  },
+  {
+    "id": "altistuminen-vaarallisille-aineille-q4",
+    "type": "mcq",
+    "question": "Mikä on hermokaasun vasta-aine?",
+    "options": [
+      "Naloksoni",
+      "Hydroksokobalamiini",
+      "Atropiini tai atropiini-oksiimi-yhdistelmä",
+      "Kalsium"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hermokaasut (sariini, VX): lisääntynyt syljen- ja kyyneleritys, hikoilu, pienet pupillit, kouristelu – atropiini tai atropiini-oksiimi."
+  },
+  {
+    "id": "altistuminen-vaarallisille-aineille-q5",
+    "type": "mcq",
+    "question": "Miksi keuhkorakkulatasolla vaikuttaville kaasuille (esim. fosgeeni) altistunutta seurataan, vaikka hän olisi oireeton?",
+    "options": [
+      "Kaasu aiheuttaa kuumetta",
+      "Osa kaasuista aiheuttaa keuhkopöhön vasta tuntien kuluttua",
+      "Potilas voi kontaminoida ambulanssin",
+      "Seuranta ei ole tarpeen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Osa kaasuista aiheuttaa keuhkopöhön tuntien viiveellä, joten seuranta on erityisen tärkeää."
+  },
+  {
+    "id": "altistuminen-vaarallisille-aineille-q6",
+    "type": "mcq",
+    "question": "Miten säteilyalueen turvallinen työskentelyaika lasketaan?",
+    "options": [
+      "Annosnopeus × aika",
+      "Hyväksyttävä annos ÷ annosnopeus",
+      "Etäisyys ÷ annos",
+      "20 mSv ÷ 2"
+    ],
+    "correctIndex": 1,
+    "explanation": "Työskentelyaika (h) = hyväksyttävä annos (mSv) ÷ annosnopeus (mSv/h). Hyväksyttävän annoksen määrittää tilannetta johtava viranomainen."
+  }
+]

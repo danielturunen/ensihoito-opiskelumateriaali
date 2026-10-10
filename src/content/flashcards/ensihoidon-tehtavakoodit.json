@@ -1,0 +1,27 @@
+[
+  {
+    "id": "ensihoidon-tehtavakoodit-f1",
+    "front": "Tehtäväsarjat ja johtovastuu?",
+    "back": "7 = ensihoitotehtävät (terveystoimi), 2 = liikenne ja 4 = onnettomuudet (pelastustoimi), 0 = hengen ja terveyden suoja (poliisi), X = ei ensihoidon kuljetusta."
+  },
+  {
+    "id": "ensihoidon-tehtavakoodit-f2",
+    "front": "Mitä vaste tarkoittaa tehtäväkoodilistassa?",
+    "back": "Kiireellisyysluokat A–D, joilla hätäkeskus voi tehtävän hälyttää – esim. 701 elvytys aina A, 785 mielenterveysongelma C tai D."
+  },
+  {
+    "id": "ensihoidon-tehtavakoodit-f3",
+    "front": "Verenvuoto ilman vammaa – koodit?",
+    "back": "761 suusta, 762 gynekologinen tai urologinen, 763 korva tai nenä, 764 säärihaava tai muu."
+  },
+  {
+    "id": "ensihoidon-tehtavakoodit-f4",
+    "front": "Hapenpuute-tehtävät?",
+    "back": "711 ilmatie-este, 713 hirttyminen tai kuristuminen, 714 hukkuminen."
+  },
+  {
+    "id": "ensihoidon-tehtavakoodit-f5",
+    "front": "Mikä koodi 705 on?",
+    "back": "Ensihoito-oppaan koosteessa (2026): muu, äkillisesti heikentynyt yleistila. EH-Infon listassa (2024): rytmihäiriö – tarkista oman alueen luokitus."
+  }
+]

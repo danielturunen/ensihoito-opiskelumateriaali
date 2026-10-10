@@ -59,9 +59,9 @@ export const modules: ModuleMeta[] = [
   },
   {
     id: 'myrkytys',
-    title: 'Myrkytykset ja päihteet',
+    title: 'Myrkytykset, päihteet ja mielenterveys',
     shortTitle: 'Myrkytykset',
-    description: 'Intoksikaatiopotilaan hoito ja alkoholin väärinkäytön ensihoito.',
+    description: 'Intoksikaatiopotilaan hoito, alkoholin väärinkäyttö sekä mielenterveyden häiriöt ja kiihtynyt potilas.',
     icon: 'FlaskConical',
     color: 'emerald',
   },

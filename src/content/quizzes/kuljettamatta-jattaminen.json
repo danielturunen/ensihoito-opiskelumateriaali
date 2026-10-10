@@ -1,0 +1,76 @@
+[
+  {
+    "id": "kuljettamatta-jattaminen-q1",
+    "type": "mcq",
+    "question": "Mitä X-51 tarkoittaa?",
+    "options": [
+      "Potilas kieltäytyi",
+      "Ei tarvetta ensihoitoon tai hoitotoimenpiteisiin",
+      "Potilas hoidettu kohteessa hoito-ohjeella",
+      "Kuljetus toisella yksiköllä"
+    ],
+    "correctIndex": 1,
+    "explanation": "X-51: potilas ei tutkimusten perusteella tarvitse päivystysluonteista tutkimusta tai hoitoa. X-61/62 kieltäytyminen, X-81 hoidettu hoito-ohjeella, X-41 toinen yksikkö."
+  },
+  {
+    "id": "kuljettamatta-jattaminen-q2",
+    "type": "mcq",
+    "question": "Mikä ero on X-81:llä ja X-82:lla?",
+    "options": [
+      "X-81 lapset, X-82 aikuiset",
+      "X-81 hoito lääkärin hoito-ohjeella, X-82 ilman",
+      "X-81 kuollut, X-82 elossa",
+      "Ei eroa"
+    ],
+    "correctIndex": 1,
+    "explanation": "X-81: hoito lääkärin hoito-ohjeen perusteella (KELA korvaa). X-82: ilman hoito-ohjetta (KELA ei korvaa)."
+  },
+  {
+    "id": "kuljettamatta-jattaminen-q3",
+    "type": "truefalse",
+    "question": "Uusi rintakipu, joka on mennyt ohi, sopii X-51-päätökseen, jos EKG on normaali.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ensihoito-oppaan mukaan uusi rintakipu on riskipotilas ja tulisi kuljettaa päivystykseen."
+  },
+  {
+    "id": "kuljettamatta-jattaminen-q4",
+    "type": "mcq",
+    "question": "Kuinka vanhan lapsen kuume (yli 38 °C) arvioidaan aina päivystyksessä?",
+    "options": [
+      "Alle 3 kk",
+      "Alle 1 v",
+      "Alle 3 v",
+      "Alle kouluikäisen"
+    ],
+    "correctIndex": 0,
+    "explanation": "Alle 3 kk ikäisen kuume arvioidaan aina päivystyksessä. Lisäksi alle 1-vuotias, jolla on ollut poissaolokohtaus ja hengitystoiminnan häiriö, kuljetetaan tai ohjataan heti päivystykseen."
+  },
+  {
+    "id": "kuljettamatta-jattaminen-q5",
+    "type": "mcq",
+    "question": "Mitä vaaditaan ennen kuin peruutat kohteeseen hälytetyn toisen yksikön (X-93)?",
+    "options": [
+      "Riittää maallikon kertomus",
+      "Pelastustoimen ensiarvio riittää",
+      "Olet nähnyt potilaan ja tehnyt ensiarvion kaikista potilaista",
+      "Hätäkeskuksen lupa"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ensihoitajan on aina nähtävä potilas ja tehtävä ensiarvio. Korkean riskin vammapotilaalla vaativamman yksikön tuloa ei peruta."
+  },
+  {
+    "id": "kuljettamatta-jattaminen-q6",
+    "type": "truefalse",
+    "question": "Potilas voi kieltäytyä tarjotusta hoidosta, jos hän ymmärtää kieltäytymisen seuraukset.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kieltäytyminen on potilaan subjektiivinen oikeus. Päätöksentekokyky arvioidaan, ja seurausten kertominen ja ymmärtäminen kirjataan."
+  }
+]

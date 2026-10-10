@@ -1,0 +1,27 @@
+[
+  {
+    "id": "verenvuoto-ilman-vammaa-f1",
+    "front": "Vuodolle altistavat perussairaudet?",
+    "back": "Hematologiset syövät, maksasairaudet, alkoholiriippuvuus – ja antikoagulantit (myös uudet valmisteet)."
+  },
+  {
+    "id": "verenvuoto-ilman-vammaa-f2",
+    "front": "Verensiirron kriteerit vuotopotilaalla?",
+    "back": "Hallitsematon jatkuva vuoto ja sokki tai uhkaava sokki; lisäkriteerinä pitkä kuljetusmatka."
+  },
+  {
+    "id": "verenvuoto-ilman-vammaa-f3",
+    "front": "Miten hyytymiskykyä tuetaan?",
+    "back": "Traneksaamihapolla, pitämällä potilas lämpimänä ja tarvittaessa kuivaplasmalla – ja välttämällä liikaa nestettä."
+  },
+  {
+    "id": "verenvuoto-ilman-vammaa-f4",
+    "front": "Mitkä vuodot aiheuttavat harvoin sokkiriskiä?",
+    "back": "Alkuraskauden keskenmeno, runsas kuukautisvuoto ja nenäverenvuoto."
+  },
+  {
+    "id": "verenvuoto-ilman-vammaa-f5",
+    "front": "Verenvuoto ilman vammaa – ajalliset tavoitteet?",
+    "back": "Ensiarvio 5 min, tarkennettu arvio 6–15 min, kuljetuksen aloitus 16–25 min; huonokuntoinen kuljetukseen alle 15 minuutissa."
+  }
+]

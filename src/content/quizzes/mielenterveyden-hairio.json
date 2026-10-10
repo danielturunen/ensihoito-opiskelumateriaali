@@ -1,0 +1,76 @@
+[
+  {
+    "id": "mielenterveyden-hairio-q1",
+    "type": "mcq",
+    "question": "Ketkä mielenterveyspotilaista tarvitsevat erityisesti ensihoitoa Ensihoito-oppaan mukaan?",
+    "options": [
+      "Kaikki masentuneet",
+      "Psykoottiset, itsemurhaa yrittäneet ja huumeita käyttävät",
+      "Vain alaikäiset",
+      "Ahdistuneet"
+    ],
+    "correctIndex": 1,
+    "explanation": "Valtaosa ei tarvitse ensihoitoa; sitä tarvitsevat erityisesti psykoottiset, itsemurhaa yrittäneet ja huumeita käyttävät."
+  },
+  {
+    "id": "mielenterveyden-hairio-q2",
+    "type": "mcq",
+    "question": "Kuinka monen mielenterveyslain edellytyksen on täytyttävä täysi-ikäisen tahdosta riippumattomaan hoitoon toimittamiseksi?",
+    "options": [
+      "Yhden",
+      "Kahden",
+      "Kaikkien kolmen samanaikaisesti",
+      "Lääkäri päättää ilman edellytyksiä"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mielisairaus, hoidon tarve mielisairauden vuoksi ja muiden palvelujen riittämättömyys – kaikki samanaikaisesti."
+  },
+  {
+    "id": "mielenterveyden-hairio-q3",
+    "type": "mcq",
+    "question": "Kuka päättää poliisin virka-avun pyytämisestä tahdonvastaisessa hoitoon toimittamisessa?",
+    "options": [
+      "Ensihoitaja",
+      "Kenttäjohtaja",
+      "Terveyskeskuksen tai sairaanhoitopiirin virkasuhteinen lääkäri",
+      "Omainen"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ensihoitaja konsultoi virkasuhteista lääkäriä, joka tekee päätöksen virka-avun pyytämisestä."
+  },
+  {
+    "id": "mielenterveyden-hairio-q4",
+    "type": "mcq",
+    "question": "Mikä on Ensihoito-oppaan aloituslääke hyvin kiihtyneelle, vaaralliselle potilaalle?",
+    "options": [
+      "Haloperidoli 5 mg i.m.",
+      "Midatsolaami 10 mg bukkaalisesti, i.n. tai i.m.",
+      "Ketamiini 2 mg/kg i.v.",
+      "Diatsepaami 20 mg p.o."
+    ],
+    "correctIndex": 1,
+    "explanation": "Aluksi midatsolaami 10 mg bukkaalisesti, nenään tai lihakseen (iäkkäällä pienempi), jatkossa 2,5–5 mg i.v. Humalatila voimistaa vaikutusta."
+  },
+  {
+    "id": "mielenterveyden-hairio-q5",
+    "type": "truefalse",
+    "question": "Tahdonvastainen lääkitys ensihoidossa edellyttää lääkärin konsultaatiota.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tahdonvastainen lääkitseminen edellyttää huolellista harkintaa ja lääkärin konsultaatiota."
+  },
+  {
+    "id": "mielenterveyden-hairio-q6",
+    "type": "truefalse",
+    "question": "Alaikäisen hoitoon määrääminen edellyttää aina mielisairauden asteista häiriötä.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Alaikäinen voidaan määrätä hoitoon myös vakavan mielenterveyden häiriön vuoksi, jos muut palvelut eivät sovellu."
+  }
+]

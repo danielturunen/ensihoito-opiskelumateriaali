@@ -1,0 +1,65 @@
+[
+  {
+    "id": "verenvuoto-ilman-vammaa-q1",
+    "type": "mcq",
+    "question": "Mihin verenvuodon vaarallisuuden arvio ensisijaisesti perustuu?",
+    "options": [
+      "Arvioituun verimäärään",
+      "Vuodon aiheuttamiin elintoimintahäiriöihin",
+      "Vuodon kestoon",
+      "Potilaan ikään"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tarkkoja määrärajoja on mahdoton antaa – vaarallisuus arvioidaan elintoimintahäiriöistä."
+  },
+  {
+    "id": "verenvuoto-ilman-vammaa-q2",
+    "type": "mcq",
+    "question": "Miten sokissa olevaa vuotopotilasta nesteytetään Ensihoito-oppaan mukaan?",
+    "options": [
+      "2 litraa nopeasti",
+      "250 ml:n kerta-annoksia kristalloidia ja vasteen arvio",
+      "Ei lainkaan",
+      "Vain glukoosia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kontrolloitu nestehoito: 250 ml muutamassa minuutissa, vaste arvioidaan, toistetaan tarvittaessa. Liika neste heikentää hyytymistä ja lisää lämmönhukkaa."
+  },
+  {
+    "id": "verenvuoto-ilman-vammaa-q3",
+    "type": "mcq",
+    "question": "Milloin nenäverenvuotopotilaan voi jättää kotiin?",
+    "options": [
+      "Ei koskaan",
+      "Kun vuoto asettuu eikä ala uudelleen",
+      "Kun potilas käyttää antikoagulanttia",
+      "Kun vuotoa on ollut yli tunnin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nenäverenvuoto pyritään tyrehdyttämään kohteessa; kotiin voi jäädä, jos vuoto asettuu eikä ala uudelleen."
+  },
+  {
+    "id": "verenvuoto-ilman-vammaa-q4",
+    "type": "truefalse",
+    "question": "Nielurisaleikkauksen jälkivuodossa tärkein riski on yleensä hypovolemia.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Jälkivuoto voi näyttää runsaalta, mutta hypovolemia on harvoin ongelma – arvioi veriaspiraation riski."
+  },
+  {
+    "id": "verenvuoto-ilman-vammaa-q5",
+    "type": "mcq",
+    "question": "Mikä on traneksaamihapon annos aikuiselle runsaassa vuodossa (Ensihoito-opas)?",
+    "options": [
+      "0,5 g p.o.",
+      "1 g i.v.",
+      "3 g i.v.",
+      "15 mg/kg i.m."
+    ],
+    "correctIndex": 1,
+    "explanation": "Traneksaamihappoa 1 g i.v. aikuisille, jos vuoto on runsasta."
+  }
+]
