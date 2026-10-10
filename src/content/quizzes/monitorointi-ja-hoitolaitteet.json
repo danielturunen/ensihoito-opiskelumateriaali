@@ -1,0 +1,104 @@
+[
+  {
+    "id": "monitorointi-ja-hoitolaitteet-q1",
+    "type": "truefalse",
+    "question": "Hyvä happisaturaatio (98 %) osoittaa, että potilaan ventilaatio ja kudosten hapensaanti ovat riittävät.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Saturaatio kertoo vain hemoglobiinin happikylläisyyden. Hiilidioksidia voi kertyä puutteellisessa ventilaatiossa, ja kudosten hapensaanti riippuu myös hemoglobiinista ja minuuttitilavuudesta."
+  },
+  {
+    "id": "monitorointi-ja-hoitolaitteet-q2",
+    "type": "mcq",
+    "question": "Miten häkämyrkytys vaikuttaa pulssioksimetrin lukemaan?",
+    "options": [
+      "Lukema on liian matala",
+      "Lukema on harhaanjohtavan korkea",
+      "Mittari ei näytä lukemaa",
+      "Ei vaikutusta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pulssioksimetri ei erota häkää hapesta, joten lukema on liian korkea. Iho voi olla punakka."
+  },
+  {
+    "id": "monitorointi-ja-hoitolaitteet-q3",
+    "type": "mcq",
+    "question": "Intuboidun potilaan EtCO₂ laskee, vaikka ventilaatio on ennallaan. Mikä on mahdollinen syy?",
+    "options": [
+      "Kuume",
+      "Heikentynyt verenkierto, esim. hypovolemia tai massiivinen keuhkoembolia",
+      "Liian harva ventilaatio",
+      "Lisääntynyt aineenvaihdunta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kun minuuttitilavuus pienenee, veri tuo keuhkoihin vähän hiilidioksidia. Tämä yhteys tunnettiin Säämäsen kartoituksessa heikoimmin (13 %)."
+  },
+  {
+    "id": "monitorointi-ja-hoitolaitteet-q4",
+    "type": "mcq",
+    "question": "Mikä EtCO₂ on elvytyksen aikana tyypillinen?",
+    "options": [
+      "Noin 1 kPa – matala",
+      "Yli 4,5 kPa",
+      "Yli 8 kPa",
+      "Arvo vaihtelee ventilaatiotaajuuden mukaan normaalista korkeaan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Painelulla saadaan vain noin neljäsosa normaalista verenkierrosta, joten EtCO₂ on matala ventilaatiotaajuudesta riippumatta. Äkillinen nousu viittaa verenkierron palaamiseen."
+  },
+  {
+    "id": "monitorointi-ja-hoitolaitteet-q5",
+    "type": "mcq",
+    "question": "Mihin kohtaan EKG:tä synkronointimerkin pitää ilmestyä?",
+    "options": [
+      "P-aallon päälle",
+      "R-aallon päälle",
+      "T-aallon päälle",
+      "ST-välille"
+    ],
+    "correctIndex": 1,
+    "explanation": "Isku ajoitetaan depolarisaatioon (QRS). T-aaltoon osuva isku voi laukaista kammiovärinän."
+  },
+  {
+    "id": "monitorointi-ja-hoitolaitteet-q6",
+    "type": "mcq",
+    "question": "Missä rytmissä EI käytetä synkronointia?",
+    "options": [
+      "Eteisvärinä",
+      "Eteislepatus",
+      "Kammiotakykardia, syke tuntuu",
+      "Kammiovärinä"
+    ],
+    "correctIndex": 3,
+    "explanation": "Kammiovärinä on sydänpysähdys – defibrilloidaan ilman synkronointia, joka vain hidastaisi iskua."
+  },
+  {
+    "id": "monitorointi-ja-hoitolaitteet-q7",
+    "type": "mcq",
+    "question": "Miten tarkistat, että paineventtiiliin perustuvan CPAP-maskin happivirtaus riittää?",
+    "options": [
+      "Venttiili pysyy kiinni uloshengityksessä",
+      "Ilmavirtaus tuntuu venttiilin suuaukolta sekä sisään- että uloshengityksen aikana",
+      "Maskin läpät pysyvät kiinni sisäänhengityksessä",
+      "Potilas nyökkää"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kun venttiili on auki molemmissa vaiheissa, ilmatiepaine pysyy venttiilin tasolla koko hengityssyklin ajan."
+  },
+  {
+    "id": "monitorointi-ja-hoitolaitteet-q8",
+    "type": "mcq",
+    "question": "20 litran happipullossa on painetta 120 bar ja CPAP vaatii 15 l/min. Kuinka kauan happi riittää?",
+    "options": [
+      "Noin 40 min",
+      "Noin 80 min",
+      "Noin 160 min",
+      "Noin 8 tuntia"
+    ],
+    "correctIndex": 2,
+    "explanation": "20 l × 120 bar = 2 400 l; 2 400 l ÷ 15 l/min = 160 min eli 2 h 40 min."
+  }
+]

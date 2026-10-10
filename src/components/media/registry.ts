@@ -111,6 +111,12 @@ export const widgetMeta: Record<string, WidgetMeta> = {
   'comm-stairs': { title: 'Viestinnän portaat', kind: 'Animaatio' },
   vortex: { title: 'Vortex: kolme keinoa happeuttaa', kind: 'Harjoitus' },
   compartment: { title: 'Aitio-oireyhtymä säären poikkileikkauksessa', kind: 'Interaktiivinen kuva' },
+  'o2-supply': { title: 'Riittääkö happi? Happipullon laskuri', kind: 'Laskuri' },
+  'o2-delivery': { title: 'Kudosten hapentarjonta', kind: 'Laskuri' },
+  capnometry: { title: 'Kapnometrin tulkinta', kind: 'Interaktiivinen kuva' },
+  'sync-cardioversion': { title: 'Synkronoitu rytminsiirto', kind: 'Harjoitus' },
+  'cpap-valve': { title: 'CPAP-maskin paineventtiili', kind: 'Animaatio' },
+  'select-all': { title: 'Valitse kaikki oikeat', kind: 'Harjoitus' },
   'scene-card': { title: 'Kohteessa: tiedä, tutki, osaa', kind: 'Itsearviointi' },
 }
 

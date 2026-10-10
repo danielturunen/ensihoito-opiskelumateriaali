@@ -1,0 +1,42 @@
+[
+  {
+    "id": "monitorointi-ja-hoitolaitteet-f1",
+    "front": "Mitä pulssioksimetri ei kerro?",
+    "back": "Riittääkö ventilaatio (hiilidioksidia voi kertyä) ja saavatko kudokset happea (riippuu myös hemoglobiinista ja minuuttitilavuudesta)."
+  },
+  {
+    "id": "monitorointi-ja-hoitolaitteet-f2",
+    "front": "Mitkä tekijät heikentävät pulssioksimetrin luotettavuutta?",
+    "back": "Häkä (liian korkea lukema), methemoglobiini, matala Hb, huono ääreisverenkierto, liike, ulkoinen valo, huono ihokontakti, tumma pigmentti, lika, kynsilakka ja rakennekynnet."
+  },
+  {
+    "id": "monitorointi-ja-hoitolaitteet-f3",
+    "front": "Mistä korkea EtCO₂ voi johtua?",
+    "back": "Liian harvasta ventilaatiosta (keuhkorakkulat eivät tuuletu) tai lisääntyneestä aineenvaihdunnasta ja hiilidioksidin tuotannosta."
+  },
+  {
+    "id": "monitorointi-ja-hoitolaitteet-f4",
+    "front": "Mistä matala EtCO₂ voi johtua?",
+    "back": "Yleisimmin hyperventilaatiosta; lisäksi ohivirtauksesta (rikkinäinen kuffi), kuolleen tilan kaasujen sekoittumisesta ja heikosta verenkierrosta (hypovolemia, keuhkoembolia, elvytys)."
+  },
+  {
+    "id": "monitorointi-ja-hoitolaitteet-f5",
+    "front": "Milloin käytetään synkronoitua rytminsiirtoa?",
+    "back": "Nopeassa rytmihäiriössä, joka heikentää verenkiertoa mutta ei ole romahduttanut sitä: eteisvärinä, eteislepatus ja kammiotakykardia, jossa syke tuntuu."
+  },
+  {
+    "id": "monitorointi-ja-hoitolaitteet-f6",
+    "front": "Miten CPAP helpottaa hengitystä?",
+    "back": "Se suurentaa toiminnallista jäännöskapasiteettia, jolloin keuhkoja tarvitsee venyttää vähemmän. Keuhkopöhössä neste painuu takaisin soluvälitilaan; COPD:ssä ja astmassa ahtautuneet hengitystiet aukeavat."
+  },
+  {
+    "id": "monitorointi-ja-hoitolaitteet-f7",
+    "front": "Miten happipullon riittävyys lasketaan?",
+    "back": "Happea (l) = pullon koko (l) × paine (bar). Riittävyys (min) = happea (l) ÷ virtaus (l/min)."
+  },
+  {
+    "id": "monitorointi-ja-hoitolaitteet-f8",
+    "front": "Miten palje puristetaan, kun hengitystiet ovat ahtautuneet?",
+    "back": "Kevyemmin ja pidempään. Voimakas puristus lisää vastusta ja pyörteisyyttä ja ohjaa ilmaa mahalaukkuun (aspiraatioriski)."
+  }
+]

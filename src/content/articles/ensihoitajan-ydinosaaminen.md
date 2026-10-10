@@ -60,6 +60,35 @@ Useat suomalaiset selvitykset hoitotason sairaankuljettajien ja ensihoitajien os
 
 Yhteistä näille havainnoille on, että mekaanisesti opittu toimintaohje hallitaan usein paremmin kuin sen taustalla oleva syy-seuraussuhde — ja juuri tuo syy-seuraussuhteen ymmärrys on se, joka auttaa toimimaan oikein myös silloin, kun tilanne poikkeaa oppikirjaesimerkistä.
 
+Laitteiden tulkintaa voit harjoitella sivulla [monitorointi ja hoitolaitteet](topic:monitorointi-ja-hoitolaitteet) ja oireiden syy-seuraussuhteita [patofysiologian perusteissa](topic:patofysiologian-perusteet).
+
+### Testaa itse: eettis-juridiset tapaukset
+
+Alla olevat tapaukset ovat Säämäsen (2008) osaamiskartoituksesta. Vastausten perustelut ovat lähteen mukaisia. **Lainsäädäntö ja ensihoidon organisointi ovat muuttuneet sen jälkeen** – tarkista ajantasaiset säädökset ja oman alueesi ohjeet.
+
+```media
+{"widget":"select-all","title":"Eettis-juridiset tapaukset","prompt":"Valitse kaikki oikeat toimintatavat.","items":[
+{"q":"25-vuotias rekkakuski valittaa huonoa oloa ja päänsärkyä, vitaalit ovat normaalit. Alkometri näyttää 1 promillea. Hän kertoo juoneensa illalla ja ajaneensa silti neljä tuntia rekkaa. Mitä teet?","options":[
+{"label":"Ilmoitan rattijuopumuksesta poliisille","correct":false,"note":"Lähteen mukaan vaitiolovelvollisuus sitoo – 27 % vastaajista olisi rikkonut sen."},
+{"label":"Kirjaan asian ensihoitokertomukseen","correct":true},
+{"label":"Kerron asiasta vastaanottavalle hoitajalle, jos potilas kuljetetaan","correct":true},
+{"label":"Jätän humalassa ajamisen kirjaamatta, koska se ei kuulu hoitoon","correct":false,"note":"33 % olisi jättänyt asian kirjaamatta ja raportoimatta."}
+],"explain":"Salassapitovelvollisuudesta huolimatta asia kirjataan ja raportoidaan jatkohoitopaikkaan."},
+{"q":"Kohteessa on humalainen pariskunta ja noin 4-vuotias poika. Pojalla on lukuisia mustelmia, ja hän aristaa vasenta kättään. Isä sanoo pojan kaatuneen ja muuttuu aggressiiviseksi. Mitä teet?","options":[
+{"label":"Teen viipymättä ilmoituksen sosiaalihuoltoon – pelkkä epäily riittää","correct":true},
+{"label":"Kun ilmoitus on tehty, lapsi voi jäädä isän kanssa kotiin","correct":false,"note":"Kolmessa vastauksessa lapsi olisi jätetty kahdestaan juopuneen ja väkivaltaisen isän kanssa."},
+{"label":"Kutsun poliisin tai sosiaaliviranomaisen paikalle tai järjestän lapsen hoitoon ennen poistumista","correct":true},
+{"label":"Kerron epäilystä raportissa vastaanottavalle yksikölle","correct":true}
+],"explain":"Lastensuojelulain mukaan pelkkä epäily lapsen pahoinpitelystä velvoittaa terveydenhuollon henkilöstön ilmoittamaan viipymättä. Lapsen turvallisuus on varmistettava ennen poistumista. Ks. lapsi ensihoidossa."},
+{"q":"Lähihoitaja antoi potilaalle vahingossa 10-kertaisen morfiiniannoksen, ja potilas kuoli. Lääkäri oli antanut hoitomääräyksen oikein, ja lähihoitajan parina oli sairaanhoitaja. Kuka joutuu vastuuseen?","options":[
+{"label":"Lääkkeen antanut lähihoitaja","correct":true},
+{"label":"Parina toiminut sairaanhoitaja","correct":true},
+{"label":"Hoitomääräyksen antanut lääkäri","correct":true},
+{"label":"Ei kukaan – kyse oli vahingosta","correct":false}
+],"explain":"Lääkehoitovirheissä vastuussa on usein useampi kuin yksi: virheen tekijä ja ne, jotka vastaavat lääkemääräyksen virheettömästä toteuttamisesta. Kartoituksessa vain kaksi vastaajaa tiesi kaikki osapuolet vastuullisiksi."}
+]}
+```
+
 ## Ammatillisuus, etiikka ja jatkuva kehittyminen
 
 Ydinosaaminen ei ole koskaan "valmis" tila, vaan jatkuvasti ylläpidettävä kokonaisuus. Ensihoitaja ei toimi tyhjiössä: hänen on tunnettava oma roolinsa suhteessa muihin viranomaisiin, tunnistettava oman osaamisensa rajat ja osattava pyytää konsultaatiota tarvittaessa. Eettinen päätöksenteko — esimerkiksi potilaan kieltäytyessä hoidosta hengenvaarallisessa tilanteessa — vaatii kykyä arvioida potilaan päätöksentekokykyä, kunnioittaa itsemääräämisoikeutta ja silti toimia potilaan edun mukaisesti, sekä dokumentoida päätökset ja niiden perustelut huolellisesti. Tämä suojaa sekä potilasta että ensihoitajaa itseään.

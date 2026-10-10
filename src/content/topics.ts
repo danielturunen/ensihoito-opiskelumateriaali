@@ -14,6 +14,7 @@ export const topics: TopicMeta[] = [
   { id: 'patofysiologian-perusteet', moduleId: 'perusteet', title: 'Patofysiologian perusteet', summary: 'Solujen sopeutuminen ja vaurio, tulehdus ja puolustus, kudosten paraneminen ja kasvaimet.', readMinutes: 8, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'sokki', moduleId: 'perusteet', title: 'Sokki eli verenkiertovajaus', summary: 'Sokkityypit, tunnistaminen, nestevaste ja yleishoito ensihoidossa.', readMinutes: 10, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'verikaasuanalyysi', moduleId: 'perusteet', title: 'Verikaasuanalyysin tulkinta', summary: 'Happo-emästasapaino, hapetus ja neljä perushäiriötä – tulkintaharjoitus.', readMinutes: 7, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'monitorointi-ja-hoitolaitteet', moduleId: 'perusteet', title: 'Monitorointi ja hoitolaitteet', summary: 'Pulssioksimetrin ja kapnometrin tulkinta, synkronoitu rytminsiirto, CPAP ja happivarojen laskenta.', readMinutes: 9, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'potilasviestinta-ruotsiksi', moduleId: 'perusteet', title: 'Potilasviestintä ruotsiksi', summary: 'Keskeiset fraasit potilaan kohtaamiseen ruotsiksi.', readMinutes: 6, hasQuiz: false, hasFlashcards: true, hasScenario: false },
 
   // --- hengitys ---
