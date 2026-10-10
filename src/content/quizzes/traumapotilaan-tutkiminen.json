@@ -185,5 +185,31 @@
     ],
     "correctIndex": 1,
     "explanation": "Näiden syiden hoito on ensisijaista paineluun nähden, koska painelulla ei saavuteta riittävää verenkiertoa."
+  },
+  {
+    "id": "traumapotilaan-tutkiminen-q13",
+    "type": "mcq",
+    "question": "Mitä ATMIST-luovutuksen kirjaimet tarkoittavat?",
+    "options": [
+      "Airway, Trauma, Medication, Injury, Status, Time",
+      "Age, Time, Mechanism, Injuries, Signs, Treatment",
+      "Allergy, Time, Medical history, Intake, Signs, Transport",
+      "Age, Triage, Mechanism, Intervention, Shock, Team"
+    ],
+    "correctIndex": 1,
+    "explanation": "ATMIST: ikä, aika, mekanismi, epäillyt vammat, löydökset ja annettu hoito."
+  },
+  {
+    "id": "traumapotilaan-tutkiminen-q14",
+    "type": "mcq",
+    "question": "Mitä 5 sekunnin kierroksella pyritään sulkemaan pois?",
+    "options": [
+      "Murtumat ja haavat",
+      "Täydellinen ilmatietukos, massiivinen ulkoinen vuoto ja traumaattinen sydänpysähdys",
+      "Päihtymys ja hypoglykemia",
+      "Lantiomurtuma ja selkärankavamma"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tiiminjohtaja sulkee arviointikolmion avulla pois täydellisen ilmatietukoksen, massiivisen ulkoisen vuodon ja traumaattisen sydänpysähdyksen ennen raporttia."
   }
 ]

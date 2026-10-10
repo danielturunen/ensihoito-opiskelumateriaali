@@ -1,19 +1,92 @@
 [
-  { "id": "traumapotilaan-tutkiminen-f1", "front": "Mitä cABCDE-kirjainjärjestys tarkoittaa vammapotilaan ensiarviossa?", "back": "c = Catastrophic haemorrhage (massiivinen vuoto), A = Airway, B = Breathing, C = Circulation, D = Disability, E = Exposure & Environment. Edetään suurimman uhan mukaisessa järjestyksessä." },
-  { "id": "traumapotilaan-tutkiminen-f2", "front": "Miksi massiivinen ulkoinen verenvuoto hoidetaan jo ennen hengitystietä?", "back": "Koska hallitsematon, näkyvä suurivuoto voi johtaa kuolemaan muutamassa minuutissa – nopeammin kuin hengitystieongelma yleensä. Se tyrehdytetään siis ensimmäisenä." },
-  { "id": "traumapotilaan-tutkiminen-f3", "front": "Mikä on \"load and go\" -strategia ja milloin sitä käytetään?", "back": "Kohteessa tehdään vain henkeä pelastavat toimet ja potilas kuljetetaan heti eteenpäin. Käytetään esim. hallitsemattomassa sisäisessä vuodossa ja lävistävissä vartalovammoissa." },
-  { "id": "traumapotilaan-tutkiminen-f4", "front": "Mikä on \"stay and play\" -strategia ja milloin sitä käytetään?", "back": "Kohteessa käytetään enemmän aikaa potilaan tilan vakauttamiseen. Käytetään tyypillisesti vaikeasti aivovammautuneella potilaalla sekundaarivaurion ehkäisemiseksi." },
-  { "id": "traumapotilaan-tutkiminen-f5", "front": "Mitkä kolme tekijää muodostavat vammapotilaan kuoleman kolmion?", "back": "Hypotermia, asidoosi ja koagulopatia (hyytymishäiriö) – ne pahentavat toisiaan ja lisäävät kuolleisuutta." },
-  { "id": "traumapotilaan-tutkiminen-f6", "front": "Missä järjestyksessä täydennetyssä tilannearviossa tutkitaan vartalo päästä varpaisiin?", "back": "Rintakehä → vatsa → lantio → pää/kasvot → selkä → raajat." },
-  { "id": "traumapotilaan-tutkiminen-f7", "front": "Miksi lantiota ei saa painella voimakkaasti tutkittaessa?", "back": "Voimakas manipulaatio voi rikkoa jo muodostuneen verihyytymän ja pahentaa lantion sisäistä verenvuotoa merkittävästi." },
-  { "id": "traumapotilaan-tutkiminen-f8", "front": "Mikä on permissiivinen (sallittu) hypotensio?", "back": "Vuotavalla potilaalla, jolla ei ole aivovammaa, tavoitellaan vain riittävää verenpainetta (rannesyke tunnettavissa), ei normaalia painetasoa, jotta vuoto ja hyytymien hajoaminen ei pahenisi." },
-  { "id": "traumapotilaan-tutkiminen-f9", "front": "Miksi aivovamma- ja selkäydinvammapotilaalla tavoitellaan korkeampaa verenpainetta kuin muilla vuotavilla potilailla?", "back": "Riittävän aivo- ja selkäydinverenkierron (perfuusion) turvaamiseksi; matala paine voi pahentaa hermokudoksen hapenpuutetta." },
-  { "id": "traumapotilaan-tutkiminen-f10", "front": "Mitkä ovat tyypillisiä sisäisen verenvuodon piilopaikkoja vammapotilaalla?", "back": "Rintaontelo, vatsaontelo, lantio ja pitkät luut (erityisesti reisiluu) – näihin voi kertyä huomattavia verimääriä ilman ulkoisia merkkejä." },
-  { "id": "traumapotilaan-tutkiminen-f11", "front": "Milloin vammapotilaan hengitystie varmistetaan yleensä intubaatiolla?", "back": "Kun GCS on alle 9 eikä potilas torju kipua tarkoituksenmukaisesti, tai kun hengitystie on muuten uhattuna (esim. kasvo- tai palovamma)." },
-  { "id": "traumapotilaan-tutkiminen-f12", "front": "Mitkä löydökset viittaavat jänniteilmarintaan?", "back": "Toispuolisesti hävinneet hengitysäänet, kaulalaskimoiden pullotus, nopeasti etenevä hengitysvaikeus ja verenkierron romahtaminen. Henkitorven siirtymä on myöhäinen löydös." },
-  { "id": "traumapotilaan-tutkiminen-f13", "front": "Mikä on monivammapotilaan määritelmä?", "back": "Vähintään kahdella kehon alueella merkittävä vamma, ja lisäksi GCS alle 9, systolinen verenpaine alle 90 mmHg tai ikä yli 70 vuotta (Berliinin määritelmä)." },
-  { "id": "traumapotilaan-tutkiminen-f14", "front": "Miksi takykardiaa pidetään vammapotilaalla verenvuodon merkkinä?", "back": "Syketason nousu on usein varhaisin merkki hypovolemiasta – verenpaine laskee vasta myöhään, kun jopa noin 30 % verivolyymista on menetetty." },
-  { "id": "traumapotilaan-tutkiminen-f15", "front": "Mitkä löydökset viittaavat kallonpohjan murtumaan?", "back": "\"Pesukarhusilmät\" (mustelmat silmien ympärillä), Battlen merkki (mustelma korvan takana) sekä veren tai kirkkaan nesteen (likvorin) vuoto korvasta tai nenästä." },
-  { "id": "traumapotilaan-tutkiminen-f16", "front": "Milloin tajuton vammapotilas luokitellaan rankavammaiseksi?", "back": "Aina – tajutonta vammapotilasta on pidettävä rankavammaisena ja ranka tuettava, kunnes vamma on luotettavasti poissuljettu." },
-  { "id": "traumapotilaan-tutkiminen-f17", "front": "Mitä triage tarkoittaa ja milloin sitä tehdään?", "back": "Potilasluokittelua, kun potilaiden määrä ylittää auttajien määrän. Suomessa yleisesti käytössä mSTART-protokolla; tehdään vain välttämättömät henkeä pelastavat toimet." }
+  {
+    "id": "traumapotilaan-tutkiminen-f1",
+    "front": "Mitä cABCDE-kirjainjärjestys tarkoittaa vammapotilaan ensiarviossa?",
+    "back": "c = Catastrophic haemorrhage (massiivinen vuoto), A = Airway, B = Breathing, C = Circulation, D = Disability, E = Exposure & Environment. Edetään suurimman uhan mukaisessa järjestyksessä."
+  },
+  {
+    "id": "traumapotilaan-tutkiminen-f2",
+    "front": "Miksi massiivinen ulkoinen verenvuoto hoidetaan jo ennen hengitystietä?",
+    "back": "Koska hallitsematon, näkyvä suurivuoto voi johtaa kuolemaan muutamassa minuutissa – nopeammin kuin hengitystieongelma yleensä. Se tyrehdytetään siis ensimmäisenä."
+  },
+  {
+    "id": "traumapotilaan-tutkiminen-f3",
+    "front": "Mikä on \"load and go\" -strategia ja milloin sitä käytetään?",
+    "back": "Kohteessa tehdään vain henkeä pelastavat toimet ja potilas kuljetetaan heti eteenpäin. Käytetään esim. hallitsemattomassa sisäisessä vuodossa ja lävistävissä vartalovammoissa."
+  },
+  {
+    "id": "traumapotilaan-tutkiminen-f4",
+    "front": "Mikä on \"stay and play\" -strategia ja milloin sitä käytetään?",
+    "back": "Kohteessa käytetään enemmän aikaa potilaan tilan vakauttamiseen. Käytetään tyypillisesti vaikeasti aivovammautuneella potilaalla sekundaarivaurion ehkäisemiseksi."
+  },
+  {
+    "id": "traumapotilaan-tutkiminen-f5",
+    "front": "Mitkä kolme tekijää muodostavat vammapotilaan kuoleman kolmion?",
+    "back": "Hypotermia, asidoosi ja koagulopatia (hyytymishäiriö) – ne pahentavat toisiaan ja lisäävät kuolleisuutta."
+  },
+  {
+    "id": "traumapotilaan-tutkiminen-f6",
+    "front": "Missä järjestyksessä täydennetyssä tilannearviossa tutkitaan vartalo päästä varpaisiin?",
+    "back": "Rintakehä → vatsa → lantio → pää/kasvot → selkä → raajat."
+  },
+  {
+    "id": "traumapotilaan-tutkiminen-f7",
+    "front": "Miksi lantiota ei saa painella voimakkaasti tutkittaessa?",
+    "back": "Voimakas manipulaatio voi rikkoa jo muodostuneen verihyytymän ja pahentaa lantion sisäistä verenvuotoa merkittävästi."
+  },
+  {
+    "id": "traumapotilaan-tutkiminen-f8",
+    "front": "Mikä on permissiivinen (sallittu) hypotensio?",
+    "back": "Vuotavalla potilaalla, jolla ei ole aivovammaa, tavoitellaan vain riittävää verenpainetta (rannesyke tunnettavissa), ei normaalia painetasoa, jotta vuoto ja hyytymien hajoaminen ei pahenisi."
+  },
+  {
+    "id": "traumapotilaan-tutkiminen-f9",
+    "front": "Miksi aivovamma- ja selkäydinvammapotilaalla tavoitellaan korkeampaa verenpainetta kuin muilla vuotavilla potilailla?",
+    "back": "Riittävän aivo- ja selkäydinverenkierron (perfuusion) turvaamiseksi; matala paine voi pahentaa hermokudoksen hapenpuutetta."
+  },
+  {
+    "id": "traumapotilaan-tutkiminen-f10",
+    "front": "Mitkä ovat tyypillisiä sisäisen verenvuodon piilopaikkoja vammapotilaalla?",
+    "back": "Rintaontelo, vatsaontelo, lantio ja pitkät luut (erityisesti reisiluu) – näihin voi kertyä huomattavia verimääriä ilman ulkoisia merkkejä."
+  },
+  {
+    "id": "traumapotilaan-tutkiminen-f11",
+    "front": "Milloin vammapotilaan hengitystie varmistetaan yleensä intubaatiolla?",
+    "back": "Kun GCS on alle 9 eikä potilas torju kipua tarkoituksenmukaisesti, tai kun hengitystie on muuten uhattuna (esim. kasvo- tai palovamma)."
+  },
+  {
+    "id": "traumapotilaan-tutkiminen-f12",
+    "front": "Mitkä löydökset viittaavat jänniteilmarintaan?",
+    "back": "Toispuolisesti hävinneet hengitysäänet, kaulalaskimoiden pullotus, nopeasti etenevä hengitysvaikeus ja verenkierron romahtaminen. Henkitorven siirtymä on myöhäinen löydös."
+  },
+  {
+    "id": "traumapotilaan-tutkiminen-f13",
+    "front": "Mikä on monivammapotilaan määritelmä?",
+    "back": "Vähintään kahdella kehon alueella merkittävä vamma, ja lisäksi GCS alle 9, systolinen verenpaine alle 90 mmHg tai ikä yli 70 vuotta (Berliinin määritelmä)."
+  },
+  {
+    "id": "traumapotilaan-tutkiminen-f14",
+    "front": "Miksi takykardiaa pidetään vammapotilaalla verenvuodon merkkinä?",
+    "back": "Syketason nousu on usein varhaisin merkki hypovolemiasta – verenpaine laskee vasta myöhään, kun jopa noin 30 % verivolyymista on menetetty."
+  },
+  {
+    "id": "traumapotilaan-tutkiminen-f15",
+    "front": "Mitkä löydökset viittaavat kallonpohjan murtumaan?",
+    "back": "\"Pesukarhusilmät\" (mustelmat silmien ympärillä), Battlen merkki (mustelma korvan takana) sekä veren tai kirkkaan nesteen (likvorin) vuoto korvasta tai nenästä."
+  },
+  {
+    "id": "traumapotilaan-tutkiminen-f16",
+    "front": "Milloin tajuton vammapotilas luokitellaan rankavammaiseksi?",
+    "back": "Aina – tajutonta vammapotilasta on pidettävä rankavammaisena ja ranka tuettava, kunnes vamma on luotettavasti poissuljettu."
+  },
+  {
+    "id": "traumapotilaan-tutkiminen-f17",
+    "front": "Mitä triage tarkoittaa ja milloin sitä tehdään?",
+    "back": "Potilasluokittelua, kun potilaiden määrä ylittää auttajien määrän. Suomessa yleisesti käytössä mSTART-protokolla; tehdään vain välttämättömät henkeä pelastavat toimet."
+  },
+  {
+    "id": "traumapotilaan-tutkiminen-f18",
+    "front": "Mitkä ovat arviointikolmion kolme osaa?",
+    "back": "Vuorovaikutus (rauhallinen – levoton – puuttuu), hengitystyö (normaali – lisääntynyt – puuttuu) ja ihon perfuusio (hyvä – kalpea/kirjava – puuttuu)."
+  }
 ]

@@ -1,7 +1,78 @@
 [
-  {"id":"joht-q1","type":"mcq","question":"Mikä on ensihoidon tilannejohtajan ensimmäinen tehtävä monipotilastilanteessa kohteeseen saavuttuaan?","options":["Aloittaa itse intubaatio","Oma tilannetiedustelu – yksiköt läpi, lyhyet raportit ja resurssien riittävyyden arvio","Soittaa omaisille","Odottaa poliisin saapumista"],"correctIndex":1,"explanation":"Oma tilannetiedustelu täsmentää tilannekuvan, ja lisäresurssit pyydetään mahdollisimman varhain."},
-  {"id":"joht-q2","type":"mcq","question":"Mikä johtamistapa sopii parhaiten monipotilastilanteen alkuvaiheeseen?","options":["Laissez faire","Autoritaarinen – selkeät käskyt monelle yksikölle yhtä aikaa","Ei johtamista lainkaan","Äänestys kohteessa"],"correctIndex":1,"explanation":"Käskytyksen viivästyminen johtaa yksiköiden itsenäiseen toimintaan ilman kokonaiskuvaa. Yhden potilaan tehtävässä demokraattinen johtaminen toimii usein hyvin."},
-  {"id":"joht-q3","type":"mcq","question":"Mitä FOR-DEC-mallin C (Check) tarkoittaa?","options":["Potilaan siirtoa","Toteutuksen arviointia ja potilaan tilan seurantaa – ellei tavoitetta saavuteta, kierros alkaa alusta","Kustannusten tarkistusta","Kalustotarkastusta"],"correctIndex":1,"explanation":"Facts, Options, Risks and benefits, Experience, Decision, Execution, Check."},
-  {"id":"joht-q4","type":"truefalse","question":"\"Annetaan potilaalle adrenaliinia\" on hyvä, selkeä käsky elvytyksessä.","options":["Oikein","Väärin"],"correctIndex":1,"explanation":"Käsky kohdennetaan nimetylle henkilölle ja se sisältää annoksen ja ajankohdan; vastaanottaja toistaa ja kuittaa suorituksen (suljettu viestintäkehä)."},
-  {"id":"joht-q5","type":"mcq","question":"Mitä tarkoittaa \"putkinäkö\" ensihoidon johtamisessa?","options":["Hyvää keskittymistä","Tilannejohtaja keskittyy toimenpiteeseen ja tilannekuva hämärtyy","Kapeaa näkökenttää pimeässä","Laryngoskopian näkymää"],"correctIndex":1,"explanation":"Kaksitahoinen rooli (johtaa ja hoitaa) altistaa putkinäölle ja jäätymiselle. Ääneen ajatteleminen auttaa."}
+  {
+    "id": "joht-q1",
+    "type": "mcq",
+    "question": "Mikä on ensihoidon tilannejohtajan ensimmäinen tehtävä monipotilastilanteessa kohteeseen saavuttuaan?",
+    "options": [
+      "Aloittaa itse intubaatio",
+      "Oma tilannetiedustelu – yksiköt läpi, lyhyet raportit ja resurssien riittävyyden arvio",
+      "Soittaa omaisille",
+      "Odottaa poliisin saapumista"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oma tilannetiedustelu täsmentää tilannekuvan, ja lisäresurssit pyydetään mahdollisimman varhain."
+  },
+  {
+    "id": "joht-q2",
+    "type": "mcq",
+    "question": "Mikä johtamistapa sopii parhaiten monipotilastilanteen alkuvaiheeseen?",
+    "options": [
+      "Laissez faire",
+      "Autoritaarinen – selkeät käskyt monelle yksikölle yhtä aikaa",
+      "Ei johtamista lainkaan",
+      "Äänestys kohteessa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Käskytyksen viivästyminen johtaa yksiköiden itsenäiseen toimintaan ilman kokonaiskuvaa. Yhden potilaan tehtävässä demokraattinen johtaminen toimii usein hyvin."
+  },
+  {
+    "id": "joht-q3",
+    "type": "mcq",
+    "question": "Mitä FOR-DEC-mallin C (Check) tarkoittaa?",
+    "options": [
+      "Potilaan siirtoa",
+      "Toteutuksen arviointia ja potilaan tilan seurantaa – ellei tavoitetta saavuteta, kierros alkaa alusta",
+      "Kustannusten tarkistusta",
+      "Kalustotarkastusta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Facts, Options, Risks and benefits, Experience, Decision, Execution, Check."
+  },
+  {
+    "id": "joht-q4",
+    "type": "truefalse",
+    "question": "\"Annetaan potilaalle adrenaliinia\" on hyvä, selkeä käsky elvytyksessä.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Käsky kohdennetaan nimetylle henkilölle ja se sisältää annoksen ja ajankohdan; vastaanottaja toistaa ja kuittaa suorituksen (suljettu viestintäkehä)."
+  },
+  {
+    "id": "joht-q5",
+    "type": "mcq",
+    "question": "Mitä tarkoittaa \"putkinäkö\" ensihoidon johtamisessa?",
+    "options": [
+      "Hyvää keskittymistä",
+      "Tilannejohtaja keskittyy toimenpiteeseen ja tilannekuva hämärtyy",
+      "Kapeaa näkökenttää pimeässä",
+      "Laryngoskopian näkymää"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kaksitahoinen rooli (johtaa ja hoitaa) altistaa putkinäölle ja jäätymiselle. Ääneen ajatteleminen auttaa."
+  },
+  {
+    "id": "ensihoidon-johtaminen-q1",
+    "type": "mcq",
+    "question": "Mitä PACE-mallin E tarkoittaa?",
+    "options": [
+      "Evaluate – arvioi",
+      "Emergency – hätätoimi: \"SEIS!\"",
+      "Explain – selitä",
+      "Escalate – soita esimiehelle"
+    ],
+    "correctIndex": 1,
+    "explanation": "PACE: Probe (tiedustele), Alert (herättele), Challenge (haasta), Emergency (hätätoimi – lopeta ja hae apua)."
+  }
 ]

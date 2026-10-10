@@ -16,7 +16,10 @@
     "id": "paan-vamma-q2",
     "type": "truefalse",
     "question": "GCS alle 8 on merkki siitä, että potilaan hengitystie on uhattuna ja vaatii erityistä huomiota.",
-    "options": ["Oikein", "Väärin"],
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
     "correctIndex": 0,
     "explanation": "GCS < 8 on yksi vakavan aivovamman hälytysmerkeistä, joka ennakoi hengitystien uhkaa ja usein tarvetta anestesiaintubaatioon."
   },
@@ -37,7 +40,10 @@
     "id": "paan-vamma-q4",
     "type": "truefalse",
     "question": "Aivovamma itsessään aiheuttaa lähtökohtaisesti hypotensiota (matalaa verenpainetta).",
-    "options": ["Oikein", "Väärin"],
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
     "correctIndex": 1,
     "explanation": "Aivovamma ei lähtökohtaisesti aiheuta hypotensiota. Jos aivovammapotilaalla todetaan matala verenpaine, on etsittävä muita vammoja tai verenvuotoa."
   },
@@ -58,7 +64,10 @@
     "id": "paan-vamma-q6",
     "type": "truefalse",
     "question": "Kovakauluria vältetään aivovammapotilaalla, koska se voi nostaa kallonsisäistä painetta kiristämällä kaulalaskimoita.",
-    "options": ["Oikein", "Väärin"],
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
     "correctIndex": 0,
     "explanation": "Kovakauluri voi kiristää kaulalaskimoita ja nostaa kallonsisäistä painetta, joten kaularangan tuenta toteutetaan käsin, sivutuilla tai tyhjiöpatjan reunoilla."
   },
@@ -92,7 +101,10 @@
     "id": "paan-vamma-q9",
     "type": "truefalse",
     "question": "Verensokeri ja ydinlämpötila mitataan aina pään vamman saaneelta potilaalta.",
-    "options": ["Oikein", "Väärin"],
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
     "correctIndex": 0,
     "explanation": "Hypoglykemia voi muistuttaa aivovamman oireita ja hypotermia pahentaa ennustetta, joten molemmat mitataan systemaattisesti."
   },
@@ -100,7 +112,12 @@
     "id": "paan-vamma-q10",
     "type": "mcq",
     "question": "Mikä GCS-liikevasteen pisteytys tarkoittaa, että potilas paikantaa kipua?",
-    "options": ["6 pistettä", "5 pistettä", "3 pistettä", "1 piste"],
+    "options": [
+      "6 pistettä",
+      "5 pistettä",
+      "3 pistettä",
+      "1 piste"
+    ],
     "correctIndex": 1,
     "explanation": "GCS-liikevasteessa 6 pistettä tarkoittaa käskyjen tottelua, 5 pistettä kivun paikantamista, 4 pistettä kivun väistämistä, 3 fleksiota, 2 ekstensiota ja 1 ei vastetta."
   },
@@ -116,5 +133,42 @@
     ],
     "correctIndex": 1,
     "explanation": "Traneksaamihappoa voidaan antaa aikuisen vaikeassa aivovammassa ensihoitolääkärin konsultaation perusteella."
+  },
+  {
+    "id": "paan-vamma-q12",
+    "type": "mcq",
+    "question": "Mistä kohdasta ETC:n mukaan annetaan kipuärsyke GCS-arviossa?",
+    "options": [
+      "Kynsivallista",
+      "Silmäkuopan yläreunan hermosta",
+      "Rintalastasta hieromalla",
+      "Korvanlehdestä"
+    ],
+    "correctIndex": 1,
+    "explanation": "ETC: kipuärsyke annetaan painamalla silmäkuopan yläreunan hermoa – raajaan annettua ärsykettä ei välttämättä tunneta kaularankavammassa."
+  },
+  {
+    "id": "paan-vamma-q13",
+    "type": "truefalse",
+    "question": "Nenä-mahaletku on turvallinen kallonpohjan murtumaa epäiltäessä.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nenä-mahaletku voi työntyä kallon sisään. Tajuttomalla aivovammapotilaalla suun kautta laitettu letku on turvallisempi."
+  },
+  {
+    "id": "paan-vamma-q14",
+    "type": "mcq",
+    "question": "Kuinka suurella osalla väestöstä on ETC:n mukaan synnynnäinen toispuoleinen pupillin laajuus?",
+    "options": [
+      "Alle 1 %:lla",
+      "Noin 10 %:lla",
+      "Noin 30 %:lla",
+      "Puolella"
+    ],
+    "correctIndex": 1,
+    "explanation": "Noin 10 %:lla; valoreaktiot ovat silti normaalit molemmin puolin."
   }
 ]

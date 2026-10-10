@@ -110,6 +110,7 @@ export const widgetMeta: Record<string, WidgetMeta> = {
   'tca-causes': { title: 'Traumaattisen sydänpysähdyksen hoidettavat syyt', kind: 'Interaktiivinen kuva' },
   'comm-stairs': { title: 'Viestinnän portaat', kind: 'Animaatio' },
   vortex: { title: 'Vortex: kolme keinoa happeuttaa', kind: 'Harjoitus' },
+  compartment: { title: 'Aitio-oireyhtymä säären poikkileikkauksessa', kind: 'Interaktiivinen kuva' },
   'scene-card': { title: 'Kohteessa: tiedä, tutki, osaa', kind: 'Itsearviointi' },
 }
 

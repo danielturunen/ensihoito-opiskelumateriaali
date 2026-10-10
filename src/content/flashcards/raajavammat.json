@@ -1,0 +1,37 @@
+[
+  {
+    "id": "raajavammat-f1",
+    "front": "Mitkä ovat ETC:n raajaa uhkaavat pehmytkudosvammat?",
+    "back": "Verisuonivamma kyynärpään tai polven tasolla tai yläpuolella, suuren nivelen (erityisesti polven) sijoiltaanmeno, murskavamma, aitio-oireyhtymä, avomurtuma, murtuma ja hermo- tai verisuonivamma."
+  },
+  {
+    "id": "raajavammat-f2",
+    "front": "Mitkä ovat raajan verenkiertohäiriön 6 P:tä?",
+    "back": "Pain (kipu), pallor (kalpeus), perishing cold (kylmyys), pulselessness (pulssittomuus), paraesthesia (tuntoharhat), paralysis (halvaus)."
+  },
+  {
+    "id": "raajavammat-f3",
+    "front": "Mitkä ovat aitio-oireyhtymän klassiset varhaiset merkit?",
+    "back": "Etenevä kipu, vammaan nähden suhteeton kipu, lihasryhmän erittäin voimakas aristus ja kipu lihaksen passiivisessa venytyksessä. Tuntoharhat ja pulssittomuus ovat myöhäisiä."
+  },
+  {
+    "id": "raajavammat-f4",
+    "front": "Mitkä tekijät voivat aiheuttaa aitio-oireyhtymän?",
+    "back": "Murtumat, murskavamma, reperfuusio virheasennon korjaamisen jälkeen, antikoagulantit ja injektiot (esim. väärin asettunut luunsisäinen neula)."
+  },
+  {
+    "id": "raajavammat-f5",
+    "front": "Miten avomurtuma hoidetaan alkuvaiheessa?",
+    "back": "Vuoto hallintaan ja kivunhoito, valokuva, karkea lika pois, ulostyöntyvä luu reponoidaan, steriili kostea sidos, oikaisu ja tukeminen, antibiootti ja jäykkäkouristussuoja. Haavaa ei tutkita toistuvasti."
+  },
+  {
+    "id": "raajavammat-f6",
+    "front": "Mikä on reisiluun varren murtuman alustava tukeminen?",
+    "back": "Vetolasta (ETC:n taulukko). Myös tyhjiö- tai laatikkolasta tilanteen mukaan."
+  },
+  {
+    "id": "raajavammat-f7",
+    "front": "Mikä on lämpimän iskemian tavoiteaika raajan verisuonivammassa?",
+    "back": "Alle viisi tuntia. Lihas on yhä haavoittuvampi, kun iskemia kestää yli 120 minuuttia."
+  }
+]

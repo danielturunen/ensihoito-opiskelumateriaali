@@ -1,19 +1,92 @@
 [
-  { "id": "palovamma-f1", "front": "Milloin palovamma on laaja aikuisella?", "back": "Kun se kattaa yli 20 % kehon pinta-alasta." },
-  { "id": "palovamma-f2", "front": "Milloin palovamma on laaja lapsella?", "back": "Kun se kattaa yli 10 % kehon pinta-alasta." },
-  { "id": "palovamma-f3", "front": "Mitä kämmensääntö tarkoittaa palovamman arvioinnissa?", "back": "Potilaan oman kämmenen kokoinen alue vastaa noin 1 % kehon pinta-alasta." },
-  { "id": "palovamma-f4", "front": "Mitkä ovat palovamman syvyysasteet?", "back": "I aste: pintaiho (punoitus). II aste: pintaiho + osa verinahkaa (rakkulat). III aste: koko ihon paksuus (valkoinen, kovettunut)." },
-  { "id": "palovamma-f5", "front": "Mitkä löydökset viittaavat uhkaavaan hengitystieongelmaan palovammassa?", "back": "Kasvojen/kaulan syvä palovamma, äänen käheys, stridor, noki limakalvoilla, turvotus kasvoissa/kaulassa." },
-  { "id": "palovamma-f6", "front": "Mikä lääke annetaan vahvassa syanidimyrkytysepäilyssä ja millä annoksella?", "back": "Hydroksokobalamiini (Cyanokit) 5 g i.v." },
-  { "id": "palovamma-f7", "front": "Mistä syanidimyrkytys tyypillisesti syntyy tulipalossa?", "back": "Muovin, silkin ja villan palamisesta." },
-  { "id": "palovamma-f8", "front": "Millä mitataan häkämyrkytyksen vakavuutta kentällä?", "back": "Häkäoksimetrialla (karboksihemoglobiinin mittaus)." },
-  { "id": "palovamma-f9", "front": "Tarvitaanko kuuman veden aiheuttamassa palovammassa yleensä nestehoitoa ensihoidossa?", "back": "Ei yleensä." },
-  { "id": "palovamma-f10", "front": "Mikä on nestehoidon aloitusnopeus aikuiselle vaikeassa palovammassa (ei kuuman veden aiheuttama)?", "back": "Noin 1000 ml/h, kunnes tarkempi annostelu on mahdollista." },
-  { "id": "palovamma-f11", "front": "Mikä on nestehoidon aloitusnopeus lapselle vaikeassa palovammassa?", "back": "20 ml/kg/h." },
-  { "id": "palovamma-f12", "front": "Kuinka pitkään ja millaisella vedellä pientä palovamma-aluetta voi jäähdyttää?", "back": "10–20 minuuttia viileällä (ei jääkylmällä) vedellä." },
-  { "id": "palovamma-f13", "front": "Miksi hyvin laajoja palovammoja ei jäähdytetä?", "back": "Koska se lisää hypotermian riskiä merkittävästi." },
-  { "id": "palovamma-f14", "front": "Mihin huomio kiinnitetään ensisijaisesti korkeajännitepalovammassa?", "back": "Elintoimintahäiriöihin, kuten sydämen rytmihäiriöihin ja sisäisiin vaurioihin." },
-  { "id": "palovamma-f15", "front": "Milloin palovamman kivunhoito aloitetaan?", "back": "Kun kipu (VAS) on yli 4." },
-  { "id": "palovamma-f16", "front": "Mitkä palovammat voidaan ohjata päivystykseen pienestäkin koosta huolimatta?", "back": "Nivelten ja genitaalien alueen palovammat." },
-  { "id": "palovamma-f17", "front": "Miksi hypotermian ehkäisy korostuu palovammapotilaalla?", "back": "Ihon suojafunktion menetys, nestehävikki ja ympäristöaltistus johtavat nopeaan lämmönhukkaan." }
+  {
+    "id": "palovamma-f1",
+    "front": "Milloin palovamma on laaja aikuisella?",
+    "back": "Kun se kattaa yli 20 % kehon pinta-alasta."
+  },
+  {
+    "id": "palovamma-f2",
+    "front": "Milloin palovamma on laaja lapsella?",
+    "back": "Kun se kattaa yli 10 % kehon pinta-alasta."
+  },
+  {
+    "id": "palovamma-f3",
+    "front": "Mitä kämmensääntö tarkoittaa palovamman arvioinnissa?",
+    "back": "Potilaan oman kämmenen kokoinen alue vastaa noin 1 % kehon pinta-alasta."
+  },
+  {
+    "id": "palovamma-f4",
+    "front": "Mitkä ovat palovamman syvyysasteet?",
+    "back": "I aste: pintaiho (punoitus). II aste: pintaiho + osa verinahkaa (rakkulat). III aste: koko ihon paksuus (valkoinen, kovettunut)."
+  },
+  {
+    "id": "palovamma-f5",
+    "front": "Mitkä löydökset viittaavat uhkaavaan hengitystieongelmaan palovammassa?",
+    "back": "Kasvojen/kaulan syvä palovamma, äänen käheys, stridor, noki limakalvoilla, turvotus kasvoissa/kaulassa."
+  },
+  {
+    "id": "palovamma-f6",
+    "front": "Mikä lääke annetaan vahvassa syanidimyrkytysepäilyssä ja millä annoksella?",
+    "back": "Hydroksokobalamiini (Cyanokit) 5 g i.v."
+  },
+  {
+    "id": "palovamma-f7",
+    "front": "Mistä syanidimyrkytys tyypillisesti syntyy tulipalossa?",
+    "back": "Muovin, silkin ja villan palamisesta."
+  },
+  {
+    "id": "palovamma-f8",
+    "front": "Millä mitataan häkämyrkytyksen vakavuutta kentällä?",
+    "back": "Häkäoksimetrialla (karboksihemoglobiinin mittaus)."
+  },
+  {
+    "id": "palovamma-f9",
+    "front": "Tarvitaanko kuuman veden aiheuttamassa palovammassa yleensä nestehoitoa ensihoidossa?",
+    "back": "Ei yleensä."
+  },
+  {
+    "id": "palovamma-f10",
+    "front": "Mikä on nestehoidon aloitusnopeus aikuiselle vaikeassa palovammassa (ei kuuman veden aiheuttama)?",
+    "back": "Noin 1000 ml/h, kunnes tarkempi annostelu on mahdollista."
+  },
+  {
+    "id": "palovamma-f11",
+    "front": "Mikä on nestehoidon aloitusnopeus lapselle vaikeassa palovammassa?",
+    "back": "20 ml/kg/h."
+  },
+  {
+    "id": "palovamma-f12",
+    "front": "Kuinka pitkään ja millaisella vedellä pientä palovamma-aluetta voi jäähdyttää?",
+    "back": "10–20 minuuttia viileällä (ei jääkylmällä) vedellä."
+  },
+  {
+    "id": "palovamma-f13",
+    "front": "Miksi hyvin laajoja palovammoja ei jäähdytetä?",
+    "back": "Koska se lisää hypotermian riskiä merkittävästi."
+  },
+  {
+    "id": "palovamma-f14",
+    "front": "Mihin huomio kiinnitetään ensisijaisesti korkeajännitepalovammassa?",
+    "back": "Elintoimintahäiriöihin, kuten sydämen rytmihäiriöihin ja sisäisiin vaurioihin."
+  },
+  {
+    "id": "palovamma-f15",
+    "front": "Milloin palovamman kivunhoito aloitetaan?",
+    "back": "Kun kipu (VAS) on yli 4."
+  },
+  {
+    "id": "palovamma-f16",
+    "front": "Mitkä palovammat voidaan ohjata päivystykseen pienestäkin koosta huolimatta?",
+    "back": "Nivelten ja genitaalien alueen palovammat."
+  },
+  {
+    "id": "palovamma-f17",
+    "front": "Miksi hypotermian ehkäisy korostuu palovammapotilaalla?",
+    "back": "Ihon suojafunktion menetys, nestehävikki ja ympäristöaltistus johtavat nopeaan lämmönhukkaan."
+  },
+  {
+    "id": "palovamma-f18",
+    "front": "Milloin palovamma on ETC:n mukaan monimutkainen?",
+    "back": "Alle 5- tai yli 60-vuotias; aikuisella yli 10 %, lapsella yli 5 %; kasvot, kädet, välilihan alue, jalkaterät tai taive; ympärysmittainen syvä palovamma; hengitystiepalovamma; korkeapainehöyry, suurjännite tai kemikaali; pahoinpitelyepäily; merkittävät perussairaudet tai liitännäisvammat."
+  }
 ]

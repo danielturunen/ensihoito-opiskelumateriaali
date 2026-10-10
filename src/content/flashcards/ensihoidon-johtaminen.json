@@ -1,7 +1,32 @@
 [
-  {"id":"joht-f1","front":"Johtamisprosessin vaiheet","back":"Tilannearvio → päätös → käsky → valvonta → (jatkuva kehä)."},
-  {"id":"joht-f2","front":"FOR-DEC","back":"Facts, Options, Risks and benefits, Experience, Decision, Execution, Check."},
-  {"id":"joht-f3","front":"Lewinin johtamistavat","back":"Autoritaarinen (monipotilastilanne), demokraattinen (yhden potilaan tehtävä), laissez faire (kokenut tiimi / valvottu harjoittelija)."},
-  {"id":"joht-f4","front":"Suljettu viestintäkehä","back":"Käsky nimetylle henkilölle (\"Markku, 1 mg adrenaliinia seuraavassa rytmintarkistuksessa\") → toisto → suorituksen kuittaus → johtaja kuittaa."},
-  {"id":"joht-f5","front":"Monipotilastilanne","back":"Vähintään 3 potilasta, suuronnettomuuden kriteerit eivät täyty. Tilannejohtajan 1. tehtävä: oma tilannetiedustelu ja resurssien riittävyys."}
+  {
+    "id": "joht-f1",
+    "front": "Johtamisprosessin vaiheet",
+    "back": "Tilannearvio → päätös → käsky → valvonta → (jatkuva kehä)."
+  },
+  {
+    "id": "joht-f2",
+    "front": "FOR-DEC",
+    "back": "Facts, Options, Risks and benefits, Experience, Decision, Execution, Check."
+  },
+  {
+    "id": "joht-f3",
+    "front": "Lewinin johtamistavat",
+    "back": "Autoritaarinen (monipotilastilanne), demokraattinen (yhden potilaan tehtävä), laissez faire (kokenut tiimi / valvottu harjoittelija)."
+  },
+  {
+    "id": "joht-f4",
+    "front": "Suljettu viestintäkehä",
+    "back": "Käsky nimetylle henkilölle (\"Markku, 1 mg adrenaliinia seuraavassa rytmintarkistuksessa\") → toisto → suorituksen kuittaus → johtaja kuittaa."
+  },
+  {
+    "id": "joht-f5",
+    "front": "Monipotilastilanne",
+    "back": "Vähintään 3 potilasta, suuronnettomuuden kriteerit eivät täyty. Tilannejohtajan 1. tehtävä: oma tilannetiedustelu ja resurssien riittävyys."
+  },
+  {
+    "id": "ensihoidon-johtaminen-f1",
+    "front": "Mitkä ovat viestinnän portaat (ETC)?",
+    "back": "Tarkoitettu ei ole sanottu, sanottu ei ole kuultu, kuultu ei ole ymmärretty, ymmärretty ei ole tehty. Silmukka suljetaan: nimi ja katsekontakti, lyhyet faktat, vastaanottaja toistaa ja raportoi tehdyn."
+  }
 ]

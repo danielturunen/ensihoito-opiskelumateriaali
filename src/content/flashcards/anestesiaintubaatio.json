@@ -1,11 +1,52 @@
 [
-  {"id":"ai-f1","front":"Anestesiaintubaation suurin haaste ensihoidossa","back":"Elintoimintojen vakaus: induktio ja ventilaatio horjuttavat verenkiertoa, ja potilas on altis hypoksialle. Hengitystien varmistaminen itsessään onnistuu harvoin huonosti."},
-  {"id":"ai-f2","front":"Esihappeutuksen periaatteet","back":"Vähintään 3 min 100 % happi; NIV tai palje + PEEP-venttiili + varaajapussi 15 l/min; pääpuoli koholle; happiviikset 15 l/min apnean ajan; neurokriittistä ventiloidaan."},
-  {"id":"ai-f3","front":"Ensimmäisen yrityksen optimointi","back":"Videolaryngoskooppi, bougie, lihasrelaksantti, asento (korvakäytävä rintalastan tasolle), imu (SALAD), avustajan kanssa harjoiteltu protokolla."},
-  {"id":"ai-f4","front":"Induktiolääkkeet (lääkärihelikopterin SOP)","back":"Esketamiini 1 mg/kg (sokkiselle vähemmän) tai propofoli 1–2 mg/kg; neurokriittiselle fentanyyli n. 3 µg/kg; rokuroni 1 mg/kg."},
-  {"id":"ai-f5","front":"Epäonnistuneen intubaation suunnitelma","back":"Enintään 2 yritystä → i-gel → naamari-palje tai NIV → kirurginen hengitystie."},
-  {"id":"ai-f6","front":"Intubaatioputki aikuiselle","back":"Nainen 7 mm, syvyys n. 20 cm; mies 8 mm, syvyys n. 22 cm. Paikka aina kapnografialla, kiinnitys laskimopaluuta estämättä."},
-  {"id":"ai-f7","front":"Ensihoitajan roolit anestesiaintubaatiossa","back":"Ensihoitaja 1: lääkkeet ja monitori (saturaatiomuutokset, vasopressori). Ensihoitaja 2: lisäkädet ja imu. Ensihoitaja 3: kaularangan tuenta."},
-  {"id":"ai-f-moans","front":"Vaikean maskiventilaation riskit (MOANS)","back":"Mask seal (parta, veri, kasvovamma), Obesity/Obstruction (myös loppuraskaus), Age, No teeth, Stiff lungs."},
-  {"id":"ai-f-lull","front":"Intubaation jälkeinen \"suvanto\"","back":"Riskit: putki irtoaa, monitorointi katkeaa, sedaatio unohtuu, hypotensio, jänniteilmarinta. Yksi pitää putkesta kiinni jokaisen siirron ajan."}
+  {
+    "id": "ai-f1",
+    "front": "Anestesiaintubaation suurin haaste ensihoidossa",
+    "back": "Elintoimintojen vakaus: induktio ja ventilaatio horjuttavat verenkiertoa, ja potilas on altis hypoksialle. Hengitystien varmistaminen itsessään onnistuu harvoin huonosti."
+  },
+  {
+    "id": "ai-f2",
+    "front": "Esihappeutuksen periaatteet",
+    "back": "Vähintään 3 min 100 % happi; NIV tai palje + PEEP-venttiili + varaajapussi 15 l/min; pääpuoli koholle; happiviikset 15 l/min apnean ajan; neurokriittistä ventiloidaan."
+  },
+  {
+    "id": "ai-f3",
+    "front": "Ensimmäisen yrityksen optimointi",
+    "back": "Videolaryngoskooppi, bougie, lihasrelaksantti, asento (korvakäytävä rintalastan tasolle), imu (SALAD), avustajan kanssa harjoiteltu protokolla."
+  },
+  {
+    "id": "ai-f4",
+    "front": "Induktiolääkkeet (lääkärihelikopterin SOP)",
+    "back": "Esketamiini 1 mg/kg (sokkiselle vähemmän) tai propofoli 1–2 mg/kg; neurokriittiselle fentanyyli n. 3 µg/kg; rokuroni 1 mg/kg."
+  },
+  {
+    "id": "ai-f5",
+    "front": "Epäonnistuneen intubaation suunnitelma",
+    "back": "Enintään 2 yritystä → i-gel → naamari-palje tai NIV → kirurginen hengitystie."
+  },
+  {
+    "id": "ai-f6",
+    "front": "Intubaatioputki aikuiselle",
+    "back": "Nainen 7 mm, syvyys n. 20 cm; mies 8 mm, syvyys n. 22 cm. Paikka aina kapnografialla, kiinnitys laskimopaluuta estämättä."
+  },
+  {
+    "id": "ai-f7",
+    "front": "Ensihoitajan roolit anestesiaintubaatiossa",
+    "back": "Ensihoitaja 1: lääkkeet ja monitori (saturaatiomuutokset, vasopressori). Ensihoitaja 2: lisäkädet ja imu. Ensihoitaja 3: kaularangan tuenta."
+  },
+  {
+    "id": "ai-f-moans",
+    "front": "Vaikean maskiventilaation riskit (MOANS)",
+    "back": "Mask seal (parta, veri, kasvovamma), Obesity/Obstruction (myös loppuraskaus), Age, No teeth, Stiff lungs."
+  },
+  {
+    "id": "ai-f-lull",
+    "front": "Intubaation jälkeinen \"suvanto\"",
+    "back": "Riskit: putki irtoaa, monitorointi katkeaa, sedaatio unohtuu, hypotensio, jänniteilmarinta. Yksi pitää putkesta kiinni jokaisen siirron ajan."
+  },
+  {
+    "id": "anestesiaintubaatio-f1",
+    "front": "Mikä on nenänieluputken tärkein vasta-aihe vammapotilaalla?",
+    "back": "Tiedetty tai epäilty kallonpohjan murtuma. Putki viedään nenän pohjaa pitkin, ei ylöspäin."
+  }
 ]

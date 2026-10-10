@@ -1,9 +1,141 @@
 [
-  {"id":"mv-q1","type":"mcq","question":"Mitkä kolme tekijää pahentavat vamman aiheuttamaa hyytymishäiriötä massiivisessa vuodossa?","options":["Hypertermia, alkaloosi ja kuivuminen","Hypotermia, asidoosi ja hyytymistekijöiden laimeneminen","Hyperglykemia, kipu ja ahdistus","Takykardia, hypertensio ja hyperventilaatio"],"correctIndex":1,"explanation":"Hypotermia, asidoosi ja nestehoidon aiheuttama laimeneminen pahentavat vamman aiheuttamaa hyytymishäiriötä."},
-  {"id":"mv-q2","type":"mcq","question":"Lävistävän vamman potilaan systolinen verenpaine on 85 mmHg ja hän on lievästi hypovoleeminen. Mikä on oikea nestehoidon linja?","options":["Nopea 2000 ml kirkasta nestettä","Lievää hypovolemiaa ja yli 80 mmHg:n painetta ei korjata","Noradrenaliini-infuusio heti","Nesteitä kunnes RR on yli 140"],"correctIndex":1,"explanation":"Lävistävässä vammassa yli 80 mmHg:n systolista painetta ei nosteta, jotta hypotermiaa ja laimenemista ei syvennetä eikä vuoto pahene."},
-  {"id":"mv-q3","type":"mcq","question":"Milloin traneksaamihapon hyöty vammapotilaalla on suurin?","options":["6–12 tuntia vammasta","Ensimmäisen tunnin aikana (hyöty kun alle 3 h)","Vasta sairaalassa leikkauksen jälkeen","Ei koskaan"],"correctIndex":1,"explanation":"CRASH-2-tutkimuksen perusteella hyöty saavutetaan, kun lääke annetaan 3 tunnin kuluessa, ja suurin hyöty ensimmäisen tunnin aikana."},
-  {"id":"mv-q4","type":"mcq","question":"Mikä verivalmiste EI sovi ensihoitoon aikaviiveiden vuoksi?","options":["ORh-negatiiviset punasolut","Jääplasma","Traneksaamihappo","Kristalloidi"],"correctIndex":1,"explanation":"Punasolutiivisteitä voidaan viedä kentälle, mutta jääplasma ei aikaviiveiden vuoksi sovi ensihoitoon."},
-  {"id":"mv-q5","type":"truefalse","question":"Ennen punasolujen antoa kentällä potilaasta otetaan verinäyte veriryhmän ja vasta-aineiden määritystä varten.","options":["Oikein","Väärin"],"correctIndex":0,"explanation":"Siirron jälkeen otettu näyte olisi sekoittunut luovuttajan vereen – näyte otetaan ennen siirtoa ja toimitetaan sairaalaan."},
-  {"id":"mv-q6","type":"mcq","question":"Miksi lantiomurtumapotilaan kääntelyä vähennetään?","options":["Säästetään aikaa","Estetään hyytymien irtoaminen ja uusi vuoto","Kipu ei ole merkityksellinen","Selkälauta on aina vasta-aiheinen"],"correctIndex":1,"explanation":"Varovainen käsittely (esim. kauhapaarit) vähentää rotaatioliikettä ja hyytymien irtoamista."},
-  {"id":"mvv-q-kuivaplasma","type":"mcq","question":"Mitä verituotteita Suomessa tyypillisimmin annetaan kentällä massiivisessa vuodossa?","options":["Jääplasmaa ja trombosyyttejä","O RhD-negatiivisia punasoluja ja kuivaplasmaa","Vain albumiinia","Kokoverta kaikille"],"correctIndex":1,"explanation":"Lisäksi annetaan traneksaamihappoa ja kalsiumia. Punasolut ja plasma ovat tehokkain yhdistelmä, kun kuljetusmatka on pitkä (Björkman ym. 2023)."}
+  {
+    "id": "mv-q1",
+    "type": "mcq",
+    "question": "Mitkä kolme tekijää pahentavat vamman aiheuttamaa hyytymishäiriötä massiivisessa vuodossa?",
+    "options": [
+      "Hypertermia, alkaloosi ja kuivuminen",
+      "Hypotermia, asidoosi ja hyytymistekijöiden laimeneminen",
+      "Hyperglykemia, kipu ja ahdistus",
+      "Takykardia, hypertensio ja hyperventilaatio"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hypotermia, asidoosi ja nestehoidon aiheuttama laimeneminen pahentavat vamman aiheuttamaa hyytymishäiriötä."
+  },
+  {
+    "id": "mv-q2",
+    "type": "mcq",
+    "question": "Lävistävän vamman potilaan systolinen verenpaine on 85 mmHg ja hän on lievästi hypovoleeminen. Mikä on oikea nestehoidon linja?",
+    "options": [
+      "Nopea 2000 ml kirkasta nestettä",
+      "Lievää hypovolemiaa ja yli 80 mmHg:n painetta ei korjata",
+      "Noradrenaliini-infuusio heti",
+      "Nesteitä kunnes RR on yli 140"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lävistävässä vammassa yli 80 mmHg:n systolista painetta ei nosteta, jotta hypotermiaa ja laimenemista ei syvennetä eikä vuoto pahene."
+  },
+  {
+    "id": "mv-q3",
+    "type": "mcq",
+    "question": "Milloin traneksaamihapon hyöty vammapotilaalla on suurin?",
+    "options": [
+      "6–12 tuntia vammasta",
+      "Ensimmäisen tunnin aikana (hyöty kun alle 3 h)",
+      "Vasta sairaalassa leikkauksen jälkeen",
+      "Ei koskaan"
+    ],
+    "correctIndex": 1,
+    "explanation": "CRASH-2-tutkimuksen perusteella hyöty saavutetaan, kun lääke annetaan 3 tunnin kuluessa, ja suurin hyöty ensimmäisen tunnin aikana."
+  },
+  {
+    "id": "mv-q4",
+    "type": "mcq",
+    "question": "Mikä verivalmiste EI sovi ensihoitoon aikaviiveiden vuoksi?",
+    "options": [
+      "ORh-negatiiviset punasolut",
+      "Jääplasma",
+      "Traneksaamihappo",
+      "Kristalloidi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Punasolutiivisteitä voidaan viedä kentälle, mutta jääplasma ei aikaviiveiden vuoksi sovi ensihoitoon."
+  },
+  {
+    "id": "mv-q5",
+    "type": "truefalse",
+    "question": "Ennen punasolujen antoa kentällä potilaasta otetaan verinäyte veriryhmän ja vasta-aineiden määritystä varten.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Siirron jälkeen otettu näyte olisi sekoittunut luovuttajan vereen – näyte otetaan ennen siirtoa ja toimitetaan sairaalaan."
+  },
+  {
+    "id": "mv-q6",
+    "type": "mcq",
+    "question": "Miksi lantiomurtumapotilaan kääntelyä vähennetään?",
+    "options": [
+      "Säästetään aikaa",
+      "Estetään hyytymien irtoaminen ja uusi vuoto",
+      "Kipu ei ole merkityksellinen",
+      "Selkälauta on aina vasta-aiheinen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Varovainen käsittely (esim. kauhapaarit) vähentää rotaatioliikettä ja hyytymien irtoamista."
+  },
+  {
+    "id": "mvv-q-kuivaplasma",
+    "type": "mcq",
+    "question": "Mitä verituotteita Suomessa tyypillisimmin annetaan kentällä massiivisessa vuodossa?",
+    "options": [
+      "Jääplasmaa ja trombosyyttejä",
+      "O RhD-negatiivisia punasoluja ja kuivaplasmaa",
+      "Vain albumiinia",
+      "Kokoverta kaikille"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lisäksi annetaan traneksaamihappoa ja kalsiumia. Punasolut ja plasma ovat tehokkain yhdistelmä, kun kuljetusmatka on pitkä (Björkman ym. 2023)."
+  },
+  {
+    "id": "massiivinen-verenvuoto-q1",
+    "type": "mcq",
+    "question": "Mikä on ETC:n aikuisen traneksaamihappoannostus?",
+    "options": [
+      "1 g kerta-annos",
+      "1 g 10 minuutissa ja 1 g infuusiona 8 tunnissa",
+      "2 g bolus",
+      "15 mg/kg"
+    ],
+    "correctIndex": 1,
+    "explanation": "ETC: 1 g 10 minuutissa ja sen jälkeen 1 g 8 tunnin infuusiona, kun vammasta on alle 3 tuntia."
+  },
+  {
+    "id": "massiivinen-verenvuoto-q2",
+    "type": "mcq",
+    "question": "Potilas reagoi nesteeseen ensin, mutta verenpaine laskee uudelleen. Mitä tämä viittaa?",
+    "options": [
+      "Nesteytys on riittävä",
+      "Vuoto on kiihtynyt – uusi vuotokohta tai hyytymä on irronnut",
+      "Potilas on kunnossa",
+      "Kyseessä on aina neurogeeninen sokki"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ohimenevä vaste viittaa kiihtyneeseen vuotoon – mahdollisesti liiallisen nesteytyksen ja paineen nousun irrottamaan hyytymään. Tarvitaan kiireellinen kirurginen arvio."
+  },
+  {
+    "id": "massiivinen-verenvuoto-q3",
+    "type": "truefalse",
+    "question": "Beetasalpaajaa käyttävän potilaan normaali syke sulkee pois merkittävän verenvuodon.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Beetasalpaaja tai tahdistin estää sykkeen nousun, joten verenhukka voi jäädä huomaamatta."
+  },
+  {
+    "id": "massiivinen-verenvuoto-q4",
+    "type": "mcq",
+    "question": "Kuinka pitkään kiristysside saa ETC:n mukaan enintään olla paikallaan?",
+    "options": [
+      "30 minuuttia",
+      "1 tunti",
+      "2 tuntia",
+      "6 tuntia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Kiristysside pidetään mahdollisimman lyhyen ajan – ei missään tapauksessa yli kahta tuntia – kunnes vuoto on hallittu kirurgisesti tai radiologisesti."
+  }
 ]

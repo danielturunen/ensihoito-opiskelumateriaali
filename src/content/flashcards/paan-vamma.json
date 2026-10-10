@@ -1,18 +1,92 @@
 [
-  { "id": "paan-vamma-f1", "front": "Mikä on primaarivaurio aivovammassa?", "back": "Vammahetkellä syntynyt, välitön kudosvaurio." },
-  { "id": "paan-vamma-f2", "front": "Mikä on sekundaarivaurio aivovammassa?", "back": "Viivästynyt vaurio, joka syntyy hapenpuutteen, matalan verenpaineen tai kallonsisäisen paineen nousun seurauksena." },
-  { "id": "paan-vamma-f3", "front": "Mikä on ensihoidon päätavoite aivovamman hoidossa?", "back": "Estää sekundaarivaurion kehittyminen." },
-  { "id": "paan-vamma-f4", "front": "Mitkä ovat vakavan aivovamman hälytysmerkit?", "back": "GCS < 8, reuhtova potilas, nopeasti laskeva tajunta (GCS -2 pistettä), pupillierot, halvausoireet." },
-  { "id": "paan-vamma-f5", "front": "Mikä on verenpainetavoite (SAP) aivovammapotilaalla?", "back": "SAP > 120 mmHg." },
-  { "id": "paan-vamma-f6", "front": "Aiheuttaako aivovamma itsessään hypotensiota?", "back": "Ei lähtökohtaisesti – matala verenpaine viittaa muuhun vammaan tai verenvuotoon." },
-  { "id": "paan-vamma-f7", "front": "Mikä on EtCO2-tavoite aivovammapotilaalla?", "back": "4-4,5 kPa (normoventilaatio)." },
-  { "id": "paan-vamma-f8", "front": "Miksi hyperventilaatiota vältetään aivovammassa?", "back": "Se supistaa aivoverisuonia ja voi aiheuttaa aivoiskemiaa." },
-  { "id": "paan-vamma-f9", "front": "Miksi kovakaulurin käyttöä vältetään aivovammapotilaalla?", "back": "Se voi kiristää kaulalaskimoita ja nostaa kallonsisäistä painetta." },
-  { "id": "paan-vamma-f10", "front": "Miten kaularanka tuetaan aivovammapotilaalla kovakaulurin sijaan?", "back": "Käsin tukemalla, sivutuilla tai tyhjiöpatjan reunoilla." },
-  { "id": "paan-vamma-f11", "front": "Mitä tehdään, jos aivovammapotilaan SAP nousee yli 180 mmHg?", "back": "Hoidetaan kipu ja sedatoidaan; jos paine pysyy korkeana, pyydetään hoito-ohje lääkäriltä." },
-  { "id": "paan-vamma-f12", "front": "Mikä nestemäärä annetaan aivovammapotilaalle kristalloidilla?", "back": "300-500 ml." },
-  { "id": "paan-vamma-f13", "front": "Milloin traneksaamihappoa (1 g i.v.) harkitaan aivovammassa?", "back": "Aikuisen vaikeassa aivovammassa, ensihoitolääkärin konsultaation perusteella." },
-  { "id": "paan-vamma-f14", "front": "Mitkä ovat GCS:n kolme osa-aluetta?", "back": "Silmien avaus (4p), puhevaste (5p), liikevaste (6p)." },
-  { "id": "paan-vamma-f15", "front": "Mitä mitataan aina pään vamman potilaalta ja miksi?", "back": "Verensokeri (hypoglykemia voi muistuttaa aivovammaa) ja ydinlämpötila (hypotermia pahentaa ennustetta)." },
-  { "id": "paan-vamma-f16", "front": "Miten potilaan pää asetetaan kuljetuksen aikana laskimopaluun turvaamiseksi?", "back": "Pää pidetään suorassa, kaulalaskimot vapaana; paarien pääpuoli voi olla 20-30° koholla, kun verenpaine on tavoitetasolla." }
+  {
+    "id": "paan-vamma-f1",
+    "front": "Mikä on primaarivaurio aivovammassa?",
+    "back": "Vammahetkellä syntynyt, välitön kudosvaurio."
+  },
+  {
+    "id": "paan-vamma-f2",
+    "front": "Mikä on sekundaarivaurio aivovammassa?",
+    "back": "Viivästynyt vaurio, joka syntyy hapenpuutteen, matalan verenpaineen tai kallonsisäisen paineen nousun seurauksena."
+  },
+  {
+    "id": "paan-vamma-f3",
+    "front": "Mikä on ensihoidon päätavoite aivovamman hoidossa?",
+    "back": "Estää sekundaarivaurion kehittyminen."
+  },
+  {
+    "id": "paan-vamma-f4",
+    "front": "Mitkä ovat vakavan aivovamman hälytysmerkit?",
+    "back": "GCS < 8, reuhtova potilas, nopeasti laskeva tajunta (GCS -2 pistettä), pupillierot, halvausoireet."
+  },
+  {
+    "id": "paan-vamma-f5",
+    "front": "Mikä on verenpainetavoite (SAP) aivovammapotilaalla?",
+    "back": "SAP > 120 mmHg."
+  },
+  {
+    "id": "paan-vamma-f6",
+    "front": "Aiheuttaako aivovamma itsessään hypotensiota?",
+    "back": "Ei lähtökohtaisesti – matala verenpaine viittaa muuhun vammaan tai verenvuotoon."
+  },
+  {
+    "id": "paan-vamma-f7",
+    "front": "Mikä on EtCO2-tavoite aivovammapotilaalla?",
+    "back": "4-4,5 kPa (normoventilaatio)."
+  },
+  {
+    "id": "paan-vamma-f8",
+    "front": "Miksi hyperventilaatiota vältetään aivovammassa?",
+    "back": "Se supistaa aivoverisuonia ja voi aiheuttaa aivoiskemiaa."
+  },
+  {
+    "id": "paan-vamma-f9",
+    "front": "Miksi kovakaulurin käyttöä vältetään aivovammapotilaalla?",
+    "back": "Se voi kiristää kaulalaskimoita ja nostaa kallonsisäistä painetta."
+  },
+  {
+    "id": "paan-vamma-f10",
+    "front": "Miten kaularanka tuetaan aivovammapotilaalla kovakaulurin sijaan?",
+    "back": "Käsin tukemalla, sivutuilla tai tyhjiöpatjan reunoilla."
+  },
+  {
+    "id": "paan-vamma-f11",
+    "front": "Mitä tehdään, jos aivovammapotilaan SAP nousee yli 180 mmHg?",
+    "back": "Hoidetaan kipu ja sedatoidaan; jos paine pysyy korkeana, pyydetään hoito-ohje lääkäriltä."
+  },
+  {
+    "id": "paan-vamma-f12",
+    "front": "Mikä nestemäärä annetaan aivovammapotilaalle kristalloidilla?",
+    "back": "300-500 ml."
+  },
+  {
+    "id": "paan-vamma-f13",
+    "front": "Milloin traneksaamihappoa (1 g i.v.) harkitaan aivovammassa?",
+    "back": "Aikuisen vaikeassa aivovammassa, ensihoitolääkärin konsultaation perusteella."
+  },
+  {
+    "id": "paan-vamma-f14",
+    "front": "Mitkä ovat GCS:n kolme osa-aluetta?",
+    "back": "Silmien avaus (4p), puhevaste (5p), liikevaste (6p)."
+  },
+  {
+    "id": "paan-vamma-f15",
+    "front": "Mitä mitataan aina pään vamman potilaalta ja miksi?",
+    "back": "Verensokeri (hypoglykemia voi muistuttaa aivovammaa) ja ydinlämpötila (hypotermia pahentaa ennustetta)."
+  },
+  {
+    "id": "paan-vamma-f16",
+    "front": "Miten potilaan pää asetetaan kuljetuksen aikana laskimopaluun turvaamiseksi?",
+    "back": "Pää pidetään suorassa, kaulalaskimot vapaana; paarien pääpuoli voi olla 20-30° koholla, kun verenpaine on tavoitetasolla."
+  },
+  {
+    "id": "paan-vamma-f17",
+    "front": "Mitkä ovat kallonpohjan murtuman varhaiset ja myöhäiset merkit?",
+    "back": "Varhaiset: veri tärykalvon takana, verinen selkäydinneste korvasta tai nenästä, silmänvalkuaisen verenvuoto ilman takarajaa. Myöhäiset (12–24 h): Battlen merkki ja pandasilmät."
+  },
+  {
+    "id": "paan-vamma-f18",
+    "front": "Mikä on käsien vajoamiskoe?",
+    "back": "Potilas sulkee silmät ja ojentaa kädet eteen kämmenet ylöspäin. Jos käsi kiertyy kämmen alaspäin, se on varhainen merkki osittaisesta halvauksesta."
+  }
 ]

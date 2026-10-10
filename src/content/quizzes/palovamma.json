@@ -3,7 +3,12 @@
     "id": "palovamma-q1",
     "type": "mcq",
     "question": "Mikä kehon pinta-alaprosentti luokitellaan laajaksi palovammaksi aikuisella?",
-    "options": ["Yli 5 %", "Yli 10 %", "Yli 20 %", "Yli 50 %"],
+    "options": [
+      "Yli 5 %",
+      "Yli 10 %",
+      "Yli 20 %",
+      "Yli 50 %"
+    ],
     "correctIndex": 2,
     "explanation": "Aikuisella laaja palovamma kattaa yli 20 % kehon pinta-alasta; lapsella raja on alempi, yli 10 %."
   },
@@ -11,7 +16,10 @@
     "id": "palovamma-q2",
     "type": "truefalse",
     "question": "Potilaan oma kämmen vastaa karkeasti noin 1 % kehon pinta-alasta, ja sitä voi käyttää pienten palovamma-alueiden arviointiin.",
-    "options": ["Oikein", "Väärin"],
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
     "correctIndex": 0,
     "explanation": "Kämmensääntö on käytännöllinen apuväline pienten, epäsäännöllisten palovamma-alueiden arviointiin."
   },
@@ -45,7 +53,10 @@
     "id": "palovamma-q5",
     "type": "truefalse",
     "question": "Kuuman veden aiheuttama palovamma vaatii yleensä runsaan suonensisäisen nestehoidon jo ensihoitotilanteessa.",
-    "options": ["Oikein", "Väärin"],
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
     "correctIndex": 1,
     "explanation": "Kuuman veden aiheuttamassa palovammassa ei yleensä tarvita nestehoitoa ensihoitotilanteessa – runsas nestehoito koskee vaikeampia, esim. liekin aiheuttamia palovammoja."
   },
@@ -66,7 +77,10 @@
     "id": "palovamma-q7",
     "type": "truefalse",
     "question": "Hyvin laajoja palovamma-alueita kannattaa jäähdyttää pitkään jääkylmällä vedellä hypotermiariskistä huolimatta.",
-    "options": ["Oikein", "Väärin"],
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
     "correctIndex": 1,
     "explanation": "Hyvin laajoja palovammoja ei jäähdytetä, koska se lisää hypotermian riskiä merkittävästi. Jäähdytys (viileällä, ei jääkylmällä vedellä 10–20 min) sopii vain pienille alueille."
   },
@@ -87,7 +101,10 @@
     "id": "palovamma-q9",
     "type": "truefalse",
     "question": "Nivelten ja genitaalien alueen palovammat ohjataan päivystykseen pienestäkin koosta huolimatta.",
-    "options": ["Oikein", "Väärin"],
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
     "correctIndex": 0,
     "explanation": "Vaikka palovamma olisi pienikin, nivelten ja genitaalien alueen vammat ohjataan päivystykseen toiminnallisten ja infektioriskien vuoksi."
   },
@@ -116,5 +133,31 @@
     ],
     "correctIndex": 1,
     "explanation": "Häkämyrkytys syntyy hengitysteitse suljetussa tilassa ja voi aiheuttaa tajunnantason laskua, päänsärkyä ja pahoinvointia ilman mitään näkyvää palovammaa."
+  },
+  {
+    "id": "palovamma-q12",
+    "type": "mcq",
+    "question": "Palovammapotilas on sokissa heti vastaanotossa. Mitä ETC:n mukaan pitää ajatella?",
+    "options": [
+      "Palovammasokki on alkanut – lisää nestettä",
+      "Sokki ei vielä johdu palovammasta – etsi muu syy, kuten vuoto",
+      "Kyse on häkämyrkytyksestä",
+      "Sokki johtuu kivusta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Palovamman aiheuttama sokki kehittyy hitaasti, joten alkuvaiheen sokki johtuu jostain muusta – etsi vuotoa ja liitännäisvammoja."
+  },
+  {
+    "id": "palovamma-q13",
+    "type": "mcq",
+    "question": "Miten palovamma peitetään ETC:n mukaan ennen siirtoa?",
+    "options": [
+      "Antiseptisellä voiteella",
+      "Väljästi muovikelmulla, kädet muovipusseihin",
+      "Märillä kylmillä pyyhkeillä koko ajan",
+      "Tiukalla sidoksella"
+    ],
+    "correctIndex": 1,
+    "explanation": "Väljä muovikelmu, kädet muovipusseihin, potilas lämpimänä kuivilla huovilla. Antiseptisiä liuoksia tai voiteita ei käytetä."
   }
 ]

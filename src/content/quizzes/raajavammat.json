@@ -1,0 +1,89 @@
+[
+  {
+    "id": "raajavammat-q1",
+    "type": "mcq",
+    "question": "Kuinka paljon reisiluun murtuma voi vuotaa ETC:n mukaan?",
+    "options": [
+      "100–200 ml",
+      "300–500 ml",
+      "1–1,5 litraa",
+      "Yli 3 litraa"
+    ],
+    "correctIndex": 2,
+    "explanation": "Reisiluun murtuma voi vuotaa 1–1,5 litraa. Useat suljetut murtumat voivat vuotaa merkittävästi piiloon."
+  },
+  {
+    "id": "raajavammat-q2",
+    "type": "mcq",
+    "question": "Mikä on ETC:n raajan katastrofaalisen vuodon porrastus?",
+    "options": [
+      "Kiristysside heti kaikille",
+      "Suora paine, kohoasento, tamponointi (hemostaattinen sidos), kiristysside",
+      "Kohoasento ja kylmä",
+      "Painesidos ja odotus"
+    ],
+    "correctIndex": 1,
+    "explanation": "Porrastus on suora paine, raajan kohoasento, haavan tamponointi ja tarvittaessa oikein asetettu kiristysside – mieluiten ennen sokin kehittymistä."
+  },
+  {
+    "id": "raajavammat-q3",
+    "type": "truefalse",
+    "question": "Tuntuva ääreissyke sulkee pois raajan valtimovamman.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pulssi voi tuntua aluksi ja kadota myöhemmin (esim. sisäkerroksen repeämä). Ainoa suoja on toistuva lämmön, tunnon ja pulssien tutkiminen."
+  },
+  {
+    "id": "raajavammat-q4",
+    "type": "mcq",
+    "question": "Murtumapotilaan kova kipu jatkuu lastoituksen jälkeen. Mitä epäilet ensimmäiseksi?",
+    "options": [
+      "Lastan väärää kokoa",
+      "Aitio-oireyhtymää",
+      "Ahdistusta",
+      "Rasvaemboliaa"
+    ],
+    "correctIndex": 1,
+    "explanation": "ETC:n mukaan murtuman jälkeinen kova kipu, joka jatkuu tukemisen jälkeen, on aitio-oireyhtymä, kunnes toisin todistetaan."
+  },
+  {
+    "id": "raajavammat-q5",
+    "type": "truefalse",
+    "question": "Avomurtuma suojaa aitio-oireyhtymältä, koska haava purkaa paineen.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Säären neljästä aitiosta haava voi avata vain yhden – muut voivat silti kehittää aitio-oireyhtymän."
+  },
+  {
+    "id": "raajavammat-q6",
+    "type": "mcq",
+    "question": "Miksi murtuma oikaistaan ja tuetaan jo ensiarvion lopussa?",
+    "options": [
+      "Jotta röntgenkuva olisi kauniimpi",
+      "Se vähentää vuotoa, kipua, hermo- ja verisuonivaurion sekä rasvaembolian riskiä",
+      "Se on lopullinen hoito",
+      "Jotta potilas voisi kävellä"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oikaisu vähentää verenvuotoa, painetta pehmytkudoksiin, hermo- ja verisuonivaurion riskiä, rasvaembolian riskiä ja kipua."
+  },
+  {
+    "id": "raajavammat-q7",
+    "type": "mcq",
+    "question": "Minkä sijoiltaanmenon yhteydessä piilevä valtimovamma on erityisen yleinen?",
+    "options": [
+      "Olkanivelen",
+      "Polven",
+      "Sormen",
+      "Leukanivelen"
+    ],
+    "correctIndex": 1,
+    "explanation": "ETC:n mukaan polven sijoiltaanmenossa piilevä valtimovamma on yleinen."
+  }
+]
