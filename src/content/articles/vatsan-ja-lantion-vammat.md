@@ -77,7 +77,7 @@ Vuoto tulee ETC:n mukaan kolmesta lähteestä: **dorsaalisen lantiorenkaan suuri
 ## Lantion tutkiminen
 
 > [!danger] Lantiota ei keinuteta
-> ETC ei enää suosittele lantion keinuttelua tai jousto­testiä, koska se voi irrottaa jo muodostuneen hyytymän ja lisätä vuotoa. Suoliluun harjanteet ja häpyliitos tunnustellaan varovasti arkuuden toteamiseksi – **vain kerran**.
+> ETC ei enää suosittele lantion keinuttelua tai joustotestiä, koska se voi irrottaa jo muodostuneen hyytymän ja lisätä vuotoa. Suoliluun harjanteet ja häpyliitos tunnustellaan varovasti arkuuden toteamiseksi – **vain kerran**.
 
 Etsi myös pehmytkudosten vammat:
 

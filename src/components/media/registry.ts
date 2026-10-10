@@ -105,6 +105,10 @@ export const widgetMeta: Record<string, WidgetMeta> = {
   'cspine-rule': { title: 'Kanadalainen kaularankasääntö', kind: 'Laskuri' },
   'cord-syndromes': { title: 'Epätäydelliset selkäydinvammat', kind: 'Interaktiivinen kuva' },
   'pelvis-types': { title: 'Lantiorengasvammat ja lantiovyö', kind: 'Animaatio' },
+  'assessment-triangle': { title: 'Arviointikolmio: 5 sekunnin kierros', kind: 'Harjoitus' },
+  'fluid-response': { title: 'Kolme vastetta nesteytykseen', kind: 'Kaavio' },
+  'tca-causes': { title: 'Traumaattisen sydänpysähdyksen hoidettavat syyt', kind: 'Interaktiivinen kuva' },
+  'comm-stairs': { title: 'Viestinnän portaat', kind: 'Animaatio' },
   'scene-card': { title: 'Kohteessa: tiedä, tutki, osaa', kind: 'Itsearviointi' },
 }
 

@@ -119,7 +119,33 @@ Monivammautuneeksi katsotaan potilas, jolla on merkittävä vamma vähintään k
 {"widget":"death-triad"}
 ```
 
-Käytännössä tämä tarkoittaa, että vuotavalla potilaalla, jolla ei ole aivovammaa, tavoitellaan vain riittävää ("sallittua" eli permissiivistä) verenpainetta – rannesyke tunnettavissa riittää – kun taas aivovamma- ja selkäydinvammapotilaalla pyritään korkeampaan verenpaineeseen riittävän aivo- ja selkäydinverenkierron turvaamiseksi. Traneksaamihappo annetaan mahdollisimman pian, kun epäillään merkittävää verenvuotoa.
+Käytännössä tämä tarkoittaa, että vuotavalla potilaalla, jolla ei ole aivovammaa, tavoitellaan vain riittävää ("sallittua" eli permissiivistä) verenpainetta – rannesyke tunnettavissa riittää – kun taas aivovamma- ja selkäydinvammapotilaalla pyritään korkeampaan verenpaineeseen riittävän aivo- ja selkäydinverenkierron turvaamiseksi. Traneksaamihappo annetaan mahdollisimman pian, kun epäillään merkittävää verenvuotoa. Lähteiden verenpainetavoitteet rinnakkain: [massiivinen verenvuoto](topic:massiivinen-verenvuoto).
+
+## Luovutus sairaalan traumatiimille (ETC)
+
+European Trauma Coursessa (ETC) sairaalan traumatiimiä johtaa **tiiminjohtaja**, joka pysyy itse "kädet irti" säilyttääkseen tilannekuvan. Tiimi saa ennakkotiedon parhaiten suoraan ensihoidolta vakiomuotoisena raporttina – mitä aikaisemmin, sitä parempi: pienet sairaalat tarvitsevat enemmän valmisteluaikaa, ja erikoisvälineet (esim. massiivivuotoon tai vaikeaan hengitystiehen) on ehdittävä varata.
+
+```media
+{"widget":"mnemonic","title":"ATMIST – vammapotilaan ennakkoilmoitus ja luovutus","name":"ATMIST","items":[
+{"letter":"A","word":"Age – ikä","text":"Ikä, sukupuoli ja olennaiset taustatiedot (esim. raskaus, varfariini)."},
+{"letter":"T","word":"Time – aika","text":"Tapahtuma-aika."},
+{"letter":"M","word":"Mechanism – mekanismi","text":"Vammamekanismi (esim. liikenneonnettomuus, puukotus) ja vakavan vamman merkit: puristuksiin jääminen, kierähdys, sinkoutuminen ajoneuvosta, putoaminen korkealta."},
+{"letter":"I","word":"Injuries – vammat","text":"Epäillyt vammat."},
+{"letter":"S","word":"Signs – löydökset","text":"Hengitystaajuus, SpO₂, syke, verenpaine, GCS ja neurologiset puutokset, kipu – ja peruselintoimintojen trendit."},
+{"letter":"T","word":"Treatment – hoito","text":"Annettu hoito ja tulovaiheessa odotettava hoito (esim. massiivinen verensiirto)."}
+]}
+```
+
+Suomessa suullinen raportti annetaan yleisimmin [ISBAR-mallilla](topic:konsultaatiomallit); ATMIST on vammapotilaalle räätälöity versio samasta ajatuksesta.
+
+**5 sekunnin kierros.** Ennen raporttia tiiminjohtaja tekee potilaalle pikaisen yleisarvion, jonka tarkoitus on sulkea pois **täydellinen ilmatietukos, massiivinen ulkoinen verenvuoto ja traumaattinen sydänpysähdys** – ja varmistaa, että ennalta sovittu suunnitelma A on yhä oikea. Apuna on **arviointikolmio**: vuorovaikutus, hengitystyö ja ihon perfuusio. Jos henkeä uhkaava tila löytyy, tiimi ohjataan heti hoitamaan se eikä ensiarviota jatketa sitä ennen. Löydökset kuulutetaan selvästi, jotta kaikki ymmärtävät prioriteetit.
+
+```media
+{"widget":"assessment-triangle","caption":"Valitse havainto kustakin kolmion kulmasta. Huonoin osa-alue ratkaisee kiireellisyyden."}
+```
+
+> [!tip] Tuttu ajatus lapsipotilaalta
+> Sama kolmijako on tuttu lapsipotilaan ensivaikutelmasta: olemus, hengitys ja ihon väri. Ks. [lapsi ensihoidossa](topic:lapsi-ensihoidossa).
 
 ## Muista tämä -kertaus
 
@@ -131,3 +157,4 @@ Käytännössä tämä tarkoittaa, että vuotavalla potilaalla, jolla ei ole aiv
 - Hypotermia, asidoosi ja koagulopatia muodostavat toisiaan pahentavan kuoleman kolmion – pidä potilas lämpimänä koko hoitoketjun ajan.
 - Rangan tukeminen ei saa viivästyttää henkeä pelastavaa hoitoa; lävistävässä vammassa ei tueta. Kiireettömässä tilanteessa NEXUS.
 - Hoida kipu varhain (IN-reitti, opioidi, ketamiini) – hengityslaman pelko ei saa estää riittävää kivunhoitoa.
+- Ennakkoilmoitus ja luovutus jäsennellysti (ATMIST tai ISBAR); 5 sekunnin kierroksella suljetaan pois ilmatietukos, massiivinen ulkoinen vuoto ja sydänpysähdys.

@@ -58,6 +58,33 @@ Tilannejohtajan on kommunikoitava yksiselitteisesti ja kohdennetusti. Yleistys "
 - **Rauhallisuus**: johtajan hermostuneisuus heijastuu tiimiin, potilaaseen ja omaisiin.
 - **Raportti** tilannejohtajalle annetaan strukturoidusti, yleisimmin [ISBAR-mallilla](topic:konsultaatiomallit).
 
+### Viestinnän portaat ja puheeksi ottaminen (ETC)
+
+European Trauma Course (ETC) kuvaa viestinnän portaina: viesti voi kadota jokaisella askelmalla, ellei silmukkaa suljeta. Koko tiimi – ei vain johtaja – vastaa siitä, miten viestit annetaan, ymmärretään ja toteutetaan.
+
+```media
+{"widget":"comm-stairs","caption":"Kuljeta viesti portaat ylös ja katso, missä se voi kadota ja miten silmukka suljetaan."}
+```
+
+Vakiomuotoinen raportti auttaa myös silloin, kun **tiimin jäsenen** on saatava johtajan huomio. ETC:n esimerkki SBAR-muodosta (ISBAR ilman I-osaa):
+
+> [!example] Esimerkki: tiimin jäsen kutsuu johtajaa
+> - **S – tilanne:** "Johtaja, tarvitsen huomiosi NYT! Potilas vuotaa runsaasti nivusesta, enkä saa vuotoa hallintaan."
+> - **B – tausta:** "Potilasta on lyöty pesäpallomailalla, mutta tämä näyttää pistohaavalta."
+> - **A – arvio:** "Epäilen, että reisivaltimo on osunut. Ulkoinen paine ei riitä, haava on liian ylhäällä kiristyssidettä varten, ja vuotoa on jo paljon."
+> - **R – suositus:** "Tarvitsen toisen käsiparin ja hemostaattista sidosta. Jos vuoto ei asetu heti, meidän on mentävä leikkaussaliin viiveettä."
+
+Puheeksi ottaminen (assertiivisuus) ehkäisee virheitä, erityisesti fiksaatiovirheitä. Vakiomuoto antaa jokaiselle tiimin jäsenelle luvan nostaa turvallisuushuoli esiin – ja hyvin harjoitelleessa tiimissä johtaja havahtuu yleensä jo ensimmäisellä portaalla:
+
+```media
+{"widget":"mnemonic","title":"PACE – huolen nostaminen portaittain","name":"PACE","items":[
+{"letter":"P","word":"Probe – tiedustele","text":"\"Oletko varma, että…?\""},
+{"letter":"A","word":"Alert – herättele","text":"\"Etkö usko, että tämä aiheuttaa…?\""},
+{"letter":"C","word":"Challenge – haasta","text":"\"Pelkään, että tämä vahingoittaa potilasta…\""},
+{"letter":"E","word":"Emergency – hätätoimi","text":"\"SEIS! Lopeta, haen apua.\""}
+]}
+```
+
 ## Monipotilastilanteet
 
 Monipotilastilanteessa potilaita on vähintään kolme, mutta suuronnettomuuden kriteerit eivät täyty; tilastollisesti yleisimpiä ovat tieliikenneonnettomuudet ja huoneistopalot. **Kohteeseen saavuttuaan ensihoidon tilannejohtajan ensimmäinen tehtävä on oma tilannetiedustelu**: hän käy yksiköt läpi, saa lyhyen raportin potilaista ja arvioi, riittävätkö resurssit – lisäapua kannattaa pyytää varhain, koska tavoittamisviive voi olla pitkä. Moniviranomaistehtävässä tilannejohtaja viestii omalla toimintapuheryhmällään yksiköilleen ja yhteistoimintapuheryhmällä pelastustoiminnan johtajan ja poliisin kenttäjohtajan kanssa; viestiliikenteen kasvaessa avuksi voidaan nimetä viestimies.
@@ -101,3 +128,4 @@ European Trauma Course -manuaali (ETC) korostaa, että traumapotilaan hoidossa v
 - Johtamisprosessi: tilannearvio → päätös → käsky → valvonta; päätöksenteon tukena FOR-DEC.
 - CRM: pyydä apua ajoissa, älä oleta mitään, STOP eli 10 sekuntia 10 minuutin edestä.
 - Käsky nimetylle henkilölle, toisto ja kuittaus – suljettu viestintäkehä.
+- Viestinnän portaat: tarkoitettu ≠ sanottu ≠ kuultu ≠ ymmärretty ≠ tehty – sulje silmukka. Huolen voi nostaa portaittain PACE-mallilla.

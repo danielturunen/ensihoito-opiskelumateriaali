@@ -94,6 +94,19 @@ Vammapotilaan sydänpysähdyksen hoito on aiempaa aktiivisempaa. Ellei potilas o
 > [!info] Traumaattinen sydänpysähdys (European Trauma Course)
 > Hallitsematon verenvuoto on syynä noin puolessa (48 %) traumaattisista sydänpysähdyksistä. Erään tutkimuksen mukaan neurologisesti hyvin toipui 36,4 % kammiovärinäpotilaista, mutta vain 7 % PEA- ja 2,7 % asystolepotilaista. Painelu on hypovolemiassa, tamponaatiossa ja jänniteilmarinnassa tehotonta, joten syiden hoito menee painelun edelle. **Elvytyksestä pidättäydytään**, jos elonmerkkejä ei ole ollut 15 minuuttiin tai vamma on selvästi kuolettava (esim. dekapitaatio, aivokudoksen menetys). **Lopettamista harkitaan**, jos verenkierto ei palaa korjattavien syiden hoidon jälkeen tai ultraäänessä ei näy sydämen toimintaa. Jos taustalla epäillään sairauskohtausta, noudatetaan tavallista ALS-ohjetta.
 
+```media
+{"widget":"tca-causes","caption":"Valitse syy ja katso, mitkä ETC:n algoritmin samanaikaisista toimista kohdistuvat siihen."}
+```
+
+ETC:n mukaan traumaattisen sydänpysähdyksen ennustetta ei voi luotettavasti arvioida. Selviytymiseen liittyvät reagoivat pupillit, järjestäytynyt EKG-rytmi, hengitysyritykset sekä lyhyt elvytys- ja ensihoitoaika. Kokonaiselossaololuku on noin 3,3 % tylpässä ja 3,7 % lävistävässä vammassa, ja lapsilla ennuste on parempi kuin aikuisilla. Kammiovärinä on harvinainen, mutta sen ennuste on paras. **Lyhyt ensihoitoaika ja välitön kuljetus traumakeskukseen ("scoop and run") voi pelastaa hengen.**
+
+> [!info] Elvytystorakotomia ja neljän E:n sääntö (ETC)
+> Aiheet sairaalaan saavuttaessa: lävistävä vartalovamma ja elvytystä alle 15 min; lävistävä **kaulan tai raajan** vamma ja ensihoidon elvytystä alle 5 min; tylppä vamma ja ensihoidon elvytystä alle 10 min; rintakehävammaisen hoitoon reagoimaton periarrest-tila. Torakotomia on turha ja vaarantaa tiimin, jos jokin neljästä E:stä ei täyty:
+> - **Expertise** – osaava, koulutettu johtaja
+> - **Equipment** – riittävät välineet
+> - **Environment** – mieluiten leikkaussali; ei, jos potilaaseen ei pääse kunnolla käsiksi tai sairaala on kaukana
+> - **Elapsed time** – elonmerkkien katoamisesta torakotomian alkuun alle 10 minuuttia
+
 > [!info] Kenttätorakotomia Suomessa
 > Setälän (Finnanest 2017) katsauksen mukaan sairaalan ulkopuolisen traumaattisen sydänpysähdyksen selviämisluvut ovat uusimmissa eurooppalaisissa aineistoissa nousseet 7,5 %:iin, parhaimmillaan 18 %:iin. Sydäntamponaatioon riittää noin kaksi desilitraa verta, eikä sitä useinkaan saa purettua neulalla, koska veri hyytyy nopeasti. Tampereen lääkäriyksikkö (FinnHEMS 30) aloittaa torakostomiaviilloilla molemmin puolin 4.–5. kylkiväliin ja jatkaa tarvittaessa "clam shell" -torakotomiaan. Indikaatioina lävistävä rintakehän tai ylävatsan vamma alkurytmistä riippumatta tai sarjakylkiluumurtumat; vasta-aiheina mm. yli 10 minuuttia kestänyt pysähdys (KH 2021: avoin hieronta 15 min kuluessa) ja laajat monivammat. Kymmenestä kenttätorakotomiasta kolmessa sydän saatiin käynnistettyä.
 

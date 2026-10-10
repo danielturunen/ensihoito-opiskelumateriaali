@@ -26,6 +26,58 @@ Lontoon lääkärihelikopterin "verenvuodon hoitopaketti" (care bundle) yhdistä
 
 Pienen tilan vuodot, kuten **sydäntamponaatio** lävistävässä vammassa ja laajeneva kallonsisäinen verenvuoto, voivat tappaa nopeasti pienelläkin verimäärällä. Lävistävän vamman sydänpysähdyksessä ensihoitolääkärin tekemä torakotomia ja [tamponaation](topic:lavistavat-vammat) purku on tuottanut eloonjääneitä, kun aika sydänpysähdyksestä on lyhyt.
 
+## European Trauma Course: arvioinnin sudenkuopat ja tavoitteet
+
+### Verenhukka on helppo arvioida väärin
+
+ETC:n mukaan sokin klassinen kuva näkyy todennäköisimmin nuorella, hyväkuntoisella aikuisella, jolla on yksittäinen lävistävä vamma ja vähän kudosvauriota. Useimmiten potilaalla on kuitenkin laaja kudosvaurio, kipu ja pelko, ja lisäksi lääkkeet ja perussairaudet muuttavat elimistön vastetta. Yleinen virhe on ohittaa potilas, jonka kudosperfuusio on jo heikentynyt, koska **verenpaine on ikäryhmän normaalialueella**.
+
+```media
+{"widget":"matching","title":"Miksi verenhukan arvio menee pieleen?","prompt":"Yhdistä tekijä siihen, miten se vääristää arviota.","pairs":[
+{"left":"Beetasalpaaja tai tahdistin","right":"Syke ei nouse vuodon mukana – tahdistin voi tahdistaa kiinteällä taajuudella (noin 70–100/min)"},
+{"left":"Urheilija","right":"Leposyke voi olla alle 50/min ja veritilavuus 15–20 % suurempi – merkittävä vuoto voi näkyä alle 100/min sykkeenä"},
+{"left":"Ydinlämpö alle 35 °C","right":"Laskee itsessään verenpainetta, sykettä ja hengitystaajuutta – hypovolemia yliarvioidaan"},
+{"left":"Perussairautena kohonnut verenpaine","right":"Vuoto laskee paineen vain ikäryhmän normaaliksi – vuoto aliarvioidaan"},
+{"left":"Heikko sydänreservi (esim. sydänlihasiskemia, läppävika)","right":"Paine laskee jo pienemmästä vuodosta – vuoto yliarvioidaan"},
+{"left":"Puukotus, vähän kudosvauriota","right":"Paine pysyy aluksi lähes normaalina, sitten syke hidastuu ja paine romahtaa"},
+{"left":"Tylppä vamma ja pitkien luiden murtumat","right":"Pitkä kompensaatio kiihtyvällä takykardialla – hypotensio on myöhäinen merkki"}
+]}
+```
+
+Myös raskaus, pienet lapset ja antikoagulaatio vaikeuttavat arviota. Lävistävän ja tylpän vamman potilaat voivat näyttää yhtä sokkisilta, vaikka he ovat menettäneet hyvin erilaisen määrän verta.
+
+### Kolme vastetta nesteytykseen
+
+```media
+{"widget":"fluid-response","caption":"Kaavamaiset systolisen paineen käyrät nesteen tai veren antamisen jälkeen. Vertaa käyriä ja lue, mitä kukin vaste tarkoittaa."}
+```
+
+### Verenpainetavoitteet – lähteet rinnakkain
+
+> [!important] Tavoitteet vaihtelevat lähteittäin
+> Lähteet ovat samaa mieltä periaatteesta – vuotavalla potilaalla matalampi, aivovammaisella korkeampi tavoite – mutta raja-arvot eroavat. Toimi oman alueesi hoito-ohjeen mukaan.
+
+| Tilanne | ETC | Suomalaiset lähteet |
+|---|---|---|
+| Lävistävä vamma, ei aivovammaa | Systolinen 80–90 mmHg lyhytaikaisesti, kunnes vuoto on hallinnassa | Rannesyke tuntuu tai systolinen yli 80 mmHg – ei nosteta yli 80:n. TECC: 80–90 mmHg |
+| Tylppä vamma, ei aivovammaa | Systolinen 80–90 mmHg | Rannesyke tuntuu tai systolinen yli 80 mmHg |
+| Aivovamma ja hallitsematon vuoto | MAP yli 80 mmHg (systolinen noin 100) lyhytaikaisesti | Systolinen yli 120 mmHg (TECC: yli 110) |
+| Pelkkä aivo- tai selkäydinvamma | Systolinen yli 110, MAP yli 90 mmHg | Systolinen yli 120 mmHg |
+
+ETC korostaa, että **sallittu hypotensio on lyhytaikainen keino**: kun vuoto on hallinnassa, potilaan hapenkuljetus ja verenkierto palautetaan normaaliksi. Aivovammapotilaan kuolleisuus nousee merkittävästi jo lyhyistä jaksoista, joissa systolinen on alle 90 mmHg. Ks. [pään vamma](topic:paan-vamma).
+
+### Traneksaamihappo, kiristysside ja vasokonstriktorit
+
+- **Traneksaamihappo** (ETC): kaikille, joilla on merkittävä vuoto tai sen riski, **3 tunnin kuluessa** vammasta. Aikuisen annos on **1 g 10 minuutissa ja sen jälkeen 1 g infuusiona 8 tunnissa**.
+
+> [!important] Lähteiden ero: yksittäinen aivovamma
+> ETC:n mukaan traneksaamihapon voi antaa turvallisesti potilaalle, jolla on myös pään vamma, mutta se **ei ole aiheellinen, jos aivovamma on ainoa vamma**. Sivuston suomalaisissa lähteissä traneksaamihappoa 1 g annetaan myös aikuisen vaikean aivovamman epäilyssä ([tylppä vamma](topic:tylppa-vamma)). Noudata alueen hoito-ohjetta.
+
+- **Kiristysside** pidetään paikallaan mahdollisimman lyhyen ajan – **ei missään tapauksessa yli kahta tuntia** – kunnes vuoto on hallittu kirurgisesti tai toimenpideradiologisesti. Ennen kiristyssidettä ETC:n porrastus on suora paine ja raajan kohoasento, painesidos, toinen sidos ja hemostaattinen sidos.
+- **Vasokonstriktorit:** asiaankuulumaton käyttö vuotavalla potilaalla **kaksinkertaistaa kuolleisuuden**. Niitä voidaan kuitenkin tarvita selkäydin- tai aivovammassa.
+- **Lämpö:** tavoite yli 36 °C – märät vaatteet ja lakanat pois, lämpimät nesteet ja verivalmisteet, lämpöpeitot.
+- **Sairaalan tavoitteet** (ETC): hemoglobiini 70–90 g/l, verihiutaleet yli 100 × 10⁹/l, fibrinogeeni yli 1,5–2,0 g/l ja ionisoitu kalsium yli 0,9–1,0 mmol/l (lähteen eri kohdissa hieman eri raja). Alkuvaiheen suhde punasoluille, plasmalle ja verihiutaleille on 1:1:1; punasoluja ja plasmaa annetaan yleensä suhteessa 1:1–2:1.
+
 ## Verensiirto ensihoidossa
 
 Ideaalista olisi antaa kokoverta, kuten sotatilanteissa, mutta sitä ei ole Suomessa saatavilla. Sairaalan massiivisessa verensiirrossa punasolujen, jääplasman ja trombosyyttien suhteeksi suositellaan 1:1:1. Kentälle voidaan viedä **punasolutiivisteitä**; jääplasma ei aikaviiveiden vuoksi sovi ensihoitoon, mutta **kuivaplasmaa** käytetään jo kenttäolosuhteissa.
@@ -83,3 +135,4 @@ Lontoossa sairaalan "code red" -protokolla voidaan käynnistää kentältä, kun
 - Lävistävässä vammassa yli 80 mmHg:n systolista painetta ei nosteta – vältä runsaita kirkkaita nesteitä.
 - Hoitopaketti: lyhyt kohdeaika, ulkoinen vuoto hallintaan, lantiovyö ja lastat, varovainen käsittely, traneksaamihappo 3 h:n sisällä.
 - Punasoluja ja kuivaplasmaa voidaan antaa kentällä, lisäksi TXA ja kalsium; ota verinäyte ennen siirtoa. Jääplasma ei sovi ensihoitoon.
+- ETC: verenhukka arvioidaan helposti väärin (beetasalpaaja, urheilija, hypotermia, kohonnut verenpaine); kiristysside enintään 2 tuntia; TXA 1 g + 1 g/8 h kolmen tunnin kuluessa.
