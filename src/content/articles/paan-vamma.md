@@ -75,6 +75,79 @@ Traneksaamihappoa 1 g suonensisäisesti voidaan antaa aikuisen vaikeassa aivovam
 
 Vammamekanismin perusteella osataan epäillä myös kaularankavammaa, ja monivammat ovat yleisiä korkeaenergisissa mekanismeissa (ks. [tylppä vamma](topic:tylppa-vamma) ja [liikenneonnettomuus](topic:liikenneonnettomuus)). Verenglukoosi ja ydinlämpötila mitataan aina, ja hypoglykemia korjataan tarvittaessa – matala verensokeri voi muistuttaa aivovamman oireita. Hypotermian ehkäisy on osa perushoitoa.
 
+## European Trauma Course: tutkimisen tarkennukset
+
+### Sekundaarivaurion raja-arvot
+
+ETC määrittelee sekundaarivaurion syiksi **hypoksian** (PaO₂ alle 10 kPa), **hypotension** (systolinen alle 110 mmHg tai keskiverenpaine alle 90 mmHg) ja **kohonneen kallonsisäisen paineen** (yli 20 mmHg). Jo **alle 5 minuutin** hypoksia- tai hypotensiojaksot huonontavat ennustetta merkittävästi. Sekundaarivauriota lisäävät myös viivästynyt diagnoosi ja hoito sekä muiden vammojen puutteellinen hoito. Ennuste on vaikean aivovamman jälkeen huono: kuolleisuus 31 %, ja vain 30 % toipuu hyvin puolessa vuodessa.
+
+> [!important] Lähteiden erot
+> - **Verenpaine:** ETC:n tavoite on keskiverenpaine yli 90 mmHg (systolinen yli 110 mmHg); suomalainen hoito-ohje käyttää rajaa systolinen yli 120 mmHg.
+> - **Pääpuolen nosto:** ETC nostaa pääpuolta 15°, jos verenpaine sallii; suomalaisessa ohjeessa paareja nostetaan 20–30°.
+> - **GCS:n lasku:** ETC:n mukaan jo **yhden pisteen** lasku on merkittävä ja vaatii välittömän uudelleenarvion ABCDE-järjestyksessä; sivuston hälytysrajana on kahden pisteen lasku.
+
+### GCS – yleiset sudenkuopat
+
+```media
+{"widget":"matching","title":"GCS:n sudenkuopat","prompt":"Yhdistä tilanne siihen, miten se kirjataan tai arvioidaan oikein.","pairs":[
+{"left":"Silmät eivät aukea turvotuksen takia","right":"Kirjaa, ettei silmien avausta voi arvioida – ei automaattisesti 1 piste"},
+{"left":"Kipuvaste","right":"Paina silmäkuopan yläreunan hermoa – raajaan annettua ärsykettä ei välttämättä tunneta kaularankavammassa"},
+{"left":"Käsi nousee kipukohtaa kohti","right":"Paikantaa (5) vain, jos käsi nousee solisluun tason yläpuolelle – muuten väistää (4)"},
+{"left":"Lastoitettu tai murtunut raaja","right":"Kirjaa paremman puolen vaste ja puolieron syy"},
+{"left":"Potilas intuboidaan","right":"Arvioi ja kirjaa GCS ennen lääkkeitä; puhevasteeksi \"intuboitu\""}
+]}
+```
+
+> [!warning] Älä syytä alkoholia
+> Heikkoa tai heikkenevää neurologista tilaa ei saa koskaan selittää pelkällä alkoholilla. Kallonsisäinen vaurio tai hypoksian, hypotension, hypovolemian tai hypoglykemian aiheuttama sekundaarivaurio on aina suljettava pois. Ks. [alkoholin väärinkäyttö](topic:alkoholin-vaarinkaytto).
+
+### Pupillit ja puolierot
+
+- Pupillien koko ja suora sekä epäsuora valoreaktio arvioidaan ja kirjataan.
+- **Synnynnäinen toispuoleinen pupillin laajuus esiintyy noin 10 %:lla väestöstä** – valoreaktiot ovat kuitenkin normaalit molemmin puolin.
+- **Silmäproteesi** voi näyttää laajalta, valojäykältä pupillilta, ellei sitä huomata.
+- Toispuoleinen heikkous, liikevasteen epäsymmetria tai pupillien ero viittaa vahvasti paikalliseen aivovaurioon. Klassinen esimerkki on **epiduraalihematooma**: saman puolen laaja, valojäykkä pupilli ja vastakkaisen puolen liikevasteen heikkeneminen.
+- **Käsien vajoamiskoe:** hereillä oleva potilas sulkee silmät ja ojentaa kädet eteen kämmenet ylöspäin. Jos käsi kiertyy niin, että kämmen kääntyy alaspäin, se on varhainen ja herkkä merkki osittaisesta halvauksesta.
+
+### Kallonpohjan murtuma
+
+| Varhaiset merkit | Myöhäiset merkit (12–24 h kuluessa) |
+|---|---|
+| Veri tärykalvon takana | Mustelma korvan takana kartiolisäkkeen päällä (Battlen merkki) |
+| Verinen selkäydinneste korvasta tai nenästä | Silmäkuoppien mustelmat ("pandasilmät") |
+| Silmänvalkuaisen verenvuoto, jolla ei näy takarajaa | |
+| Lasiaisen alainen verenvuoto silmänpohjassa | |
+
+Akuuttivaiheessa myöhäiset merkit eivät vielä näy. **Nenä-mahaletkua ei käytetä kallonpohjan murtumassa**, koska letku voi työntyä kallon sisään – tajuttomalla aivovammapotilaalla suun kautta laitettu mahaletku on turvallisempi. Kallon avomurtumaa, josta aivokudos näkyy, ei tutkita: se peitetään puhtaalla sidoksella. Kallosta törröttävä vierasesine jätetään paikalleen.
+
+### Muut ETC:n huomiot
+
+- **Suljettu kallonsisäinen vamma ei koskaan aiheuta hypovoleemista sokkia aikuiselle.** Poikkeuksia ovat alle 18 kuukauden ikäiset (aukileet auki) ja aikuiset, joilla on massiivinen päänahan haava. Päänahan vuoto tyrehdytetään painamalla haavan reunoja.
+- Pelkkää **kohonnutta verenpainetta ei hoideta** alussa, koska se on elimistön keino ylläpitää aivojen perfuusiota kallonsisäisen paineen noustessa.
+- **Ei glukoosia sisältäviä nesteitä:** ne laskevat plasman natriumia ja osmolaliteettia, mikä pahentaa aivoturvotusta, ja hyperglykemia liittyy huonompaan ennusteeseen.
+- Tajuttoman liikenneonnettomuus- tai putoamispotilaan **kaularankavamman riski on 5–10 %**. Intubaation ajaksi kaulus avataan ja tilalle tulee käsin tuenta.
+- Intuboidun tavoite on **normoventilaatio** (PaCO₂ 4,6–5,0 kPa). EtCO₂ on yleensä vähintään 0,5 kPa PaCO₂:ta matalampi. Hyperventilaatio (PaCO₂ alle 4,0 kPa) heikentää jo valmiiksi huonosti perfusoituneiden alueiden verenkiertoa.
+- **Kuume** hoidetaan aktiivisesti viilentämällä; lievän hypotermian hyödystä varhaisvaiheessa ei ole näyttöä.
+- Antikoagulaatiohoitoa saavan vuotavan potilaan tai aivoverenvuotopotilaan antikoagulaatio kumotaan viipymättä – kysy lääkitys AMPLE-esitiedoissa.
+
+```media
+{"widget":"checklist","title":"Tarvitaanko välitön pään TT? (ETC)","prompt":"Merkitse täyttyvät kriteerit. Kolme viimeistä koskevat vain potilasta, jolla on ollut tajuttomuutta tai muistiaukko.","rule":{"type":"any"},"items":[
+{"label":"GCS 13 tai alle missä vaiheessa tahansa vamman jälkeen"},
+{"label":"GCS alle 15 kaksi tuntia vamman jälkeen"},
+{"label":"Epäily avoimesta tai impressiomurtumasta"},
+{"label":"Mikä tahansa kallonpohjan murtuman merkki"},
+{"label":"Vamman jälkeinen kouristus"},
+{"label":"Paikallinen neurologinen puutos"},
+{"label":"Oksentanut useammin kuin kerran"},
+{"label":"Muistiaukko yli 30 min vammaa edeltävistä tapahtumista"},
+{"label":"Ikä 65 vuotta tai yli","group":"Riskitekijät + tajuttomuus tai muistiaukko"},
+{"label":"Hyytymishäiriö tai antikoagulantti / verihiutaleiden estäjä","group":"Riskitekijät + tajuttomuus tai muistiaukko"},
+{"label":"Vaarallinen mekanismi (jalankulkija auton alle, putoaminen yli 1 m tai 5 porrasta)","group":"Riskitekijät + tajuttomuus tai muistiaukko"}
+],
+"met":{"title":"Välitön pään TT","text":"Kerro löydökset ennakkoilmoituksessa – ne vaikuttavat kuljetuskohteeseen ja vastaanottoon.","tone":"warning"},
+"notMet":{"title":"Ei välittömän TT:n kriteerejä","text":"Arvioi silti tilanne kokonaisuutena ja seuraa tajuntaa – jo yhden GCS-pisteen lasku on merkittävä.","tone":"ok"}}
+```
+
 ## Jatkohoito ja kuljetus
 
 Ensihoidossa kuljetetaan potilaat, joilla on alentunut tajunnantaso (myös ohimenevä), muita neurologisia oireita tai muistihäiriö, antikoagulaatiolääkitys yhdistettynä merkittävään pään vammaan, korkeaenerginen vammamekanismi, murtumaepäily tai lävistävä vamma, tai jatkuva oksentelu. Oireettomat potilaat, joilla kotiseuranta ei ole mahdollista, ohjataan päivystykseen seurantaan. Oireettomat potilaat, joilla kotiseuranta on mahdollista ja kirjalliset ohjeet on annettu, voidaan jättää kotiin.
@@ -109,3 +182,4 @@ Ensihoidossa kuljetetaan potilaat, joilla on alentunut tajunnantaso (myös ohime
 - Vältä hyperventilaatiota (aiheuttaa aivoiskemiaa) ja kovakaulurin käyttöä (nostaa kallonsisäistä painetta).
 - Laskimopaluu turvataan pitämällä pää suorassa ja kaulalaskimot vapaana; kuljetuksessa pääpuoli voi olla 20–30° koholla verenpaineen sen salliessa.
 - Traneksaamihappoa (1 g i.v.) harkitaan vaikeassa aivovammassa, ja riittävä kivunhoito/sedaatio on osa kallonsisäisen paineen hallintaa.
+- ETC: jo alle 5 minuutin hypoksia tai hypotensio huonontaa ennustetta; älä selitä tajunnan laskua alkoholilla; nenä-mahaletku on vasta-aiheinen kallonpohjan murtumassa.

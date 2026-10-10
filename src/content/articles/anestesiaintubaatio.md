@@ -76,6 +76,38 @@ Davies (Respiratory Care) korostaa, että naamari-paljeventilaatio on epäonnist
 - **Nenänieluputki** sopii myös potilaalle, jolla on nieluheijaste, trismus tai suun vamma. Pituus mitataan nenänpäästä korvalehden tasolle tai leukakulmaan.
 - **Vaikean maskiventilaation riskit (MOANS)**: Mask seal (parta, veri, kasvovammat), Obesity/Obstruction (myös loppuraskaus), Age, No teeth, Stiff lungs.
 
+## European Trauma Course: vammapotilaan hengitystie
+
+### Vortex – ajattelutapa vaikeaan hengitystiehen
+
+ETC suosittaa vaikean hengitystien algoritmiksi brittiläisen DAS-ohjeen ja muistuttaa, että koko tiimin on tunnettava oman alueen algoritmi. Minkä tahansa algoritmin päälle sopii **Vortex-ajattelutapa**: hengitystien hoito on kuin suppilo. Sen yläreuna on **vihreä alue**, jossa potilas hapettuu ja ventiloi itse. Kun anestesia alkaa, vihreältä alueelta poistutaan ja happeutus kiertää suppiloa alaspäin. Takaisin pääsee kolmella keinolla – **intubaatio, supraglottinen väline ja naamari-palje** – ja kullakin on enintään kolme yritystä. Kun keinolla on tehty "paras yritys", sitä ei kannata jatkaa, vaikka yritys olisi ollut ensimmäinen. Jos kaikki kolme epäonnistuvat, tilanne on **CICO** (ei voi intuboida, ei voi happeuttaa), ja tarvitaan kirurginen hengitystie.
+
+```media
+{"widget":"vortex","caption":"Kokeile: merkitse yrityksiä epäonnistuneiksi ja seuraa, miten happeutus kiertää kohti suppilon pohjaa. Onnistunut keino palauttaa vihreälle alueelle."}
+```
+
+> [!important] Lähteiden ero yritysten määrässä
+> Vortex-mallissa kullakin kolmella keinolla on enintään kolme yritystä. Sivuston suomalaisessa (FinnHEMS) ohjeessa intubaatioyrityksiä on **enintään kaksi**, minkä jälkeen siirrytään i-geliin. Noudata oman alueen ohjetta – periaate on sama: älä jumitu yhteen keinoon.
+
+ETC:n tarkistuslistan suunnitelmat: **A** nopea induktio ja intubaatio, **B** naamari-paljeventilaatio, **C** supraglottinen väline, **D** kaulan etuosan kautta tehtävä hengitystie. Ennen kirurgista hengitystietä pidetään lyhyt aikalisä (**10 sekuntia 10 minuutin edestä**), ja päätös sanotaan ääneen ja toteutetaan heti.
+
+### Pulssioksimetrin rajoitukset
+
+- Saturaatio 100 % vastaa noin 12 kPa:n PaO₂:ta, mutta **90 % vain noin 8 kPa:ta** – 10 %:n lasku saturaatiossa on 40 %:n lasku happiosapaineessa. Tätä alempana veren happisisältö laskee vielä nopeammin.
+- **Häkämyrkytyksessä** (savu) mittari näyttää liian korkeaa saturaatiota.
+- **Methemoglobiini** saa mittarin näyttämään liian matalaa arvoa, kun todellinen saturaatio on yli 85 %.
+- Mittari aliarvioi saturaatiota sitä enemmän, mitä alempi hemoglobiini on.
+- Ulkoinen valo ja potilaan liike heikentävät luotettavuutta.
+
+Pulssioksimetri kertoo hapetuksesta, mutta **ventilaatio varmistetaan kapnografialla** ja lopulta verikaasuilla.
+
+### Välineet ja vammapotilaan erityispiirteet
+
+- **Nenänieluputki** sopii potilaalle, joka ei ole syvästi tajuton, ja voi pelastaa hengen kasvojen luiden murtumissa tai leukalukossa. **Sitä ei käytetä, jos kallonpohjan murtumaa tiedetään tai epäillään.** Yleinen virhe on työntää putki ylöspäin – se viedään nenän pohjaa pitkin.
+- **Kurkunpääputken koko** valitaan pituuden mukaan: koko 5 yli 180 cm, koko 4 155–180 cm ja koko 3 alle 155 cm. Larynksimaskin koko on tyypillisesti 5 miehille ja 4 naisille.
+- **Kaularangan käsin tuenta (MILS)** intubaation aikana: kaulus avataan, koska se rajoittaa suun avaamista ja vaikeuttaa laryngoskopiaa. Kolme ihmistä tarvitaan: yksi tukee kaularankaa, yksi avaa kauluksen ja intuboija. Tajuttoman liikenneonnettomuus- tai putoamispotilaan kaularankavamman riski on 5–10 %.
+- **Ylipaineventilaatio heikentää laskimopaluuta** ja pahentaa hypotensiota erityisesti hypovoleemisella potilaalla. Pienet kertatilavuudet ja hidas taajuus auttavat; tavoite on normokapnia kapnografian ohjaamana.
+
 ## Kansainvälinen vertailu
 
 | | FinnHEMS (Suomi) | Sydney HEMS (2016) | AAGBI (2009) |
@@ -123,3 +155,4 @@ Jos potilasta ei saada monitoroitua tai esihappeutettua levottomuuden vuoksi, se
 - Neurokriittinen potilas: vakaa verenpaine ja normoventilaatio, ventilointi jo esihappeutuksen aikana.
 - Tarkistuslista haaste–vastaus-periaatteella ennen jokaista induktiota.
 - Käsiventilaatio kahden käden otteella, kertatilavuus noin 500–600 ml – vältä mahalaukun täyttymistä.
+- Vortex: kolme keinoa (intubaatio, supraglottinen, naamari-palje), paras yritys kullakin – kaikkien epäonnistuessa CICO ja kirurginen hengitystie. Pulssioksimetri näyttää häkämyrkytyksessä liian hyvää.

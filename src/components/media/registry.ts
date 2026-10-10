@@ -109,6 +109,7 @@ export const widgetMeta: Record<string, WidgetMeta> = {
   'fluid-response': { title: 'Kolme vastetta nesteytykseen', kind: 'Kaavio' },
   'tca-causes': { title: 'Traumaattisen sydänpysähdyksen hoidettavat syyt', kind: 'Interaktiivinen kuva' },
   'comm-stairs': { title: 'Viestinnän portaat', kind: 'Animaatio' },
+  vortex: { title: 'Vortex: kolme keinoa happeuttaa', kind: 'Harjoitus' },
   'scene-card': { title: 'Kohteessa: tiedä, tutki, osaa', kind: 'Itsearviointi' },
 }
 

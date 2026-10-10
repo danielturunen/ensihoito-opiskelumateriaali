@@ -141,6 +141,13 @@ Kuuma neste on lasten palovammojen yleisin aiheuttaja. Lapsella pää on suhtees
 > - Imeväisen päänahan haava voi vuotaa merkittävästi.
 > - Lantiovammassa ennen murrosikää hematooma pysyy usein vahvan luukalvon sisällä, joten massiivivuoto on harvinaisempaa – lantiovyö (oikea koko) asetetaan silti, jos mekanismi tai löydökset viittaavat.
 > - Lisähappi, jos SpO₂ on alle 95 %. Kipuun sopii hyvin nenään annettava fentanyyli.
+> - **10-vuotiaat ja sitä vanhemmat** arvioidaan ja elvytetään kuin pienet aikuiset.
+> - **Sokissa olevan lapsen bradykardia ennustaa yleensä sydänpysähdystä.**
+> - Suuri pinta-ala suhteessa tilavuuteen altistaa pienet lapset hypotermialle – lämmin ympäristö, lämpimät nesteet, lämpöpeitot.
+> - **Traneksaamihappo:** 15 mg/kg boluksena (enintään 1 g), sitten 2 mg/kg/h 8 tunnin ajan (enintään 125 mg/h).
+> - Verivalmisteet (punasolut, plasma, verihiutaleet 1:1:1) annetaan 1–10 ml/kg:n erissä vuodon mukaan; kirkkaita nesteitä ja kolloideja rajoitetaan.
+> - Noin 90 % lasten kiinteiden elinten vammoista hoidetaan ilman leikkausta. **Polkupyörän ohjaustangon isku** on klassinen haiman tai pohjukaissuolen vamman syy.
+> - Rangan tuenta vain yhteistyökykyiselle tai tajuttomalle lapselle – pakottaminen voi aiheuttaa lisävahinkoa. Ks. [selkäranka- ja selkäydinvamma](topic:selkaranka-ja-selkaydinvamma).
 
 ## Kivunhoito
 
@@ -157,6 +164,9 @@ Suonensisäinen anto on ensisijainen kipulääkkeen antotapa, mutta kanylointi v
 | Alfentaniili | 10–30 µg/kg |
 | Fentanyyli | 1–2 µg/kg |
 | S-ketamiini | 0,125–0,25 mg/kg |
+
+> [!important] ETC:n lasten kipulääkeannokset poikkeavat osin
+> European Trauma Coursen taulukossa annokset ovat: **fentanyyli 0,5–1 µg/kg i.v. tai 2 µg/kg nenään**, morfiini 0,03–0,1 mg/kg i.v., ketamiini 0,2–0,5 mg/kg i.v., 3 mg/kg nenään tai 2 mg/kg lihakseen (S-ketamiinilla annokset puolitetaan) ja parasetamoli 15 mg/kg i.v. Suonensisäisen fentanyylin ETC-annos on siis pienempi kuin yllä olevassa suomalaisessa taulukossa (1–2 µg/kg). Noudata alueen hoito-ohjetta. ETC muistuttaa, että varhainen kivunlievitys – myös nenän kautta – parantaa lapsen yhteistyötä ja rauhoittaa vanhempia.
 
 Parasetamoli on lapsella tehokas kipulääke (peräsuoleen 40–60 mg/kg, esim. 9 kg lapselle 500 mg peräpuikko). Ensihoidossa annosta ei voi mitata 0,01 ml:n tarkkuudella – pyöristä lähimpään turvalliseen määrään haittavaikutukset huomioiden. Opioidien hengitystä lamaava vaikutus korostuu lapsella, joten hengitystä seurataan tarkasti ja hengityksen avustamiseen varaudutaan aina suonensisäistä opioidia annettaessa.
 
@@ -201,7 +211,7 @@ Katso myös [sydänpysähdyspotilaan hoito](topic:elvytys-sairaalan-ulkopuolella
 
 ## Lapsen pahoinpitely ja kuolema
 
-Pahoinpitelyä on syytä epäillä, kun vamma on vakavampi kuin ilmoitettu mekanismi selittää, kertomus muuttuu tutkimuksen aikana, avun hälyttämistä on viivytelty, lapsella on eri-ikäisiä vammoja tai vammat ovat muuten selittämättömiä. Alle 1-vuotias ei yleensä itse liikkumalla kykene tuottamaan suurienergisiä vammoja, kuten murtumia. Pienikin pahoinpitelyepäily riittää perusteeksi kuljettaa lapsi hoitoon, vaikka vammat sinänsä eivät sitä vaatisi.
+Pahoinpitelyä on syytä epäillä, kun vamma on vakavampi kuin ilmoitettu mekanismi selittää, kertomus muuttuu tutkimuksen aikana, avun hälyttämistä on viivytelty, lapsella on eri-ikäisiä vammoja tai vammat ovat muuten selittämättömiä. Alle 1-vuotias ei yleensä itse liikkumalla kykene tuottamaan suurienergisiä vammoja, kuten murtumia. Pienikin pahoinpitelyepäily riittää perusteeksi kuljettaa lapsi hoitoon, vaikka vammat sinänsä eivät sitä vaatisi. European Trauma Coursen mukaan epäilyä herättävät myös **imeväisen kylkiluumurtumat**, **pitkän luun murtuma lapsella, joka ei vielä liiku itse**, sekä usein moninkertaiset kasvulevyn alueen vammat. Palovammoissa ja kuumien nesteiden vammoissa tarkistetaan, sopiiko vamman jakauma kerrottuun mekanismiin. Myös vanhempien ja lapsen vuorovaikutus voi herättää huolta. Kaikki tekijät kootaan huolellisesti yhteen, jotta perhettä ei syytetä aiheetta – mutta huoli on aina selvitettävä lapsen ja kotona olevien sisarusten turvallisuuden vuoksi.
 
 Lapsen äkillinen kuolema (Suomessa 5–10 kätkytkuolemaa vuosittain, yleisimmin 2–4 kuukauden iässä) on aina perheelle valtava kriisi. Kätkytkuolemadiagnoosia ei saa koskaan ehdottaa ennen oikeuslääketieteellistä selvitystä. Myötätuntoinen, tuomitsematon suhtautuminen ja perheen kriisituen varmistaminen kuuluvat ensihoitajan tehtäviin tässä tilanteessa.
 

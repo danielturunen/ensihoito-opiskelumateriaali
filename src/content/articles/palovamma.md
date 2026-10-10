@@ -96,6 +96,47 @@ Alkuvaiheessa pieniä vamma-alueita voi jäähdyttää viileällä (ei jääkylm
 > [!warning] Hypotermian ehkäisy
 > Palovammapotilas menettää lämpöä nopeasti ihon suojafunktion menetyksen, nestehävikin ja ympäristöaltistuksen vuoksi. Aktiivinen lämmitys (lämpöpeite, puhaltimet, yksikön korkea sisälämpötila) ja palovamma-alueiden suojaaminen tuulelta aloitetaan varhain.
 
+## European Trauma Course: lisähuomiot
+
+**Sokki ei alkuvaiheessa johdu palovammasta.** ETC:n mukaan palovamman aiheuttama hypovoleeminen sokki kehittyy hitaasti, joten vastaanottovaiheessa näkyvä sokki johtuu jostain muusta – etsi vuotoa. Mekanismi kertoo usein liitännäisvammoista: klassinen esimerkki on tulipalosta ylemmästä kerroksesta hypännyt potilas, jolla on selkärankavamma. Myös tajunnan lasku voi johtua hypoksiasta, alkoholista, lääkkeistä tai muista vammoista.
+
+**Hengitystiepalovamman epäily (ETC):**
+
+- *Esitiedot:* altistus tulelle tai savulle suljetussa tilassa, räjähdys, romahtaminen, sekavuus tai levottomuus missä vaiheessa tahansa.
+- *Oireet ja löydökset:* käheys tai äänen muutos, karhea yskä, stridor, kasvojen palovammat, kärventyneet nenäkarvat, noki syljessä tai ysköksissä, punoittava tai turvonnut nielu.
+- Turvotus voi kehittyä minuuteista tunteihin – epäilyä on ylläpidettävä ja potilas arvioitava toistuvasti. Varhainen intubaatio on yleensä turvallisin vaihtoehto, koska turvotus pahenee ensimmäisten tuntien aikana. **Pulssioksimetrin lukemaa tulkitaan varoen häkämyrkytyksessä.** Kortikosteroideista ei ole näyttöä.
+
+**Haavan peitto ja lämpö:** palovamma peitetään väljästi **muovikelmulla**, ja kädet voi laittaa muovipusseihin. **Antiseptisiä liuoksia tai voiteita ei laiteta.** Potilas pidetään lämpimänä kuivilla huovilla, palamattomat alueet peitetään ja ympäristön lämpötila nostetaan mieluiten 30 °C:een. Ympärysmittainen syvä palovamma voi toimia kuin kiristysside; sen kirurgista avaamista tarvitaan harvoin ensimmäisinä tunteina – poikkeuksena koko vartalon syvä palovamma, joka estää hengitystä.
+
+**Kipu** ei ole vain inhimillinen kysymys: kipu vapauttaa katekoliamiineja, jotka voivat lisätä ääreiskudosten iskemiaa ja mahdollisesti syventää palovammaa. Suonensisäistä opioidia annetaan, kunnes potilas on kivuton.
+
+> [!important] Lähteiden erot nestehoidossa
+> - **Suonensisäinen nesteytys:** ETC:n mukaan aikuisella yli 15 %:n ja lapsella yli 10 %:n palovamma tarvitsee suonensisäisiä nesteitä palovammasokin estämiseksi; sivuston suomalaisissa lähteissä laajan palovamman raja on aikuisella 20 % ja lapsella 10 %.
+> - **Parklandin kaava:** ETC antaa vaihteluvälin **2–4 ml** × paino × palovamma-% (alussa käytetään 4 ml); sivuston suomalainen lähde käyttää 4 ml.
+> - **Virtsamäärätavoite:** ETC aikuisella 1 ml/kg/h ja lapsella 2 ml/kg/h; suomalainen lähde 0,5–1,0 ml/kg/h.
+>
+> Molemmat korostavat, että nestetarve lasketaan **vammahetkestä**, joten moni potilas on jo jäljessä saapuessaan. Yli 15 %:n palovammassa tai merkittävien liitännäisvammojen yhteydessä voidaan tarvita myös verta. Paino kannattaa kysyä tai punnita – arviot ovat usein epätarkkoja.
+
+```media
+{"widget":"checklist","title":"Monimutkainen palovamma – palovammakeskuksen konsultaatio (ETC)","prompt":"Palovamma on monimutkainen, jos yksikin kriteeri täyttyy.","rule":{"type":"any"},"items":[
+{"label":"Alle 5- tai yli 60-vuotias","group":"Ikä ja laajuus"},
+{"label":"Aikuisella yli 10 %, lapsella yli 5 % kehon pinta-alasta","group":"Ikä ja laajuus"},
+{"label":"Kasvot, kädet, välilihan alue tai jalkaterät","group":"Sijainti"},
+{"label":"Taive, erityisesti kaula tai kainalo","group":"Sijainti"},
+{"label":"Ympärysmittainen syvä palovamma raajassa, vartalossa tai kaulassa","group":"Sijainti"},
+{"label":"Merkittävä hengitystiepalovamma (ei pelkkä häkämyrkytys)","group":"Hengitystie"},
+{"label":"Korkeapainehöyry tai suurjännite","group":"Mekanismi"},
+{"label":"Kemikaali yli 5 % tai fluorivetyhappo yli 1 %","group":"Mekanismi"},
+{"label":"Epäily pahoinpitelystä (aikuinen tai lapsi)","group":"Mekanismi"},
+{"label":"Sydän- tai keuhkosairaus, diabetes, raskaus, immuunipuutos tai maksasairaus","group":"Perussairaudet"},
+{"label":"Murskavamma, suuri pitkän luun murtuma, päävamma tai lävistävä vamma","group":"Liitännäisvammat"}
+],
+"met":{"title":"Monimutkainen palovamma","text":"Ota varhain yhteys palovammakeskukseen ohjeiden ja siirron suunnittelua varten. Hoitopaikka valitaan Suomessa ensihoitolääkärin konsultaation perusteella.","tone":"warning"},
+"notMet":{"title":"Ei monimutkaisen palovamman kriteerejä","text":"Arvioi hoitopaikka laajuuden, kivunhoidon tarpeen ja sijainnin perusteella.","tone":"ok"}}
+```
+
+Jos siirto palovammakeskukseen viivästyy yli kuusi tuntia, tilanteesta neuvotellaan keskuksen kanssa.
+
 ## Jatkohoito ja kuljetus
 
 Ensihoidossa kuljetetaan laajat palovammat, kivunhoitoa edellyttävät tilanteet ja lapset. Pinnalliset palovammat aikuisella alle 10 % ja hallinnassa oleva kivuntunne voidaan ohjata päivystykseen. Pienet (enintään 1–2 %) ja pinnalliset palovammat voidaan hoitaa kotona, kun kivunhoito on mahdollista kotioloissa. Nivelten ja genitaalien alueen palovammat ohjataan päivystykseen pienestäkin koosta huolimatta. Hoitopaikan valinta – palovammakeskus tai yliopistosairaala laajoissa palovammoissa – tehdään ensihoitolääkärin konsultaation perusteella.
@@ -137,3 +178,4 @@ Sairaalassa ensimmäisen vuorokauden nestetarve arvioidaan **Parklandin kaavalla
 - Hengitystiepalovamma vaatii suljetun tilan; systeeminen myrkytys (häkä, syanidi) on välittömin uhka – 100 % happi ja tarvittaessa hydroksokobalamiini.
 - Syvät palovammat ovat usein kivuttomia, pinnalliset kivuliaita; varhainen konsultaatio ja siirto ennen kuin turvotus etenee.
 - Hypotermian ehkäisy ja riittävä kivunhoito (VAS > 4) ovat osa laajan palovamman perushoitoa.
+- ETC: vastaanottovaiheen sokki ei johdu palovammasta – etsi vuotoa. Peitä muovikelmulla, ei voiteita; kädet muovipusseihin.

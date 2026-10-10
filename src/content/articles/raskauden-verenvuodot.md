@@ -109,6 +109,43 @@ Ensihoito-oppaan (Kämäräinen 2023) mukaan tilanne tunnistetaan ja **kuljetus 
 
 Yleisimmät vakavat vammamekanismit ovat liikenneonnettomuus, kaatuminen ja vatsaan kohdistuneet iskut. Sikiötä uhkaavat keskenmeno, ennenaikainen synnytys, istukan irtoaminen ja sikiökuolema. Äiti hoidetaan kuten muutkin traumapotilaat – **sikiön paras hoito on äidin hyvä hapetus ja verenkierto** – ja sikiön vointi tarkistetaan sairaalassa. Jos raskausviikkoja ei tiedetä, navan tasolle ulottuva kohtu viittaa noin 20. raskausviikkoon, jolloin kohtu alkaa painaa alaonttolaskimoa. Raskaana olevan elvytyksestä katso [elvytys sairaalan ulkopuolella](topic:elvytys-sairaalan-ulkopuolella).
 
+#### European Trauma Course: mitä raskaus muuttaa vammapotilaalla
+
+ETC:n mukaan vamma on raskaana olevan yleisin muu kuin obstetrinen kuolinsyy, ja hoidettavana on **kaksi potilasta**. Raskauden fysiologia muuttaa sekä vammojen kuvaa että vastetta hoitoon:
+
+| Muutos | Mitä se tarkoittaa hoidossa |
+|---|---|
+| Syke nousee raskauden loppua kohden 10–15/min lähtötasoa korkeammaksi; verenpaine laskee toisella kolmanneksella 5–15 mmHg | Peruselintoimintojen "normaali" on siirtynyt – vertaa tunnettuun lähtötasoon |
+| Veritilavuus kasvaa 40–50 %; loppuraskaudessa hematokriitti 30–35 % on normaali | Äiti kompensoi pitkään – **hypovolemian merkit näkyvät vasta suuresta vuodosta** |
+| Kun äidin verenpaine laskee, istukan suonet supistuvat; kohdun suonet ovat erittäin herkkiä katekoliamiineille | Äidin hypovolemia uhkaa sikiötä vakavasti jo ennen kuin äiti näyttää sokkiselta |
+| PaCO₂ 4,0–4,5 kPa on normaali (hyperventilaatio); toiminnallinen jäännöskapasiteetti pienenee ja hapenkulutus kasvaa | Desaturoituu nopeasti – **happea kaikille raskaana oleville vammapotilaille** |
+| Aspiraatioriski toisesta kolmanneksesta alkaen; vaikea tai epäonnistunut intubaatio on yleisempi | Hyvä esihapetus ja vaihtoehtoiset hengitystievälineet valmiiksi |
+| Aortokavaalinen kompressio selinmakuulla näkyvästi raskaana olevalla | Kohdun siirto käsin vasemmalle tai 15° vasen kallistus |
+
+- **Istukan irtoaminen jo vähäisestä vammasta:** kohtu on kimmoisa, mutta istukka ei – leikkausvoimat voivat irrottaa sen. Emättimen vuoto esiintyy jopa 70 %:ssa irtoamisista; muita merkkejä ovat kohdun arkuus, supistukset ja tunnusteltaessa herkästi supistuva kohtu.
+- **Kohdun repeämän merkit:** vatsan arkuus, lihasjännitys ja jäykkyys, poikkeava sikiön asento ja helposti tunnettavat sikiön osat. Sikiö jää harvoin eloon.
+- **Kolmannella kolmanneksella** kohtu on vatsan haavoittuvin elin, ja suolisto ja pallea ovat nousseet rintakehän alueelle. Loppuraskaudessa äidin lantiomurtuma voi aiheuttaa sikiölle vakavan kallonsisäisen vamman.
+- **Lävistävässä vammassa** kohtu suojaa äitiä: kohtuun osuneissa ampumavammoissa äidin kuolleisuus on 7–10 %, mutta sikiön noin 70 %.
+- **Kouristus voi olla vamman syy:** raskaushypertension aiheuttaman kouristuksen jälkeinen tajunnan lasku voi näyttää päävammalta. Ks. eklampsia yllä.
+- **Sikiön syke** on normaalisti 120–160/min; takykardia, bradykardia ja vaihtelun puuttuminen viittaavat sikiön hätään. Kohdun korkeus senttimetreinä häpyliitoksesta on suunnilleen sama kuin raskausviikot.
+- **Kuljetus** sairaalaan, jossa on synnytysosasto (ja täysiaikaisen raskauden lähestyessä vastasyntyneiden hoito), ja ennakkoilmoitus, jotta synnytyslääkäri on vastassa.
+- **Perimortem-sektio:** sairauskohtauksista tiedetään, että jos elvytys ei tehoa 5 minuutissa, yli 20. raskausviikon sikiön synnyttäminen on ainoa keino mahdollistaa äidin tehokas elvytys. Vammapotilaista tutkimustietoa ei ole; päätös tehdään yhdessä synnytyslääkärin kanssa.
+
+```media
+{"widget":"checklist","title":"Viittaako vamma lähisuhdeväkivaltaan? (ETC)","prompt":"Lähisuhdeväkivalta on yleistä ja jää usein tunnistamatta häpeän ja syyllisyyden vuoksi. Merkitse havainnot.","rule":{"type":"any"},"items":[
+{"label":"Vammat eivät sovi kerrottuun syntytapaan"},
+{"label":"Toistuvat päivystyskäynnit"},
+{"label":"Potilas syyttää itseään vammoista"},
+{"label":"Viivästynyt hoitoon hakeutuminen"},
+{"label":"Huono itsetunto, masennuksen tai itsetuhoisuuden piirteitä"},
+{"label":"Kumppani vaatii olla koko ajan läsnä"},
+{"label":"Päihteiden käyttö"},
+{"label":"Epäsuhtainen huoli vammoista"}
+],
+"met":{"title":"Epäile lähisuhdeväkivaltaa","text":"Välitön hoito menee edelle, mutta kun vammat on hoidettu, yhden tiimin jäsenen tehtävä on selvittää väkivallan merkit ja ohjata potilas paikallisen ohjeen mukaisesti eteenpäin.","tone":"warning"},
+"notMet":{"title":"Ei selviä merkkejä","text":"Tunnistamatta jääminen on sääntö eikä poikkeus – pidä epäily mielessä.","tone":"neutral"}}
+```
+
 ### Ensihoito-oppaan ohje: raskaudenaikainen verenvuoto
 
 Ensihoito-oppaan (Kämäräinen 2023) aikatavoitteet: **runsas vuoto tai sen uhka tunnistetaan 5 minuutissa ja hätäkuljetukseen lähdetään 10 minuutissa.** Verenvuoto **22. raskausviikon jälkeen** edellyttää aina päivystyksellistä arviota synnytyssairaalassa.
