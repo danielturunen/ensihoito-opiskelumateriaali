@@ -19,6 +19,19 @@ Yleisimmät mekanismit ovat liikenneonnettomuudet (yleisin vakavien aivovammojen
 {"widget":"gcs","caption":"Harjoittele pisteytystä: valitse silmät, puhe ja liike – laskuri siirtyy automaattisesti seuraavaan osaan."}
 ```
 
+### Aivovamman vaikeusaste: GCS ja muistiaukko
+
+Akuuttihoitotyön oppaan (2024) mukaan aivovamman vaikeusaste luokitellaan tajunnantason (GCS) ja vamman jälkeisen muistiaukon (**PTA**, posttraumaattinen amnesia) perusteella. Kaikista vammoista aivovamma johtaa todennäköisimmin kuolemaan tai pysyvään vammautumiseen.
+
+| | Lievä | Keskivaikea | Vaikea |
+|---|---|---|---|
+| GCS | 13–15 | 9–12 | alle 8 |
+| Muistiaukko (PTA) | alle 24 h | 1–7 vrk | yli 7 vrk |
+| Tajuttomuus | ei lainkaan tai enintään 30 min | yli 30 min, enintään 24 h | yli 24 h |
+| Tyypillistä | Päänsärky, huimaus, pahoinvointi, muistamattomuus, saman asian hokeminen | Neurologiset puutosoireet: toispuolihalvaus, puhehäiriö, pupillaero, epileptiset kohtaukset, sekavuus | Tajuton tai tajunta selvästi alentunut |
+
+Muistiaukon pituus korreloi kuitenkin melko huonosti vamman vaikeusasteeseen, ja lievissäkin aivovammoissa kognitiiviset oireet, muistioireet ja väsymys voivat jatkua pitkään. **Diffuusi aksonivaurio** (DAI) on yleisin vaikea aivovamma ja aivovammojen yleisin kuolinsyy: aivojen edestakainen liike – liikenneonnettomuudessa, putoamisessa, suurienergisessä vammassa tai lapsen ravistelussa – vaurioittaa hermosolujen viejähaarakkeita laajalti, ja seurauksena on aivoturvotus. Vaurio ei välttämättä näy TT-kuvassa. **Tajunnantason nopea muutos** voi johtua uusintavuodosta, turvotuksen lisääntymisestä tai infektiosta – tajuntaa seurataan siksi säännöllisesti ja jatkuvasti lievissäkin aivovammoissa.
+
 ## Ajalliset tavoitteet
 
 ```media

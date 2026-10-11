@@ -88,5 +88,10 @@
     "id": "paan-vamma-f18",
     "front": "Mikä on käsien vajoamiskoe?",
     "back": "Potilas sulkee silmät ja ojentaa kädet eteen kämmenet ylöspäin. Jos käsi kiertyy kämmen alaspäin, se on varhainen merkki osittaisesta halvauksesta."
+  },
+  {
+    "id": "paan-vamma-f19",
+    "front": "Diffuusi aksonivaurio (DAI)",
+    "back": "Yleisin vaikea aivovamma ja aivovammojen yleisin kuolinsyy: aivojen edestakainen liike vaurioittaa viejähaarakkeita laajalti → aivoturvotus. Ei välttämättä näy TT:ssä."
   }
 ]

@@ -69,12 +69,7 @@ Induktion ja onnistuneen intubaation välillä potilas on keuhkojen happivarasto
 
 ## Käsiventilaatio – perustaito, joka pelastaa
 
-Davies (Respiratory Care) korostaa, että naamari-paljeventilaatio on epäonnistuneen intubaation varasuunnitelman ydin – ja vaikea taito: noviisi tarvitsee 25–30 harjoituskertaa.
-
-- **Kahden käden ote** on tehokkaampi kuin yhden hengen tekniikka, jos auttajia on riittävästi – erityisesti lihavilla.
-- **Kertatilavuus noin 500–600 ml** riittää ja vähentää ilman pääsyä mahalaukkuun. Elvytyspalkeet voivat antaa jopa 2 litraa, jos ne puristetaan tyhjiksi – liiallinen tilavuus ja paine täyttävät mahalaukun, nostavat palleaa ja lisäävät aspiraatioriskiä.
-- **Nenänieluputki** sopii myös potilaalle, jolla on nieluheijaste, trismus tai suun vamma. Pituus mitataan nenänpäästä korvalehden tasolle tai leukakulmaan.
-- **Vaikean maskiventilaation riskit (MOANS)**: Mask seal (parta, veri, kasvovammat), Obesity/Obstruction (myös loppuraskaus), Age, No teeth, Stiff lungs.
+Naamari-paljeventilaatio on epäonnistuneen intubaation varasuunnitelman ydin – ja vaikea taito. Kahden käden ote, sopiva kertatilavuus, nielu- ja nenänieluputket, supraglottiset välineet ja hätäkrikotyreotomia käsitellään sivulla [hengitystien hallinta](topic:hengitystien-hallinta).
 
 ## European Trauma Course: vammapotilaan hengitystie
 
@@ -103,10 +98,11 @@ Pulssioksimetri kertoo hapetuksesta, mutta **ventilaatio varmistetaan kapnografi
 
 ### Välineet ja vammapotilaan erityispiirteet
 
-- **Nenänieluputki** sopii potilaalle, joka ei ole syvästi tajuton, ja voi pelastaa hengen kasvojen luiden murtumissa tai leukalukossa. **Sitä ei käytetä, jos kallonpohjan murtumaa tiedetään tai epäillään.** Yleinen virhe on työntää putki ylöspäin – se viedään nenän pohjaa pitkin.
-- **Kurkunpääputken koko** valitaan pituuden mukaan: koko 5 yli 180 cm, koko 4 155–180 cm ja koko 3 alle 155 cm. Larynksimaskin koko on tyypillisesti 5 miehille ja 4 naisille.
 - **Kaularangan käsin tuenta (MILS)** intubaation aikana: kaulus avataan, koska se rajoittaa suun avaamista ja vaikeuttaa laryngoskopiaa. Kolme ihmistä tarvitaan: yksi tukee kaularankaa, yksi avaa kauluksen ja intuboija. Tajuttoman liikenneonnettomuus- tai putoamispotilaan kaularankavamman riski on 5–10 %.
 - **Ylipaineventilaatio heikentää laskimopaluuta** ja pahentaa hypotensiota erityisesti hypovoleemisella potilaalla. Pienet kertatilavuudet ja hidas taajuus auttavat; tavoite on normokapnia kapnografian ohjaamana.
+
+> [!info] Ensihoito-oppaan intubaatio-ohje (2026)
+> Intubaatio on ensihoitolääkäriyksikön toimenpide, ja aiheina ovat matala tajunnantaso, vaikea hengitysvaikeus, kasvojen vaikea anatominen vamma ja vaikea hengitysteiden palovamma. Ensisijaisesti tehdään lääkkeellinen intubaatio; videolaryngoskooppi on suositeltava, jos tiimi hallitsee sen. Aikuisen putki on kalvosimellinen koko 7–8, ja paikka varmistetaan käyränäytöllisellä kapnografialla. Lääkkeet: **propofoli 1–2 mg/kg, esketamiini 0,5–1 mg/kg, fentanyyli 50–150 µg ja rokuroni 1 mg/kg**. Ennen intubaatiota käytetään tarkistuslistaa, tehdään työnjako, varmistetaan esihapetus, monitorointi ja asento sekä suunnitellaan vaihtoehtoinen hengitystienhallinta. Intubaation jälkeen putki kiinnitetään huolellisesti, hengityslaite säädetään ja arvioidaan jatkosedaation tarve.
 
 ## Kansainvälinen vertailu
 

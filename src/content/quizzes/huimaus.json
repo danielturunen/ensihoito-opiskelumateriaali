@@ -1,0 +1,91 @@
+[
+  {
+    "id": "huimaus-q1",
+    "type": "mcq",
+    "question": "Mitkä huimauksen syyt vaativat päivystyksellisen arvion erikoissairaanhoidossa Akuuttihoito-oppaan mukaan?",
+    "options": [
+      "Kaikki huimaukset",
+      "Aivoverenkiertohäiriö ja epäily vakavasta sydän- tai verenkiertoperäisestä syystä",
+      "Vain Ménièren tauti",
+      "Asentohuimaus"
+    ],
+    "correctIndex": 1,
+    "explanation": "AVH ja vakava kardiovaskulaarinen syy vaativat päivystyksellisen arvion erikoissairaanhoidossa; muut syyt ovat hoidettavissa perusterveydenhuollossa."
+  },
+  {
+    "id": "huimaus-q2",
+    "type": "mcq",
+    "question": "Millainen huimaus on ensisijaisesti sisäkorvaperäinen?",
+    "options": [
+      "Kiertävä",
+      "Keinuttava",
+      "Esipyörtymiseen liittyvä",
+      "Ilman alkamishetkeä"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kiertävä (karusellimainen) huimaus on ensisijaisesti sisäkorvaperäinen. Kaatava huimaus viittaa Akuuttihoito-oppaan mukaan yleensä aivorunkoon tai pikkuaivoihin."
+  },
+  {
+    "id": "huimaus-q3",
+    "type": "mcq",
+    "question": "Huimaukseen liittyy esipyörtyminen ja tykytys. Mihin se viittaa?",
+    "options": [
+      "Sisäkorvaan",
+      "Sydän- ja verenkiertoperäiseen syyhyn",
+      "Niskaan",
+      "Lääkkeettömään hyvänlaatuiseen syyhyn"
+    ],
+    "correctIndex": 1,
+    "explanation": "Huimaus yhdessä pyörtymisen tai esipyörtymisen kanssa viittaa kardiovaskulaariseen syyhyn, mahdollisesti rytmihäiriöön."
+  },
+  {
+    "id": "huimaus-q4",
+    "type": "truefalse",
+    "question": "Pystysuuntainen nystagmus on yleensä merkki aivorungon alueen häiriöstä.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lääkärin käsikirja: harvinainen vertikaalisuuntainen nystagmus viittaa yleensä aivorungon häiriöön."
+  },
+  {
+    "id": "huimaus-q5",
+    "type": "mcq",
+    "question": "Mikä sopii hyvänlaatuiseen asentohuimaukseen?",
+    "options": [
+      "Jatkuva huimaus päiviä ja kuulon heikkeneminen",
+      "Lyhyt kiertohuimaus makuulle mennessä tai kääntyessä parin sekunnin viiveellä",
+      "Kaatava huimaus ja dysartria",
+      "Keinuttava olo ilman alkamishetkeä"
+    ],
+    "correctIndex": 1,
+    "explanation": "BPPV: kiertohuimaus alkaa parin sekunnin viiveellä asennon muutoksesta ja rauhoittuu yleensä noin minuutissa. Hoito on asentohoito, ei lääkitys."
+  },
+  {
+    "id": "huimaus-q6",
+    "type": "mcq",
+    "question": "Mikä oirekolmikko kuuluu Ménièren tautiin?",
+    "options": [
+      "Kiertohuimaus, tinnitus tai paineen tunne ja kuulon heikkeneminen",
+      "Päänsärky, kuume ja niskajäykkyys",
+      "Huimaus, dysartria ja kaksoiskuvat",
+      "Huimaus, rintakipu ja hikoilu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ménièren taudissa toistuvat kiertohuimaus- ja pahoinvointikohtaukset (20 min–12 t), korvan soiminen tai paineen tunne ja sisäkorvatyyppinen kuulon heikkeneminen."
+  },
+  {
+    "id": "huimaus-q7",
+    "type": "mcq",
+    "question": "Milloin ortostaattinen koe on Akuuttihoito-oppaan mukaan positiivinen?",
+    "options": [
+      "Syke nousee 10/min",
+      "Systolinen laskee vähintään 20 mmHg, diastolinen vähintään 10 mmHg tai systolinen on enintään 90 mmHg",
+      "Systolinen laskee 5 mmHg",
+      "Diastolinen nousee 10 mmHg"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paine ja syke mitataan makuulla ja seisomaan noustua heti sekä 1 ja 3 minuutin kuluttua."
+  }
+]

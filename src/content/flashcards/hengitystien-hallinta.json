@@ -1,0 +1,42 @@
+[
+  {
+    "id": "hengitystien-hallinta-f1",
+    "front": "Vaikean maskiventilaation riskit (MOANS)",
+    "back": "Mask seal (parta, veri, kasvovamma), Obesity/Obstruction (myös loppuraskaus), Age, No teeth, Stiff lungs."
+  },
+  {
+    "id": "hengitystien-hallinta-f2",
+    "front": "Mikä on nenänieluputken tärkein vasta-aihe vammapotilaalla?",
+    "back": "Tiedetty tai epäilty kallonpohjan murtuma. Putki viedään nenän pohjaa pitkin, ei ylöspäin."
+  },
+  {
+    "id": "hengitystien-hallinta-f3",
+    "front": "Tukoksen äänet ja taso (ETC)",
+    "back": "Stridor = kurkunpää tai ylempänä · vinkuna = alemmat hengitystiet · korina = nestettä ylähengitysteissä · kuorsaus = kieli tai kitalaki."
+  },
+  {
+    "id": "hengitystien-hallinta-f4",
+    "front": "Imun välineet",
+    "back": "Pienet eritteet imukatetrilla, runsas veri tai oksennus jäykällä leveällä imukärjellä (Yankauer), kiinteä aines Magillin pihdeillä."
+  },
+  {
+    "id": "hengitystien-hallinta-f5",
+    "front": "Varaajamaski",
+    "back": "15 l/min. Varaaja täyteen ennen maskin asettamista, ja sen pitää täyttyä ja tyhjentyä jokaisella hengenvedolla. Palje + lisähappi + varaaja enimmillään noin 80 % happea."
+  },
+  {
+    "id": "hengitystien-hallinta-f6",
+    "front": "Supraglottinen väline elvytyksessä (KH 2021)",
+    "back": "Ensisijainen väline. Kapnografia heti, ventilaatio 10/min painelua keskeyttämättä. Vuoto → 30:2. Asettamisen jälkeen mahaletku (ETC)."
+  },
+  {
+    "id": "hengitystien-hallinta-f7",
+    "front": "Intubaation aiheet (Ensihoito-opas)",
+    "back": "Matala tajunnantaso, vaikea hengitysvaikeus, kasvojen vaikea anatominen vamma, vaikea hengitysteiden palovamma. Ensisijaisesti lääkkeellinen intubaatio, lääkäriyksikkö."
+  },
+  {
+    "id": "hengitystien-hallinta-f8",
+    "front": "Hätäkrikotyreotomian vaiheet",
+    "back": "Asento → palpoi kilpi- ja sormusrusto, pingota iho → pitkittäinen viilto 5 cm → poikittainen kalvoviilto 1 cm → sormella henkitorveen → putki 6 ohjaimella → ventilaatio ja EtCO₂. Vuoto: paina taitoksilla."
+  }
+]

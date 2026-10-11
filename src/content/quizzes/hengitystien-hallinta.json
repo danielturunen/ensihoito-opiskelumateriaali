@@ -1,0 +1,102 @@
+[
+  {
+    "id": "hengitystien-hallinta-q1",
+    "type": "mcq",
+    "question": "Mikä kertatilavuus on käsiventilaatiossa kohtuullinen intuboimattomalla aikuisella mahalaukun täyttymisen välttämiseksi?",
+    "options": [
+      "200 ml",
+      "500–600 ml",
+      "1 000–1 500 ml",
+      "2 000 ml"
+    ],
+    "correctIndex": 1,
+    "explanation": "Liian suuri tilavuus tai paine täyttää mahalaukun ja lisää aspiraatioriskiä. Elvytyspalje voi antaa jopa 2 litraa tyhjäksi puristettuna (Davies)."
+  },
+  {
+    "id": "hengitystien-hallinta-q2",
+    "type": "mcq",
+    "question": "Mikä löydös viittaa täydelliseen hengitystien tukokseen?",
+    "options": [
+      "Sisäänhengityksen stridor",
+      "Kuorsaava hengitys",
+      "Paradoksaalinen hengitysliike ilman ääniä ja ilmavirtaa",
+      "Uloshengityksen vinkuna"
+    ],
+    "correctIndex": 2,
+    "explanation": "Täydellisessä tukoksessa vatsanpeitteet painuvat sisään sisäänhengityksessä, eikä ääniä tai ilmavirtaa ole. Stridor, kuorsaus ja vinkuna kertovat osittaisesta tukoksesta."
+  },
+  {
+    "id": "hengitystien-hallinta-q3",
+    "type": "mcq",
+    "question": "Mihin tasoon sisäänhengityksen stridor viittaa?",
+    "options": [
+      "Keuhkorakkuloihin",
+      "Pieniin keuhkoputkiin",
+      "Kurkunpään tasolle tai sen yläpuolelle",
+      "Mahalaukkuun"
+    ],
+    "correctIndex": 2,
+    "explanation": "ETC: stridor johtuu tukoksesta kurkunpään tasolla tai ylempänä; uloshengityksen vinkuna viittaa alempiin hengitysteihin."
+  },
+  {
+    "id": "hengitystien-hallinta-q4",
+    "type": "truefalse",
+    "question": "Potilas, joka sietää nieluputken, on menettänyt hengitystiensä suojan ja hänellä on aspiraation riski.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nieluputki ei varmista hengitystietä. Sen sietäminen kertoo puuttuvista suojarefleksistä, ja hengitystien varmistaminen suunnitellaan."
+  },
+  {
+    "id": "hengitystien-hallinta-q5",
+    "type": "mcq",
+    "question": "Mikä on elvytyksen ensisijainen hengitystien hallintaväline Käypä hoidon (2021) mukaan?",
+    "options": [
+      "Nenänieluputki",
+      "Supraglottinen väline",
+      "Intubaatio aina",
+      "Neulakrikotyreotomia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Supraglottinen väline on ensisijainen. Intubaatiota voidaan käyttää ensisijaisesti, jos kokenut tekijä onnistuu yli 95 %:n todennäköisyydellä kahdella yrityksellä ja painelutauko jää alle viiden sekunnin."
+  },
+  {
+    "id": "hengitystien-hallinta-q6",
+    "type": "mcq",
+    "question": "Supraglottinen väline vuotaa elvytyksen aikana. Miten toimit Käypä hoidon mukaan?",
+    "options": [
+      "Jatka ventilaatiota 10/min painelua keskeyttämättä",
+      "Keskeytä painelu ventilaation ajaksi ja jatka 30:2",
+      "Lopeta ventilointi kokonaan",
+      "Nosta ventilaatiotaajuus 30/min"
+    ],
+    "correctIndex": 1,
+    "explanation": "Jos supraglottinen väline vuotaa, painelu keskeytetään ventilaation ajaksi ja jatketaan painelu–ventilaatiosuhteella 30:2."
+  },
+  {
+    "id": "hengitystien-hallinta-q7",
+    "type": "mcq",
+    "question": "Mihin hätäkrikotyreotomian avaus tehdään?",
+    "options": [
+      "Kilpiruston läpi",
+      "Kilpi- ja sormusruston väliseen ligamenttiin",
+      "Henkitorven 3.–4. rustorenkaan väliin",
+      "Kieliluun yläpuolelle"
+    ],
+    "correctIndex": 1,
+    "explanation": "Palpoi kilpirusto ja sen alta sormusrusto. Avaus tehdään niiden väliseen krikotyreoideakalvoon: pitkittäinen ihoviilto noin 5 cm, poikittainen kalvoviilto noin 1 cm, putki koko 6 ohjaimella."
+  },
+  {
+    "id": "hengitystien-hallinta-q8",
+    "type": "truefalse",
+    "question": "Ensihoito-oppaan mukaan ensihoitolääkäriä konsultoidaan ennen hätäkrikotyreotomiaa.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Krikotyreotomia on ensisijaisesti lääkäriyksikön toimenpide; hoitotasolla se tehdään vain, jos ventilaatio muilla keinoin ei onnistu, ja ennen sitä konsultoidaan päivystävää ensihoitolääkäriä."
+  }
+]

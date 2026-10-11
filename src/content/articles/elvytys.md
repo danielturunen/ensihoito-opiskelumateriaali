@@ -188,7 +188,7 @@ Kuoleman **virallinen toteaminen on juridisesti lääkärin tehtävä**. Arvioit
 
 ## Lapsi, vastasyntynyt ja erityistilanteet
 
-Ensihoito-oppaan mukaan lapsen elvytys noudattelee tavallisesti aikuisen ohjeita, mutta **mitä pienempi lapsi, sitä kriittisempää on ventilaation onnistuminen**. Painelutekniikka valitaan iän mukaan, ja pienillä lapsilla käytetään yleensä naamari-paljeventilaatiota. Ks. [lapsi ensihoidossa](topic:lapsi-ensihoidossa) ja vastasyntyneen elvytys sivulla [raskaana oleva ja synnyttäjä](topic:raskaana-oleva-synnyttaja).
+Ensihoito-oppaan mukaan lapsen elvytys noudattelee tavallisesti aikuisen ohjeita, mutta **mitä pienempi lapsi, sitä kriittisempää on ventilaation onnistuminen**. Painelutekniikka valitaan iän mukaan, ja pienillä lapsilla käytetään yleensä naamari-paljeventilaatiota. Lapsen annokset, energiat ja vastasyntyneen elvytystoimet: [lapsen ja vastasyntyneen elvytys](topic:lapsen-ja-vastasyntyneen-elvytys).
 
 Vammapotilaan, hukkuneen ja raskaana olevan elvytys sekä mekaaninen painelu ja kuljetus elvyttäen: [elvytyksen erityistilanteet](topic:elvytys-sairaalan-ulkopuolella). Kylmän potilaan elvytys: [hypotermia](topic:hypotermia).
 

@@ -50,7 +50,7 @@ Tyypillisiä oireita ovat kurkun turvotuksen tunne, äänen muutos, hengenahdist
 
 ### Aiheuttajat, oireiden eteneminen ja riskitekijät
 
-Akuuttihoito-oppaan (Kekki 2025) mukaan tavallisimpia aiheuttajia ovat lääkeaineet ja rokotteet, hyönteisten pistot, ruoka-aineet (erityisesti selleri, kala, äyriäiset, pähkinä, maapähkinä ja siemenet), röntgenvarjoaineet, verivalmisteet ja lateksi sekä ruumiillinen rasitus, tärinä ja kylmyys. **Mitä nopeammin oireet alkavat altistuksen jälkeen, sitä vaikeampi reaktio yleensä on.**
+Akuuttihoito-oppaan (Kekki 2025) mukaan tavallisimpia aiheuttajia ovat lääkeaineet ja rokotteet, hyönteisten pistot, ruoka-aineet (erityisesti selleri, kala, äyriäiset, pähkinä, maapähkinä ja siemenet), röntgenvarjoaineet, verivalmisteet ja lateksi sekä ruumiillinen rasitus, tärinä ja kylmyys. **Mitä nopeammin oireet alkavat altistuksen jälkeen, sitä vaikeampi reaktio yleensä on.** Suomessa yleisin anafylaksiakuoleman aiheuttaja on **ampiaisen pisto** (Sairaanhoitajan käsikirja 2025). Lääkeainereaktio voi edetä suoraan sokkiin ilman ennakoivia oireita.
 
 ```media
 {"widget":"timeline","title":"Anafylaksian oireiden eteneminen","items":[
@@ -133,6 +133,40 @@ Anafylaksian oireet voivat uusiutua useita tunteja alkuoireiden helpottamisen j�
 Akuuttihoito-oppaan mukaan oireisto uusiutuu toipumisen jälkeen **1–72 tunnin, tavallisimmin 8–10 tunnin kuluessa noin 5–20 %:lla** potilaista. Jos reaktio ei ole ollut vaikea ja potilas on toipunut nopeasti täysin oireettomaksi, hänet voidaan yleensä kotiuttaa sairaalasta 6–10 tunnin kuluttua; vaikeiden nielu- tai hengitystieoireiden tai sokin jälkeen suositellaan vähintään vuorokauden seurantaa. Ensihoito-oppaan mukaan pelkässä lievässä allergisessa reaktiossa (tajunta normaali, ei hengitysvaikeutta, urtikaria tai limakalvojen kutina ilman turvotusta) potilas voi oireiden helpotuttua jäädä kotiin.
 
 **Itsehoito**: kertakäyttöisen adrenaliiniruiskun annokset reisilihakseen ovat painon mukaan 15–30 kg: 0,15 mg, 30–60 kg: 0,3 mg ja yli 60 kg: 0,3–0,5 mg; osa tarvitsee toisen annoksen 5–15 minuutin kuluttua. Potilas tutkitaan päivystyksessä joka tapauksessa.
+
+### Lapsen anafylaksia
+
+Lapsella anafylaksia kehittyy huippuunsa **10–30 minuutissa**. Tavallisimmat laukaisijat ovat ruoka-aineet (maito, kananmuna, vehnä, kala, äyriäiset, pähkinät), ampiaisen tai mehiläisen pisto ja lääkkeet. **Kaikissa reaktioissa ei ole iho-oireita**, eikä pelkkä ihoreaktio tarkoita anafylaksiaa. Lapsen hengitysoireita ovat hengenahdistus, uloshengitysvaikeus ja vinkuna, haukkuva yskä ja äänen käheys; yleisoireina itkuisuus, levottomuus, velttous ja tajunnan lasku. **Tyypillisin virhe on jäädä miettimään, tarvitaanko adrenaliinia** (Sairaanhoitajan käsikirja 2024).
+
+| Lapsen paino | Adrenaliini 1 mg/ml i.m. (0,01 mg/kg) |
+|---|---|
+| 5 kg | 0,05 ml |
+| 10 kg | 0,10 ml |
+| 15 kg | 0,15 ml |
+| 20 kg | 0,20 ml |
+| 30 kg | 0,30 ml |
+| 40 kg | 0,40 ml |
+| 50 kg tai enemmän | 0,50 ml (enimmäisannos) |
+
+- Adrenaliini **reiden ulkosyrjän lihakseen**; jos oireet eivät helpota, annos uusitaan tarvittaessa **5 minuutin välein**. Sokissa olevalle lapselle voidaan antaa laimennosta 0,1 mg/ml 0,1–0,3 ml hitaasti laskimoon (Lääkärin käsikirja 2025).
+- Hengitysvaikeudessa makuulle tai puoli-istuvaan asentoon, oksentava kylkiasentoon. Happisaturaation tavoite on yli 94 %; tarvittaessa avustetaan palkeella.
+- Sokissa jalat koholle ja nestebolus **10–20 ml/kg 15–30 minuutissa**, toistaen tarvittaessa.
+- Kortikosteroidiksi metyyliprednisoloni 2 mg/kg tai hydrokortisoni 10 mg/kg i.v. – kokonaisannos ei saa ylittää aikuisen annosta.
+- Lasta seurataan **6–24 tuntia** yksikössä, jossa on valmius myöhäisreaktion hoitoon.
+
+> [!info] Lähteiden ero: adrenaliinikynän painoraja
+> Sairaanhoitajan käsikirjan mukaan 0,15 mg:n kynä on tarkoitettu 10–30 kg:n ja 0,3 mg:n kynä yli 30 kg:n lapselle. Akuuttihoito-oppaan painorajat ovat 15–30 kg (0,15 mg), 30–60 kg (0,3 mg) ja yli 60 kg (0,3–0,5 mg).
+
+Lapsen elvytys ja annoslaskuri: [lapsen ja vastasyntyneen elvytys](topic:lapsen-ja-vastasyntyneen-elvytys).
+
+### Angioedeema: milloin hengitystie on uhattuna?
+
+Angioedeema on äkillinen, rajoittunut syvempien ihokerrosten tai limakalvojen turvotus – tyypillisesti huulissa, kielessä, silmäluomissa ja kasvoilla. Turvotus on taikinamainen eikä jätä kuoppaa, ja siihen liittyy yleensä pistelyä ja kipua kutinan sijaan. Se voi olla anafylaksian ensioire, lääkeainereaktio (ACE:n estäjät, ATR:n salpaajat, tulehduskipulääkkeet) tai idiopaattinen (Lääkärin käsikirja 2024).
+
+- **Kurkunpään turvotuksen merkit**: nielun ahtauden tunne, puheäänen muutos ja hengitysvaikeus, sisäänhengityksen stridor, uvulan tai limakalvojen turvotus.
+- **Poikkeavaa**: hengitystiheys yli 25/min, saturaatio alle 92 % tai hengenahdistus, joka estää puhumisen.
+- **ACE:n estäjän tai ATR:n salpaajan aiheuttama turvotus** voi ilmaantua äkillisesti pitkänkin käytön jälkeen, ja oireet voivat jatkua 1–6 kuukautta lääkkeen lopettamisen jälkeen.
+- Hengitysteiden turvotuksessa adrenaliini vähentää turvotusta (aikuiselle 0,3–0,5 mg i.m., alle 50 kg:n painoiselle 0,01 mg/kg), lisäksi happi, glukokortikoidi ja nesteet. **Kuljetus intubaatiovalmiudessa** yksikköön, jossa on intubaatio- ja trakeostomiavalmius. Antihistamiini tehoaa usein huonosti, jos turvotus on bradykiniinivälitteinen.
 
 ## Perinnöllinen angioedeema (HAE) ja ACE:n estäjän turvotus
 

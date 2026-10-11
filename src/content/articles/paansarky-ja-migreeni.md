@@ -56,6 +56,35 @@ Osalla migreenikohtauksiin liittyy **aura**: tyypillisesti näköoireita (näkö
 
 Pelkkä laskimoon annettu parasetamoli ei ollut tehokas akuutin migreenin hoidossa. Ensihoidossa lääkkeet ja annokset valitaan oman alueen hoito-ohjeen mukaan; pahoinvoinnin hoidosta ks. [ondansetroni](topic:ondansetroni).
 
+## Särkyä voi kuvata: alku, kulku ja luonne
+
+Akuuttihoito-oppaan (2025) mukaan nykyisen kivun laatu selviää parhaiten jäsennellyillä kysymyksillä – vastaukset ohjaavat kohti mahdollista syytä. **Hälytysmerkkejä** ovat anamneesissa tajunnan menetys tai häiriö jossakin vaiheessa, neurologinen puutosoire (ei migreeniaura), "aiemmasta poikkeava" tai "elämän pahin" päänsärky, äkillinen alku ja alku yli 50-vuotiaana sekä statuksessa meningismi, tajunnan tai kognition häiriö, neurologinen poikkeavuus ja sepsiksen merkit (sokki, petekiat).
+
+```media
+{"widget":"matching","title":"Särkyn piirre ja mahdollinen syy (Akuuttihoito-opas)","pairs":[
+{"left":"Alkaa hetkessä, \"elämän pahin\"","right":"Lukinkalvonalainen verenvuoto"},
+{"left":"Kuume ja niskan jäykkyys","right":"Aivokalvotulehdus"},
+{"left":"Etenevä, herättää aamuyöllä, pahenee ponnistaessa tai makuulla","right":"Tilaa vievä kallonsisäinen prosessi"},
+{"left":"Edeltävä kaatuminen tai isku päähän","right":"Kovakalvonalainen verenvuoto"},
+{"left":"Sähköiskumainen kipu, jonka puhuminen tai syöminen laukaisee","right":"Kolmoishermosärky"},
+{"left":"Asteittain alkava, iltaa kohti paheneva, tasainen koko pään särky","right":"Jännityspäänsärky"}
+]}
+```
+
+| Tilanne (Akuuttihoito-opas) | Mahdollinen syy | Minne |
+|---|---|---|
+| Sepsiksen oireet, meningismi tai petekiat; tajunnan tai peruselintoimintojen heikkeneminen; pitkittynyt tai toistuva kouristelu | Bakteerimeningiitti, enkefaliitti, SAV, tilaa vievä prosessi | Päivystys **ennakkoilmoituksella** – kriittisesti sairas |
+| Päänsärky ja neurologinen puutosoire (ei migreeniaura) | AVH, tilaa vievä prosessi | Päivystys |
+| Äkillinen alku, vaikka potilas olisi hyväkuntoinen ja oire korjaantumassa | SAV | Päivystys |
+| Infektio-oireet ja meningismi hyväkuntoisella | Virusmeningiitti | Päivystys |
+| Jatkuva kipu silmän seudussa, pieni pupilli tai riippuva yläluomi | Kaulavaltimon dissekoituma | Päivystys |
+
+### Hortonin päänsärky ja muut primaariset säryt
+
+- **Jännityspäänsärky** on yleisin päänsärky: päivien tai viikkojen historia, alkaa asteittain ylösnousun jälkeen, pahenee iltaa kohti ja helpottaa makuulla. Neurologinen status on normaali.
+- **Hortonin eli jaksoittainen päänsärky**: äärimmäisen kovat kipukohtaukset silmän tai ohimon seudussa kerran tai useammin vuorokaudessa, usein yöllä ja samaan kellonaikaan. Saman puolen silmä verestää ja vuotaa ja pupilli on pieni; kohtaus kestää 30–180 minuuttia. Hoitona sumatriptaani 6 mg s.c., tsolmitriptaani-nenäsuihke tai **lääkkeellinen 100 % happi 7–10 l/min 15–20 minuutin ajan**.
+- **Kolmoishermosärky**: sähköiskumainen, toispuolinen ja lyhytkestoinen kipu kolmoishermon alueella useita kertoja vuorokaudessa; puhuminen, nauraminen tai syöminen laukaisee sen. Muu neurologinen status on normaali.
+
 ```media
 {"widget":"scene-card","id":"paansarky","title":"Kohteessa: päänsärkypotilas","know":[
 {"label":"Ensin vaaranmerkit, sitten migreeni"},
@@ -83,3 +112,4 @@ Pelkkä laskimoon annettu parasetamoli ei ollut tehokas akuutin migreenin hoidos
 - Aura on täysin palautuva, kehittyy hitaasti ja kestää 5–60 min; motorinen tai yli tunnin aura selvitetään.
 - Lääke varhain ja riittävän suurena annoksena; triptaanien väli 2 h; triptaani ei hoida auraa.
 - Päivystyksessä: nesteet, metoklopramidi tai ondansetroni, sumatriptaani s.c. tai tulehduskipulääke i.v.
+- Hortonin päänsärky: kova kipu silmän tai ohimon seudussa, saman puolen silmä vuotaa ja pupilli on pieni, kesto 30–180 min – 100 % happi 7–10 l/min 15–20 min.

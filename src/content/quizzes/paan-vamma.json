@@ -170,5 +170,18 @@
     ],
     "correctIndex": 1,
     "explanation": "Noin 10 %:lla; valoreaktiot ovat silti normaalit molemmin puolin."
+  },
+  {
+    "id": "paan-vamma-q15",
+    "type": "mcq",
+    "question": "Mikä sopii keskivaikeaan aivovammaan GCS:n ja muistiaukon (PTA) mukaan?",
+    "options": [
+      "GCS 13–15, PTA alle 24 h",
+      "GCS 9–12, PTA 1–7 vrk",
+      "GCS alle 8, PTA yli 7 vrk",
+      "GCS 15, ei muistiaukkoa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lievä: GCS 13–15, PTA alle 24 h. Keskivaikea: GCS 9–12, PTA 1–7 vrk. Vaikea: GCS alle 8, PTA yli 7 vrk."
   }
 ]

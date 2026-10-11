@@ -22,6 +22,22 @@ Kouristelu on yksi tavallisimmista ensihoidon hälytyssyistä. Yleensä kohtaus 
 
 Tarkennetussa tutkimuksessa selvitetään tapahtumatiedot (epilepsia, infektio-oireet, edeltävä päänsärky, päihteet), neurologiset puolierot, pupillat ja Babinskin heijaste sekä mahdollisuuksien mukaan elektrolyytit (Na, K, ionisoitu Ca) vieritestinä. Katso myös [tajuttomuus](topic:tajuttomuus) ja [alkoholin väärinkäyttö](topic:alkoholin-vaarinkaytto).
 
+## Kohtauksen kuvaus ja erotusdiagnostiikka
+
+Noin 10 % väestöstä saa elämänsä aikana epileptisen kohtauksen, ja epilepsiaa sairastaa 0,6 %. Tavallisin oire on näkyvä kouristelu, mutta epileptinen kohtaus voi näkyä myös toispuolisena raajan tai kasvojen nykinänä, poissaolona, käyttäytymisen häiriönä, sekavuutena, puheen tuoton häiriönä tai tajunnan heikkenemisenä. **Unen aikana tapahtuneeseen kouristeluun voi viitata puremajälki kielessä** (Akuuttihoito-opas 2025).
+
+**Silminnäkijältä selvitetään** ennakko-oireet ja alku (symmetrinen vai toispuolinen), kulku ja kesto, puolioireet (katseen kääntyminen, toispuolinen nykiminen), virtsan tai ulosteen karkailu, kieleen pureminen ja jälkiuneliaisuus. **Altistavia tekijöitä** ovat aiempi epilepsia ja huono lääkehoitoon sitoutuminen, aiemmat aivosairaudet, osa lääkkeistä (psyykenlääkkeet, fluorokinolonit, rauhoittavien ja unilääkkeiden lopettaminen), alkoholi ja päihteet, valvominen, hypoglykemia, vilkkuva valo ja kuume.
+
+| Kouristelun kaltainen tila | Erottavia piirteitä |
+|---|---|
+| **Vasovagaalinen pyörtyminen** | Edeltävät oireet: näön sumeneminen, heikotus, huimaus. Kollapsiin voi liittyä rytmisiä liikkeitä tai virtsankarkailua. |
+| **Sydänperäinen kollapsi** | Äkillinen alku, ei jälkiuneliaisuutta. Potilas on voinut tuntea rytmihäiriön, muuten ei ennakko-oireita. Sydänperäinen embolia voi aiheuttaa kouristelua. |
+| **Aivoverenkiertohäiriö** | Alkaa yleensä paikallisella puutosoireella – kouristelu ei ole iskemian alussa yleistä. Kallonpohjavaltimon tukos voi aiheuttaa äkillisen tajuttomuuden ja molemminpuolisen jäykistelyn. |
+| **Hypoglykemia** | Voi aiheuttaa tajuttomuus-kouristuskohtauksen – **verensokeri mitataan heti kaikilta kouristaneilta**. |
+| **Toiminnallinen kohtaus** | Kuva vaihtelee, yleensä ei jälkiunivaihetta. Myös epilepsiaa sairastavalla voi olla toiminnallisia kohtauksia. |
+
+Ks. [pyörtyminen](topic:yleistilan-lasku-ja-pyortyminen), [aivoverenkiertohäiriö](topic:aivoverenkiertohairio) ja [sokeritasapainon häiriöt](topic:sokeritasapainon-hairiot).
+
 ## Kuljetus vai kotiin?
 
 **Kuljetetaan**:

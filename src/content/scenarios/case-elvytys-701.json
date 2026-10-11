@@ -1,0 +1,86 @@
+{
+  "id": "case-elvytys-701",
+  "title": "Tapaus: Sydänpysähdys",
+  "dispatchCode": "701",
+  "intro": "Hätäkeskus: tehtäväkoodi 701, elvytys. 62-vuotias mies kaatui keittiössä kesken aamupalan noin kahdeksan minuuttia sitten. Puoliso painelee hätäkeskuspäivystäjän ohjeiden mukaan. Potilaalla on puolison mukaan verenpainetauti, ja hän oli valittanut aamulla painon tunnetta rinnassa.",
+  "steps": [
+    {
+      "id": "step1",
+      "situation": "Saavutte asuntoon. Mies makaa selällään keittiön lattialla, ei reagoi. Puoliso painelee rintakehää. Rintakehällä ei näy normaalia hengitysliikettä.",
+      "vitals": { "findings": ["Ei reagoi", "Ei normaalia hengitystä", "Maallikko painelee"] },
+      "question": "Mikä on ensimmäinen toimenne?",
+      "choices": [
+        { "text": "Toinen ensihoitaja jatkaa painelua heti puolison jälkeen, toinen kiinnittää defibrillaattorin elektrodit painelun jatkuessa ja rytmi analysoidaan mahdollisimman pian. Roolit jaetaan ääneen.", "correct": true, "feedback": "Oikein. Ensihoito-oppaan ajallinen tavoite on ensimmäinen defibrillaatio minuutin kuluessa potilaan luokse saapumisesta. Elektrodit kiinnitetään painelua keskeyttämättä, ja johtaja jakaa roolit suljetulla viestintäkehällä." },
+        { "text": "Pyydetään puolisoa lopettamaan, tunnustellaan kaulavaltimoa rauhassa ja kuunnellaan hengitysääniä ennen muita toimia.", "correct": false, "feedback": "Väärin. Reagoimaton potilas, joka ei hengitä normaalisti, on eloton – lisäarvio vain viivästyttää painelua ja defibrillaatiota. Painelutauot heikentävät aivojen ja sydämen perfuusiota." },
+        { "text": "Avataan ensin suoniyhteys ja annetaan adrenaliini 1 mg, jotta lääke ehtii vaikuttaa ennen rytmin analyysiä.", "correct": false, "feedback": "Väärin. Rytmi on vielä tuntematon. Jos kyse on kammiovärinästä, isku on tärkein hoito, ja adrenaliini annetaan vasta kolmannen iskun jälkeen." }
+      ]
+    },
+    {
+      "id": "step2",
+      "situation": "Defibrillaattori näyttää karkeaa kammiovärinää.",
+      "vitals": { "findings": ["Kammiovärinä"] },
+      "question": "Mitä teet?",
+      "choices": [
+        { "text": "Painelu jatkuu latauksen ajan, kaikki irti potilaasta, yksi isku – ja painelu jatkuu heti kaksi minuuttia ilman rytmin tai pulssin tarkistusta.", "correct": true, "feedback": "Oikein. Iskettävä rytmi: yksi isku ja välitön painelu kahden minuutin ajan. Liimaelektrodeilla painelu jatkuu latauksen ajan, jotta tauko jää lyhyeksi." },
+        { "text": "Annetaan isku ja tunnustellaan heti sen jälkeen pulssia 10 sekuntia.", "correct": false, "feedback": "Väärin. Iskun jälkeen painelu jatkuu välittömästi kahden minuutin ajan, ja rytmi arvioidaan vasta seuraavalla rytmintarkistuksella – pulssin tunnustelu heti iskun jälkeen pidentää painelutaukoa." },
+        { "text": "Jatketaan painelua kaksi minuuttia ennen ensimmäistä iskua, jotta sydänlihas ehtii happeutua.", "correct": false, "feedback": "Väärin. Kammiovärinä hiipuu ilman hoitoa asystoliaksi noin kymmenessä minuutissa, ja varhainen defibrillaatio voi pelastaa joka toisen. Isku annetaan viiveettä." }
+      ]
+    },
+    {
+      "id": "step3",
+      "situation": "Toisen iskun jälkeen rytmi on edelleen kammiovärinä. Paikalle saapuu toinen yksikkö. Ventilointi on toteutunut naamaripalkeella 30:2.",
+      "vitals": { "findings": ["Kammiovärinä jatkuu", "2 iskua annettu"] },
+      "question": "Miten hengitystie hoidetaan?",
+      "choices": [
+        { "text": "Asetetaan supraglottinen väline painelua keskeyttämättä, kytketään käyränäytöllinen kapnografia ja ventiloidaan 10 kertaa minuutissa painelua keskeyttämättä.", "correct": true, "feedback": "Oikein. Käypä hoidon mukaan supraglottinen väline on elvytyksen ensisijainen hengitystien hallintaväline. Kapnografia varmistaa välineen paikan ja kertoo elvytyksen aikana verenkierrosta." },
+        { "text": "Intuboidaan heti – painelu voidaan keskeyttää 30 sekunniksi, jotta näkymä on hyvä.", "correct": false, "feedback": "Väärin. Intubaatio sopii ensisijaiseksi vain kokeneelle tekijälle, jonka onnistuminen on yli 95 % kahdella yrityksellä, ja painelu saa keskeytyä alle viideksi sekunniksi." },
+        { "text": "Jatketaan pelkällä happimaskilla, koska potilas haukkoo välillä.", "correct": false, "feedback": "Väärin. Haukkova eli agonaalinen hengitys kuuluu sydänpysähdyksen alkuun eikä riitä ventilaatioon." }
+      ]
+    },
+    {
+      "id": "step4",
+      "situation": "Kolmas rytmintarkistus: kammiovärinä jatkuu. Kolmas isku annetaan ja painelu jatkuu. Suoniyhteys ei onnistu kahdella yrityksellä.",
+      "vitals": { "findings": ["Kammiovärinä", "3 iskua annettu", "Ei i.v.-yhteyttä"] },
+      "question": "Mitkä lääkkeet ja miten?",
+      "choices": [
+        { "text": "Avataan i.o.-yhteys painelua keskeyttämättä ja annetaan adrenaliini 1 mg ja amiodaroni 300 mg.", "correct": true, "feedback": "Oikein. Iskettävässä rytmissä adrenaliini 1 mg ja amiodaroni 300 mg annetaan kolmannen iskun jälkeen. Lääkkeet annetaan ensisijaisesti laskimoon ja vaihtoehtoisesti luuytimeen. Jatkossa adrenaliini 3–5 minuutin välein ja amiodaroni 150 mg viidennen iskun jälkeen." },
+        { "text": "Annetaan atropiini 3 mg, koska rytmi ei korjaannu iskuilla.", "correct": false, "feedback": "Väärin. Atropiinista ei ole hyötyä sydänpysähdyksen hoidossa." },
+        { "text": "Keskeytetään painelu, kunnes suoniyhteys saadaan auki.", "correct": false, "feedback": "Väärin. Suoniyhteyden avaaminen ei saa keskeyttää painelua. Jos laskimoon ei päästä, käytetään i.o.-yhteyttä." }
+      ]
+    },
+    {
+      "id": "step5",
+      "situation": "Ensihoitolääkäri soittaa ja pyytää tilannekatsauksen. Puoliso kertoo, että mies valitti aamulla puristavaa rintakipua.",
+      "vitals": { "findings": ["Rintakipu ennen kollapsia"] },
+      "question": "Mitä raportoit ensimmäisenä?",
+      "choices": [
+        { "text": "Elottomuuden alkuaika ja että se oli nähty, maallikkoelvytys, alkurytmi kammiovärinä, annetut iskut ja lääkkeet, hengitystieväline ja taustatiedot – rintakipu viittaa sepelvaltimotukokseen.", "correct": true, "feedback": "Oikein. Ensihoito-oppaan mukaan tuleville yksiköille raportoidaan välittömien toimien jälkeen elottomuuden alkuaika, oliko alku nähty tai kuultu, alkurytmi ja taustatiedot. Syyn mukainen hoito (4H/4T) pyritään aloittamaan viimeistään 10 minuutin kuluttua elvytyksen alusta." },
+        { "text": "Kerron vain, että elvytys on käynnissä, ja palaan asiaan, kun tilanne selviää.", "correct": false, "feedback": "Väärin. Lääkäri tarvitsee alkuajan, alkurytmin, viiveet ja taustatiedot hoidon ja kohdesairaalan suunnitteluun sekä mahdollisen lopettamispäätöksen tueksi." },
+        { "text": "Ehdotan elvytyksen lopettamista, koska elvytys on jatkunut jo yli 15 minuuttia.", "correct": false, "feedback": "Väärin. Nähty kammiovärinä ja maallikkoelvytys ovat suotuisia tekijöitä. Ensihoito-oppaan mukaan kammiovärinässä elvytys lopetetaan tavanomaisesti vasta viimeistään 40–45 minuutin kuluessa sydänpysähdyksen alusta, ja päätös tehdään yhdessä ensihoitolääkärin kanssa." }
+      ]
+    },
+    {
+      "id": "step6",
+      "situation": "Viidennen rytmintarkistuksen kohdalla monitorissa on järjestäytynyt rytmi ja EtCO₂ on noussut selvästi. Kaulavaltimolta tuntuu syke. Verenpaine mitataan.",
+      "vitals": { "hr": 118, "bp": [84, 50], "spo2": 90, "findings": ["Järjestäytynyt rytmi", "EtCO₂ noussut", "Ei reagoi"] },
+      "question": "Verenkierto on palannut. Mitä teet seuraavaksi?",
+      "choices": [
+        { "text": "Ventilaatio hiilidioksidiohjatusti ja SpO₂ yli 94 %, verenpaine tiheästi ja matalaan paineeseen kristalloidia 200–500 ml erissä ja tarvittaessa noradrenaliini ohjeen mukaan. 12–15-kytkentäinen EKG ja valmius uuteen pysähdykseen.", "correct": true, "feedback": "Oikein. Uuden pysähdyksen riski on suurin ensimmäisten minuuttien aikana. Ensihoito-oppaan ROSC-tavoitteet ovat SpO₂ yli 94 %, EtCO₂ 4,0–4,5 kPa ja systolinen paine yli 100 mmHg." },
+        { "text": "Annetaan beetasalpaajaa takykardian hidastamiseksi.", "correct": false, "feedback": "Väärin. Elvytyksessä annettu adrenaliini aiheuttaa takykardiaa noin viiden minuutin ajan, joten beetasalpaajaa ei anneta heti. Ongelma on useammin hypotensio kuin hypertensio." },
+        { "text": "Lähdetään heti liikkeelle – EKG ja verenpaine voidaan mitata sairaalassa.", "correct": false, "feedback": "Väärin. Potilasta ei liikutella heti: tilanteen annetaan rauhoittua, hypotensio hoidetaan ja 12–15-kytkentäinen EKG rekisteröidään, koska se ohjaa kohdesairaalan valintaa." }
+      ]
+    },
+    {
+      "id": "step7",
+      "situation": "12-kytkentäisessä EKG:ssä on ST-nousu etuseinän kytkennöissä. Paine on noussut nesteellä tasolle 104/66.",
+      "vitals": { "hr": 104, "bp": [104, 66], "spo2": 95, "findings": ["ST-nousu V1–V4"] },
+      "question": "Mikä on oikea jatkosuunnitelma?",
+      "choices": [
+        { "text": "Kohdesairaala sovitaan ensihoitolääkärin kanssa: ST-nousu ohjaa kiireelliseen PCI-hoitoon. Sedaatio ylläpidetään, kuumetta vältetään ja varaudutaan uuteen sydänpysähdykseen.", "correct": true, "feedback": "Oikein. ROSC-vaiheessa ST-nousu johtaa kiireelliseen PCI-hoitoon. Ensihoito-oppaan mukaan siirron aikana ylläpidetään sedaatio ja varaudutaan uuteen sydänpysähdykseen; jos kammiovärinä uusiutuu, isku annetaan heti." },
+        { "text": "Lähin terveyskeskus, koska potilas on nyt vakaa.", "correct": false, "feedback": "Väärin. Elvytetty potilas kuljetetaan Ensihoito-oppaan mukaan yleensä keskussairaalaan, ja ST-nousu edellyttää kiireellistä PCI-hoitoa. Kohde sovitaan ensihoitolääkärin kanssa." },
+        { "text": "Annetaan adrenaliinia vielä 1 mg varmuuden vuoksi ennen kuljetusta.", "correct": false, "feedback": "Väärin. Elvytyslääkkeitä ei anneta, kun verenkierto on palannut. Matalaa painetta hoidetaan nesteellä ja tarvittaessa vasoaktiivisella infuusiolla." }
+      ]
+    }
+  ],
+  "debrief": "Tapaus kokoaa aikuisen sydänpysähdyksen hoidon: elottomuus tunnistetaan reagoimattomuudesta ja epänormaalista hengityksestä, ensimmäinen isku annetaan minuutin kuluessa ja painelu jatkuu heti iskun jälkeen. Supraglottinen väline ja kapnografia asetetaan painelua keskeyttämättä, adrenaliini ja amiodaroni annetaan kolmannen iskun jälkeen, ja i.o.-yhteys korvaa vaikean suoniyhteyden. Tilannekatsaus ensihoitolääkärille sisältää alkuajan, alkurytmin ja taustatiedot. ROSC-vaiheessa hoidetaan hypotensio, rekisteröidään 12–15-kytkentäinen EKG ja varaudutaan uuteen pysähdykseen – ST-nousu ohjaa potilaan kiireelliseen PCI-hoitoon."
+}

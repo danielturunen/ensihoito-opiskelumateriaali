@@ -124,6 +124,10 @@ export const widgetMeta: Record<string, WidgetMeta> = {
   'gas-levels': { title: 'Kaasujen vaikutustaso hengitysteissä', kind: 'Interaktiivinen kuva' },
   'rad-time': { title: 'Säteilyalueen työskentelyaika', kind: 'Laskuri' },
   'scene-card': { title: 'Kohteessa: tiedä, tutki, osaa', kind: 'Itsearviointi' },
+  'paed-arrest': { title: 'Lapsen elvytyksen annokset ja välineet', kind: 'Laskuri' },
+  'nls-sim': { title: 'Vastasyntyneen elvytys: 30 sekunnin arviot', kind: 'Harjoitus' },
+  'pacing-capture': { title: 'Ulkoinen tahdistus: kynnysvirta ja elektrodit', kind: 'Harjoitus' },
+  'cric-landmark': { title: 'Hätäkrikotyreotomia: maamerkit ja vaiheet', kind: 'Interaktiivinen kuva' },
 }
 
 const cache = new Map<string, LazyExoticComponent<ComponentType<WidgetProps>>>()

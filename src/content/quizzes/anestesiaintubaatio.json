@@ -102,19 +102,6 @@
     "explanation": "Yksi lukee kohdan ja vastuuhenkilö vastaa. Lista vie harvoin yli 30 s ja pysäyttää virheitä. FinnHEMS-listassa on mm. taktiikka (2 yritystä, saturaatioraja 93 %, varalla i-Gel, hätäsuunnitelma kriko)."
   },
   {
-    "id": "ai-q-vt",
-    "type": "mcq",
-    "question": "Mikä kertatilavuus on käsiventilaatiossa kohtuullinen intuboimattomalla aikuisella mahalaukun täyttymisen välttämiseksi?",
-    "options": [
-      "200 ml",
-      "500–600 ml",
-      "1 000–1 500 ml",
-      "2 000 ml"
-    ],
-    "correctIndex": 1,
-    "explanation": "Liian suuri tilavuus tai paine täyttää mahalaukun ja lisää aspiraatioriskiä. Elvytyspalje voi antaa jopa 2 litraa tyhjäksi puristettuna (Davies)."
-  },
-  {
     "id": "ai-q-cold",
     "type": "truefalse",
     "question": "Sydänpysähdyspotilas intuboidaan Sydneyn manuaalin mukaan ilman induktiolääkkeitä lyhennetyn tarkistuslistan mukaan.",

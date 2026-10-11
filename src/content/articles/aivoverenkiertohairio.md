@@ -45,6 +45,23 @@ Keskeistä on toispuolisen raajojen ja kasvolihasten heikkouden sekä puheentuot
 ]}
 ```
 
+## TIA – ohimennyt oire on hälytysmerkki
+
+TIA (*transient ischaemic attack*) on äkillinen, ohimenevä aivojen tai verkkokalvon verenkiertohäiriö, joka ei jätä pysyviä neurologisia oireita. Tyypillinen kesto on minuuteista tuntiin, ja oireet voivat olla kokonaan väistyneet ensihoidon saapuessa. **Ensimmäisen TIA:n saaneista 10–20 % saa aivoinfarktin kolmen kuukauden kuluessa – heistä jopa puolet kahden vuorokauden kuluessa** (Akuuttihoito-opas 2025). Tuore TIA (alle kaksi viikkoa) vaatii päivystykselliset selvittelyt, ja potilas pidetään tarkkailussa vuodelevossa, kunnes tutkimukset on tehty. Uhkaavista aivoinfarkteista voidaan estää 80–90 %, kun riskitekijät selvitetään ja niiden hoito ja antitromboottinen lääkitys aloitetaan heti.
+
+| Etukierto (kaulavaltimo) | Takakierto (nikama- ja kallonpohjavaltimo) |
+|---|---|
+| Toispuolinen halvaus, heikkous tai kömpelyys | Kaatava huimaus¹ |
+| Toispuolinen tunnon heikkeneminen | Kaksoiskuvat¹ |
+| Suupielen roikkuminen | Nielemisvaikeus¹ |
+| Puheen tuoton tai ymmärtämisen häiriö | Puheen epäselvyys (dysartria)¹ |
+| Hahmotushäiriö (vasemman puolen huomiotta jättäminen) | Näkökenttäpuutos |
+| Toisen silmän ohimenevä näönmenetys (amaurosis fugax) | Toispuolinen tai molemminpuolinen raajojen heikkous, kömpelyys ja tuntopuutos; äkillinen jalkojen pettäminen ilman tajunnanmenetystä |
+
+¹ Yksin esiintyessään ei ole TIA:lle diagnostinen.
+
+**Erotusdiagnostiikka**: tajuttomuus ilman neurologisia puutosoireita ei pääsääntöisesti ole TIA, eivätkä vaihtelevat ja paikkaa vaihtavat puutumiset yleensä ole TIA-oire. TIA:n kaltaisia oireita aiheuttavat esimerkiksi pyörtyminen ja esipyörtyminen, ohimenevä täydellinen muistinmenetys, hypoglykemia, korvaperäinen [huimaus](topic:huimaus), aurallinen migreeni ja fokaalinen epileptinen kohtaus. Ohimenneetkin AVH-oireet kuljetetaan hoitoon kykenevään paikkaan.
+
 ## Lukinkalvonalainen verenvuoto (SAV)
 
 SAV:n taustalla on yleensä aivovaltimon pullistuman (aneurysman) puhkeaminen; Suomessa sen saa vuosittain noin 300–400 ihmistä. Veri leviää lukinkalvon alle, ei aivokudokseen, joten oireet poikkeavat aivoverenvuodosta: **äkkiä alkava kova, hellittämätön päänsärky**, pahoinvointi ja oksentelu, niskajäykkyys ja valonarkuus; joskus kouristelu ja tajuttomuus, harvoin halvausoireet. Kirjo on laaja – syvästä tajuttomuudesta taksilla saapuvaan hyväkuntoiseen potilaaseen. Riskitekijöitä ovat kohonnut verenpaine, tupakointi ja runsas alkoholinkäyttö; aneurysmat puhkeavat useimmiten levossa (Terveyskirjasto).
@@ -82,3 +99,4 @@ Ensihoidossa hoidetaan päänsärkyä ja pahoinvointia ja tarvittaessa lasketaan
 - Suupieli, yläraaja, puhe, alaraaja; toispuolihalvaus + katsedeviaatio → lääkärikonsultaatio, trombektomia.
 - Pääty 20–30°, ei mitään suun kautta, verenpainetta lasketaan vain yli 220 mmHg.
 - SAV: äkillinen kova päänsärky, niskajäykkyys, oksentelu – nopea kuljetus TT:hen.
+- TIA: ensimmäisen TIA:n jälkeen 10–20 % saa aivoinfarktin kolmessa kuukaudessa, jopa puolet heistä kahden vuorokauden sisällä – ohimenneetkin oireet kuljetetaan hoitoon kykenevään paikkaan.

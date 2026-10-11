@@ -61,5 +61,18 @@
     ],
     "correctIndex": 1,
     "explanation": "Jännityspäänsärky on pantamaista ja puristavaa koko pään alueella, liikunta helpottaa, liitännäisoireita ei ole ja toimintakyky säilyy."
+  },
+  {
+    "id": "paansarky-ja-migreeni-q6",
+    "type": "mcq",
+    "question": "Mikä hoito sopii Hortonin päänsärkyyn Akuuttihoito-oppaan mukaan?",
+    "options": [
+      "Lääkkeellinen 100 % happi 7–10 l/min 15–20 minuuttia",
+      "Pelkkä parasetamoli suun kautta",
+      "Lihasrelaksantti",
+      "Nestebolus 1 000 ml"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hortonin päänsärkyyn käytetään sumatriptaania 6 mg s.c., tsolmitriptaani-nenäsuihketta tai 100 % happea 7–10 l/min 15–20 minuutin ajan."
   }
 ]

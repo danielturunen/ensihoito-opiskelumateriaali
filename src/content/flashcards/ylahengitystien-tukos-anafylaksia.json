@@ -118,5 +118,10 @@
     "id": "ylahengitystien-tukos-anafylaksia-f24",
     "front": "Adrenaliinikynän annokset painon mukaan?",
     "back": "15–30 kg: 0,15 mg; 30–60 kg: 0,3 mg; yli 60 kg: 0,3–0,5 mg reisilihakseen. Osa tarvitsee toisen annoksen 5–15 min kuluttua."
+  },
+  {
+    "id": "ylahengitystien-tukos-anafylaksia-f25",
+    "front": "Lapsen anafylaksia",
+    "back": "Huippu 10–30 min. Adrenaliini 1 mg/ml 0,01 mg/kg i.m. reiteen (max 0,5 ml), toisto 5 min välein. Sokissa nestebolus 10–20 ml/kg. Seuranta 6–24 h. Iho-oireet voivat puuttua."
   }
 ]

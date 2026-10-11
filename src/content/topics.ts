@@ -8,20 +8,32 @@ export const topics: TopicMeta[] = [
   // --- perusteet ---
   { id: 'abcde-arviointi', moduleId: 'perusteet', title: 'ABCDE ja peruselintoimintojen arviointi', summary: 'Systemaattinen ensiarvio ja uhkien tunnistaminen.', readMinutes: 8, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'socrates-kivun-arviointi', moduleId: 'perusteet', title: 'SOCRATES – kivun jäsennelty arviointi', summary: 'Muistisääntö kivun systemaattiseen haastatteluun.', readMinutes: 5, hasQuiz: true, hasFlashcards: true, hasScenario: false },
-  { id: 'kivunhoito', moduleId: 'perusteet', title: 'Kivunhoito ensihoidossa', summary: 'Kiputyypit, NRS-arvio, opioidit, esketamiini ja erityisryhmät.', readMinutes: 7, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'konsultaatiomallit', moduleId: 'perusteet', title: 'Konsultaatiomallit ja kliiniset arviointityökalut', summary: 'ISBAR, NEWS2, GCS ja muut kentän pisteytysmenetelmät.', readMinutes: 10, hasQuiz: true, hasFlashcards: true, hasScenario: false },
-  { id: 'ensihoidon-tehtavakoodit', moduleId: 'perusteet', title: 'Ensihoidon tehtäväkoodit', summary: 'Tehtäväsarjat, kiireellisyysvasteet ja hakemisto: mistä kunkin tehtävän hoito löytyy.', readMinutes: 5, hasQuiz: true, hasFlashcards: true, hasScenario: false },
-  { id: 'kuljettamatta-jattaminen', moduleId: 'perusteet', title: 'Kuljettamatta jättäminen ja X-koodit', summary: 'X-51- ja X-81-päätösten edellytykset, kieltäytyminen, muu kuljetus ja toisen yksikön peruuttaminen.', readMinutes: 10, hasQuiz: true, hasFlashcards: true, hasScenario: false },
-  { id: 'patologiakertaus', moduleId: 'perusteet', title: 'Patologiakertaus – lääketieteellinen arviointi', summary: 'Keskeiset patofysiologian periaatteet ensihoitajan näkökulmasta.', readMinutes: 10, hasQuiz: true, hasFlashcards: true, hasScenario: false },
-  { id: 'patofysiologian-perusteet', moduleId: 'perusteet', title: 'Patofysiologian perusteet', summary: 'Solujen sopeutuminen ja vaurio, tulehdus ja puolustus, kudosten paraneminen ja kasvaimet.', readMinutes: 8, hasQuiz: true, hasFlashcards: true, hasScenario: false },
-  { id: 'sokki', moduleId: 'perusteet', title: 'Sokki eli verenkiertovajaus', summary: 'Sokkityypit, tunnistaminen, nestevaste ja yleishoito ensihoidossa.', readMinutes: 10, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'monitorointi-ja-hoitolaitteet', moduleId: 'perusteet', title: 'Monitorointi ja hoitolaitteet', summary: 'Pulssioksimetrin ja kapnometrin tulkinta, CPAP ja happivarojen laskenta.', readMinutes: 9, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'verikaasuanalyysi', moduleId: 'perusteet', title: 'Verikaasuanalyysin tulkinta', summary: 'Happo-emästasapaino, hapetus ja neljä perushäiriötä – tulkintaharjoitus.', readMinutes: 7, hasQuiz: true, hasFlashcards: true, hasScenario: false },
-  { id: 'monitorointi-ja-hoitolaitteet', moduleId: 'perusteet', title: 'Monitorointi ja hoitolaitteet', summary: 'Pulssioksimetrin ja kapnometrin tulkinta, synkronoitu rytminsiirto, CPAP ja happivarojen laskenta.', readMinutes: 9, hasQuiz: true, hasFlashcards: true, hasScenario: false },
-  { id: 'potilasviestinta-ruotsiksi', moduleId: 'perusteet', title: 'Potilasviestintä ruotsiksi', summary: 'Keskeiset fraasit potilaan kohtaamiseen ruotsiksi.', readMinutes: 6, hasQuiz: false, hasFlashcards: true, hasScenario: false },
+  { id: 'patofysiologian-perusteet', moduleId: 'perusteet', title: 'Patofysiologian perusteet', summary: 'Solujen sopeutuminen ja vaurio, tulehdus ja puolustus, kudosten paraneminen ja kasvaimet.', readMinutes: 8, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'patologiakertaus', moduleId: 'perusteet', title: 'Patologiakertaus – lääketieteellinen arviointi', summary: 'Keskeiset patofysiologian periaatteet ensihoitajan näkökulmasta.', readMinutes: 10, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+
+  // --- ammatillinen ---
+  { id: 'ensihoidon-tehtavakoodit', moduleId: 'ammatillinen', title: 'Ensihoidon tehtäväkoodit', summary: 'Tehtäväsarjat, kiireellisyysvasteet ja hakemisto: mistä kunkin tehtävän hoito löytyy.', readMinutes: 5, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'kuljettamatta-jattaminen', moduleId: 'ammatillinen', title: 'Kuljettamatta jättäminen ja X-koodit', summary: 'X-51- ja X-81-päätösten edellytykset, kieltäytyminen, muu kuljetus ja toisen yksikön peruuttaminen.', readMinutes: 10, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'ensihoidon-johtaminen', moduleId: 'ammatillinen', title: 'Ensihoidon operatiivinen johtaminen', summary: 'Johtamistavat, johtamisprosessi, FOR-DEC, suljettu viestintä ja monipotilastilanteet.', readMinutes: 8, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'suuronnettomuus', moduleId: 'ammatillinen', title: 'Suuronnettomuus ja potilasluokittelu', summary: 'Hälyttäminen, johtaminen, primaari- ja sekundaariluokittelu sekä kuljetus.', readMinutes: 11, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'potilasviestinta-ruotsiksi', moduleId: 'ammatillinen', title: 'Potilasviestintä ruotsiksi', summary: 'Keskeiset fraasit potilaan kohtaamiseen ruotsiksi.', readMinutes: 6, hasQuiz: false, hasFlashcards: true, hasScenario: false },
+  { id: 'ensihoitajan-ydinosaaminen', moduleId: 'ammatillinen', title: 'Ensihoitajan ydinosaaminen ja sen kehittäminen', summary: 'Osaamisalueet, täydennyskoulutus ja osaamisen arviointi ensihoidossa.', readMinutes: 10, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+
+  // --- elvytys ---
+  { id: 'elvytys', moduleId: 'elvytys', title: 'Aikuisen elvytys', summary: 'Tunnistaminen, painelu, hoitoelvytys, hoidettavat syyt, ROSC-hoito ja elvytyksen lopettaminen.', readMinutes: 12, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'lapsen-ja-vastasyntyneen-elvytys', moduleId: 'elvytys', title: 'Lapsen ja vastasyntyneen elvytys', summary: 'Lapsen peruselvytys 15:2, painon mukaiset annokset ja vastasyntyneen elvytystoimet: lämpö, ventilaatio ja syke.', readMinutes: 14, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'elvytys-sairaalan-ulkopuolella', moduleId: 'elvytys', title: 'Elvytyksen erityistilanteet', summary: 'Vammapotilaan sydänpysähdys, mekaaninen painelu, kuljetus elvyttäen, hukkunut ja raskaana oleva.', readMinutes: 10, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'hengitystien-hallinta', moduleId: 'elvytys', title: 'Hengitystien hallinta ja hätäkrikotyreotomia', summary: 'Tukoksen tunnistaminen, avausotteet, apuvälineet, naamari-palje, supraglottinen väline ja kirurginen hengitystie.', readMinutes: 11, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'anestesiaintubaatio', moduleId: 'elvytys', title: 'Anestesiaintubaatio ensihoidossa', summary: 'Vakioitu prosessi, esihappeutus, työnjako ja epäonnistuneen intubaation suunnitelma.', readMinutes: 9, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'rytminsiirto-ja-tahdistus', moduleId: 'elvytys', title: 'Rytminsiirto ja ulkoinen tahdistus', summary: 'Synkronoitu rytminsiirto ja ulkoinen tahdistus: aiheet, laitteen valmistelu, sedaatio ja ongelmatilanteet.', readMinutes: 8, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'case-elvytys-701', moduleId: 'elvytys', title: 'Tapaus: Sydänpysähdys', summary: 'Harjoittele nähdyn kammiovärinäpysähdyksen hoitoa ensimmäisestä iskusta ROSC-hoitoon.', readMinutes: 10, hasQuiz: false, hasFlashcards: false, hasScenario: true, dispatchCode: '701' },
 
   // --- hengitys ---
   { id: 'hengitysteiden-fysiologia', moduleId: 'hengitys', title: 'Hengitysteiden fysiologia ja hätätilat', summary: 'Hengityksen säätely ja hengitysvajauksen mekanismit.', readMinutes: 9, hasQuiz: true, hasFlashcards: true, hasScenario: false },
-  { id: 'ylahengitystien-tukos-anafylaksia', moduleId: 'hengitys', title: 'Ylähengitystien tukokset ja anafylaksia', summary: 'Vierasesine, epiglottiitti ja allerginen reaktio.', readMinutes: 9, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'ylahengitystien-tukos-anafylaksia', moduleId: 'hengitys', title: 'Ylähengitystien tukokset ja anafylaksia', summary: 'Vierasesine, epiglottiitti, anafylaksia myös lapsella ja angioedeema.', readMinutes: 9, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'astma-ja-copd', moduleId: 'hengitys', title: 'Astma ja COPD', summary: 'Obstruktiivisten keuhkosairauksien ensihoito ja lääkitys.', readMinutes: 10, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'ilmarinta', moduleId: 'hengitys', title: 'Ilmarinta ja jänniteilmarinta', summary: 'Tunnistaminen ja neulatorakosenteesin periaatteet.', readMinutes: 8, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'keuhkoembolia', moduleId: 'hengitys', title: 'Keuhkoembolia', summary: 'Riskitekijät, oirekuva ja ensihoito.', readMinutes: 7, hasQuiz: true, hasFlashcards: true, hasScenario: false },
@@ -36,19 +48,15 @@ export const topics: TopicMeta[] = [
   { id: 'ekg-ja-iskemia', moduleId: 'sydan', title: 'EKG:n iskemiatulkinta', summary: 'Kytkennät ja suonet, iskemian eteneminen, erityiset kuviot ja haarakatkokset.', readMinutes: 11, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'rytmihairiot', moduleId: 'sydan', title: 'Rytmihäiriöt', summary: 'Rytmihäiriömekanismit ja yleisimpien rytmien hoitoperiaatteet.', readMinutes: 11, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'eteisvarina', moduleId: 'sydan', title: 'Eteisvärinä', summary: 'Kesto, CHA₂DS₂-VA, sykkeenhallinta ja rytminsiirron edellytykset.', readMinutes: 8, hasQuiz: true, hasFlashcards: true, hasScenario: false },
-  { id: 'hyperkalemia-elektrolyytit', moduleId: 'sydan', title: 'Elektrolyyttihäiriöt ja hyperkalemia', summary: 'EKG-muutokset, tyyppipotilaat ja hyperkalemian hoidon kulmakivet.', readMinutes: 8, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'sokki', moduleId: 'sydan', title: 'Sokki eli verenkiertovajaus', summary: 'Sokkityypit, tunnistaminen, nestevaste, sydämen tamponaatio ja yleishoito ensihoidossa.', readMinutes: 10, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'case-rintakipu-704', moduleId: 'sydan', title: 'Tapaus: Rintakipu', summary: 'Harjoittele rintakipupotilaan arviointia ja päätöksentekoa.', readMinutes: 10, hasQuiz: false, hasFlashcards: false, hasScenario: true, dispatchCode: '704' },
-
-  // --- elvytys ---
-  { id: 'elvytys', moduleId: 'elvytys', title: 'Aikuisen elvytys', summary: 'Tunnistaminen, painelu, hoitoelvytys, hoidettavat syyt, ROSC-hoito ja elvytyksen lopettaminen.', readMinutes: 12, hasQuiz: true, hasFlashcards: true, hasScenario: false },
-  { id: 'elvytys-sairaalan-ulkopuolella', moduleId: 'elvytys', title: 'Elvytyksen erityistilanteet', summary: 'Vammapotilaan sydänpysähdys, mekaaninen painelu, kuljetus elvyttäen, hukkunut ja raskaana oleva.', readMinutes: 10, hasQuiz: true, hasFlashcards: true, hasScenario: false },
-  { id: 'anestesiaintubaatio', moduleId: 'elvytys', title: 'Anestesiaintubaatio ensihoidossa', summary: 'Vakioitu prosessi, esihappeutus, työnjako ja epäonnistuneen intubaation suunnitelma.', readMinutes: 9, hasQuiz: true, hasFlashcards: true, hasScenario: false },
 
   // --- neurologia ---
   { id: 'tajuttomuus', moduleId: 'neurologia', title: 'Tajuttomuus', summary: 'Tajunnan säätely, tajuttomuuden syyt ja tutkiminen kentällä.', readMinutes: 12, hasQuiz: true, hasFlashcards: true, hasScenario: false },
-  { id: 'aivoverenkiertohairio', moduleId: 'neurologia', title: 'Aivoverenkiertohäiriö (AVH) ja SAV', summary: 'Tunnistaminen, aikaikkunat, liuotus ja trombektomia sekä lukinkalvonalainen verenvuoto.', readMinutes: 8, hasQuiz: true, hasFlashcards: true, hasScenario: false },
-  { id: 'kouristelu', moduleId: 'neurologia', title: 'Kouristelu ja epilepsia', summary: 'Pitkittynyt kouristelu, lääkeportaat ja kuljetuskriteerit.', readMinutes: 6, hasQuiz: true, hasFlashcards: true, hasScenario: false },
-  { id: 'paansarky-ja-migreeni', moduleId: 'neurologia', title: 'Päänsärky ja migreeni', summary: 'Vaaranmerkit, migreenin ja auran tunnistaminen ja kohtauksen hoito.', readMinutes: 7, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'aivoverenkiertohairio', moduleId: 'neurologia', title: 'Aivoverenkiertohäiriö (AVH), TIA ja SAV', summary: 'Tunnistaminen, aikaikkunat, liuotus ja trombektomia, ohimenevä TIA sekä lukinkalvonalainen verenvuoto.', readMinutes: 8, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'kouristelu', moduleId: 'neurologia', title: 'Kouristelu ja epilepsia', summary: 'Pitkittynyt kouristelu, lääkeportaat, erotusdiagnostiikka ja kuljetuskriteerit.', readMinutes: 6, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'paansarky-ja-migreeni', moduleId: 'neurologia', title: 'Päänsärky ja migreeni', summary: 'Vaaranmerkit, särkyn piirteet, migreeni ja aura sekä Hortonin päänsärky.', readMinutes: 7, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'huimaus', moduleId: 'neurologia', title: 'Huimaus', summary: 'Vaarallisen huimauksen tunnistaminen, asentohuimaus, vestibulaarineuriitti ja Ménièren tauti.', readMinutes: 9, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'yleistilan-lasku-ja-pyortyminen', moduleId: 'neurologia', title: 'Äkillinen yleistilan heikkeneminen ja pyörtyminen', summary: 'Epäspesifisen oireilun ja synkopeen erotusdiagnostiikka.', readMinutes: 10, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'case-tajuttomuus-702', moduleId: 'neurologia', title: 'Tapaus: Tajuton potilas', summary: 'Harjoittele tajuttoman potilaan systemaattista tutkimista.', readMinutes: 10, hasQuiz: false, hasFlashcards: false, hasScenario: true, dispatchCode: '702' },
 
@@ -59,7 +67,12 @@ export const topics: TopicMeta[] = [
 
   // --- sokeri ---
   { id: 'sokeritasapainon-hairiot', moduleId: 'sokeri', title: 'Hypoglykemia, hyperglykemia ja DKA', summary: 'Sokeritasapainon häiriöiden tunnistaminen ja hoito kentällä.', readMinutes: 10, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'hyperkalemia-elektrolyytit', moduleId: 'sokeri', title: 'Elektrolyyttihäiriöt ja hyperkalemia', summary: 'EKG-muutokset, tyyppipotilaat ja hyperkalemian hoidon kulmakivet.', readMinutes: 8, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'munuaisten-vajaatoiminta', moduleId: 'sokeri', title: 'Munuaisten vajaatoiminta, AKI ja dialyysipotilas', summary: 'Akuutin munuaisvaurion tyypit, munuaisille haitalliset lääkkeet, GFR-luokat ja loppuvaiheen hoito.', readMinutes: 8, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'case-sokeritasapaino-771', moduleId: 'sokeri', title: 'Tapaus: Sokeritasapainon häiriö', summary: 'Harjoittele diabeetikon akuutin tilanteen arviointia.', readMinutes: 10, hasQuiz: false, hasFlashcards: false, hasScenario: true, dispatchCode: '771' },
+
+  // --- infektiot ---
+  { id: 'infektiosairaudet', moduleId: 'infektiot', title: 'Infektiosairaudet ja sepsis', summary: 'Sepsiksen tunnistaminen ja tavallisimmat infektioperäiset hätätilanteet.', readMinutes: 11, hasQuiz: true, hasFlashcards: true, hasScenario: false },
 
   // --- myrkytys ---
   { id: 'intoksikaatiopotilaan-hoito', moduleId: 'myrkytys', title: 'Intoksikaatiopotilaan ensihoito', summary: 'Yleisimmät myrkytykset ja niiden tunnistaminen/hoito.', readMinutes: 11, hasQuiz: true, hasFlashcards: true, hasScenario: false },
@@ -69,20 +82,19 @@ export const topics: TopicMeta[] = [
 
   // --- trauma ---
   { id: 'traumapotilaan-tutkiminen', moduleId: 'trauma', title: 'Traumapotilaan tutkiminen ja hoito', summary: 'Vammamekaniikka ja systemaattinen vammapotilaan tutkiminen.', readMinutes: 14, hasQuiz: true, hasFlashcards: true, hasScenario: false },
-  { id: 'tylppa-vamma', moduleId: 'trauma', title: 'Tylppä vamma', summary: 'Tylpän vamman mekanismit ja piilevät vammat.', readMinutes: 8, hasQuiz: true, hasFlashcards: true, hasScenario: false },
-  { id: 'lavistavat-vammat', moduleId: 'trauma', title: 'Lävistävät vammat', summary: 'Lävistävän vamman erityispiirteet ja ensihoito.', readMinutes: 8, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'massiivinen-verenvuoto', moduleId: 'trauma', title: 'Massiivinen verenvuoto ja verensiirto ensihoidossa', summary: 'Vamman aiheuttama hyytymishäiriö, punasolut kentälle ja verenvuodon hallinnan kokonaisuus.', readMinutes: 8, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'paan-vamma', moduleId: 'trauma', title: 'Pään vamma', summary: 'Aivovamman vaikeusaste, sekundaarivaurion esto ja kallonsisäisen paineen hallinta.', readMinutes: 8, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'selkaranka-ja-selkaydinvamma', moduleId: 'trauma', title: 'Selkäranka- ja selkäydinvamma', summary: 'Rangan tuenta, neurogeeninen sokki, kaularankasäännöt ja epätäydelliset selkäydinvammat (ETC).', readMinutes: 11, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'rintakehavammat', moduleId: 'trauma', title: 'Rintakehävammat', summary: 'Kuusi välittömästi henkeä uhkaavaa rintakehävammaa ja niiden tunnistaminen (ETC).', readMinutes: 12, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'vatsan-ja-lantion-vammat', moduleId: 'trauma', title: 'Vatsan ja lantion vammat', summary: 'Epäluotettava vatsan tutkimus, lantiorenkaan murtumatyypit ja lantiovyö (ETC).', readMinutes: 10, hasQuiz: true, hasFlashcards: true, hasScenario: false },
-  { id: 'selkaranka-ja-selkaydinvamma', moduleId: 'trauma', title: 'Selkäranka- ja selkäydinvamma', summary: 'Rangan tuenta, neurogeeninen sokki, kaularankasäännöt ja epätäydelliset selkäydinvammat (ETC).', readMinutes: 11, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'raajavammat', moduleId: 'trauma', title: 'Raajavammat', summary: 'Raajan vuoto, murtumien oikaisu, raajaa uhkaavat vammat ja aitio-oireyhtymä (ETC).', readMinutes: 10, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'irtileikkautunut-raaja', moduleId: 'trauma', title: 'Irtileikkautunut raaja (amputaatio)', summary: 'Amputaatiovamman hoito ja irronneen osan käsittely.', readMinutes: 7, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'tylppa-vamma', moduleId: 'trauma', title: 'Tylppä vamma', summary: 'Tylpän vamman mekanismit ja piilevät vammat.', readMinutes: 8, hasQuiz: true, hasFlashcards: true, hasScenario: false },
+  { id: 'lavistavat-vammat', moduleId: 'trauma', title: 'Lävistävät vammat', summary: 'Lävistävän vamman erityispiirteet ja ensihoito.', readMinutes: 8, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'rajahdysvamma', moduleId: 'trauma', title: 'Räjähdysvamma', summary: 'Räjähdyksen vammamekanismit ja triage.', readMinutes: 8, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'palovamma', moduleId: 'trauma', title: 'Palovamma', summary: 'Palovamman laajuuden arviointi ja nestehoito.', readMinutes: 8, hasQuiz: true, hasFlashcards: true, hasScenario: false },
-  { id: 'irtileikkautunut-raaja', moduleId: 'trauma', title: 'Irtileikkautunut raaja (amputaatio)', summary: 'Amputaatiovamman hoito ja irronneen osan käsittely.', readMinutes: 7, hasQuiz: true, hasFlashcards: true, hasScenario: false },
-  { id: 'raajavammat', moduleId: 'trauma', title: 'Raajavammat', summary: 'Raajan vuoto, murtumien oikaisu, raajaa uhkaavat vammat ja aitio-oireyhtymä (ETC).', readMinutes: 10, hasQuiz: true, hasFlashcards: true, hasScenario: false },
-  { id: 'massiivinen-verenvuoto', moduleId: 'trauma', title: 'Massiivinen verenvuoto ja verensiirto ensihoidossa', summary: 'Vamman aiheuttama hyytymishäiriö, punasolut kentälle ja verenvuodon hallinnan kokonaisuus.', readMinutes: 8, hasQuiz: true, hasFlashcards: true, hasScenario: false },
-  { id: 'paan-vamma', moduleId: 'trauma', title: 'Pään vamma', summary: 'Aivovamman vaikeusasteen arviointi ja sekundaarivaurion esto.', readMinutes: 8, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'liikenneonnettomuus', moduleId: 'trauma', title: 'Vamma-liikenneonnettomuus', summary: 'Vammamekanismin tulkinta ja potilaan irrotus ajoneuvosta.', readMinutes: 8, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: '40-traumavinkkia', moduleId: 'trauma', title: '40 muistisääntöä traumapotilaan hoitoon', summary: 'Kentältä opittuja käytännön vinkkejä trauman hoitoon.', readMinutes: 10, hasQuiz: false, hasFlashcards: true, hasScenario: false },
-  { id: 'suuronnettomuus', moduleId: 'trauma', title: 'Suuronnettomuus ja potilasluokittelu', summary: 'Hälyttäminen, johtaminen, primaari- ja sekundaariluokittelu sekä kuljetus.', readMinutes: 11, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'case-vammapotilas-200', moduleId: 'trauma', title: 'Tapaus: Vammapotilas', summary: 'Harjoittele vammapotilaan systemaattista kohtaamista.', readMinutes: 10, hasQuiz: false, hasFlashcards: false, hasScenario: true, dispatchCode: '200' },
 
   // --- ymparisto ---
@@ -99,23 +111,16 @@ export const topics: TopicMeta[] = [
   { id: 'raskaana-oleva-synnyttaja', moduleId: 'raskaus', title: 'Raskaana oleva ja synnyttäjä ensihoidossa', summary: 'Raskausajan hätätilanteet ja synnytyksen kohtaaminen kentällä.', readMinutes: 12, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'raskauden-verenvuodot', moduleId: 'raskaus', title: 'Raskaudenaikaiset verenvuodot ja hätätilanteet', summary: 'Kohdunulkoinen raskaus, ablaatio, etisistukka, pre-eklampsia ja napanuoran esiinluiskahdus.', readMinutes: 10, hasQuiz: true, hasFlashcards: true, hasScenario: false },
 
-  // --- infektiot ---
-  { id: 'infektiosairaudet', moduleId: 'infektiot', title: 'Infektiosairaudet ja sepsis', summary: 'Sepsiksen tunnistaminen ja tavallisimmat infektioperäiset hätätilanteet.', readMinutes: 11, hasQuiz: true, hasFlashcards: true, hasScenario: false },
-
   // --- geriatria ---
   { id: 'ikaantynyt-potilas', moduleId: 'geriatria', title: 'Ikääntynyt potilas ensihoidossa', summary: 'Kaatuilu, gerastenia, huimaus, lääkkeiden muuttunut vaikutus, infektiot ja muistisairaan kipu.', readMinutes: 12, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'muistisairaudet', moduleId: 'geriatria', title: 'Muistisairaudet', summary: 'Alzheimer, Lewy ja vaskulaarinen, hoidettavat syyt, delirium ja muistisairaan kohtaaminen.', readMinutes: 6, hasQuiz: true, hasFlashcards: true, hasScenario: false },
-  { id: 'munuaisten-vajaatoiminta', moduleId: 'geriatria', title: 'Munuaisten vajaatoiminta, AKI ja dialyysipotilas', summary: 'Akuutin munuaisvaurion tyypit, munuaisille haitalliset lääkkeet, GFR-luokat ja loppuvaiheen hoito.', readMinutes: 8, hasQuiz: true, hasFlashcards: true, hasScenario: false },
 
   // --- laakkeet ---
+  { id: 'kivunhoito', moduleId: 'laakkeet', title: 'Kivunhoito ensihoidossa', summary: 'Kiputyypit, NRS-arvio, opioidit, esketamiini ja erityisryhmät.', readMinutes: 7, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'amiodaroni', moduleId: 'laakkeet', title: 'Amiodaroni', summary: 'Käyttöaiheet, annostus ja huomioitavat haittavaikutukset.', readMinutes: 5, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'atropiini', moduleId: 'laakkeet', title: 'Atropiini', summary: 'Käyttöaiheet, annostus ja huomioitavat haittavaikutukset.', readMinutes: 5, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'enoksapariini', moduleId: 'laakkeet', title: 'Enoksapariini', summary: 'Käyttöaiheet, annostus ja huomioitavat haittavaikutukset.', readMinutes: 5, hasQuiz: true, hasFlashcards: true, hasScenario: false },
   { id: 'ondansetroni', moduleId: 'laakkeet', title: 'Ondansetroni', summary: 'Käyttöaiheet, annostus ja huomioitavat haittavaikutukset.', readMinutes: 5, hasQuiz: true, hasFlashcards: true, hasScenario: false },
-
-  // --- ammatillinen ---
-  { id: 'ensihoitajan-ydinosaaminen', moduleId: 'ammatillinen', title: 'Ensihoitajan ydinosaaminen ja sen kehittäminen', summary: 'Osaamisalueet, täydennyskoulutus ja osaamisen arviointi ensihoidossa.', readMinutes: 10, hasQuiz: true, hasFlashcards: true, hasScenario: false },
-  { id: 'ensihoidon-johtaminen', moduleId: 'ammatillinen', title: 'Ensihoidon operatiivinen johtaminen', summary: 'Johtamistavat, johtamisprosessi, FOR-DEC, suljettu viestintä ja monipotilastilanteet.', readMinutes: 8, hasQuiz: true, hasFlashcards: true, hasScenario: false },
 ]
 
 export function getTopic(id: string): TopicMeta | undefined {

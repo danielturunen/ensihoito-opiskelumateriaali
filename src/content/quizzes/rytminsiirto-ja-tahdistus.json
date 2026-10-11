@@ -1,0 +1,91 @@
+[
+  {
+    "id": "rytminsiirto-ja-tahdistus-q1",
+    "type": "mcq",
+    "question": "Potilaalla on kammiovärinä eikä hän reagoi. Mikä sähköhoito?",
+    "options": [
+      "Synkronoitu rytminsiirto 50 J",
+      "Defibrillaatio ilman synkronointia",
+      "Ulkoinen tahdistus",
+      "Ei sähköhoitoa ennen lääkkeitä"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kammiovärinä on sydänpysähdys: defibrilloidaan heti ilman synkronointia, joka vain hidastaisi iskua."
+  },
+  {
+    "id": "rytminsiirto-ja-tahdistus-q2",
+    "type": "mcq",
+    "question": "Mikä on aikuisen kardioversion aloitusenergia Ensihoito-oppaan mukaan?",
+    "options": [
+      "2 J/kg",
+      "50–100 J",
+      "150–200 J",
+      "360 J"
+    ],
+    "correctIndex": 1,
+    "explanation": "Aikuisella aloitus 50–100 J, lapsella 2 J/kg. Tarvittaessa iskuja annetaan kolme ja energiaa nostetaan portaittain."
+  },
+  {
+    "id": "rytminsiirto-ja-tahdistus-q3",
+    "type": "truefalse",
+    "question": "Synkronointiasetus voi pudota pois iskun jälkeen, joten se tarkistetaan ennen jokaista iskua.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ensihoito-opas: SYNK-asetus kytketään aina ennen latausta ja se voi pudota pois iskun jälkeen."
+  },
+  {
+    "id": "rytminsiirto-ja-tahdistus-q4",
+    "type": "mcq",
+    "question": "Mikä lisää virheellisen synkronoinnin riskiä?",
+    "options": [
+      "Syke 90/min",
+      "Syke yli 200/min tai hyvin leveä QRS",
+      "Kapea QRS ja pieni T-aalto",
+      "Kytkentä II"
+    ],
+    "correctIndex": 1,
+    "explanation": "Riski kasvaa, jos syke on yli 200/min, QRS on hyvin leveä, P- tai T-aalto on hyvin korkea tai potilaalla on tahdistin. T-aaltoon osuva isku voi käynnistää kammiovärinän."
+  },
+  {
+    "id": "rytminsiirto-ja-tahdistus-q5",
+    "type": "mcq",
+    "question": "Miten ulkoisen tahdistuksen virta säädetään?",
+    "options": [
+      "Aloitetaan 200 mA:sta ja lasketaan",
+      "Minimistä ylös, kunnes kaappaus näkyy; sitten 10–20 mA kynnyksen yli",
+      "Aina 40 mA",
+      "Kynnysvirralla ilman lisäystä"
+    ],
+    "correctIndex": 1,
+    "explanation": "Virta laitetaan minimiin, nostetaan kunnes tahdistinrytmi tulee näkyviin (kynnys yleensä 40–120 mA) ja sitten 10–20 mA kynnyksen yli. Lopuksi palpoidaan rannesyke ja mitataan verenpaine."
+  },
+  {
+    "id": "rytminsiirto-ja-tahdistus-q6",
+    "type": "mcq",
+    "question": "Mihin ulkoisen tahdistuksen elektrodit asetetaan Ensihoito-oppaan mukaan?",
+    "options": [
+      "Oikean solisluun alle ja vasempaan kylkeen",
+      "Vasemman rintalihaksen päälle ja vasemmalle selkäpuolelle lapaluun alle",
+      "Molemmat selkään",
+      "Rintalastan päälle ja vatsalle"
+    ],
+    "correctIndex": 1,
+    "explanation": "Anteriorinen elektrodi vasemmalle rintalihaksen päälle ja posteriorinen vasemmalle selkäpuolelle lapaluun alle. Ihokarvat ajellaan ja iho kuivataan."
+  },
+  {
+    "id": "rytminsiirto-ja-tahdistus-q7",
+    "type": "mcq",
+    "question": "Milloin sedaatio on kardioversiossa riittävä?",
+    "options": [
+      "Kun potilas on täysin tajuton",
+      "Kun potilas muuttuu uneliaaksi",
+      "Kun hengitys pysähtyy",
+      "Aina vähintään 10 mg midatsolaamia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sedaatio on riittävä, kun potilas muuttuu uneliaaksi: esim. midatsolaami 1–2 mg i.v. vasteen mukaan, vastetta odotetaan 1–2 min ennen lisäannosta."
+  }
+]

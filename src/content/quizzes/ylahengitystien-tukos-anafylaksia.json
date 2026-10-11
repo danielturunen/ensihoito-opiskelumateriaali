@@ -194,5 +194,18 @@
     ],
     "correctIndex": 1,
     "explanation": "Väärin. H1-antihistamiinit vaikuttavat hitaasti (30–45 min) ja lievittävät ihottumaa ja kutinaa, mutta eivät auta hengitysteiden obstruktioon eivätkä hypotensioon."
+  },
+  {
+    "id": "ylahengitystien-tukos-anafylaksia-q17",
+    "type": "mcq",
+    "question": "Lapsi painaa 20 kg ja saa anafylaktisen reaktion. Paljonko adrenaliinia (1 mg/ml) annetaan lihakseen?",
+    "options": [
+      "0,05 ml",
+      "0,2 ml",
+      "0,5 ml",
+      "1 ml"
+    ],
+    "correctIndex": 1,
+    "explanation": "0,01 mg/kg × 20 kg = 0,2 mg = 0,2 ml liuosta 1 mg/ml. Enimmäisannos 0,5 ml (yli 50 kg). Annos uusitaan tarvittaessa 5 minuutin välein."
   }
 ]

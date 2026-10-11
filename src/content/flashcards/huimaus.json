@@ -1,0 +1,37 @@
+[
+  {
+    "id": "huimaus-f1",
+    "front": "Huimauksen luonne ja syy",
+    "back": "Kiertävä = sisäkorva · kaatava = aivorunko/pikkuaivot (tai niska) · keinuttava = muut syyt · huimaus + (esi)pyörtyminen = sydän ja verenkierto."
+  },
+  {
+    "id": "huimaus-f2",
+    "front": "Huimauksen liitännäisoireet",
+    "back": "Halvaus, kömpelyys, kaksoiskuvat, puhehäiriö → AVH. Kuulon heikkeneminen, tinnitus, paine → korva. Tykytys, hengenahdistus, rintatuntemus → rytmihäiriö, keuhkoembolia tai paniikki."
+  },
+  {
+    "id": "huimaus-f3",
+    "front": "HINTS – AVH:hon viittaavat löydökset",
+    "back": "Normaali pään nykäisykoe, katseen suuntaan lyövä ja suuntaa vaihtava nystagmus, silmien pystysuuntainen yhteisliikkeen häiriö."
+  },
+  {
+    "id": "huimaus-f4",
+    "front": "Vestibulaarineuriitti",
+    "back": "Nopeasti alkava voimakas kiertohuimaus ja pahoinvointi, ei kuulo-oireita, nystagmus terveeseen korvaan, ei muita neurologisia oireita. Helpottaa päivistä 2 viikkoon; nopea mobilisaatio."
+  },
+  {
+    "id": "huimaus-f5",
+    "front": "Takaverenkierron AVH huimauksena",
+    "back": "Kaatava huimaus, joka toistuu Rombergissa tai istuen, ja neurologiset liitännäisoireet (dysartria, kasvohalvaus, silmän liikehäiriö, raajahalvaus, kömpelyys). Ei välttämättä näy ensimmäisessä TT:ssä."
+  },
+  {
+    "id": "huimaus-f6",
+    "front": "Huimausta aiheuttavia lääkkeitä",
+    "back": "Bentsodiatsepiinit; verenpaine- ja parkinsonlääkkeet, trisykliset ja fentiatsiinit (ortostatismi); karbamatsepiini ja fenytoiini (ataksia, nystagmus). Lääkelista aina."
+  },
+  {
+    "id": "huimaus-f7",
+    "front": "Huimauksen hoito",
+    "back": "Syyn mukainen. Pahoinvointiin metoklopramidi, droperidoli tai ondansetroni, tarvittaessa i.v.-nesteet. Asentohuimaus: asentohoito, ei lääkitystä. Liikkuminen nopeuttaa toipumista."
+  }
+]

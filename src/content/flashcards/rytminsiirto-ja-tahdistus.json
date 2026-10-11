@@ -1,0 +1,42 @@
+[
+  {
+    "id": "rytminsiirto-ja-tahdistus-f1",
+    "front": "Kolme sähköhoitoa",
+    "back": "Eloton VF/pVT → defibrillaatio ilman synkronointia. Nopea, verenkiertoa uhkaava rytmi → synkronoitu rytminsiirto. Hidas, lääkkeille reagoimaton epävakaa rytmi → ulkoinen tahdistus."
+  },
+  {
+    "id": "rytminsiirto-ja-tahdistus-f2",
+    "front": "Kardioversion aiheet (Ensihoito-opas)",
+    "back": "Nopea takyarytmia, joka uhkaa romahduttaa verenkierron (matala tajunta ja verenpaine): VT, kammiovasteeltaan nopea eteislepatus, eteisvärinä tai junktionaalinen takykardia. Edellytys: ensihoitolääkärin konsultaatio."
+  },
+  {
+    "id": "rytminsiirto-ja-tahdistus-f3",
+    "front": "Kardioversion energia",
+    "back": "Aikuinen 50–100 J, lapsi 2 J/kg. Tarvittaessa kolme iskua energiaa portaittain nostaen."
+  },
+  {
+    "id": "rytminsiirto-ja-tahdistus-f4",
+    "front": "Kardioversion sedaatio",
+    "back": "Riittävä, kun potilas on unelias. Midatsolaami 1–2 mg i.v. (odota 1–2 min), esketamiini 12,5–25 mg i.v., propofoli lääkäriyksikössä. Ei opioidia kardioversiokipuun (Silfvast)."
+  },
+  {
+    "id": "rytminsiirto-ja-tahdistus-f5",
+    "front": "Kardioversion ongelmat",
+    "back": "Pitkittynyt ventilaatiotarve → flumatseniili 0,2 mg ad 1 mg i.v. · oksentaa → kylkiasento ja imu · uusiutuva VT → amiodaroni 300 mg i.v. 5 min · uusiutuva rytmihäiriö → konsultoi ja kuljeta."
+  },
+  {
+    "id": "rytminsiirto-ja-tahdistus-f6",
+    "front": "Ulkoisen tahdistuksen aiheet",
+    "back": "Hidas rytmihäiriö (esim. AV-katkos), joka aiheuttaa epävakaan verenkierron eikä korjaannu lääkehoidolla. Edellytys: konsultaatio."
+  },
+  {
+    "id": "rytminsiirto-ja-tahdistus-f7",
+    "front": "Ulkoisen tahdistuksen suoritus",
+    "back": "Aktivoi → taajuus → demand → virta minimiin → aloita → nosta kunnes tahdistinrytmi (kynnys yleensä 40–120 mA) → +10–20 mA → rannesyke ja verenpaine."
+  },
+  {
+    "id": "rytminsiirto-ja-tahdistus-f8",
+    "front": "Tahdistuksen ongelmat",
+    "back": "Akkujen riittävyys siirrossa, kynnyksen nousu (nosta virtaa), hyvin korkea kynnys (tarkista elektrodit). Kivunlievitys: midatsolaami 1–2 mg, oksikodoni 2 mg tai esketamiini 12,5–25 mg i.v."
+  }
+]

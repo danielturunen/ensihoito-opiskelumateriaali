@@ -35,18 +35,8 @@
     "back": "Ensihoitaja 1: lääkkeet ja monitori (saturaatiomuutokset, vasopressori). Ensihoitaja 2: lisäkädet ja imu. Ensihoitaja 3: kaularangan tuenta."
   },
   {
-    "id": "ai-f-moans",
-    "front": "Vaikean maskiventilaation riskit (MOANS)",
-    "back": "Mask seal (parta, veri, kasvovamma), Obesity/Obstruction (myös loppuraskaus), Age, No teeth, Stiff lungs."
-  },
-  {
     "id": "ai-f-lull",
     "front": "Intubaation jälkeinen \"suvanto\"",
     "back": "Riskit: putki irtoaa, monitorointi katkeaa, sedaatio unohtuu, hypotensio, jänniteilmarinta. Yksi pitää putkesta kiinni jokaisen siirron ajan."
-  },
-  {
-    "id": "anestesiaintubaatio-f1",
-    "front": "Mikä on nenänieluputken tärkein vasta-aihe vammapotilaalla?",
-    "back": "Tiedetty tai epäilty kallonpohjan murtuma. Putki viedään nenän pohjaa pitkin, ei ylöspäin."
   }
 ]

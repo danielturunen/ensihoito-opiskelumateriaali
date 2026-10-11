@@ -92,6 +92,13 @@ Sydämen pumppausvoima pettää: sydäninfarkti, hidas tai nopea rytmihäiriö, 
 
 Este verenkierrossa: massiivinen keuhkoembolia, sydäntamponaatio tai jänniteilmarinta. Muista poiketen **kaulalaskimot ovat usein pullottavat**, koska laskimopaluu estyy. Hoitona esteen poisto – neulatorakosenteesi tai torakostomia, perikardiosenteesi tai torakotomia, keuhkoembolian liuotushoito – ja verenkierron tukeminen. Katso [ilmarinta](topic:ilmarinta) ja [keuhkoembolia](topic:keuhkoembolia).
 
+> [!info] Sydämen tamponaatio – ei vain vammapotilaan ongelma
+> Tamponaatiossa veri tai muu neste kertyy sydänpussiin, lokerot painuvat kasaan eikä sydän pääse täyttymään. **Jo 100–200 ml:n äkillinen vuoto voi aiheuttaa tamponaation**, kun taas hitaasti kertyvää nestettä voi olla toista litraa ennen vakavia verenkiertohäiriöitä – lopulta pienikin lisäys laukaisee oireet (Akuuttihoitotyön opas 2024).
+> - **Äkillinen**: tylppä tai terävä rintakehävamma, sydäninfarktiin liittyvä seinämän repeämä, aortan dissekoituman repeämä tai toimenpide (sydänleikkaus, katetrointi, tahdistinelektrodin asennus).
+> - **Hidas**: kasvain, antikoagulaatiohoito, virusinfektio, uremia, kilpirauhasen vajaatoiminta tai sydänleikkauksen myöhäiskomplikaatio.
+> - **Oireet ja löydökset**: tiheä hengitys ja hengenahdistus, rintakipu tai painon tunne, nielemisvaikeus, ylävatsakipu, hiljaiset sydänäänet, huimaus ja tajunnan menetys, pullottavat kaulalaskimot (ellei samalla ole hypovolemiaa), pään ja ylävartalon sinerrys, viileä iho, levottomuus ja sekavuus. Verenpaine on matala, **pulssipaine kapea (alle 30 mmHg)** ja syke yli 100/min; systolinen paine laskee sisäänhengityksessä yli 10 mmHg (**paradoksaalinen pulssi**). Elvytykseen ei saada vastetta.
+> - **Hoito** on sydänpussin paineen purku (punktio, dreeni tai kirurginen avaus). Tukihoidoksi opas mainitsee kohoasennon, lisähapen, suoniyhteyden, kivunhoidon ja potilaan rauhoittelun. Lävistävän vamman tamponaatio: [lävistävät vammat](topic:lavistavat-vammat).
+
 ### Distributiivinen sokki
 
 Nestettä on, mutta väärässä paikassa: suonet laajenevat, niiden läpäisevyys kasvaa ja neste karkaa kudoksiin. Yhteistä on mahdollinen **lämmin periferia** ("lämmin sokki"), joka ei kuitenkaan toteudu läheskään aina.

@@ -22,6 +22,8 @@ export function TopicPage() {
 
   const module = modules.find((m) => m.id === topic.moduleId)
   const article = getArticle(topic.id)
+  // Case-based topics have no article – send links like #/aihe/<id> straight to the scenario.
+  if (topic.hasScenario && !article) return <Navigate to={`/aihe/${topic.id}/tapaus`} replace />
   const done = Boolean(progress.completedTopics[topic.id])
   const fav = progress.favorites.includes(topic.id)
 

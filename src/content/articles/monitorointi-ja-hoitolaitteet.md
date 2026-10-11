@@ -46,13 +46,9 @@ Ks. [elvytys](topic:elvytys) ja [anestesiaintubaatio](topic:anestesiaintubaatio)
 
 ## Synkronoitu rytminsiirto
 
-Kardioversiossa eli liian nopean rytmin sähköisessä kääntämisessä **synkronointi ajoittaa iskun kammioiden depolarisaatioon** eli QRS-kompleksiin. Defibrillaattori tunnistaa EKG:stä korkeimman heilahduksen – R-aallon – ja merkitsee sen valopilkulla tai nuolella. Jos isku osuisi T-aaltoon eli repolarisaatiovaiheeseen, se voisi käynnistää kammiovärinän.
+Kardioversiossa eli liian nopean rytmin sähköisessä kääntämisessä **synkronointi ajoittaa iskun kammioiden depolarisaatioon** eli R-aaltoon – defibrillaattori merkitsee sen valopilkulla tai nuolella. T-aaltoon osuva isku voisi käynnistää kammiovärinän. Synkronointia käytetään, kun nopea rytmihäiriö heikentää verenkiertoa (eteisvärinä, eteislepatus, kammiotakykardia, jossa syke vielä tuntuu), mutta **ei koskaan kammiovärinässä tai pulssittomassa kammiotakykardiassa** – silloin defibrilloidaan heti. Säämäsen kartoituksessa onnistuneen synkronoinnin tunnisti vain neljännes vastaajista.
 
-```media
-{"widget":"sync-cardioversion","caption":"Valitse, mihin synkronointimerkin pitää ilmestyä, ja tarkista, missä rytmeissä synkronointia käytetään."}
-```
-
-Synkronointia käytetään, kun **nopea rytmihäiriö heikentää verenkiertoa, mutta ei ole romahduttanut sitä**: eteisvärinä, eteislepatus ja kammiotakykardia, jossa syke vielä tuntuu. Kammiovärinässä ja pulssittomassa kammiotakykardiassa kyse on jo sydänpysähdyksestä – synkronointi vain hidastaisi iskua. Säämäsen kartoituksessa onnistuneen synkronoinnin tunnisti vain neljännes vastaajista; osa luuli merkin ilmestyvän P- tai T-aallon päälle. Ks. [rytmihäiriöt](topic:rytmihairiot) ja [eteisvärinä](topic:eteisvarina).
+Synkronointiharjoitus, energiat, sedaatio ja ulkoinen tahdistus: **[rytminsiirto ja ulkoinen tahdistus](topic:rytminsiirto-ja-tahdistus)**.
 
 ## CPAP: jatkuva positiivinen ilmatiepaine
 

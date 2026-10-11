@@ -38,6 +38,20 @@ Lähes kaikkien näiden vuotojen **suora tyrehdyttäminen on ensihoidossa mahdot
 
 Nenäverenvuoto pyritään tyrehdyttämään kohteessa niin, **ettei kuljetusta tarvita** – painamalla, kylmällä niskaan ja vastaavin keinoin. Selvitä antikoagulantit ja perussairaudet. **Potilaan voi jättää kotiin, jos vuoto asettuu eikä ala uudelleen.**
 
+Valtaosa vuodoista tulee **nenän väliseinän etuosasta** ja hoituu helposti. Lapsella vuotokohta on lähes aina väliseinän etuosa, ja nenän kaivaminen on tavallinen syy (Korva-, nenä- ja kurkkutaudit 2025). Suojaudu käsineillä ja visiirillä.
+
+```media
+{"widget":"flow","title":"Nenäverenvuodon ensiapu","steps":[
+{"title":"Rauhoita potilas ja aseta hänet etukumaraan"},
+{"title":"Niistä hyytymät pois","text":"Potilas niistää reippaasti."},
+{"title":"Paina sieraimet tiukasti yhteen vähintään 10 minuuttia","text":"Painetaan nenän etuosasta.","tone":"warning"},
+{"title":"Tarvittaessa ksylometatsoliinia","text":"Kaksi suihkausta kumpaankin sieraimeen supistaa verisuonia. Kylmäpakkaus niskaan tai jääpala suuhun voi vähentää vuotoa."},
+{"title":"Jatkuuko vuoto?","text":"Takaosan vuoto tai etuosan vuoto, joka ei asetu: vuotokohdan polttohoito tai tamponaatio sairaalassa.","tone":"danger"}
+]}
+```
+
+Huomioi **veren hyytymiseen vaikuttavat lääkkeet ja verenpainetaso**. Nenäverenvuoto on usein ensimmäinen merkki hyytymishäiriöstä: toistuvat vuodot, useat vuotokohdat, mustelmataipumus tai suvun vuototaipumus vaativat jatkoselvittelyä.
+
 ### Gynekologinen vuoto
 
 Raskauden spontaaniin keskeytymiseen liittyvä vuoto yleensä hiljenee itsestään, eikä erityistä hoitoa tarvita. Jos alkuraskauden vuoto on loppunut tai merkittävästi vähentynyt ennen kuljetuksen aloitusta, hoidon ajankohdasta ja kuljetuksen tarpeesta voidaan konsultoida päivystävää naistentautien yksikköä. Leikkauksen, raskauden keskeytyksen tai synnytyksen jälkeinen vuoto tarvitsee päivystyksellisen arvion.

@@ -23,5 +23,10 @@
     "id": "verenvuoto-ilman-vammaa-f5",
     "front": "Verenvuoto ilman vammaa – ajalliset tavoitteet?",
     "back": "Ensiarvio 5 min, tarkennettu arvio 6–15 min, kuljetuksen aloitus 16–25 min; huonokuntoinen kuljetukseen alle 15 minuutissa."
+  },
+  {
+    "id": "verenvuoto-ilman-vammaa-f6",
+    "front": "Nenäverenvuodon ensiapu",
+    "back": "Rauhoita, etukumara asento, niistä hyytymät, paina sieraimet yhteen vähintään 10 min. Ksylometatsoliini 2 suihkausta kumpaankin sieraimeen, kylmä niskaan. Huomioi antikoagulantit ja verenpaine."
   }
 ]

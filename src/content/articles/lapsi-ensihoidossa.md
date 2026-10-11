@@ -190,24 +190,9 @@ Vanhemman tai muun hyvin lapsen tuntevan aikuisen kuvaus siitä, miten käytös 
 
 ## Lapsen elvytys
 
-Lapsen sydänpysähdys on harvinainen, ja selviytyminen on heikkoa. Yleisimmät syyt ovat hapenpuute ja hengitysvajaus, ja yleisin alkurytmi on PEA tai asystole – siksi hengityksen tukeminen ratkaisee. Lapsi tulkitaan elottomaksi, jos syke on alle 60/min, ellei muuta syytä epäillä – Käypä hoidon mukaan hypoksian tai iskemian aiheuttamassa alle 60/min bradykardiassa elvytys aloitetaan, vaikka pulssi tuntuisi.
+Lapsen sydänpysähdys on harvinainen ja yleensä hengitysperäinen: yleisimmät syyt ovat hapenpuute ja hengitysvajaus, ja yleisin alkurytmi on PEA tai asystole – siksi hengityksen tukeminen ratkaisee. Elvytys aloitetaan viidellä puhalluksella (100 % happi, kun mahdollista) ja jatkuu rytmillä 15:2. Elvytys aloitetaan myös, jos syke on alle 60/min ja perfuusio huono riittävästä hengitystuesta huolimatta. Iskut ja lääkkeet lasketaan painon mukaan: isku 4 J/kg, adrenaliini 0,01 mg/kg ja amiodaroni 5 mg/kg.
 
-| Asia | Lapsen elvytyksessä |
-|---|---|
-| Aloitus | **5 puhallusta** (100 % happi, kun mahdollista). Yksin oleva maallikko elvyttää 1 min ennen avun hakemista. |
-| Rytmi | 15:2, painelutaajuus 100–120/min |
-| Painelusyvyys | Vähintään 1/3 rintakehästä, mutta **ei koskaan yli 6 cm** – alle 1-vuotiaalla noin 4 cm, yli 1-vuotiaalla noin 5 cm |
-| Painelutekniikka alle 1 v | Kaksi auttajaa: kahden peukalon ote rintakehää ympäröiden. Yksin tai maallikkona: kaksi sormea (Käypä hoito 2021). |
-| Ventilaatio intuboituna | Alle 1 v 25/min, yli 1 v 20/min, yli 8 v 15/min, yli 12 v 10/min |
-| Defibrillaatio | 4 J/kg, mutta aikuisen energiaa (150 J) ei ylitetä. Refraktaarisessa tai toistuvassa VF/VT:ssä harkitaan enintään 8 J/kg (max 360 J). Pienellä lapsella (alle 25 kg) elektrodit etu-taka-asentoon; elektrodit eivät saa koskettaa toisiaan. |
-| Adrenaliini | 0,01 mg/kg, max 1 mg (0,1 mg/ml liuosta 0,1 ml/kg). Ei-iskettävässä heti, iskettävässä 3. iskun jälkeen; sitten 3–5 min välein. |
-| Amiodaroni | 5 mg/kg (50 mg/ml liuosta 0,1 ml/kg): 3. iskun jälkeen max 300 mg, 5. iskun jälkeen max 150 mg. Vaihtoehto lidokaiini 1 mg/kg (max 100 mg). |
-| Suoniyhteys | IO-yhteys on nopea – lasten luut ovat ohuita, hallitse tekniikka |
-
-> [!tip] Kapnografia elvytyksessä
-> Elvytyksen aikana kapnografia kertoo verenkierrosta. Älä säädä ventilaatiota kapnolukeman mukaan, vaan ventiloi intuboitua iänmukaisella taajuudella. Äkillinen putoaminen nollaan: putki on lipsahtanut tai potilas elottomaksi. Äkillinen nousu: perfusoiva rytmi on palannut.
-
-Katso myös [sydänpysähdyspotilaan hoito](topic:elvytys).
+Peruselvytys, hoitoelvytys, annos- ja putkikokolaskuri sekä vastasyntyneen elvytystoimet ovat omalla sivullaan: **[lapsen ja vastasyntyneen elvytys](topic:lapsen-ja-vastasyntyneen-elvytys)**.
 
 ## Lapsen pahoinpitely ja kuolema
 
@@ -224,7 +209,7 @@ Alle 18-vuotiaaseen kohdistuneesta pahoinpitely- tai seksuaalirikosepäilystä i
 
 ## Harjoitustapaukset (Metropolia, lasten ensihoito)
 
-Lue tapaus ja määritä työdiagnoosi, arvioi lapsen paino ja suunnittele toimenpiteet, välineet, energiat ja lääkeannokset, nesteet ja suoniyhteydet, tavoitevitaalit sekä varautuminen tilanteen eskaloitumiseen. Annoksia voit harjoitella yllä olevan lapsen elvytyksen taulukon ja annoslaskurin avulla.
+Lue tapaus ja määritä työdiagnoosi, arvioi lapsen paino ja suunnittele toimenpiteet, välineet, energiat ja lääkeannokset, nesteet ja suoniyhteydet, tavoitevitaalit sekä varautuminen tilanteen eskaloitumiseen. Elvytysannokset, energiat ja putkikoot saat [lapsen ja vastasyntyneen elvytyksen](topic:lapsen-ja-vastasyntyneen-elvytys) laskurista.
 
 1. **8 kk**, perusterve, löytyy olohuoneen lattialta sinisenä ja velttona – eloton, PEA. Isä haisee viinalta, koti epäsiisti.
 2. **6 v**, ylipainoinen tyttö pyöräillyt ilman kypärää, auto törmännyt 40 km/h. Takaraivolla iso laseraatio, ääntelee, silmät kiinni, tummat silmänaluset. RR 140/100, p 125, HT 12, SpO₂ 92 %, GCS 6.

@@ -61,5 +61,18 @@
     ],
     "correctIndex": 1,
     "explanation": "Traneksaamihappoa 1 g i.v. aikuisille, jos vuoto on runsasta."
+  },
+  {
+    "id": "verenvuoto-ilman-vammaa-q6",
+    "type": "mcq",
+    "question": "Kuinka kauan sieraimia painetaan nenäverenvuodon ensiavussa?",
+    "options": [
+      "Muutama sekunti",
+      "Vähintään 10 minuuttia",
+      "1 minuutti",
+      "Vain jos vuoto on runsas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Potilas istuu etukumarassa, niistää hyytymät ja painaa sieraimet tiukasti yhteen nenän etuosasta vähintään 10 minuuttia."
   }
 ]

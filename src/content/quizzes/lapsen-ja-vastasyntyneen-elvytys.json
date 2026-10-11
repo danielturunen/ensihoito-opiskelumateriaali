@@ -1,0 +1,128 @@
+[
+  {
+    "id": "lapsen-ja-vastasyntyneen-elvytys-q1",
+    "type": "mcq",
+    "question": "Mikä on lapsen sydänpysähdyksen tavallisin syy?",
+    "options": [
+      "Kammiovärinä",
+      "Hengityksen tai verenkierron vajaus",
+      "Sepelvaltimotukos",
+      "Synnynnäinen pitkä QT"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lapsen elottomuus johtuu useimmiten hengityksen tai verenkierron vajauksesta, ja yleisin alkurytmi on PEA tai asystole. Siksi hengityksen tukeminen ratkaisee."
+  },
+  {
+    "id": "lapsen-ja-vastasyntyneen-elvytys-q2",
+    "type": "mcq",
+    "question": "Miten lapsen peruselvytys aloitetaan, kun lapsi ei reagoi eikä hengitä normaalisti?",
+    "options": [
+      "30 painallusta, sitten 2 puhallusta",
+      "5 puhallusta, sitten 15:2",
+      "2 puhallusta, sitten 30:2",
+      "Pelkkä painelu, kunnes defibrillaattori saapuu"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lapsen elvytys alkaa viidellä noin sekunnin puhalluksella, minkä jälkeen jatketaan rytmillä 15:2."
+  },
+  {
+    "id": "lapsen-ja-vastasyntyneen-elvytys-q3",
+    "type": "mcq",
+    "question": "Lapsi painaa 20 kg. Mikä on defibrillaation energia Käypä hoidon mukaan?",
+    "options": [
+      "40 J",
+      "80 J",
+      "150 J",
+      "200 J"
+    ],
+    "correctIndex": 1,
+    "explanation": "4 J/kg × 20 kg = 80 J. Aikuisten 150 J:ta ei ylitetä; refraktaarisessa VF:ssä voidaan harkita ad 8 J/kg (max 360 J)."
+  },
+  {
+    "id": "lapsen-ja-vastasyntyneen-elvytys-q4",
+    "type": "mcq",
+    "question": "Milloin lapselle annetaan amiodaronia 5 mg/kg (max 300 mg)?",
+    "options": [
+      "Heti ensimmäisen iskun jälkeen",
+      "Kolmannen iskun jälkeen",
+      "Vain ei-iskettävässä rytmissä",
+      "Kun verenkierto on palannut"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kolmannen iskun jälkeen annetaan adrenaliini 0,01 mg/kg ja amiodaroni 5 mg/kg (max 300 mg); viidennen iskun jälkeen amiodaronia 5 mg/kg (max 150 mg)."
+  },
+  {
+    "id": "lapsen-ja-vastasyntyneen-elvytys-q5",
+    "type": "mcq",
+    "question": "Millä taajuudella intuboitua 5-vuotiasta ventiloidaan elvytyksen aikana?",
+    "options": [
+      "10/min",
+      "15/min",
+      "20/min",
+      "25/min"
+    ],
+    "correctIndex": 2,
+    "explanation": "Iän mukaan: alle 1 v 25/min, 1–7 v 20/min, 8–11 v 15/min ja vähintään 12 v 10/min. Intuboitua ventiloidaan tauotta painelusta riippumatta."
+  },
+  {
+    "id": "lapsen-ja-vastasyntyneen-elvytys-q6",
+    "type": "truefalse",
+    "question": "Lapsen elvytys aloitetaan, jos syke on alle 60/min ja perfuusio on huono riittävästä hengitystuesta huolimatta, vaikka pulssi tuntuisi.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Käypä hoidon mukaan hypoksian tai iskemian aiheuttamassa alle 60/min bradykardiassa elvytys on aiheellinen, vaikka pulssi olisi tunnettavissa."
+  },
+  {
+    "id": "lapsen-ja-vastasyntyneen-elvytys-q7",
+    "type": "mcq",
+    "question": "Vastasyntynyt on veltto, hengitysyritykset ovat vähäiset ja syke 80/min. Mikä on oikea ensimmäinen hoito kuivaamisen ja lämmönhukan eston jälkeen?",
+    "options": [
+      "Paineluelvytys 3:1",
+      "Viisi keuhkot avaavaa ventilaatiota",
+      "Adrenaliini napalaskimoon",
+      "Hengitysteiden imu ennen mitään muuta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hidas syke (60–100/min) viittaa hapenpuutteeseen. Hoito on ventilaatio: viisi avaavaa ventilaatiota 30 cmH₂O:n paineella, sitten noin 30/min."
+  },
+  {
+    "id": "lapsen-ja-vastasyntyneen-elvytys-q8",
+    "type": "mcq",
+    "question": "Milloin vastasyntyneen paineluelvytys aloitetaan?",
+    "options": [
+      "Heti, jos syke on alle 100/min",
+      "Jos syke on alle 60/min 30 sekunnin tehokkaan ventilaation jälkeen",
+      "Jos Apgar on alle 7",
+      "Jos saturaatio on alle 85 % viiden minuutin iässä"
+    ],
+    "correctIndex": 1,
+    "explanation": "Painelu (3:1) aloitetaan, jos syke puuttuu tai pysyy alle 60/min 30 sekuntia kestäneen tehokkaan ventilaation jälkeen. Happi nostetaan silloin 100 %:iin."
+  },
+  {
+    "id": "lapsen-ja-vastasyntyneen-elvytys-q9",
+    "type": "mcq",
+    "question": "Mikä on täysiaikaisen vastasyntyneen saturaation alaraja (oikea käsi) viiden minuutin iässä?",
+    "options": [
+      "65 %",
+      "85 %",
+      "90 %",
+      "95 %"
+    ],
+    "correctIndex": 1,
+    "explanation": "Alaraja on 65 % kahden, 85 % viiden ja 90 % kymmenen minuutin iässä. Lisähappea vähennetään, kun saturaatio ylittää 95 %."
+  },
+  {
+    "id": "lapsen-ja-vastasyntyneen-elvytys-q10",
+    "type": "truefalse",
+    "question": "Mekoniumvärjäytyneestä lapsivedestä syntyneen huonokuntoisen vastasyntyneen hengitystiet imetään Käypä hoidon mukaan aina ennen ventilaation aloitusta.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Käypä hoito 2022: rutiininomaista imua ei suositella, koska se viivästyttää ventilaatiota. Imu tehdään näkökontrollissa vain, jos ventilaatio ei onnistu. Ensihoito-oppaan synnytysohjeessa on tästä poikkeava kirjaus."
+  }
+]

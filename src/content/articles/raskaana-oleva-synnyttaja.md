@@ -85,37 +85,9 @@ Hyväkuntoinen vastasyntynyt hengittää tai itkee ponnekkaasti, on jäntevä, p
 {"widget":"apgar"}
 ```
 
-Huonokuntoinen (veltto, riittämättömästi hengittävä tai reagoimaton) vastasyntynyt tarvitsee välittömästi lämmönhukan eston, hengitystien avaamisen neutraaliin asentoon ja stimulaatiota kuivaamalla. Käypä hoito -suosituksen (Elvytys, vastasyntynyt 2022) mukaan:
+Huonokuntoinen (veltto, riittämättömästi hengittävä tai reagoimaton) vastasyntynyt tarvitsee välittömästi lämmönhukan eston, hengitystien avaamisen neutraaliin asentoon ja stimulaatiota kuivaamalla. Noin 85 % vastasyntyneistä hengittää itse, noin 5 % tarvitsee ventilaatiota ja alle 0,3 % paineluelvytystä – **tehokas ventilaatio on tärkein hoito**. Jos hengitys on puutteellista tai syke alle 100/min, annetaan viisi keuhkot avaavaa ventilaatiota ja jatketaan 30/min; painelu (3:1) aloitetaan vasta, jos syke pysyy alle 60/min 30 sekunnin tehokkaasta ventilaatiosta huolimatta. Napanuora katkaistaan, jos mahdollista, yli 60 sekunnin kuluttua. Apgar-pisteitä ei käytetä elvytyspäätöksen tekemiseen.
 
-- **Napanuora** suljetaan hyväkuntoisella aikaisintaan 60 sekunnin kuluttua. **Imua ei tehdä ennen ventilaatiota** – ei myöskään mekoniumvedessä.
-- **Lämpö** pidetään 36,5–37,5 °C:ssa. Sairaalan ulkopuolella vauva kuivataan ja keskonen laitetaan muovipussiin kasvot näkyvillä; ihokontakti, jos raskaus yli 30 vk ja vointi hyvä.
-- Jos hengitys on puutteellista tai syke alle 100/min: **5 avaavaa puhallusta** 30 cmH₂O:n paineella (alle 32 vk 25 cmH₂O), kukin 2–3 s, sitten ventilaatio **30/min**. Varmista rintakehän nousu ja arvioi syke 30 s välein (yli 100 normaali, 60–100 hidas, alle 60 kriittinen).
-- **Happi**: täysiaikainen ja ≥ 32 vk huoneilmalla (21 %), 28–31 vk 21–30 %, alle 28 vk 30 %. Lisää happea, jos syke pysyy hitaana tai saturaatio jää tavoitteesta; vähennä, kun SpO₂ yli 95 % (oikea käsi).
-- Jos syke pysyy **alle 60/min 30 sekunnin tehokkaasta ventilaatiosta** huolimatta: paineluelvytys **3:1** 100 % hapella, kahden peukalon tekniikalla rintalastan alakolmannekselta, syvyys 1/3 rintakehästä, noin 15 sykliä 30 sekunnissa.
-- Lääkkeet (lääkäri): adrenaliini 0,01–0,03 mg/kg i.v./i.o. (napalaskimo ensisijainen), volyymi 10 ml/kg, glukoosi G10 2,5 ml/kg.
-
-Apgar-pisteitä ei käytetä elvytyspäätöksen tekemiseen. Noin 85 % vastasyntyneistä hengittää itse, noin 5 % tarvitsee ventilaatiota ja alle 0,3 % paineluelvytystä – **tehokas ventilaatio on tärkein hoito**.
-
-```media
-{"widget":"flow","title":"Huonokuntoinen vastasyntynyt","steps":[
-{"title":"Lämmönhukan esto, hengitystie neutraaliin asentoon, stimulaatio kuivaamalla"},
-{"title":"Onko hengitys puutteellista tai syke alle 100/min?","tone":"warning","branches":[
-{"label":"Kyllä","title":"5 avaavaa puhallusta, sitten ventilaatio 30/min","text":"30 cmH₂O (keskonen alle 32 vk 25), 2–3 s/puhallus. Varmista rintakehän nousu, arvioi syke 30 s välein.","tone":"danger"},
-{"label":"Ei","title":"Kuivaus, lämpö, ihokontakti","text":"Seuraa ja kirjaa Apgar.","tone":"ok"}
-]},
-{"title":"Syke yhä alle 60/min 30 s tehokkaan ventiloinnin jälkeen?","tone":"warning","branches":[
-{"label":"Kyllä","title":"Paineluelvytys 3:1, happi 100 %","text":"Kahden peukalon tekniikka, 1/3 syvyys, ~15 sykliä / 30 s.","tone":"danger"},
-{"label":"Ei","title":"Jatka ventilaatiota ja seurantaa","tone":"ok"}
-]}
-]}
-```
-
-> [!info] Tausta: SpO₂-tavoitteet syntymän jälkeen
-> Terveen vastasyntyneen happisaturaatio nousee asteittain: alaraja (oikeasta kädestä) on 65 % kahden minuutin, 85 % viiden minuutin ja 90 % kymmenen minuutin iässä (KH 2022). Täyttä 100 %:n tavoitetta ei haeta – lisähappea vähennetään, kun saturaatio ylittää 95 %.
-
-```media
-{"widget":"newborn-spo2"}
-```
+Vastasyntyneen elvytystoimet kokonaisuudessaan – lämpö, avaavat ventilaatiot, happipitoisuudet, saturaatiotavoitteet, painelu, lääkkeet ja päätösharjoitus – ovat sivulla **[lapsen ja vastasyntyneen elvytys](topic:lapsen-ja-vastasyntyneen-elvytys)**.
 
 ## Jälkeisvaihe: äidin uhkaavin hetki kentällä
 
