@@ -19,6 +19,10 @@ Alkavaa sokkia elimistö kompensoi nostamalla sykettä ja iskutilavuutta, kiihdy
 > Nuorella kompensaatio ylläpitää verenpainetta pitkään, ja verenpainetautisella "normaali" lukema voi olla jo matala. Verenkiertovajaukseen liittyy aina kudosperfuusion häiriö – tutki iho, kapillaaritäyttö, tajunta ja polvien **marmoroituminen** (mottling).
 
 ```media
+{"widget": "exam-cap-refill", "caption": "Kapillaaritäyttö on nopea ääreisperfuusion mittari – vertaa normaalia ja hidastunutta täyttöä."}
+```
+
+```media
 {"widget":"shock-skin"}
 ```
 

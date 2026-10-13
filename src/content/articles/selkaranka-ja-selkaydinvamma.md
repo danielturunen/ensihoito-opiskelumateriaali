@@ -123,6 +123,10 @@ Tajuttomalla potilaalla selkäydinvamma löytyy vain, jos sitä epäillään ja 
 Selkäydinvamma on täydellinen tai epätäydellinen. **Epätäydellisen vamman ennuste on paljon parempi.** Ristiluun hermojuurten toiminnan säilyminen – **tunto peräaukon ympärillä ja sulkijalihaksen jänteys** – on luotettava merkki vamman epätäydellisyydestä.
 
 ```media
+{"widget": "exam-myotomes", "caption": "Valitse segmentti ja lihasvoiman aste: mikä liike kuvaa mitäkin hermojuurta (ASIA-kaavake, ETC). Kuvat ovat kaavamaisia."}
+```
+
+```media
 {"widget":"cord-syndromes","caption":"Valitse oireyhtymä. Varjostettu alue on vaurioitunut; värit kertovat, mitkä radat kulkevat missäkin osassa selkäydintä."}
 ```
 

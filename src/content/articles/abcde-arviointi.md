@@ -59,6 +59,10 @@ Verenkierron arviointi kertoo, saavatko elimet riittävästi happea perille. Kes
 | Matala verenpaine | Usein myöhäinen merkki – elimistö kompensoi pitkään |
 | Näkyvä massiivinen verenvuoto | Välitön hengenvaara, tyrehdytettävä ensin |
 
+```media
+{"widget": "exam-cap-refill", "caption": "Paina kynsivallia, vapauta ja laske, kuinka nopeasti väri palaa. Ajat ovat havainnollistavia."}
+```
+
 Massiivinen ulkoinen verenvuoto tyrehdytetään jo ennen muuta C-arviota – se kuuluu käytännössä samaan hetkeen kuin hengitystien tarkistus akuutissa trauman "cABCDE"-ajattelussa. EKG ja verenpaine kuuluvat myös tähän vaiheeseen, ja rytmin tulkinnassa käytettävät mallit ja pisteytykset löytyvät tarkemmin omalta sivultaan ([konsultaatiomallit](topic:konsultaatiomallit)).
 
 ## D – Disability: tajunta ja neurologia

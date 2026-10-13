@@ -60,12 +60,24 @@ Diagnostiikassa tärkeintä on perusteellinen haastattelu: onko huimaus alkanut 
 - **Nystagmus** eli silmävärve viittaa korva- tai aivoperäiseen syyhyn. Huomioi suunta ja kiertävä komponentti – **pystysuuntainen nystagmus on yleensä merkki aivorungon alueen häiriöstä**.
 - Lisäksi niska (lihaskireys) ja korvat (välikorvatulehdus, vammat) sekä **verensokeri**.
 
+```media
+{"widget": "exam-balance", "caption": "Romberg, sokkokävely ja kävely–kääntyminen–paluu: vertaa normaalia ja poikkeavaa suoritusta."}
+```
+
 > [!info] HINTS ja asentotestit – mitä ne kertovat
 > **HINTS**-testi (pään nykäisykoe, nystagmus, silmien vertikaalinen poikkeama) on tarkoitettu tutkimushetkellä oireiselle potilaalle, jolla on nystagmus ja äkillisesti alkanut huimaus. Se erottaa aivoperäisen syyn tasapainoelimen häiriöstä. **Aivoverenkiertohäiriöön viittaavat normaali pään nykäisykoe, katseen suuntaan lyövä ja suuntaa vaihtava nystagmus sekä silmien pystysuuntainen yhteisliikkeen häiriö.** Jos katse ei nykäisyssä pysy kohteessa ja tulee viiveinen korjausliike, syy on sisäkorvassa.
 > **Dix–Hallpiken kokeessa** istuvan potilaan päätä käännetään 45 astetta ja hänet ohjataan nopeasti selinmakuulle niska hieman ojennettuna. Viiveellä (noin 5–20 s) tuleva, väsyvä nystagmus ja huimaus viittaavat takimmaisen kaarikäytävän asentohuimaukseen.
 
 ```media
+{"widget": "exam-hints", "caption": "Pään nykäisykoe, nystagmuksen suunta ja pystypoikkeama – mikä viittaa sisäkorvaan, mikä aivoihin?"}
+```
+
+```media
 {"widget": "bppv", "caption": "Käännä potilas Dix–Hallpiken asentoon ja seuraa sakan liikettä, viivettä ja nystagmusta. Aika on tiivistetty."}
+```
+
+```media
+{"widget": "exam-dix-hallpike", "caption": "Käy Dix–Hallpiken koe läpi vaihe vaiheelta ja vertaa vaakakaarikäytävän kääntötestiin. Ajat on tiivistetty."}
 ```
 
 ## Tyypilliset taudinkuvat

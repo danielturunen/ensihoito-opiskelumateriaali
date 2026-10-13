@@ -92,7 +92,15 @@ Normaalisti systolinen paine muuttuu enintään ±10 mmHg ja syke nousee hieman 
 
 Oikea sisempi kaulalaskimo on suorassa yhteydessä oikeaan eteiseen, joten sen täyttyminen kertoo keskuslaskimopaineesta. Paine nousee oikeanpuoleisessa vajaatoiminnassa, keuhkoveritulpassa ja pulmonaalihypertensiossa. **Matala verenpaine ja pullottavat kaulalaskimot** sopivat tamponaatioon. Tutkittaessa pääpuoli on 30–45° koholla.
 
+```media
+{"widget": "exam-jvp", "caption": "Pääpuoli 30–45°, pulssiaallon huipun pystysuora etäisyys rintalastan kulmasta. Koholla-arvo on esimerkki."}
+```
+
 Alaraajaturvotus on epäspesifinen löydös. Sydämen vajaatoiminnan turvotus on **kuoppaturvotusta molemmissa alaraajoissa** (vuodepotilaalla ristiselässä), ja paino voi nousta useita kiloja. **Toispuolinen** akuutti turvotus viittaa paikalliseen syyhyn: syvä laskimotukos, ruusu, Bakerin kysta, trauma tai niveltulehdus. Kalsiumkanavan salpaajat aiheuttavat usein turvotusta. Katso [keuhkoembolia](topic:keuhkoembolia).
+
+```media
+{"widget": "exam-edema", "caption": "Paina säären etupintaa: jääkö kuoppa? Vertaa kuoppaturvotusta, kuoppautumatonta turvotusta ja normaalia."}
+```
 
 ## Hengenahdistus
 

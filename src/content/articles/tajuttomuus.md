@@ -86,6 +86,10 @@ Anamneesi silminnäkijöiltä ja omaisilta on ratkaisevan tärkeä – heitä ei
 ```
 
 ```media
+{"widget": "exam-gcs-motor", "caption": "Liikevaste ratkaisee usein GCS:n – katso, miten tasot erotetaan toisistaan."}
+```
+
+```media
 {"widget":"pupils"}
 ```
 

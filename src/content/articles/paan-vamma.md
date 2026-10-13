@@ -12,6 +12,10 @@ Yleisimmät mekanismit ovat liikenneonnettomuudet (yleisin vakavien aivovammojen
 | Puhevaste | 5–1 | Orientoitunut → sekava → sanoja → ääniä → ei vastetta |
 | Liikevaste | 6–1 | Tottelee käskyjä → paikantaa kivun → väistää kipua → fleksio → ekstensio → ei vastetta |
 
+```media
+{"widget": "exam-gcs-motor", "caption": "Liikevasteen kuusi tasoa: miltä paikantaminen, väistö, fleksio ja ekstensio näyttävät."}
+```
+
 > [!danger] Vakavan aivovamman merkit
 > GCS alle 8, potilas reuhtova, tajunnantaso laskee nopeasti (GCS laskee 2 pistettä), pupillierot tai halvausoireet. Jokainen näistä vaatii välittömän reagoinnin ja usein lääkäriyksikön hälyttämisen.
 

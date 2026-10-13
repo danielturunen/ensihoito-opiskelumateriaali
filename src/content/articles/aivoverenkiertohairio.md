@@ -29,6 +29,10 @@ Keskeistä on toispuolisen raajojen ja kasvolihasten heikkouden sekä puheentuot
 "notMet":{"title":"Ei toispuolisia löydöksiä","text":"Muista ohimenneet oireet (TIA): liuotus- ja trombektomiapotilaiden tapaan myös ohimenneet AVH-oireet kuljetetaan hoitoon kykenevään paikkaan.","tone":"neutral"}}
 ```
 
+```media
+{"widget": "exam-stroke", "caption": "Suupieli, yläraaja, puhe, alaraaja ja katse – vaihda normaalin ja poikkeavan löydöksen välillä."}
+```
+
 > [!warning] Mittaa verensokeri
 > Hypoglykemia voi aiheuttaa halvauksen kaltaisia oireita. Kouristelu tai nykinä hoidetaan normaalisti. Katso [sokeritasapainon häiriöt](topic:sokeritasapainon-hairiot) ja [kouristelu](topic:kouristelu).
 

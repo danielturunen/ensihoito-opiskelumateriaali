@@ -126,6 +126,10 @@ Akuuttihoito-opas korostaa lisäksi toimintakykyä ennen sairastumista (liikkuuk
 - **Miehillä kivekset** (kiertymä, lisäkivestulehdus, kivespussityrä) ja **fertiili-ikäisillä naisilla raskauden mahdollisuus** (kohdunulkoinen raskaus).
 - Iho: keltaisuus, kalpeus; raajojen lämpöraja ja pulssit.
 
+```media
+{"widget": "exam-abdomen", "caption": "Akuutin vatsan tutkiminen vaihe vaiheelta: asento, inspektio, auskultaatio, palpaatio, tyräportit ja koputusarkuus."}
+```
+
 Peruselintoimintojen arviointi ([ABCDE](topic:abcde-arviointi)) menee aina diagnoosin edelle. Kivunhoito annetaan riittävän annoksen mukaisesti kliinisen tutkimuksen jälkeen – hyvä kivunlievitys ei peitä vakavaa tautia, vaan helpottaa potilaan tilaa ja tutkimista. Akuuttihoito-oppaan mukaan kivunhoito ei heikennä diagnostiikan osuvuutta, kunhan tajunnantaso ei merkittävästi laske; **tulehduskipulääkkeitä tulee välttää**. Lisähappea annetaan, jos hengitystyö on lisääntynyt tai SpO₂ on alle 94 %, ja kuumeen, oksentelun tai ripulin aiheuttamat nestemenetykset korvataan.
 
 > [!info] Hoitopaikan valinta ja hoitolinjaus

@@ -65,6 +65,10 @@ Pelkkä laskimoon annettu parasetamoli ei ollut tehokas akuutin migreenin hoidos
 Akuuttihoito-oppaan (2025) mukaan nykyisen kivun laatu selviää parhaiten jäsennellyillä kysymyksillä – vastaukset ohjaavat kohti mahdollista syytä. **Hälytysmerkkejä** ovat anamneesissa tajunnan menetys tai häiriö jossakin vaiheessa, neurologinen puutosoire (ei migreeniaura), "aiemmasta poikkeava" tai "elämän pahin" päänsärky, äkillinen alku ja alku yli 50-vuotiaana sekä statuksessa meningismi, tajunnan tai kognition häiriö, neurologinen poikkeavuus ja sepsiksen merkit (sokki, petekiat).
 
 ```media
+{"widget": "exam-meningism", "caption": "Niskan taivutus eteen: normaalisti leuka painuu rintaan, niskajäykkyydessä liike jää lyhyeksi ja on kivulias."}
+```
+
+```media
 {"widget":"matching","title":"Särkyn piirre ja mahdollinen syy (Akuuttihoito-opas)","pairs":[
 {"left":"Alkaa hetkessä, \"elämän pahin\"","right":"Lukinkalvonalainen verenvuoto"},
 {"left":"Kuume ja niskan jäykkyys","right":"Aivokalvotulehdus"},

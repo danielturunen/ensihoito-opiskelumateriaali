@@ -86,6 +86,10 @@ Kun peruselintoiminnot on saatu hallintaan, tehdään tarkempi tutkimus, jonka t
 {"widget":"body-map","caption":"Käy tutkimisjärjestys läpi kehokartalla – ja vaihda Piilovuodot-näkymään nähdäksesi, minne verta voi kadota ilman ulkoista vuotoa."}
 ```
 
+```media
+{"widget": "exam-log-roll", "caption": "Blokkikääntö ja selän tutkiminen: pää, vartalo ja lantio yhtenä kappaleena, ranka tunnustellaan takaraivosta häntäluuhun."}
+```
+
 > [!tip] Muista tämä
 > Täydennetty tilannearvio ei saa koskaan viivyttää kuljetusta, jos potilaalla on hallitsematon verenvuoto tai muu välitön hengenvaara – nämä tilanteet ratkaistaan "load and go" -periaatteella.
 

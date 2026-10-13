@@ -138,6 +138,18 @@ export const widgetMeta: Record<string, WidgetMeta> = {
   'neurogenic-shock': { title: 'Neurogeeninen sokki vamman tason mukaan', kind: 'Animaatio' },
   deceleration: { title: 'Hidastuvuus: sisäelimet jatkavat liikettä', kind: 'Animaatio' },
   'cold-heart': { title: 'Kylmä sydän', kind: 'Animaatio' },
+  'exam-dix-hallpike': { title: 'Dix–Hallpiken koe', kind: 'Animaatio' },
+  'exam-hints': { title: 'HINTS: pään nykäisy, nystagmus, pystypoikkeama', kind: 'Animaatio' },
+  'exam-balance': { title: 'Tasapainokokeet: Romberg, sokkokävely, WRW', kind: 'Animaatio' },
+  'exam-stroke': { title: 'AVH:n pikatutkimus', kind: 'Animaatio' },
+  'exam-gcs-motor': { title: 'GCS: liikevaste kipuärsykkeeseen', kind: 'Animaatio' },
+  'exam-meningism': { title: 'Niskajäykkyys', kind: 'Animaatio' },
+  'exam-cap-refill': { title: 'Kapillaaritäyttö', kind: 'Animaatio' },
+  'exam-jvp': { title: 'Kaulalaskimopaine', kind: 'Animaatio' },
+  'exam-edema': { title: 'Kuoppaturvotus', kind: 'Animaatio' },
+  'exam-abdomen': { title: 'Akuutin vatsan tutkiminen', kind: 'Animaatio' },
+  'exam-log-roll': { title: 'Blokkikääntö ja rangan palpaatio', kind: 'Animaatio' },
+  'exam-myotomes': { title: 'Avainlihakset ja heijasteet', kind: 'Animaatio' },
 }
 
 const cache = new Map<string, LazyExoticComponent<ComponentType<WidgetProps>>>()
