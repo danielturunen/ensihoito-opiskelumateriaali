@@ -20,6 +20,10 @@ Normaali tajunta edellyttää, että sekä aivorungon **valvekeskus** (reticular
 Kallon sisällä on vakiotilavuus (aivokudos, veri ja aivo-selkäydinneste), joten yhden osan tilavuuden kasvu – esimerkiksi hematooma tai turvotus – nostaa kallonsisäistä painetta. Aivojen verenkierto riippuu perfuusiopaineesta (**CPP = MAP − ICP**, jossa MAP on keskivaltimopaine); riittävän happeutumisen turvaamiseksi CPP:n tulisi pysyä vähintään noin 50–60 mmHg:ssa. Hypoksia ja hyperkapnia laajentavat aivoverisuonia ja nostavat ICP:tä, kun taas voimakas hyperventilaatio (hypokapnia) supistaa suonia ja voi aiheuttaa iskemiaa.
 
 ```media
+{"widget": "co2-vessels", "caption": "Vaihda ventilaatiota ja seuraa aivoverisuonten kokoa ja kallonsisäistä painetta."}
+```
+
+```media
 {"widget":"icp","caption":"Laske MAP ja CPP itse: miten matala verenpaine tai kohoava kallonsisäinen paine vaikuttaa aivojen perfuusioon?"}
 ```
 
@@ -91,6 +95,10 @@ Anamneesi silminnäkijöiltä ja omaisilta on ratkaisevan tärkeä – heitä ei
 ## Hengitystien turvaaminen
 
 Perustason toimin – kylkiasento ja alaleuan kohotus – hengitystie pysyy auki valtaosalla tajuttomista potilaista. Syvästi tajuttomalla (viitteellisesti GCS ≤ 8, ei paikanna kipuärsykettä) suojaheijasteet pettävät, ja hengitystie on turvattava määritellymmin, usein intuboimalla.
+
+```media
+{"widget": "tongue-airway", "caption": "Miksi tajuttoman hengitystie tukkeutuu – ja miten perustason otteet avaavat sen."}
+```
 
 Työdiagnoosi vaikuttaa toteutustapaan: epäiltäessä kallonsisäisen paineen nousua intubaatio tehdään erityisen hallitusti verenpaineen ja ICP:n nousua välttäen, kun taas puhtaassa myrkytyksessä voidaan toimia tavanomaista aktiivisemmin. Turvallisin tapa on nopea sarja-induktio (rapid sequence intubation, RSI): potilas esihapetetaan mahdollisimman hyvin, jonka jälkeen annetaan käytännössä samanaikaisesti kipulääke, anesteetti (esim. ketamiini hemodynaamisesti epävakaalle, propofoli normo- tai hypertensiiviselle) ja lihasrelaksantti, ja potilas intuboidaan heti relaksaation alettua ilman välivaiheen ventilointia. Jatkuva kapnografia on intubaation varmistuksen ja ventilaation ohjauksen kultainen standardi.
 

@@ -17,6 +17,10 @@ Hypotermialla tarkoitetaan ydinlämmön laskua alle 35 °C:een. Tahattomalle hyp
 
 Hypotermian syvetessä syke harvenee, ja ydinlämmön laskiessa alle 30 °C:n vaikeat rytmihäiriöt ovat mahdollisia. Alle 25 °C:ssa seuraa yleensä kammiovärinä ja lopulta asystole. Samalla kylmä vähentää hapenkulutusta ja suojaa aivoja: aivosolujen hapentarve vähenee lineaarisesti ydinlämmön laskiessa, ja 20 °C:ssa aivojen kyky sietää verenkierron pysähtymistä on jopa kymmenkertainen normaaliin verrattuna.
 
+```media
+{"widget": "cold-heart", "caption": "Laske ydinlämpöä ja seuraa rytmiä. Alle 30 °C:ssa kokeile, mitä reipas siirto voi aiheuttaa."}
+```
+
 Siksi hypotermiasta tai kylmään veteen hukkumisesta johtuvasta sydänpysähdyksestä voi selvitä hyvin **pitkänkin elvytyksen** jälkeen. Pisin dokumentoitu elvytys, josta potilas toipui neurologisesti täysin, kesti 6,5 tuntia. Verenkierrollisesti vakaat vaikeasti hypotermiset potilaat selviävät hyvällä neurologisella lopputuloksella lähes aina, ja sydänpysähdyksen saaneista noin puolet, kun lämmitys tehdään sydän-keuhkokoneella.
 
 ## Elonmerkkien ja lämpötilan arviointi

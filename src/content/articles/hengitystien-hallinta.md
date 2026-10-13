@@ -46,6 +46,10 @@ Kun tukosta hoidetaan, potilaalle annetaan samalla runsaasti happea maskilla –
 
 Otteen tehoa arvioidaan uudelleen katso–kuuntele–tunnustele-periaatteella.
 
+```media
+{"widget": "tongue-airway", "caption": "Vaihda tilaa: miten tajunnan lasku tukkii nielun ja miten leuan nosto, leukaperien työntö tai nenänieluputki avaa sen."}
+```
+
 ## Nieluputki ja nenänieluputki
 
 Nieluputki (Guedel) ja nenänieluputki (Wendl) korjaavat tukosta, jonka aiheuttaa taaksepäin painunut kieli tai pehmeä kitalaki. **Ne eivät takaa varmaa hengitystietä**, ja usein leukaperien työntöä tarvitaan edelleen. Asettamisen jälkeen hengitystie arvioidaan uudelleen.

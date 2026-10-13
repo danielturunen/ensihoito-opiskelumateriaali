@@ -81,6 +81,10 @@ ETC:n mukaan kiireellistä intubaatiota tarvitsevat **tajuttomat** (suolilama ja
 
 **Neurogeeninen sokki** on selkäydinvammaan liittyvä hypotensio ja bradykardia. Se syntyy **T6-tason yläpuolisessa** vammassa, kun sympaattinen hermotus ja verisuonten tonus katoavat: valtimot ja laskimot laajenevat, veri jää raajoihin ja laskimopaluu vähenee. Mitä korkeammalla vamma on, sitä suurempi vaikutus. **T2-tason yläpuolella** sydämen sympaattinen hermotus katoaa, jolloin mukaan tulee **bradykardia**. ETC:n mukaan systolinen paine voi olla **alle 70 mmHg ja syke alle 60/min**, vaikka potilaan nestetila olisi normaali.
 
+```media
+{"widget": "neurogenic-shock", "caption": "Valitse vamman taso: mitkä sympaattiset yhteydet katkeavat ja mitä se tekee verenpaineelle ja sykkeelle?"}
+```
+
 > [!danger] Neurogeeninen sokki ei sulje pois vuotoa
 > Hypotensio voi johtua neurogeenisesta sokista, mutta **vuotosokki on aina suljettava pois** – ne voivat esiintyä yhdessä. Potilas ei pysty kompensoimaan muiden vammojen verenvuotoa, eikä hän tunne kipua halvaantuneilla alueilla: lantion tai vatsan vamma voi jäädä huomaamatta.
 

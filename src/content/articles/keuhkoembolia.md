@@ -6,14 +6,7 @@ Keuhkoembolia (keuhkoveritulppa) syntyy, kun verihyytymä — tyypillisesti alar
 > Tukos keuhkovaltimossa estää verenkierron osassa keuhkoja. Tämä tarkoittaa, että osa keuhkoista saa edelleen ilmaa (ventilaatio), mutta ei verta (perfuusio). Kaasujenvaihto tällä alueella estyy kokonaan — ilmiötä kutsutaan "dead space" -ilmiöksi. Samalla tukos nostaa jyrkästi painetta sydämen oikealla puolella, koska se joutuu pumppaamaan verta valtavaa vastusta vasten. Tämä voi johtaa akuuttiin oikean puolen vajaatoimintaan ja sokkiin.
 
 ```media
-{"widget":"flow","title":"Hyytymän matka ja seuraukset","steps":[
-{"title":"Syvä laskimotukos alaraajassa","text":"Riskitekijöinä mm. immobilisaatio, tuore iso leikkaus, syöpä, raskaus tai hormonaalinen ehkäisy, aiempi tukos."},
-{"title":"Hyytymä irtoaa ja kulkeutuu verenkierron mukana","text":"Laskimoista sydämen oikealle puolelle ja sieltä keuhkovaltimoon."},
-{"title":"Hyytymä tukkii keuhkovaltimon tai sen haaran","tone":"warning","branches":[
-{"label":"Keuhkoissa","title":"Ilmaa mutta ei verta","text":"Dead space: kaasujenvaihto estyy alueella, joka saa edelleen ilmaa.","tone":"warning"},
-{"label":"Sydämessä","title":"Oikean kammion kuormitus","text":"Pumppaus valtavaa vastusta vasten → oikean puolen vajaatoiminta ja sokki.","tone":"danger"}
-]}
-]}
+{"widget": "pe-path", "caption": "Seuraa hyytymän matkaa askel kerrallaan ja katso, mitä tukos tekee keuhkoille ja oikealle kammiolle."}
 ```
 
 ## Oireet ja löydökset

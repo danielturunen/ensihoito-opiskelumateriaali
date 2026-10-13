@@ -53,6 +53,10 @@ Tavoitteena on SpO₂ > 94 % ja EtCO₂ 4–4,5 kPa (normoventilaatio).
 > [!warning] Vältä hyperventilaatiota
 > Liiallinen ventilaatio laskee hiilidioksidipitoisuutta ja supistaa aivoverisuonia, mikä voi aiheuttaa aivoiskemiaa – tavoitteena on aina normoventilaatio, ei hyperventilaatio.
 
+```media
+{"widget": "co2-vessels", "caption": "Miksi tavoite on normoventilaatio: hyperventilaatio supistaa ja hypoventilaatio laajentaa aivoverisuonia."}
+```
+
 ## Verenkierto ja verenpainetavoite
 
 > [!warning] Tärkeä periaate

@@ -128,6 +128,16 @@ export const widgetMeta: Record<string, WidgetMeta> = {
   'nls-sim': { title: 'Vastasyntyneen elvytys: 30 sekunnin arviot', kind: 'Harjoitus' },
   'pacing-capture': { title: 'Ulkoinen tahdistus: kynnysvirta ja elektrodit', kind: 'Harjoitus' },
   'cric-landmark': { title: 'Hätäkrikotyreotomia: maamerkit ja vaiheet', kind: 'Interaktiivinen kuva' },
+  'tongue-airway': { title: 'Kieli tukkii nielun – näin se avataan', kind: 'Animaatio' },
+  'cpr-pump': { title: 'Painelu pumppuna', kind: 'Animaatio' },
+  'pe-path': { title: 'Hyytymän matka keuhkovaltimoon', kind: 'Animaatio' },
+  bppv: { title: 'Asentohuimaus: sakka kaarikäytävässä', kind: 'Animaatio' },
+  'migraine-aura': { title: 'Migreeniaura ja oireiden marssi', kind: 'Animaatio' },
+  'co2-vessels': { title: 'Hiilidioksidi, aivoverisuonet ja kallonsisäinen paine', kind: 'Animaatio' },
+  'heat-balance': { title: 'Lämmönsäätely ja sen pettäminen', kind: 'Animaatio' },
+  'neurogenic-shock': { title: 'Neurogeeninen sokki vamman tason mukaan', kind: 'Animaatio' },
+  deceleration: { title: 'Hidastuvuus: sisäelimet jatkavat liikettä', kind: 'Animaatio' },
+  'cold-heart': { title: 'Kylmä sydän', kind: 'Animaatio' },
 }
 
 const cache = new Map<string, LazyExoticComponent<ComponentType<WidgetProps>>>()

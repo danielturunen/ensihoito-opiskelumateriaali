@@ -33,6 +33,10 @@ Sydänpysähdys tunnistetaan, kun potilas ei reagoi eikä hengitä normaalisti �
 Painelu tuottaa verenkierron kahdella tavalla: sydän puristuu rintalastan ja selkärangan väliin, ja rintakehän jatkuva painevaihtelu kierrättää verta – se sekä puristaa verta valtimoihin että lisää laskimopaluuta rintaonteloon (Säämänen 2008). Siksi painelun **jatkuvuus, riittävä tahti ja syvyys sekä rintakehän täydellinen palautuminen** jokaisen painalluksen jälkeen ovat yhtä tärkeitä. Painelulla saadaan silti vain noin neljäsosa normaalista verenkierrosta.
 
 ```media
+{"widget": "cpr-pump", "caption": "Vertaa laadukasta painelua, rintakehään nojaamista ja painelutaukoa."}
+```
+
+```media
 {"widget":"cpr-rate","caption":"Harjoittele tahtia: napauta painiketta ja katso, osutko välille 100–120/min. Metronomi auttaa löytämään rytmin."}
 ```
 

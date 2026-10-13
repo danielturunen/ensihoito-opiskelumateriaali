@@ -64,6 +64,10 @@ Diagnostiikassa tärkeintä on perusteellinen haastattelu: onko huimaus alkanut 
 > **HINTS**-testi (pään nykäisykoe, nystagmus, silmien vertikaalinen poikkeama) on tarkoitettu tutkimushetkellä oireiselle potilaalle, jolla on nystagmus ja äkillisesti alkanut huimaus. Se erottaa aivoperäisen syyn tasapainoelimen häiriöstä. **Aivoverenkiertohäiriöön viittaavat normaali pään nykäisykoe, katseen suuntaan lyövä ja suuntaa vaihtava nystagmus sekä silmien pystysuuntainen yhteisliikkeen häiriö.** Jos katse ei nykäisyssä pysy kohteessa ja tulee viiveinen korjausliike, syy on sisäkorvassa.
 > **Dix–Hallpiken kokeessa** istuvan potilaan päätä käännetään 45 astetta ja hänet ohjataan nopeasti selinmakuulle niska hieman ojennettuna. Viiveellä (noin 5–20 s) tuleva, väsyvä nystagmus ja huimaus viittaavat takimmaisen kaarikäytävän asentohuimaukseen.
 
+```media
+{"widget": "bppv", "caption": "Käännä potilas Dix–Hallpiken asentoon ja seuraa sakan liikettä, viivettä ja nystagmusta. Aika on tiivistetty."}
+```
+
 ## Tyypilliset taudinkuvat
 
 | | Tunnusmerkit |

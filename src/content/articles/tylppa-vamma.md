@@ -11,6 +11,10 @@ Matala energia (kaatuminen samalta tasolta, hidas törmäys) aiheuttaa yleensä 
 > [!danger] Henkeä uhkaava periaate
 > Korkea vammaenergia voi aiheuttaa vakavia sisäelinvaurioita, vaikka potilaan kliininen tila vaikuttaisi tutkimushetkellä vakaalta. Jos tapahtumatietoja ei saada tarkasti selville, potilasta kohdellaan korkeaenergisesti vammautuneena, kunnes toisin voidaan osoittaa.
 
+```media
+{"widget": "deceleration", "caption": "Keho pysähtyy, sisäelimet eivät – vertaa matalaa ja korkeaa energiaa."}
+```
+
 ## Ajalliset tavoitteet
 
 ```media

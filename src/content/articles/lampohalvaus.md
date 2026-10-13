@@ -19,6 +19,10 @@ Kun ruumiinlämpö nousee, elimistö lisää lämmönhukkaa ihoverenkiertoa lis�
 
 Kudosvaurioita alkaa syntyä lämpötilan ylittäessä noin 41,6–42 °C. Suorien soluvaurioiden lisäksi käynnistyy tulehdusreaktio ja hyytymisjärjestelmän aktivoituminen, jotka johtavat endoteelivaurioon, mikrotrombooseihin ja pahimmillaan **monielinvaurioon** (maksa, munuaiset, verenkierto, konsumptiokoagulopatia, rabdomyolyysi).
 
+```media
+{"widget": "heat-balance", "caption": "Seuraa lämmönhukkaa, hikoilua ja ydinlämpöä eri tilanteissa – ja viilennyksen vaikutusta."}
+```
+
 ## Riskitekijät
 
 | Ryhmä | Esimerkkejä |

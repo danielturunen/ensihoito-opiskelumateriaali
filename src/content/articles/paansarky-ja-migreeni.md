@@ -33,6 +33,10 @@ Migreeni on yleinen neurovaskulaarinen aivosairaus: sitä sairastaa 14,6 % naisi
 
 Osalla migreenikohtauksiin liittyy **aura**: tyypillisesti näköoireita (näkökenttäpuutos tai kuviot näkökentässä), tuntohäiriöitä (puutuminen, pistely) tai puheen tuoton vaikeutta. Auralle on ominaista **täydellinen palautuvuus**, ja lisäksi vähintään kaksi seuraavista: oire kehittyy hitaasti laajeten vähintään 5 minuutin aikana (tai oireita on peräkkäin useita), yksittäinen oire kestää **5–60 minuuttia**, ainakin yksi oire on toispuoleinen, ja päänsärky alkaa auran aikana tai 60 minuutin kuluessa.
 
+```media
+{"widget": "migraine-aura", "caption": "Aura laajenee hitaasti keskeltä reunalle, ja oireet voivat seurata toisiaan. Aika on tiivistetty."}
+```
+
 > [!warning] Aura vai aivoverenkiertohäiriö?
 > Harvinaiset aurat – **motorinen heikkous** (hemipleginen migreeni), aivorunko-oireet tai vain toisen silmän näköhäiriö – ja **yli tunnin kestävä** auraoire edellyttävät selvittelyä. Tuore fokaalioire, joka ei sovi aurakriteereihin, on vaaranmerkki. Aurallista migreeniä sairastavan aivoinfarktiriski on noin kaksinkertainen. Epäselvässä tilanteessa toimi kuten [aivoverenkiertohäiriössä](topic:aivoverenkiertohairio).
 
