@@ -68,7 +68,7 @@ ETC korostaa, että **sallittu hypotensio on lyhytaikainen keino**: kun vuoto on
 
 ### Traneksaamihappo, kiristysside ja vasokonstriktorit
 
-- **Traneksaamihappo** (ETC): kaikille, joilla on merkittävä vuoto tai sen riski, **3 tunnin kuluessa** vammasta. Aikuisen annos on **1 g 10 minuutissa ja sen jälkeen 1 g infuusiona 8 tunnissa**.
+- **[Traneksaamihappo](topic:traneksaamihappo)** (ETC): kaikille, joilla on merkittävä vuoto tai sen riski, **3 tunnin kuluessa** vammasta. Aikuisen annos on **1 g 10 minuutissa ja sen jälkeen 1 g infuusiona 8 tunnissa**.
 
 > [!important] Lähteiden ero: yksittäinen aivovamma
 > ETC:n mukaan traneksaamihapon voi antaa turvallisesti potilaalle, jolla on myös pään vamma, mutta se **ei ole aiheellinen, jos aivovamma on ainoa vamma**. Sivuston suomalaisissa lähteissä traneksaamihappoa 1 g annetaan myös aikuisen vaikean aivovamman epäilyssä ([tylppä vamma](topic:tylppa-vamma)). Noudata alueen hoito-ohjetta.

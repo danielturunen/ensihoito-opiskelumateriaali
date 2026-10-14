@@ -57,7 +57,7 @@ Huono kapillaaritäyttö, kylmä ja nihkeä iho, takykardia, hypotensio, ahdistu
 > [!tip] Ultraääni vahvistaa, mutta ei sulje pois
 > FAST-ultraäänessä vatsakalvon tumma, kaiuton juoste viittaa vatsaontelon vuotoon. FAST ei kuitenkaan kerro vuodon lähdettä ja voi ohittaa kiinteän elimen vamman (kapseli ehjä) sekä vatsakalvon takaiset vammat. Se on siis **toteava eikä poissulkeva** tutkimus.
 
-**Miten vuoto hallitaan?** Vatsaontelon vuotoa on turvallisinta pitää **hallitsemattomana**, jolloin se vaatii kiireellistä kirurgista arviota. Ensihoidossa ei voi tehdä vuodolle muuta kuin tukea verenkiertoa, estää hypotermiaa ja kuljettaa nopeasti: hallittu elvytys verivalmisteilla, traneksaamihappo massiivivuotoprotokollan mukaisesti ja ennakkoilmoitus. Ks. [massiivinen verenvuoto](topic:massiivinen-verenvuoto) ja [sokki](topic:sokki).
+**Miten vuoto hallitaan?** Vatsaontelon vuotoa on turvallisinta pitää **hallitsemattomana**, jolloin se vaatii kiireellistä kirurgista arviota. Ensihoidossa ei voi tehdä vuodolle muuta kuin tukea verenkiertoa, estää hypotermiaa ja kuljettaa nopeasti: hallittu elvytys verivalmisteilla, [traneksaamihappo](topic:traneksaamihappo) massiivivuotoprotokollan mukaisesti ja ennakkoilmoitus. Ks. [massiivinen verenvuoto](topic:massiivinen-verenvuoto) ja [sokki](topic:sokki).
 
 ## Lantiorenkaan murtumat
 

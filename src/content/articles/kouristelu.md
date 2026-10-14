@@ -87,6 +87,6 @@ Ks. [pyörtyminen](topic:yleistilan-lasku-ja-pyortyminen), [aivoverenkiertohäir
 
 - Yli 5 min jatkuva kouristelu = pitkittynyt, hoidetaan heti.
 - Mittaa aina verensokeri.
-- Midatsolaami limakalvolle 10 mg → bentsodiatsepiini i.v./i.m. → levetirasetaami → intubaatio.
+- [Midatsolaami](topic:midatsolaami) limakalvolle 10 mg → bentsodiatsepiini i.v./i.m. → levetirasetaami → intubaatio.
 - Aikuisen ensimmäinen kouristus: etsi syy ja kuljeta aina.
 - Lyhytkestoinen nykinä pyörtymisen tai sydänpysähdyksen alussa ei ole epileptinen kohtaus.

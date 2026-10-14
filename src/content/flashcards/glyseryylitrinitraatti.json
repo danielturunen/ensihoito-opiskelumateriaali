@@ -1,0 +1,9 @@
+[
+  {"id": "glyseryylitrinitraatti-f1", "front": "Glyseryylitrinitraatin vaikutus", "back": "Laajentaa laskimoita (esikuorma ↓), suurilla annoksilla valtimoita (jälkikuorma ↓); laajentaa myös sepelvaltimoita."},
+  {"id": "glyseryylitrinitraatti-f2", "front": "Nitraatti rintakivussa (Käypä hoito)", "back": "2 annosta, jos systolinen ≥ 100 mmHg; lisäannokset 5 minuutin välein."},
+  {"id": "glyseryylitrinitraatti-f3", "front": "Nitraatti keuhkopöhössä (Ensihoito-opas)", "back": "Kielen alle tai suihkeena, jos systolinen yli 100 mmHg tai rannesyke tuntuu vahvana."},
+  {"id": "glyseryylitrinitraatti-f4", "front": "Nitraatti-infuusio (Ensihoito-opas)", "back": "1 mg/ml aloitus 1 ml/t tai 0,1 mg/ml aloitus 10 ml/t, jos systolinen yli 100 mmHg."},
+  {"id": "glyseryylitrinitraatti-f5", "front": "Nitraatin vasta-aiheet", "back": "Hypotensio, hypovolemia, oikean kammion infarkti, vaikea aorttastenoosi, mitraalistenoosi, aivoverenvuoto, tuore elvytyksen jälkitila, merkittävä bradykardia."},
+  {"id": "glyseryylitrinitraatti-f6", "front": "Nitraatin haitat", "back": "Hypotensio (nitrokollapsi), päänsärky, kompensatorinen takykardia."},
+  {"id": "glyseryylitrinitraatti-f7", "front": "Nitraatti ja ennuste", "back": "Hillitsee kipua ja iskemiaa, mutta ennustetta parantavasta vaikutuksesta ei ole näyttöä."}
+]

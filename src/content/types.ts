@@ -33,6 +33,8 @@ export interface TopicMeta {
   hasScenario: boolean
   /** Dispatch/call code shown as a badge for case-based pages, e.g. "703" */
   dispatchCode?: string
+  /** Optional sub-heading that groups topics on the module page */
+  group?: string
 }
 
 export interface ModuleMeta {

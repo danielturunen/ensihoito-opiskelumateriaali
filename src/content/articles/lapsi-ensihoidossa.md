@@ -140,11 +140,11 @@ Kuuma neste on lasten palovammojen yleisin aiheuttaja. Lapsella pää on suhtees
 > - Keuhkoruhjeet ovat lasten tavallisin rintakehävamma, ja merkittävä sisäinen vamma voi olla ilman ulkoisia merkkejä.
 > - Imeväisen päänahan haava voi vuotaa merkittävästi.
 > - Lantiovammassa ennen murrosikää hematooma pysyy usein vahvan luukalvon sisällä, joten massiivivuoto on harvinaisempaa – lantiovyö (oikea koko) asetetaan silti, jos mekanismi tai löydökset viittaavat.
-> - Lisähappi, jos SpO₂ on alle 95 %. Kipuun sopii hyvin nenään annettava fentanyyli.
+> - Lisähappi, jos SpO₂ on alle 95 %. Kipuun sopii hyvin nenään annettava [fentanyyli](topic:fentanyyli).
 > - **10-vuotiaat ja sitä vanhemmat** arvioidaan ja elvytetään kuin pienet aikuiset.
 > - **Sokissa olevan lapsen bradykardia ennustaa yleensä sydänpysähdystä.**
 > - Suuri pinta-ala suhteessa tilavuuteen altistaa pienet lapset hypotermialle – lämmin ympäristö, lämpimät nesteet, lämpöpeitot.
-> - **Traneksaamihappo:** 15 mg/kg boluksena (enintään 1 g), sitten 2 mg/kg/h 8 tunnin ajan (enintään 125 mg/h).
+> - **[Traneksaamihappo](topic:traneksaamihappo):** 15 mg/kg boluksena (enintään 1 g), sitten 2 mg/kg/h 8 tunnin ajan (enintään 125 mg/h).
 > - Verivalmisteet (punasolut, plasma, verihiutaleet 1:1:1) annetaan 1–10 ml/kg:n erissä vuodon mukaan; kirkkaita nesteitä ja kolloideja rajoitetaan.
 > - Noin 90 % lasten kiinteiden elinten vammoista hoidetaan ilman leikkausta. **Polkupyörän ohjaustangon isku** on klassinen haiman tai pohjukaissuolen vamman syy.
 > - Rangan tuenta vain yhteistyökykyiselle tai tajuttomalle lapselle – pakottaminen voi aiheuttaa lisävahinkoa. Ks. [selkäranka- ja selkäydinvamma](topic:selkaranka-ja-selkaydinvamma).
@@ -156,7 +156,7 @@ Kivun arviointi on erityisen vaikeaa pienellä, etenkin alle 4-vuotiaalla lapsel
 > [!warning] Red flag
 > Jos leikki-ikäinen lapsi ei vastustele toimenpiteitä, kuten kanylointia, tai nukahtaa heti niiden jälkeen, hän on todennäköisesti vakavasti sairas.
 
-Suonensisäinen anto on ensisijainen kipulääkkeen antotapa, mutta kanylointi voi olla vaikeaa kivuliaalla, vastustelevalla lapsella – tällöin intranasaalinen (fentanyyli) tai lihaksensisäinen (S-ketamiini, morfiini) anto ovat varteenotettavia vaihtoehtoja.
+Suonensisäinen anto on ensisijainen kipulääkkeen antotapa, mutta kanylointi voi olla vaikeaa kivuliaalla, vastustelevalla lapsella – tällöin intranasaalinen (fentanyyli) tai lihaksensisäinen ([S-ketamiini](topic:s-ketamiini), [morfiini](topic:morfiini)) anto ovat varteenotettavia vaihtoehtoja.
 
 | Lääke | Annos (i.v.) |
 |---|---|
@@ -178,7 +178,7 @@ Parasetamoli on lapsella tehokas kipulääke (peräsuoleen 40–60 mg/kg, esim. 
 
 **Hengitysvaikeus** johtuu lapsella yleisimmin infektiosta tai infektion pahentamasta astmasta, harvemmin vierasesineestä. **Kouristelu**: tavallisin on 6 kuukauden–6 vuoden iässä esiintyvä kuumekouristus, mutta ensimmäistä kouristusta ei voida luotettavasti diagnosoida kentällä – se vaatii aina päivystysselvittelyn, vaikka oire olisi jo väistynyt. Pienellä lapsella kouristus voi näkyä epätyypillisesti nykimisenä, sinistelynä tai velttoutena tyypillisen toonis-kloonisen liikkeen sijaan. **Myrkytykset** painottuvat teini-ikäisiin; alaikäisen päihdemyrkytys edellyttää aina lastensuojeluilmoitusta riippumatta siitä, jääkö nuori huoltajan seurantaan.
 
-**Kouristelun lääkehoito**: bukkaalinen midatsolaami paikallisen ohjeen mukaan 0,5 mg/kg (enintään 10 mg); vanhemmilla voi olla kotilääkkeenä valmis annos. Muista hengityslaman mahdollisuus ja varaudu tukemaan hengitystä. Parasetamoli ei estä eikä lopeta kouristelua. Kaikki epileptiset kohtaukset eivät näy kouristeluna – poissaolo, katsedeviaatio tai käytöshäiriö voi silti vaatia bentsodiatsepiinia.
+**Kouristelun lääkehoito**: bukkaalinen [midatsolaami](topic:midatsolaami) paikallisen ohjeen mukaan 0,5 mg/kg (enintään 10 mg); vanhemmilla voi olla kotilääkkeenä valmis annos. Muista hengityslaman mahdollisuus ja varaudu tukemaan hengitystä. Parasetamoli ei estä eikä lopeta kouristelua. Kaikki epileptiset kohtaukset eivät näy kouristeluna – poissaolo, katsedeviaatio tai käytöshäiriö voi silti vaatia bentsodiatsepiinia.
 
 > [!warning] Älä unohda verensokeria
 > Pienen lapsen pistämisen kynnys voi nousta, mutta verensokerin häiriö voi selittää monia oireita: vatsakipuinen, veltto, oksenteleva lapsi – DKA? Veltto, vaisu imeväinen – hypoglykemia? Pistokohdiksi sopivat sormien lisäksi esimerkiksi kantapää tai korvanlehti.
@@ -190,7 +190,7 @@ Vanhemman tai muun hyvin lapsen tuntevan aikuisen kuvaus siitä, miten käytös 
 
 ## Lapsen elvytys
 
-Lapsen sydänpysähdys on harvinainen ja yleensä hengitysperäinen: yleisimmät syyt ovat hapenpuute ja hengitysvajaus, ja yleisin alkurytmi on PEA tai asystole – siksi hengityksen tukeminen ratkaisee. Elvytys aloitetaan viidellä puhalluksella (100 % happi, kun mahdollista) ja jatkuu rytmillä 15:2. Elvytys aloitetaan myös, jos syke on alle 60/min ja perfuusio huono riittävästä hengitystuesta huolimatta. Iskut ja lääkkeet lasketaan painon mukaan: isku 4 J/kg, adrenaliini 0,01 mg/kg ja amiodaroni 5 mg/kg.
+Lapsen sydänpysähdys on harvinainen ja yleensä hengitysperäinen: yleisimmät syyt ovat hapenpuute ja hengitysvajaus, ja yleisin alkurytmi on PEA tai asystole – siksi hengityksen tukeminen ratkaisee. Elvytys aloitetaan viidellä puhalluksella (100 % happi, kun mahdollista) ja jatkuu rytmillä 15:2. Elvytys aloitetaan myös, jos syke on alle 60/min ja perfuusio huono riittävästä hengitystuesta huolimatta. Iskut ja lääkkeet lasketaan painon mukaan: isku 4 J/kg, [adrenaliini](topic:adrenaliini) 0,01 mg/kg ja amiodaroni 5 mg/kg.
 
 Peruselvytys, hoitoelvytys, annos- ja putkikokolaskuri sekä vastasyntyneen elvytystoimet ovat omalla sivullaan: **[lapsen ja vastasyntyneen elvytys](topic:lapsen-ja-vastasyntyneen-elvytys)**.
 

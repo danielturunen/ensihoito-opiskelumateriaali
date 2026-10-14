@@ -1,0 +1,76 @@
+[
+  {
+    "id": "morfiini-q1",
+    "type": "mcq",
+    "question": "Kenelle pitkävaikutteinen opioidi, kuten morfiini, sopii Ensihoito-oppaan mukaan?",
+    "options": [
+      "Lievästi tajunnaltaan alentuneelle, jotta tajunta on arvioitavissa",
+      "Peruselintoiminnoiltaan vakaalle potilaalle",
+      "Vaikeassa verenkiertovajauksessa olevalle",
+      "Vain lapsille"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pitkävaikutteiset opioidit (morfiini ja oksikodoni) sopivat peruselintoiminnoiltaan vakaille potilaille. Lyhytvaikutteista opioidia käytetään lievästi tajunnaltaan alentuneelle."
+  },
+  {
+    "id": "morfiini-q2",
+    "type": "mcq",
+    "question": "Mikä on morfiinin tavallinen kerta-annos aikuiselle Ensihoito-oppaan mukaan?",
+    "options": [
+      "0,2–0,4 mg i.v.",
+      "2–4 mg i.v., tarvittaessa toistaen",
+      "20–40 mg i.v.",
+      "100 mg suun kautta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ensihoito-opas: morfiini 2–4 mg i.v. tarvittaessa toistetusti vasteen mukaan."
+  },
+  {
+    "id": "morfiini-q3",
+    "type": "mcq",
+    "question": "Missä tilanteessa on otettava yhteys ensihoitolääkäriin?",
+    "options": [
+      "Kun aikuisen morfiinitarve ylittää 2 mg",
+      "Kun aikuisen oksikodoni- tai morfiinitarve on yli 10 mg tai lapsen yli 0,3 mg/kg",
+      "Aina ennen ensimmäistä annosta",
+      "Vain jos potilas on yli 90-vuotias"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ensihoito-opas: jos aikuisen tarve on yli 10 mg oksikodonia tai morfiinia tai lapsen yli 0,3 mg/kg, ollaan yhteydessä ensihoitolääkäriin."
+  },
+  {
+    "id": "morfiini-q4",
+    "type": "mcq",
+    "question": "Miksi Käypä hoito neuvoo välttämään rutiinimaista opioidien antoa sepelvaltimotautikohtauksessa?",
+    "options": [
+      "Opioidit laukaisevat kammiovärinän",
+      "Opioidit heikentävät suun kautta otettavien antitromboottisten lääkkeiden tehoa ja aiheuttavat pahoinvointia",
+      "Opioidit nostavat verenpainetta voimakkaasti",
+      "Opioidit eivät lievitä sydänperäistä kipua"
+    ],
+    "correctIndex": 1,
+    "explanation": "Opioidit hidastavat mahalaukun tyhjenemistä, aiheuttavat pahoinvointia ja heikentävät suun kautta otettavien antitromboottisten lääkkeiden tehoa. Kovaa kipua hoidetaan silti."
+  },
+  {
+    "id": "morfiini-q5",
+    "type": "truefalse",
+    "question": "Morfiini sopii hyvin sappikivikohtauksen kivun hoitoon.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Väärin. Morfiini voi aiheuttaa sappitiehyeiden kouristuksen, joten sitä ei käytetä sappitieperäisessä kivussa."
+  },
+  {
+    "id": "morfiini-q6",
+    "type": "truefalse",
+    "question": "Morfiini voi aiheuttaa histamiinin vapautumista, mikä voi pahentaa hypotensiota.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Oikein. Histamiinin vapautuminen voi ahtauttaa keuhkoputkia ja pahentaa matalaa verenpainetta."
+  }
+]

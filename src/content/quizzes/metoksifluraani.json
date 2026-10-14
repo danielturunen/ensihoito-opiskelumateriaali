@@ -1,0 +1,52 @@
+[
+  {
+    "id": "metoksifluraani-q1",
+    "type": "mcq",
+    "question": "Mikä metoksifluraani on?",
+    "options": [
+      "Laskimoon annettava opioidi",
+      "Hengitettävä kipulääke, jota on aiemmin käytetty anestesiakaasuna",
+      "Bentsodiatsepiini",
+      "Tulehduskipulääke"
+    ],
+    "correctIndex": 1,
+    "explanation": "Metoksifluraani on aiemmin anestesiakaasuna käytetty aine. Nykyisin sitä on saatavilla hengitettävänä kipulääkkeenä (Penthrox)."
+  },
+  {
+    "id": "metoksifluraani-q2",
+    "type": "mcq",
+    "question": "Kenen kivun hoitoon metoksifluraani on erityisesti tarkoitettu?",
+    "options": [
+      "Migreenipotilaan",
+      "Vammapotilaan",
+      "Sappikivikohtauksen",
+      "Synnyttäjän"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lähteiden mukaan hengitettävä metoksifluraanivalmiste on tarkoitettu erityisesti vammapotilaan kivun hoitoon."
+  },
+  {
+    "id": "metoksifluraani-q3",
+    "type": "truefalse",
+    "question": "Potilas annostelee metoksifluraanin itse hengittämällä.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Oikein. Potilas annostelee hengitettävän valmisteen itse, mikä edellyttää yhteistyökykyä."
+  },
+  {
+    "id": "metoksifluraani-q4",
+    "type": "mcq",
+    "question": "Missä tilanteessa metoksifluraani on käyttökelpoinen vaihtoehto?",
+    "options": [
+      "Kun suoniyhteyden avaaminen viivästyy tai ei onnistu",
+      "Vain silloin, kun potilas on tajuton",
+      "Vain elvytyksen aikana",
+      "Kun potilas on intuboitu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Jos suoniyhteyden avaaminen viivästyy tai ei onnistu, kipulääkkeenä voidaan käyttää intranasaalista fentanyyliä tai ketamiinia tai hengitettävää metoksifluraania."
+  }
+]

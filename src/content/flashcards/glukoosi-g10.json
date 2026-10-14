@@ -1,0 +1,9 @@
+[
+  {"id": "glukoosi-g10-f1", "front": "G10:n vahvuus", "back": "10 % glukoosia: 100 ml = 10 g glukoosia."},
+  {"id": "glukoosi-g10-f2", "front": "G10 hypoglykemiassa (aikuinen)", "back": "100–200 ml nopeana infuusiona i.v. tai i.o. (Ensihoito-opas)."},
+  {"id": "glukoosi-g10-f3", "front": "G10 hypoglykemiassa (lapsi)", "back": "1–2 ml/kg."},
+  {"id": "glukoosi-g10-f4", "front": "Hypoglykemia ilman suoniyhteyttä", "back": "Glukagoni 1 mg i.m. (alle kouluikäinen 0,5 mg) – ei tehoa tyhjin glykogeenivarastoin."},
+  {"id": "glukoosi-g10-f5", "front": "G10 hyperkalemiassa", "back": "Insuliini 10 IU + glukoosi 25 g (250 ml G10) nopeasti, jatkoksi G10-infuusio."},
+  {"id": "glukoosi-g10-f6", "front": "G10 vastasyntyneen elvytyksessä", "back": "2,5 ml/kg (250 mg/kg) boluksena pitkittyneessä elvytyksessä."},
+  {"id": "glukoosi-g10-f7", "front": "Hypoglykemian hoidon jälkeen", "back": "Mittaa verensokeri; herännyt syö ja juo; jos tajunta ei palaa, etsi muu syy."}
+]

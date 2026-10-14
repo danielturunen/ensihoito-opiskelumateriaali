@@ -150,7 +150,7 @@ ETC:n mukaan vamma on raskaana olevan yleisin muu kuin obstetrinen kuolinsyy, ja
 
 Ensihoito-oppaan (Kämäräinen 2023) aikatavoitteet: **runsas vuoto tai sen uhka tunnistetaan 5 minuutissa ja hätäkuljetukseen lähdetään 10 minuutissa.** Verenvuoto **22. raskausviikon jälkeen** edellyttää aina päivystyksellistä arviota synnytyssairaalassa.
 
-- **Vuoto emättimestä**: ei sisätutkimusta, nopea kuljetus vasemmassa kylkiasennossa, suoniyhteydet kuljetuksen aikana, traneksaamihappo 1 g i.v. hoito-ohjeen perusteella; hoito-ohje tai lisäapu, jos potilas on sokissa.
+- **Vuoto emättimestä**: ei sisätutkimusta, nopea kuljetus vasemmassa kylkiasennossa, suoniyhteydet kuljetuksen aikana, [traneksaamihappo](topic:traneksaamihappo) 1 g i.v. hoito-ohjeen perusteella; hoito-ohje tai lisäapu, jos potilas on sokissa.
 - **Voimakas vatsakipu** (istukan irtoaminen, kohdun repeämä): kipu on jatkuva, toisin kuin supistuskipu, ja kohtu voi olla pinkeä ja arka. Ulkoinen vuoto voi olla niukkaa, vaikka äiti on sokissa. Hoito on leikkaus synnytyssairaalassa – kiireellinen kuljetus.
 - Alkuraskauden vuoto tai keskenmenoepäily ilman komplikaatioita voidaan ohjata päivystykseen konsultaation perusteella.
 

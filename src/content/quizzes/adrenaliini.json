@@ -1,0 +1,89 @@
+[
+  {
+    "id": "adrenaliini-q1",
+    "type": "mcq",
+    "question": "Mikä on aikuisen adrenaliiniannos elvytyksessä?",
+    "options": [
+      "0,1 mg i.v.",
+      "1 mg i.v. tai i.o., toistetaan 3–5 minuutin välein",
+      "0,5 mg i.m.",
+      "10 mg i.v. kerran"
+    ],
+    "correctIndex": 1,
+    "explanation": "Elvytyksessä aikuisen annos on 1 mg nopeana boluksena i.v. tai i.o., toistettuna 3–5 minuutin välein eli joka toisen 2 minuutin jakson jälkeen."
+  },
+  {
+    "id": "adrenaliini-q2",
+    "type": "mcq",
+    "question": "Milloin adrenaliini annetaan iskettävässä rytmissä?",
+    "options": [
+      "Ennen ensimmäistä iskua",
+      "Kolmannen iskun jälkeen",
+      "Vasta 10 iskun jälkeen",
+      "Iskettävässä rytmissä adrenaliinia ei anneta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Iskettävässä rytmissä adrenaliini annetaan kolmannen iskun jälkeen, ei-iskettävässä rytmissä heti suoniyhteyden avauduttua."
+  },
+  {
+    "id": "adrenaliini-q3",
+    "type": "mcq",
+    "question": "Mikä on aikuisen anafylaksiapotilaan adrenaliiniannos Ensihoito-oppaan mukaan?",
+    "options": [
+      "1 mg i.v. nopeana boluksena",
+      "0,5 mg i.m.",
+      "0,05 mg ihon alle",
+      "5 mg inhalaationa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ensihoito-opas: aikuiselle 0,5 mg i.m. (Akuuttihoito-opas 0,3–0,5 mg). Suoneen 0,05–0,1 mg annetaan vain sokissa."
+  },
+  {
+    "id": "adrenaliini-q4",
+    "type": "truefalse",
+    "question": "Anafylaksiassa adrenaliinin käytölle ei ole ehdottomia vasta-aiheita.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Oikein. Muut lääkkeet eivät korvaa adrenaliinia, eikä sille ole anafylaksiassa absoluuttisia vasta-aiheita."
+  },
+  {
+    "id": "adrenaliini-q5",
+    "type": "truefalse",
+    "question": "Elvytyksessä adrenaliinia annetaan normaalisti myös alle 30-asteiselle hypotermiselle potilaalle.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Väärin. Alle 30 °C:ssa adrenaliinista pidättäydytään, ja yli 30 °C:ssa antoväli pidennetään 6–10 minuuttiin."
+  },
+  {
+    "id": "adrenaliini-q6",
+    "type": "mcq",
+    "question": "Mikä potilaan lääkitys voi heikentää adrenaliinin tehoa anafylaksiassa?",
+    "options": [
+      "Parasetamoli",
+      "Beetasalpaaja",
+      "Antihistamiini",
+      "Protonipumpun estäjä"
+    ],
+    "correctIndex": 1,
+    "explanation": "Beetasalpaajia käyttävillä potilailla adrenaliinin teho voi olla heikentynyt."
+  },
+  {
+    "id": "adrenaliini-q7",
+    "type": "mcq",
+    "question": "Miksi beetasalpaajaa ei anneta heti verenkierron palattua elvytyksen jälkeen?",
+    "options": [
+      "Se on aina vasta-aiheinen elvytetylle",
+      "Adrenaliini aiheuttaa takykardiaa ja rytmihäiriöitä noin 5 minuutin ajan, minkä jälkeen ongelma on useammin hypotensio",
+      "Beetasalpaaja kumoaa amiodaronin vaikutuksen",
+      "Beetasalpaaja nostaa verenpainetta liikaa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Adrenaliinin vaikutus kestää muutaman minuutin. Kun se loppuu, ongelma on useammin hypotensio kuin hypertensio."
+  }
+]

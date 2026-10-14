@@ -43,7 +43,7 @@ Painelu tuottaa verenkierron kahdella tavalla: sydän puristuu rintalastan ja se
 ## Aikuisen hoitoelvytys (Käypä hoito 2021)
 
 - **Defibrillaatio** yksi isku kerrallaan, minkä jälkeen painelu jatkuu heti 2 minuuttia ennen seuraavaa rytmianalyysiä. Monitoroidulla potilaalla viiveettä havaitussa VF:ssä voidaan antaa kolme iskua peräkkäin ennen painelua.
-- **Adrenaliini 1 mg** i.v./i.o.: ei-iskettävissä rytmeissä heti, iskettävissä 3. iskun jälkeen; sen jälkeen 3–5 minuutin välein.
+- **[Adrenaliini](topic:adrenaliini) 1 mg** i.v./i.o.: ei-iskettävissä rytmeissä heti, iskettävissä 3. iskun jälkeen; sen jälkeen 3–5 minuutin välein.
 - **Amiodaroni 300 mg** 3. iskun jälkeen ja **150 mg** 5. iskun jälkeen. Jos amiodaronia ei ole, lidokaiini 100 mg ja 50 mg.
 - **Hengitystie**: supraglottinen väline on ensisijainen. Intubaatiota käyttää vain, jos onnistuminen on yli 95 % kahdella yrityksellä ja painelutauko jää alle 5 sekunnin. Varmistetun hengitystien kautta ventiloidaan 10/min painelua keskeyttämättä; jos supraglottinen väline vuotaa, palataan 30:2-rytmiin.
 - **Kapnografia**: pysyvästi alle 1,33 kPa:n EtCO₂ tai laskeva trendi viittaa huonoon ennusteeseen, nouseva trendi verenkierron palautumiseen.

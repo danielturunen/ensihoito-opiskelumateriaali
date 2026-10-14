@@ -31,7 +31,7 @@ Lähes kaikkien näiden vuotojen **suora tyrehdyttäminen on ensihoidossa mahdot
 
 - **Sokissa kontrolloitu nestehoito:** aikuiselle 250 ml:n kerta-annoksia kristalloidia muutaman minuutin aikana, minkä jälkeen vaste arvioidaan – toistetaan tarvittaessa useita kertoja.
 - **Liika neste pahentaa tilannetta:** se heikentää hyytymistä, lisää lämmönhukkaa ja lisää tarpeettomasti verenvirtausta vuotoalueelle.
-- **Hyytymiskykyä tuetaan** traneksaamihapolla (aikuiselle **1 g i.v., jos vuoto on runsasta**), pitämällä potilas lämpimänä ja tarvittaessa kuivaplasmalla.
+- **Hyytymiskykyä tuetaan** [traneksaamihapolla](topic:traneksaamihappo) (aikuiselle **1 g i.v., jos vuoto on runsasta**), pitämällä potilas lämpimänä ja tarvittaessa kuivaplasmalla.
 - **Verensiirron kriteerit:** hallitsematon jatkuva vuoto ja sokki tai uhkaava sokki; lisäkriteerinä pitkä kuljetusmatka.
 
 ### Nenäverenvuoto

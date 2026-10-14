@@ -39,7 +39,7 @@ Vammapotilaan systemaattinen tutkiminen (cABCDE ja RTA – rapid trauma assessme
 > [!warning] Paineilmarinnan epäily
 > Kriittinen tai paheneva hengitysvaikeus ja levottomuus rintakehävammautuneella, yhdessä jommankumman kanssa – rintakehän vauriopuolen poikkeava liike (mahdollisesti ihonalainen ilma) tai puuttuva hengitysääni vauriopuolella – viittaa paineilmarintaan ja vaatii torakosenteesin ([ilmarinta](topic:ilmarinta)).
 
-**Verenkierto.** Verenpainetavoite on rannesyke tunnettavissa tai systolinen verenpaine (SAP) > 80 mmHg, mutta jos aivovamma on mahdollinen, tavoite nousee SAP > 120 mmHg:iin riittävän aivoperfuusion turvaamiseksi. Runsaan vuodon tai aikuisen vaikean aivovamman epäilyssä annetaan traneksaamihappoa 1 g suonensisäisesti.
+**Verenkierto.** Verenpainetavoite on rannesyke tunnettavissa tai systolinen verenpaine (SAP) > 80 mmHg, mutta jos aivovamma on mahdollinen, tavoite nousee SAP > 120 mmHg:iin riittävän aivoperfuusion turvaamiseksi. Runsaan vuodon tai aikuisen vaikean aivovamman epäilyssä annetaan [traneksaamihappoa](topic:traneksaamihappo) 1 g suonensisäisesti.
 
 **Lämmönhukan esto ja tukeminen.** Hypotermia heikentää veren hyytymistä ja pahentaa sokkia, joten aktiivinen lämmitys aloitetaan varhain. Kaularangan tukemisen tarve arvioidaan NEXUS-kriteereillä:
 

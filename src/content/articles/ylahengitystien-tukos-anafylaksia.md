@@ -60,7 +60,7 @@ Akuuttihoito-oppaan (Kekki 2025) mukaan tavallisimpia aiheuttajia ovat lääkeai
 ]}
 ```
 
-Reaktio näkyy iholla 80–90 %:ssa, hengityselimissä 70 %:ssa, ruoansulatuskanavassa 40 %:ssa ja verenkierrossa 35 %:ssa – **iho-oireiden puuttuminen ei siis sulje anafylaksiaa pois**. Keuhko- ja sydänsairailla sekä vakavan infektion yhteydessä anafylaksia on vaarallisempi. Lääkitys vaikuttaa: **beetasalpaajat heikentävät adrenaliinin vaikutusta**, ACE:n estäjät (erityisesti hyönteispistoallergiassa) voivat vaikeuttaa reaktiota, ja MAO:n estäjät sekä trisykliset masennuslääkkeet voivat voimistaa adrenaliinin vaikutusta.
+Reaktio näkyy iholla 80–90 %:ssa, hengityselimissä 70 %:ssa, ruoansulatuskanavassa 40 %:ssa ja verenkierrossa 35 %:ssa – **iho-oireiden puuttuminen ei siis sulje anafylaksiaa pois**. Keuhko- ja sydänsairailla sekä vakavan infektion yhteydessä anafylaksia on vaarallisempi. Lääkitys vaikuttaa: **beetasalpaajat heikentävät [adrenaliinin](topic:adrenaliini) vaikutusta**, ACE:n estäjät (erityisesti hyönteispistoallergiassa) voivat vaikeuttaa reaktiota, ja MAO:n estäjät sekä trisykliset masennuslääkkeet voivat voimistaa adrenaliinin vaikutusta.
 
 **Erotusdiagnostiikka**: akuutissa vaikeassa astmakohtauksessa ei ole iho-oireita ja verenpaine on normaali tai koholla; vasovagaalisessa pyörtymisessä iho- ja hengitystieoireet puuttuvat ja potilas on yleensä bradykardinen. Muita erotettavia ovat keuhkoembolia, muut sokkitilat, hengitysteiden tukokset ja aspiraatio sekä henkinen ahdistus. Diagnoosia vaikeuttavat tajuttomuus, humala ja rauhoittavat lääkkeet.
 
@@ -120,7 +120,7 @@ Asentohoito valitaan oirekuvan mukaan: matalassa verenpaineessa potilas makuulle
 ]}
 ```
 
-Antihistamiinin ja kortisonin vaikutus on hidas: antihistamiini vaikuttaa 30–45 minuutissa ja lievittää vain ihottumaa ja kutinaa, eikä se auta hengitystieobstruktioon tai hypotensioon. Salbutamoli (2,5–5 mg nebulisaattorilla) auttaa bronkusobstruktioon, mutta ei nielun tai kurkunpään tukokseen eikä hypotensioon.
+Antihistamiinin ja kortisonin vaikutus on hidas: antihistamiini vaikuttaa 30–45 minuutissa ja lievittää vain ihottumaa ja kutinaa, eikä se auta hengitystieobstruktioon tai hypotensioon. [Salbutamoli](topic:ipratropium-salbutamoli) (2,5–5 mg nebulisaattorilla) auttaa bronkusobstruktioon, mutta ei nielun tai kurkunpään tukokseen eikä hypotensioon.
 
 ```media
 {"widget":"angioedema","caption":"Vaihda välittäjäainetta ja kokeile lääkkeitä – huomaa, että allergialääkkeet eivät tehoa bradykiniinin aiheuttamaan turvotukseen."}
@@ -151,7 +151,7 @@ Lapsella anafylaksia kehittyy huippuunsa **10–30 minuutissa**. Tavallisimmat l
 - Adrenaliini **reiden ulkosyrjän lihakseen**; jos oireet eivät helpota, annos uusitaan tarvittaessa **5 minuutin välein**. Sokissa olevalle lapselle voidaan antaa laimennosta 0,1 mg/ml 0,1–0,3 ml hitaasti laskimoon (Lääkärin käsikirja 2025).
 - Hengitysvaikeudessa makuulle tai puoli-istuvaan asentoon, oksentava kylkiasentoon. Happisaturaation tavoite on yli 94 %; tarvittaessa avustetaan palkeella.
 - Sokissa jalat koholle ja nestebolus **10–20 ml/kg 15–30 minuutissa**, toistaen tarvittaessa.
-- Kortikosteroidiksi metyyliprednisoloni 2 mg/kg tai hydrokortisoni 10 mg/kg i.v. – kokonaisannos ei saa ylittää aikuisen annosta.
+- Kortikosteroidiksi [metyyliprednisoloni](topic:metyyliprednisoloni) 2 mg/kg tai hydrokortisoni 10 mg/kg i.v. – kokonaisannos ei saa ylittää aikuisen annosta.
 - Lasta seurataan **6–24 tuntia** yksikössä, jossa on valmius myöhäisreaktion hoitoon.
 
 > [!info] Lähteiden ero: adrenaliinikynän painoraja

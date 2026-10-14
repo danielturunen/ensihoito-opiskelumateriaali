@@ -1,0 +1,65 @@
+[
+  {
+    "id": "natriumbikarbonaatti-q1",
+    "type": "mcq",
+    "question": "Mikä on natriumbikarbonaatin vaikutus?",
+    "options": [
+      "Laskee veren pH:ta",
+      "Nostaa veren pH:ta emäksenä",
+      "Laskee verensokeria",
+      "Supistaa verisuonia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Natriumbikarbonaatti on emäksinen liuos, joka nostaa veren pH:ta."
+  },
+  {
+    "id": "natriumbikarbonaatti-q2",
+    "type": "mcq",
+    "question": "Missä myrkytyksessä natriumbikarbonaattia käytetään leveän QRS:n hoitoon?",
+    "options": [
+      "Opioidimyrkytys",
+      "Bentsodiatsepiinimyrkytys",
+      "Trisyklisten masennuslääkkeiden myrkytys",
+      "Parasetamolimyrkytys"
+    ],
+    "correctIndex": 2,
+    "explanation": "Trisyklisten masennuslääkkeiden myrkytyksessä bikarbonaatti nostaa pH:ta ja vähentää lääkkeen sitoutumista sydämen natriumkanaviin."
+  },
+  {
+    "id": "natriumbikarbonaatti-q3",
+    "type": "mcq",
+    "question": "Mikä on natriumbikarbonaatin annos hyperkalemiassa Käypä hoidon (Elvytys) mukaan?",
+    "options": [
+      "1 ml/kg 0,9 % liuosta",
+      "7,5 % liuosta 50–100 ml nopeana i.v.-annoksena",
+      "1 000 ml tunnin aikana",
+      "10 ml suun kautta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Käypä hoito: natriumbikarbonaattia 7,5 % 50–100 ml nopeana i.v.-annoksena."
+  },
+  {
+    "id": "natriumbikarbonaatti-q4",
+    "type": "mcq",
+    "question": "Miksi kalsiumia ja natriumbikarbonaattia ei anneta samaa reittiä?",
+    "options": [
+      "Ne kumoavat toistensa vaikutuksen sydämessä",
+      "Kalsium saostuu bikarbonaatin kanssa",
+      "Bikarbonaatti nostaa kaliumia",
+      "Kalsium laskee pH:ta liikaa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kalsium saostuu natriumbikarbonaatin kanssa, joten ne annetaan eri reittejä."
+  },
+  {
+    "id": "natriumbikarbonaatti-q5",
+    "type": "truefalse",
+    "question": "Natriumbikarbonaatti lisää hiilidioksidikuormaa ja hengitystyötä.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Oikein. Siksi sitä käytetään esimerkiksi ketoasidoosissa vain harvoin ja varoen."
+  }
+]

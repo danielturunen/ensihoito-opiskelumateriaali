@@ -33,7 +33,7 @@ Aggressio voi olla sanallista uhkailua tai sanatonta viestintää: nyrkkiin puri
 
 ### Lääkehoito (Ensihoito-opas)
 
-- Aluksi **midatsolaami 10 mg** poskeen (bukkaalisesti), nenään tai lihakseen. **Iäkkäällä annosta pienennetään.**
+- Aluksi **[midatsolaami](topic:midatsolaami) 10 mg** poskeen (bukkaalisesti), nenään tai lihakseen. **Iäkkäällä annosta pienennetään.**
 - Jatkossa **midatsolaami 2,5–5 mg i.v.** tai muu bentsodiatsepiini alueellisen ohjeen mukaan. Annos voidaan toistaa potilaan tilan mukaan peruselintoiminnoista huolehtien – tarvittaessa hoito-ohje.
 - **Humalatila voimistaa lääkkeen vaikutusta.**
 - Yleensä potilas rauhoittuu **kahden–kolmen annoksen** jälkeen.

@@ -1,0 +1,8 @@
+[
+  {"id": "natriumbikarbonaatti-f1", "front": "Natriumbikarbonaatin vaikutus", "back": "Emäs – nostaa veren pH:ta; ensihoidossa harvoin ja harkiten."},
+  {"id": "natriumbikarbonaatti-f2", "front": "Bikarbonaatti hyperkalemiassa", "back": "Asidoottiselle: 7,5 % 50–100 ml nopeana i.v., uusitaan tarvittaessa 10–15 min kuluttua."},
+  {"id": "natriumbikarbonaatti-f3", "front": "Bikarbonaatti trisyklisessä myrkytyksessä", "back": "QRS yli 100–120 ms: 50–100 mmol (8,4 % 50–100 ml) i.v.; tavoite pH 7,45–7,55."},
+  {"id": "natriumbikarbonaatti-f4", "front": "Bikarbonaatti vastasyntyneelle", "back": "3,75 % 2 ml/kg vähintään minuutin aikana i.v./i.o. – ei intubaatioputkeen."},
+  {"id": "natriumbikarbonaatti-f5", "front": "Kalsium ja bikarbonaatti", "back": "Saostuvat – eri reittiä."},
+  {"id": "natriumbikarbonaatti-f6", "front": "Bikarbonaatin haitat", "back": "Hiilidioksidikuorma ja hengitystyön lisääntyminen, metabolinen alkaloosi liikakäytössä."}
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "id": "adenosiini-q1",
+    "type": "mcq",
+    "question": "Miten adenosiini kääntää supraventrikulaarisen takykardian?",
+    "options": [
+      "Pidentämällä kammioiden refraktaariaikaa viikkojen ajan",
+      "Lamaamalla hetkellisesti eteis-kammiosolmukkeen, jolloin kiertoaktivaatio katkeaa",
+      "Nostamalla verenpainetta",
+      "Lisäämällä sinussolmukkeen syketaajuutta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Adenosiini lamaa ohimenevästi sinus- ja eteis-kammiosolmukkeen, jolloin SVT:tä ylläpitävä kiertoaktivaatio katkeaa."
+  },
+  {
+    "id": "adenosiini-q2",
+    "type": "mcq",
+    "question": "Mikä on adenosiinin aloitusannos Ensihoito-oppaan mukaan?",
+    "options": [
+      "0,5 mg hitaasti i.v.",
+      "5–6 mg nopeana boluksena i.v.",
+      "50 mg infuusiona",
+      "300 mg i.v."
+    ],
+    "correctIndex": 1,
+    "explanation": "Ensihoito-opas: adenosiini 5–6 mg nopeana boluksena i.v., jatkoannokset porrastetusti. Kanyyli suuressa suonessa ja hyvä virtaus."
+  },
+  {
+    "id": "adenosiini-q3",
+    "type": "mcq",
+    "question": "Mitä kokeillaan ennen adenosiinia SVT-potilaalla?",
+    "options": [
+      "Defibrillaatiota",
+      "Vagaalista ärsytystä, kuten Valsalvan toimenpidettä",
+      "Amiodaroni-infuusiota",
+      "Atropiinia"
+    ],
+    "correctIndex": 1,
+    "explanation": "PSVT pysäytetään ensin vagaalisella ärsytyksellä ja tarvittaessa adenosiinilla."
+  },
+  {
+    "id": "adenosiini-q4",
+    "type": "truefalse",
+    "question": "EKG-tallennuksen on oltava päällä adenosiinin annon ajan.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Oikein. Adenosiini on sekä terapeuttinen että diagnostinen: EKG voi paljastaa piilevän eteistoiminnan, vaikka rytmi ei kääntyisi."
+  },
+  {
+    "id": "adenosiini-q5",
+    "type": "truefalse",
+    "question": "Adenosiini annetaan hitaasti pieneen käsiselän laskimoon, jotta vaikutus olisi tasainen.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Väärin. Adenosiini annetaan nopeana boluksena, ja kanyylin on oltava suuressa suonessa hyvällä virtauksella."
+  }
+]

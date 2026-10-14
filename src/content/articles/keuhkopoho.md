@@ -70,7 +70,7 @@ Kriittisessä hengitysvajauksessa potilas on uupunut tai riuhtova, iho kylmä ja
 
 1. Tuettu istuva asento, happi varaajamaskilla, CPAP tai kaksoispaine valmiiksi; nitraatti kielen alle, jos systolinen yli 100 mmHg tai rannesyke tuntuu vahvana.
 2. **CPAP**: pidä maskia aluksi käsin ja rauhoittele – kiinnitä remmit, kun potilas huomaa hoidon auttavan.
-3. Nitraatti-infuusio (systolinen yli 100 mmHg); morfiini tai oksikodoni 2–4 mg i.v. tai fentanyyli 1–2 µg/kg erissä.
+3. Nitraatti-infuusio (systolinen yli 100 mmHg); [morfiini](topic:morfiini) tai oksikodoni 2–4 mg i.v. tai [fentanyyli](topic:fentanyyli) 1–2 µg/kg erissä.
 4. **Kardiogeenisessä sokissa** (systolinen alle 100 mmHg) noradrenaliini-infuusio.
 5. 12–15-kytkentäinen EKG ja iskemian hoito löydöksen mukaan; huonossa vasteessa ennakoiva intubaatio ensihoitolääkärin toimesta.
 

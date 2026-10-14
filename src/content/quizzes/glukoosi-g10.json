@@ -1,0 +1,76 @@
+[
+  {
+    "id": "glukoosi-g10-q1",
+    "type": "mcq",
+    "question": "Kuinka paljon glukoosia on 100 ml:ssa G10-liuosta?",
+    "options": [
+      "1 g",
+      "10 g",
+      "50 g",
+      "100 g"
+    ],
+    "correctIndex": 1,
+    "explanation": "G10 on 10-prosenttinen glukoosiliuos: 100 ml sisältää 10 g glukoosia."
+  },
+  {
+    "id": "glukoosi-g10-q2",
+    "type": "mcq",
+    "question": "Mikä on tajuttoman aikuisen hypoglykemiapotilaan G10-annos Ensihoito-oppaan mukaan?",
+    "options": [
+      "10 ml hitaasti",
+      "100–200 ml nopeana infuusiona i.v. tai i.o.",
+      "1 000 ml tunnin aikana",
+      "5 ml/kg suun kautta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ensihoito-opas: G10 100–200 ml nopeana infuusiona suoneen tai luunsisäisesti, lapselle 1–2 ml/kg."
+  },
+  {
+    "id": "glukoosi-g10-q3",
+    "type": "mcq",
+    "question": "Mitä annetaan, jos hypoglykeemiselle potilaalle ei saada suoni- tai luuydinyhteyttä?",
+    "options": [
+      "Insuliinia ihon alle",
+      "Glukagonia 1 mg lihakseen",
+      "Naloksonia",
+      "G10:tä lihakseen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ilman suoniyhteyttä annetaan glukagoni 1 mg i.m. (alle kouluikäinen 0,5 mg). Se ei tehoa, jos glykogeenivarastot ovat tyhjät."
+  },
+  {
+    "id": "glukoosi-g10-q4",
+    "type": "truefalse",
+    "question": "Jos tajunta ei palaa, vaikka verensokeri on korjautunut, tajuttomuudelle etsitään muu syy.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Oikein. Ensihoito-opas ohjaa etsimään muuta syytä, jos tajunta ei palaa verensokerin korjauduttua."
+  },
+  {
+    "id": "glukoosi-g10-q5",
+    "type": "truefalse",
+    "question": "G10 sopii hyvin aivovammapotilaan perusnesteytykseen.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Väärin. Sokeripitoisia nesteitä ei anneta aivovammapotilaalle ensimmäisen vuorokauden aikana, ellei hänellä ole hypoglykemiaa."
+  },
+  {
+    "id": "glukoosi-g10-q6",
+    "type": "mcq",
+    "question": "Mikä on G10:n annos lapsen hypoglykemiassa Ensihoito-oppaan mukaan?",
+    "options": [
+      "0,1 ml/kg",
+      "1–2 ml/kg",
+      "20 ml/kg",
+      "100 ml kaiken ikäisille"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ensihoito-opas: lapselle 1–2 ml/kg."
+  }
+]

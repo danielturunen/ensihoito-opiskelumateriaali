@@ -1,0 +1,63 @@
+[
+  {
+    "id": "metyyliprednisoloni-q1",
+    "type": "mcq",
+    "question": "Kuinka nopeasti metyyliprednisolonin vaikutus alkaa?",
+    "options": [
+      "Sekunneissa",
+      "Noin minuutissa",
+      "Vasta tuntien kuluessa",
+      "Viikkojen kuluttua"
+    ],
+    "correctIndex": 2,
+    "explanation": "Kortikosteroidi ei avaa keuhkoputkia välittömästi, vaan vaikutus alkaa tuntien kuluessa. Ensihoitovaiheen aikana se ei vielä vaikuta."
+  },
+  {
+    "id": "metyyliprednisoloni-q2",
+    "type": "mcq",
+    "question": "Mikä on metyyliprednisolonin annos astmakohtauksessa Ensihoito-oppaan mukaan?",
+    "options": [
+      "4 mg i.v.",
+      "40–80 mg i.v., lapselle 2 mg/kg",
+      "500 mg i.v.",
+      "10 mg/kg i.v."
+    ],
+    "correctIndex": 1,
+    "explanation": "Ensihoito-opas: metyyliprednisoloni 40–80 mg i.v. (lapselle 2 mg/kg) tai hydrokortisoni 250 mg i.v. (lapselle 5 mg/kg)."
+  },
+  {
+    "id": "metyyliprednisoloni-q3",
+    "type": "mcq",
+    "question": "Mikä on metyyliprednisolonin tehtävä anafylaksiassa?",
+    "options": [
+      "Se korvaa adrenaliinin lievissä reaktioissa",
+      "Reaktion uusiutumisen estäminen adrenaliinin jälkeen",
+      "Verenpaineen nostaminen minuuteissa",
+      "Kurkunpään turvotuksen välitön laukaiseminen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Anafylaksiassa kortikosteroidin tehtävä on estää reaktion uusiutumista. Se ei korvaa adrenaliinia, ja sen vaikutus on hidas."
+  },
+  {
+    "id": "metyyliprednisoloni-q4",
+    "type": "truefalse",
+    "question": "Lapselle voidaan antaa painon mukaan laskettuna aikuisen annosta suurempi kortikosteroidiannos.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Väärin. Lääkärin käsikirjan mukaan lapsen kokonaisannos ei saa ylittää aikuisen annosta."
+  },
+  {
+    "id": "metyyliprednisoloni-q5",
+    "type": "truefalse",
+    "question": "Ensihoito-oppaassa metyyliprednisolonin vaihtoehto on hydrokortisoni.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Oikein. Esimerkiksi astmassa hydrokortisoni 250 mg i.v. (lapselle 5 mg/kg) tai metyyliprednisoloni 40–80 mg (lapselle 2 mg/kg)."
+  }
+]

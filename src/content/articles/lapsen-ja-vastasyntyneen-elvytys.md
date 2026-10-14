@@ -51,7 +51,7 @@ Hoitoelvytys on tiimityötä: useat toimet tapahtuvat yhtä aikaa. Defibrillaatt
 
 - **Defibrillaatio**: manuaalinen defibrillaattori on ensisijainen, neuvovaa voi käyttää, jos muuta ei ole. Energia **4 J/kg**, eikä aikuisille suositeltua 150 J:ta ylitetä. Refraktaarisessa tai toistuvassa VF/VT:ssä voidaan harkita nostoa **ad 8 J/kg (max 360 J)**. Liimaelektrodeilla painelu jatkuu latauksen ajan.
 - **Elektrodit** anterolateraalisesti (oikean solisluun alle ja vasemmalle keskiaksillaarilinjaan) tai etu-taka-asentoon (rintalastan vasemmalle puolelle ja selkään lapaluiden väliin). Ne eivät saa koskettaa toisiaan. Lasten ensihoito -materiaalin mukaan **alle 25 kg:n (alle kouluikäisellä) lapsella etu-taka-asento**.
-- **Adrenaliini 0,01 mg/kg** (max 1 mg) = 0,1 ml/kg liuosta 0,1 mg/ml. **Amiodaroni 5 mg/kg** = 0,1 ml/kg liuosta 50 mg/ml. Lidokaiini 1 mg/kg (max 100 mg) käy, jos amiodaronia ei ole.
+- **[Adrenaliini](topic:adrenaliini) 0,01 mg/kg** (max 1 mg) = 0,1 ml/kg liuosta 0,1 mg/ml. **Amiodaroni 5 mg/kg** = 0,1 ml/kg liuosta 50 mg/ml. Lidokaiini 1 mg/kg (max 100 mg) käy, jos amiodaronia ei ole.
 - **Suoniyhteys**: lapsilla voi käyttää samoja paikkoja kuin aikuisilla, aivan pienillä myös kallon suonia. **I.o.-yhteys on nopea** – hallitse tekniikka, sillä lasten luut ovat ohuita.
 
 Jos painoa ei tiedetä, European Trauma Course arvioi sen iästä: 1–12 kk (0,5 × ikä kuukausina) + 4, 1–5 v (2 × ikä vuosina) + 8 ja 6–12 v (3 × ikä vuosina) + 7.

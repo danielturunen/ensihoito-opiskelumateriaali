@@ -45,7 +45,7 @@ Holmströmin (Oppiportti) mukaan:
 Hengittäessä tuntuva kipu on usein keuhkoperäistä, asennon mukana muuttuva sydänpussi- tai tuki- ja liikuntaelinperäistä, ja ylös noustessa helpottava palleatyrän tai refluksin aiheuttamaa. Hyvin kova tuska sopii erityisesti aortan dissekoitumaan. Ylävatsan voimakas painoarkuus viittaa ei-sydänperäiseen syyhyn, mutta alaseinäinfarktin kipu voi tuntua ylävatsalla kuin refluksi tai sappikohtaus – siksi uudesta närästyksestä tai ylävatsakivusta otetaan EKG. Nitraatti helpottaa sepelvaltimokipua parissa minuutissa, mutta myös ruokatorven spasmia, eikä vasteen puuttuminen sulje pois sepelvaltimotautia. **Jopa puolella akuutin infarktin saaneista infarkti on sepelvaltimotaudin ensimmäinen oire** (Ensihoito-opas).
 
 > [!info] Hätäkeskuksen ohje (koodi 704)
-> Jos kipu on sietämätön tai potilas on hikinen tai voimaton kivun luonteesta riippumatta, hälytetään 704A. Ilmoittajalle ohjeistetaan ehdoton lepo, oman nitron otto, jos potilas jaksaa istua, ja **asetyylisalisyylihappo 250 mg pureskellen, jos ambulanssin tulo kestää yli 20 minuuttia**. Ole erityisen tarkka diabeetikoiden ja vanhusten kanssa: infarkti voi näkyä vain yleistilan heikkenemisenä.
+> Jos kipu on sietämätön tai potilas on hikinen tai voimaton kivun luonteesta riippumatta, hälytetään 704A. Ilmoittajalle ohjeistetaan ehdoton lepo, oman nitron otto, jos potilas jaksaa istua, ja **[asetyylisalisyylihappo](topic:asetyylisalisyylihappo) 250 mg pureskellen, jos ambulanssin tulo kestää yli 20 minuuttia**. Ole erityisen tarkka diabeetikoiden ja vanhusten kanssa: infarkti voi näkyä vain yleistilan heikkenemisenä.
 
 ## Sepelvaltimotauti ja sen ilmenemismuodot
 
@@ -133,13 +133,13 @@ Käypä hoito -suosituksen (Sepelvaltimotautikohtaus, päivitetty 2026) mukaan *
 Jos EKG:ssä on iskeemisiä muutoksia (ST-laskuja), verenkierto on epävakaa tai kipu ei helpotu perushoidosta, siirrytään suuren vaaran AKS:n hoitolinjalle:
 
 - Antikoagulaatio, esimerkiksi pienimolekyylinen hepariini
-- Beetasalpaus (esim. metoprololi pieninä iv-annoksina), jos potilas on hyperdynaaminen eikä sokin vaaraa ole
-- Opioidi vain kovaan kipuun – **rutiinimaista opioidia vältetään**, koska se hidastaa mahan tyhjenemistä ja heikentää suun kautta annettujen antitromboottisten lääkkeiden tehoa. Morfiini (oksikodoni) aloitus 4 mg i.v., sitten 2–4 mg 5 minuutin välein.
+- Beetasalpaus (esim. [metoprololi](topic:metoprololi) pieninä iv-annoksina), jos potilas on hyperdynaaminen eikä sokin vaaraa ole
+- Opioidi vain kovaan kipuun – **rutiinimaista opioidia vältetään**, koska se hidastaa mahan tyhjenemistä ja heikentää suun kautta annettujen antitromboottisten lääkkeiden tehoa. [Morfiini](topic:morfiini) (oksikodoni) aloitus 4 mg i.v., sitten 2–4 mg 5 minuutin välein.
 - Pahoinvointiin ondansetroni 4 mg i.v. tai droperidoli 1,25 mg i.v. (voivat pidentää QT-aikaa); ahdistukseen pieni bentsodiatsepiiniannos.
 
 **Kuljetus**: sydänperäiseksi sopiva kipu kuljetetaan, vaikka EKG olisi normaali, samoin jos EKG:ssä on ollut iskemiaa, joka on korjaantunut hoidon aikana. Kuljettamatta voidaan jättää potilas, jolla oli tuttu lyhyt yksittäinen angina pectoris -kohtaus, joka meni ohi itsehoidolla, kohtaukset eivät ole tihentyneet, EKG on koko ajan normaali ja potilas on oireeton (Ensihoito-opas).
 
-ADP-reseptorin salpaajia (klopidogreeli, tikagrelori) ei aloiteta ensihoidossa ennen angiografiaa – poikkeuksena PCI-kuljetukseen lähtevä STEMI-potilas.
+ADP-reseptorin salpaajia ([klopidogreeli](topic:klopidogreeli), [tikagrelori](topic:tikagrelori)) ei aloiteta ensihoidossa ennen angiografiaa – poikkeuksena PCI-kuljetukseen lähtevä STEMI-potilas.
 
 ## EKG-löydökset ja verikokeet
 
@@ -168,7 +168,7 @@ Liuotuksen jälkeen potilas kuljetetaan suoraan sairaalaan, jossa on valmius vä
 {"widget":"reperfusion","caption":"Säädä aikoja – näet, ohjaavatko ne pallolaajennukseen vai liuotukseen."}
 ```
 
-Verenkiertokomplikaatiot pitää hoitaa välittömästi: bradykardiaan [atropiini](topic:atropiini) tai ulkoinen tahdistus, hypotensioon/sokkiin nesteytys ja tarvittaessa noradrenaliini, takykardisiin rytmihäiriöihin tilanteen mukaan [amiodaroni](topic:amiodaroni), kardioversio tai defibrillaatio.
+Verenkiertokomplikaatiot pitää hoitaa välittömästi: bradykardiaan [atropiini](topic:atropiini) tai ulkoinen tahdistus, hypotensioon/sokkiin nesteytys ja tarvittaessa [noradrenaliini](topic:noradrenaliini), takykardisiin rytmihäiriöihin tilanteen mukaan [amiodaroni](topic:amiodaroni), kardioversio tai defibrillaatio.
 
 > [!warning] Nitrokollapsi
 > Nitraatti laajentaa suonia ja voi romahduttaa verenpaineen ("nitrokollapsi"). Anna vain makuulla olevalle tai istuvalle potilaalle, ja ole varovainen, jos potilaalla on nestevaje, kuume tai hän on käyttänyt muita verisuonia laajentavia lääkkeitä tai alkoholia. Oikean kammion infarktissa nitraatti voi laukaista vaikean hypotension – tarkista tarvittaessa V4R-kytkennän löydös ensin.

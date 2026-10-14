@@ -9,7 +9,7 @@ Ensihoito-oppaan (2026) mukaan erityistilanteet – **hypotermia, vammapotilas j
 Vammapotilaan sydänpysähdyksen hoito on aiempaa aktiivisempaa. Ellei potilas ole ilmiselvästi kuolettavasti vammautunut, elvytys aloitetaan ja sitä jatketaan, kunnes hoidettavissa olevat syyt on suljettu pois tai hoidettu.
 
 1. Ventilaation aloittaminen.
-2. Ulkoisen verenvuodon tyrehdytys, i.o.- tai i.v.-yhteys ja nesteresuskitaatio – mieluiten verituotteilla. **Traneksaamihappo 1 g** 10 minuutissa alle 3 tunnin kuluessa vammasta parantaa selviytymistä.
+2. Ulkoisen verenvuodon tyrehdytys, i.o.- tai i.v.-yhteys ja nesteresuskitaatio – mieluiten verituotteilla. **[Traneksaamihappo](topic:traneksaamihappo) 1 g** 10 minuutissa alle 3 tunnin kuluessa vammasta parantaa selviytymistä.
 3. Torakostomia tai neulatorakosenteesi jänniteilmarinnan hoitamiseksi. **Torakostomia on todennäköisesti tehokkaampi** kuin neula, erityisesti ylipaineventilaatiossa.
 4. Ellei verenkierto palaa, harkitaan erityisesti ylävatsan tai rintakehän **lävistävissä vammoissa torakotomiaa**. Käypä hoidon (2021) mukaan edellytyksenä on, että avoin sydänhieronta saadaan alkamaan **15 minuutin kuluessa** elottomuuden havaitsemisesta, paikalla on toimenpiteen hallitseva kokenut tiimi ja olosuhteet sekä välineet sallivat sen (vanhemmassa ensihoidon oppimateriaalissa raja on 10 min). Tavoitteena on ensisijaisesti sydäntamponaation purkaminen; lisäksi aortan puristus verensiirron kanssa ja avoin sydänhieronta voivat auttaa.
 

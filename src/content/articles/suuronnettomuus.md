@@ -60,7 +60,7 @@ Primaariluokittelussa potilaat luokitellaan yksinkertaisen ja nopean arvion peru
 
 Hoitopaikka perustetaan lähimpään tarkoituksenmukaiseen paikkaan (rakennus, ambulanssit, teltat), ja **vihreät erotetaan fyysisesti muista** – esimerkiksi paikalle pyydettyyn linja-autoon. Vihreille riittävät esimerkiksi kaksi pelastajaa ja yksi ensihoitaja 15–20 potilasta kohden.
 
-Kentällä annettava ensihoito rajataan välttämättömään: repositiot, immobilisaatio, hypotermian esto, ulkoisen vuodon tyrehdytys, happi, kivunhoito (ensisijaisesti pitkävaikutteisilla opioideilla), laskimonsisäinen nesteytys, traneksaamihappo, anestesiaintubaatio ja ventilaatio, torakosenteesi, dekontaminaatio CBRN-tilanteissa, inhaloitava beeta-2-agonisti kaasumyrkytyksessä sekä atropiini ja oksiimi hermokaasuissa. Paras monitori on ensihoitajan lisäksi pulssioksimetri.
+Kentällä annettava ensihoito rajataan välttämättömään: repositiot, immobilisaatio, hypotermian esto, ulkoisen vuodon tyrehdytys, happi, kivunhoito (ensisijaisesti pitkävaikutteisilla opioideilla), laskimonsisäinen nesteytys, [traneksaamihappo](topic:traneksaamihappo), anestesiaintubaatio ja ventilaatio, torakosenteesi, dekontaminaatio CBRN-tilanteissa, inhaloitava beeta-2-agonisti kaasumyrkytyksessä sekä atropiini ja oksiimi hermokaasuissa. Paras monitori on ensihoitajan lisäksi pulssioksimetri.
 
 Heti ensihoidon jälkeen tehdään **sekundaariluokittelu** (luokat I–IV), jonka perusteella kuljetusjärjestys määräytyy.
 

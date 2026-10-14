@@ -12,7 +12,7 @@ Ondansetroni salpaa serotoniinin (5-HT3) vaikutusta sekä keskushermoston oksent
 
 ## Käyttöaiheet ensihoidossa
 
-- **Opioidien aiheuttama pahoinvointi** (morfiini, oksikodoni) — ondansetroni täydentää hyvin kipulääkityksen vaikutusta ilman, että se lisää opioidin hengityslamaa.
+- **Opioidien aiheuttama pahoinvointi** ([morfiini](topic:morfiini), oksikodoni) — ondansetroni täydentää hyvin kipulääkityksen vaikutusta ilman, että se lisää opioidin hengityslamaa.
 - **Vaikea pahoinvointi sepelvaltimotautikohtauksessa**, erityisesti vagaalisesti aiheutunut (tyypillisesti alaseinäinfarktissa) pahoinvointi, joka vaikeuttaa suun kautta otettavien lääkkeiden antoa.
 - **Kuljetuksen aikainen liikuntasairaus ja muu oksentelu**, joka uhkaa aspiraatiota.
 

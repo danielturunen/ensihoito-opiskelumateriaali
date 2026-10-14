@@ -1,0 +1,9 @@
+[
+  {"id": "laakehiili-f1", "front": "Lääkehiilen vaikutustapa", "back": "Sitoo lääkeaineita ja myrkkyjä ruoansulatuskanavassa ja estää imeytymisen – imeytymisen esto, ei vastalääke."},
+  {"id": "laakehiili-f2", "front": "Lääkehiilen annos", "back": "Aikuinen 50–100 g, lapsi 1 g/kg, juottamalla."},
+  {"id": "laakehiili-f3", "front": "Milloin lääkehiili tehoaa parhaiten?", "back": "Tunnin sisällä aineen nauttimisesta; hyötyä voi olla myöhemminkin hitaasti imeytyvissä aineissa."},
+  {"id": "laakehiili-f4", "front": "Lääkehiili ei tehoa", "back": "Alkoholeihin (etanoli, metanoli, etyleeniglykoli), metalleihin (rauta, litium), syanidiin, happoihin ja emäksiin."},
+  {"id": "laakehiili-f5", "front": "Lääkehiilen vasta-aiheet", "back": "Alentunut tajunta tai puuttuvat suojaheijasteet ilman varmistettua ilmatietä, syövyttävät aineet, suolitukos."},
+  {"id": "laakehiili-f6", "front": "Lääkehiili ja tajunta (Ensihoito-opas)", "back": "Juottamalla, jos GCS on yli 13; tajunnanhäiriöisellä vaatii käytännössä anestesiaintubaation."},
+  {"id": "laakehiili-f7", "front": "Miksi lääkehiiltä ei anneta syövyttävissä aineissa?", "back": "Se ei sido happoja ja emäksiä ja peittää sairaalassa tehtävän tähystyksen näkymän."}
+]

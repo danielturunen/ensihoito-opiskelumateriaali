@@ -54,7 +54,7 @@ Tärkein kysymys on, onko potilas **pelkästään altistunut säteilylle** vai *
 - **Akuutti säteilysairaus** vaatii hyvin suuren annoksen. Jos oireita on heti, annos on yleensä yli 3 000 mSv. Ilman ydinvoimalaonnettomuutta tai ydinräjähdystä todennäköisyys on äärimmäisen pieni. Psykosomaattisia oireita voi esiintyä ilman altistustakin.
 - Monipotilastilanteessa triage tehdään ensin **peruselintoimintojen ja vammojen** perusteella, vasta toissijaisesti arvioidun annoksen perusteella.
 - **Säteilypalovamma** syntyy kosketuksesta säteilylähteeseen: aluksi voi olla vain punoitusta, mutta vaurio voi syventyä kuolioksi. Nämä potilaat kuljetetaan aina.
-- Radioaktiivisen aineen imeytymistä suolistosta voi joissain tapauksissa hidastaa lääkehiilellä; tunnetun aineen osalta konsultoidaan Myrkytystietokeskusta.
+- Radioaktiivisen aineen imeytymistä suolistosta voi joissain tapauksissa hidastaa [lääkehiilellä](topic:laakehiili); tunnetun aineen osalta konsultoidaan Myrkytystietokeskusta.
 
 ```media
 {"widget":"rad-time","caption":"Työskentelyaika = hyväksyttävä annos ÷ annosnopeus. Hyväksyttävän annoksen määrittää tilannetta johtava viranomainen."}
@@ -95,7 +95,7 @@ Tärkein kysymys on, onko potilas **pelkästään altistunut säteilylle** vai *
 
 - Suojaudu – poista altiste – dekontaminoi; vaatteiden riisuminen poistaa yli 90 % kemikaalista.
 - Kemikaali- ja säteilytilanteissa pelastustoimi johtaa ja pelastaa vaara-alueelta; triage kävelevät – tajuttomat – kuolleet.
-- Vasta-aineet: hermokaasu – atropiini (+ oksiimi), syanidi ja rikkivety – hydroksokobalamiini, opioidit – naloksoni, fluorivetyhappo – kalsium.
-- Ylähengitystiet: adrenaliini- ja kortisoni-inhalaatiot; keuhkoputket: salbutamoli ja inhaloitava steroidi; rakkulataso: viivästynyt keuhkopöhö – seuranta.
+- Vasta-aineet: hermokaasu – atropiini (+ oksiimi), syanidi ja rikkivety – hydroksokobalamiini, opioidit – [naloksoni](topic:naloksoni), fluorivetyhappo – kalsium.
+- Ylähengitystiet: adrenaliini- ja kortisoni-inhalaatiot; keuhkoputket: [salbutamoli](topic:ipratropium-salbutamoli) ja inhaloitava steroidi; rakkulataso: viivästynyt keuhkopöhö – seuranta.
 - Säteilylle altistunut ei vaaranna auttajia; kontaminoitunut voi – mutta kontaminaatio ei saa estää henkeä pelastavaa hoitoa.
 - Työskentelyaika = hyväksyttävä annos ÷ annosnopeus; säteilytyöntekijän vuosiannos on 20 mSv.

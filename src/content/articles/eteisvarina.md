@@ -53,7 +53,7 @@ Hemodynaamisesti vakaan potilaan sinusrytmi palautuu itsestään vuorokauden kul
 
 ### Ensihoito-oppaan ohje
 
-Ensihoito-oppaan (Silfvast 2023) mukaan **oireetonta eteisvärinää ei rutiinisti hidasteta eikä käännetä** hoitolaitoksen ulkopuolella. Nopean eteisvärinän aiheuttama iskemia, rintakipu tai vajaatoiminnan hengenahdistus hoidetaan rytmiä hidastamalla: **metoprololi 1–2 mg kerta-annoksina i.v.**, ei jos systolinen paine on alle 100 mmHg, ja johtumisen on oltava muuten normaali. EKG rekisteröidään ennen hoitoa ja sen jälkeen.
+Ensihoito-oppaan (Silfvast 2023) mukaan **oireetonta eteisvärinää ei rutiinisti hidasteta eikä käännetä** hoitolaitoksen ulkopuolella. Nopean eteisvärinän aiheuttama iskemia, rintakipu tai vajaatoiminnan hengenahdistus hoidetaan rytmiä hidastamalla: **[metoprololi](topic:metoprololi) 1–2 mg kerta-annoksina i.v.**, ei jos systolinen paine on alle 100 mmHg, ja johtumisen on oltava muuten normaali. EKG rekisteröidään ennen hoitoa ja sen jälkeen.
 
 > [!info] Lähteiden ero metoprololiannoksessa
 > Käypä hoito mainitsee sairaalahoidon annokseksi 5 mg hitaasti i.v. (uusittavissa), Ensihoito-opas kentällä 1–2 mg kerta-annoksina verenpainetta seuraten. Toimi alueesi hoito-ohjeen mukaan.

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "isosorbididinitraatti-q1",
+    "type": "mcq",
+    "question": "Miten isosorbididinitraatti vähentää sydämen työmäärää pienillä annoksilla?",
+    "options": [
+      "Supistamalla laskimoita",
+      "Laajentamalla laskimoita, jolloin laskimopaluu ja esikuorma pienenevät",
+      "Hidastamalla sinussolmukkeen toimintaa",
+      "Lisäämällä sydämen supistusvoimaa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pienillä annoksilla isosorbididinitraatti laajentaa laskimoita, jolloin sydämen täyttöaste ja esikuorma pienenevät. Suuremmilla annoksilla laajenevat myös valtimot."
+  },
+  {
+    "id": "isosorbididinitraatti-q2",
+    "type": "mcq",
+    "question": "Millä annoksella korkeapainepöhön hoito voidaan aloittaa lähteen mukaan?",
+    "options": [
+      "1 suihkaus",
+      "Esimerkiksi 6 suihkausta isosorbididinitraattia",
+      "20 suihkausta kerralla",
+      "Ei lainkaan nitraattia keuhkopöhössä"
+    ],
+    "correctIndex": 1,
+    "explanation": "Korkeapainepöhössä hoito voidaan aloittaa esimerkiksi isosorbididinitraattisuihkeella 6 suihkausta, ja sitä toistetaan verenpaineen mukaan."
+  },
+  {
+    "id": "isosorbididinitraatti-q3",
+    "type": "mcq",
+    "question": "Mihin verenpainetasoon keuhkopöhön nitraattihoidolla korkeintaan pyritään?",
+    "options": [
+      "Systolinen alle 80 mmHg",
+      "Verenpainetta lasketaan, mutta systolinen ei alle 100 mmHg",
+      "Verenpainetta ei saa laskea lainkaan",
+      "Systolinen alle 60 mmHg"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tavoitteena on laskea verenpainetta, mutta ei alle 100 mmHg systolisen."
+  },
+  {
+    "id": "isosorbididinitraatti-q4",
+    "type": "truefalse",
+    "question": "Isosorbididinitraatti on nitraatti kuten glyseryylitrinitraatti.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Oikein. Molemmat ovat nitraatteja, ja niiden vaikutus perustuu verisuonten, erityisesti laskimoiden, laajenemiseen."
+  }
+]

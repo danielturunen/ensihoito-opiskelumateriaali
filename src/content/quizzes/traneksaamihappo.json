@@ -1,0 +1,76 @@
+[
+  {
+    "id": "traneksaamihappo-q1",
+    "type": "mcq",
+    "question": "Mihin traneksaamihapon vaikutus perustuu?",
+    "options": [
+      "Se aktivoi hyytymiskaskadia ja muodostaa uusia hyytymiä",
+      "Se estää fibrinolyysiä eli jo muodostuneen hyytymän liukenemista",
+      "Se supistaa verisuonia",
+      "Se korvaa menetettyjä punasoluja"
+    ],
+    "correctIndex": 1,
+    "explanation": "Traneksaamihappo estää fibrinolyysiä: se vakauttaa hyytymiä, jotta ne eivät hajoa ennenaikaisesti."
+  },
+  {
+    "id": "traneksaamihappo-q2",
+    "type": "mcq",
+    "question": "Missä ajassa vammasta traneksaamihappo pitää antaa, jotta siitä on hyötyä?",
+    "options": [
+      "24 tunnin kuluessa",
+      "3 tunnin kuluessa, suurin hyöty ensimmäisen tunnin aikana",
+      "Vasta sairaalassa leikkauksen jälkeen",
+      "Ajalla ei ole merkitystä"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hyöty saavutetaan 3 tunnin kuluessa vammasta, suurin ensimmäisen tunnin aikana. Myöhemmin annettuna se voi aiheuttaa enemmän haittaa kuin hyötyä."
+  },
+  {
+    "id": "traneksaamihappo-q3",
+    "type": "mcq",
+    "question": "Mikä on aikuisen traneksaamihappoannos runsaassa vuodossa Ensihoito-oppaan mukaan?",
+    "options": [
+      "100 mg i.v.",
+      "1 g i.v.",
+      "5 g i.v.",
+      "1 g suun kautta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ensihoito-opas: 1 g i.v. epäiltäessä runsasta vuotoa. ETC: 1 g 10 minuutissa ja sen jälkeen 1 g infuusiona 8 tunnissa."
+  },
+  {
+    "id": "traneksaamihappo-q4",
+    "type": "mcq",
+    "question": "Mikä on traneksaamihapon annos lapselle Ensihoito-oppaan mukaan?",
+    "options": [
+      "1 mg/kg",
+      "20 mg/kg i.v.",
+      "100 mg/kg i.v.",
+      "Lapselle ei anneta traneksaamihappoa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ensihoito-opas: lapsille 20 mg/kg i.v. Lasten opetusmateriaalissa 15 mg/kg bolus (enintään 1 g) ja sen jälkeen infuusio."
+  },
+  {
+    "id": "traneksaamihappo-q5",
+    "type": "truefalse",
+    "question": "Traneksaamihappo tekee kiristysside- ja lantiovyöhoidon tarpeettomaksi.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Väärin. Traneksaamihappo on osa laajempaa verenvuodon hallintaa – se ei korvaa vuodon tyrehdyttämistä."
+  },
+  {
+    "id": "traneksaamihappo-q6",
+    "type": "truefalse",
+    "question": "Lähteet ovat eri mieltä traneksaamihapon hyödystä ruoansulatuskanavan vuodossa.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Oikein. Ensihoito-opas ohjaa antamaan 1 g i.v., mutta Akuuttihoito-oppaan mukaan hyötyä ei ole todettu GI-vuodossa."
+  }
+]

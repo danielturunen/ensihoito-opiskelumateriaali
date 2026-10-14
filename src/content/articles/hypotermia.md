@@ -83,7 +83,7 @@ Jos kehonulkoista verenkiertoa ei ole saatavilla, potilasta voidaan lämmittää
 Ensihoito-opas (Lund 2023) arvioi hypotermian asteen kliinisesti: **lievä** – tajuissaan, lihasvärinä, asiallinen, keskivartalo lämmin; **keskivaikea** – tajuissaan mutta sekava, keskivartalon iho viileä; **syvä** – ei tajuissaan, ei reagoi, vatsa kylmä. Elossa olevaa käsitellään hellävaraisesti, syvässä hypotermiassa ventiloidaan vain, jos tarvitaan intubaatiota tai potilas on eloton, ja keskivaikeassa huomioidaan "after drop" -ilmiö. Elottoman elvyttäen kuljettaminen aloitetaan 5 minuutin kuluessa, ja mekaaninen painelulaite on silloin välttämätön. Elossa oleva viedään keskussairaalaan, eloton yliopistolliseen tai lähimpään keskussairaalaan ennakkoilmoituksin sydän-keuhkokoneen tarpeesta.
 
 > [!info] Lähteiden ero
-> Ensihoito-oppaan alilämpöisyysohjeessa kammiovärinään annetaan yksi isku ja ellei verenkierto palaa, siirrytään kuljettamaan elvyttäen; ohjeessa mainitaan myös jatkuva painelu 60–80/min kuljetuksen aikana. Käypä hoito (Elvytys 2021) sallii kolme iskua ennen pidättäytymistä. Adrenaliinia koskeva ohje (ei alle 30 °C, yli 30 °C 6–10 min välein) on sama.
+> Ensihoito-oppaan alilämpöisyysohjeessa kammiovärinään annetaan yksi isku ja ellei verenkierto palaa, siirrytään kuljettamaan elvyttäen; ohjeessa mainitaan myös jatkuva painelu 60–80/min kuljetuksen aikana. Käypä hoito (Elvytys 2021) sallii kolme iskua ennen pidättäytymistä. [Adrenaliinia](topic:adrenaliini) koskeva ohje (ei alle 30 °C, yli 30 °C 6–10 min välein) on sama.
 
 ```media
 {"widget":"scene-card","id":"hypotermia","title":"Kohteessa: hypoterminen potilas","know":[

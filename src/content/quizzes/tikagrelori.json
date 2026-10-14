@@ -1,0 +1,63 @@
+[
+  {
+    "id": "tikagrelori-q1",
+    "type": "mcq",
+    "question": "Mikä on tikagrelorin latausannos?",
+    "options": [
+      "75 mg",
+      "180 mg suun kautta",
+      "600 mg",
+      "90 mg i.v."
+    ],
+    "correctIndex": 1,
+    "explanation": "Käypä hoito: tikagrelorin latausannos on 180 mg suun kautta, ja hoitoa jatketaan annoksella 90 mg kaksi kertaa päivässä."
+  },
+  {
+    "id": "tikagrelori-q2",
+    "type": "mcq",
+    "question": "Miten tikagrelori eroaa klopidogreelista?",
+    "options": [
+      "Vaikutus alkaa nopeammin, ja se estää infarkteja tehokkaammin, mutta aiheuttaa enemmän vuotoja vuotoriskipotilailla",
+      "Se ei vaikuta verihiutaleisiin lainkaan",
+      "Se annetaan vain laskimoon",
+      "Sen vaikutus kestää kuukausia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tikagrelorin vaikutus alkaa noin ½–2 tunnissa (klopidogreelin 3–6 tunnissa). Se on tehokkaampi, mutta aiheuttaa enemmän vuotoja vuotoriskissä olevilla."
+  },
+  {
+    "id": "tikagrelori-q3",
+    "type": "mcq",
+    "question": "Mitä tikagrelorilataus tarkoittaa mahdolliselle liuotushoidolle?",
+    "options": [
+      "Liuotushoito on silloin ensisijainen",
+      "Liuotushoitoa ei tule antaa kuin vitaali-indikaatiolla",
+      "Liuotuslääkkeen annos kaksinkertaistetaan",
+      "Sillä ei ole merkitystä"
+    ],
+    "correctIndex": 1,
+    "explanation": "Jos potilas on jo saanut prasugreeli- tai tikagrelorilatauksen, liuotushoitoa ei pidä antaa kuin vitaali-indikaatiolla (kardiogeeninen sokki)."
+  },
+  {
+    "id": "tikagrelori-q4",
+    "type": "truefalse",
+    "question": "Ensihoidossa ADP-reseptorin salpaajaa ei yleensä aloiteta ennen varjoainekuvausta.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Oikein. Poikkeuksena on PCI-kuljetukseen lähtevä ST-nousuinfarktipotilas kardiologin ohjeen mukaan."
+  },
+  {
+    "id": "tikagrelori-q5",
+    "type": "truefalse",
+    "question": "Yli 80-vuotiaalla tikagrelori on vuotoriskiltään turvallisempi kuin klopidogreeli.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Väärin. Rekisteritutkimuksessa klopidogreeli liittyi yli 80-vuotiailla vähäisempään vuotoriskiin ja kuolleisuuteen kuin tikagrelori."
+  }
+]

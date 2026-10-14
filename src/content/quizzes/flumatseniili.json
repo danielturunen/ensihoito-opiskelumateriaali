@@ -1,0 +1,76 @@
+[
+  {
+    "id": "flumatseniili-q1",
+    "type": "mcq",
+    "question": "Mihin flumatseniili vaikuttaa?",
+    "options": [
+      "Opioidireseptoreihin",
+      "Bentsodiatsepiinireseptoreihin kilpailevana vastavaikuttajana",
+      "Beetareseptoreihin",
+      "Asetyylikoliinireseptoreihin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Flumatseniili on bentsodiatsepiinireseptorien kilpaileva vastavaikuttaja, ja se kumoaa bentsodiatsepiinien vaikutuksen."
+  },
+  {
+    "id": "flumatseniili-q2",
+    "type": "mcq",
+    "question": "Missä tilanteessa flumatseniili on erityisen vaarallinen?",
+    "options": [
+      "Puhtaassa diatsepaamimyrkytyksessä",
+      "Midatsolaamisedaation kumoamisessa",
+      "Sekamyrkytyksessä, jossa potilas on ottanut myös trisyklisiä masennuslääkkeitä",
+      "Iäkkäällä potilaalla, jolla on korkea verenpaine"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sekamyrkytyksessä, erityisesti trisyklisten masennuslääkkeiden kanssa, flumatseniili voi laukaista vaikeahoitoisen kouristustilan."
+  },
+  {
+    "id": "flumatseniili-q3",
+    "type": "mcq",
+    "question": "Mikä on flumatseniilin annos bentsodiatsepiinimyrkytyksessä Ensihoito-oppaan mukaan?",
+    "options": [
+      "2–3 mg i.v. kerralla",
+      "0,2–0,3 mg i.v. tarvittaessa toistaen",
+      "10 mg i.m.",
+      "0,02 mg/kg suun kautta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ensihoito-opas: 0,2–0,3 mg i.v. tarvittaessa toistaen, jos on tiedossa, ettei myrkytyksen aiheuttajana ole muita lääkkeitä."
+  },
+  {
+    "id": "flumatseniili-q4",
+    "type": "truefalse",
+    "question": "Flumatseniili kumoaa myös midatsolaamin vaikutuksen.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Oikein. Midatsolaami on bentsodiatsepiini, joten flumatseniili kumoaa sen vaikutuksen. Sedaation kumoamiseen annetaan 0,2 mg, tarvittaessa enintään 1 mg i.v."
+  },
+  {
+    "id": "flumatseniili-q5",
+    "type": "truefalse",
+    "question": "Flumatseniilin haittavaikutukset johtuvat lähinnä sen hengitystä lamaavasta vaikutuksesta.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Väärin. Haitat johtuvat bentsodiatsepiinin vaikutuksen äkillisestä loppumisesta: levottomuus, takykardia, verenpaineen nousu ja kouristukset."
+  },
+  {
+    "id": "flumatseniili-q6",
+    "type": "mcq",
+    "question": "Kuinka nopeasti flumatseniilin vaikutus alkaa laskimoon annettuna?",
+    "options": [
+      "Noin 30–60 sekunnissa",
+      "Noin 10 minuutissa",
+      "Noin tunnissa",
+      "Vasta seuraavana päivänä"
+    ],
+    "correctIndex": 0,
+    "explanation": "Flumatseniilin vaikutus alkaa noin 30–60 sekunnissa."
+  }
+]

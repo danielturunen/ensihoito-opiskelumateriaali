@@ -1,0 +1,76 @@
+[
+  {
+    "id": "midatsolaami-q1",
+    "type": "mcq",
+    "question": "Mihin lääkeryhmään midatsolaami kuuluu?",
+    "options": [
+      "Opioidit",
+      "Bentsodiatsepiinit",
+      "Beetasalpaajat",
+      "Antihistamiinit"
+    ],
+    "correctIndex": 1,
+    "explanation": "Midatsolaami on nopeavaikutteinen bentsodiatsepiini, joka rauhoittaa, sedatoi ja estää kouristuksia."
+  },
+  {
+    "id": "midatsolaami-q2",
+    "type": "mcq",
+    "question": "Mikä on kouristelevan aikuisen midatsolaamin alkuannos Ensihoito-oppaan mukaan?",
+    "options": [
+      "1 mg i.v.",
+      "10 mg bukkaalisesti tai nenään",
+      "50 mg i.m.",
+      "0,1 mg/kg suun kautta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kouristelun alkuhoitona annetaan midatsolaamia limakalvolle: aikuiselle 10 mg bukkaalisesti tai nenään, jatkossa tarvittaessa 2,5–5 mg i.v."
+  },
+  {
+    "id": "midatsolaami-q3",
+    "type": "mcq",
+    "question": "Miten midatsolaamia annostellaan rytminsiirron sedaatioon?",
+    "options": [
+      "10 mg nopeana boluksena",
+      "1–2 mg i.v. vasteen mukaan, ja vastetta odotetaan 1–2 minuuttia ennen lisäannosta",
+      "0,5 mg/kg bukkaalisesti",
+      "Sedaatiota ei käytetä rytminsiirrossa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ensihoito-opas: midatsolaami 1–2 mg i.v. vasteen mukaan, odota vastetta 1–2 min. Sedaatio on riittävä, kun potilas muuttuu uneliaaksi."
+  },
+  {
+    "id": "midatsolaami-q4",
+    "type": "truefalse",
+    "question": "Midatsolaamin hengitystä lamaava vaikutus voimistuu, jos potilas on käyttänyt alkoholia tai opioideja.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Oikein. Bentsodiatsepiinien vaarallisuus kasvaa huomattavasti yhdessä muiden keskushermostoa lamaavien aineiden, erityisesti alkoholin, kanssa."
+  },
+  {
+    "id": "midatsolaami-q5",
+    "type": "truefalse",
+    "question": "Iäkkäälle kiihtyneelle potilaalle annetaan midatsolaamia suurempi annos kuin nuorelle.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Väärin. Ensihoito-oppaan mukaan iäkkäällä annosta pienennetään."
+  },
+  {
+    "id": "midatsolaami-q6",
+    "type": "mcq",
+    "question": "Mikä on midatsolaamin vaikutuksen kumoava vastalääke?",
+    "options": [
+      "Naloksoni",
+      "Flumatseniili",
+      "Atropiini",
+      "Glukagoni"
+    ],
+    "correctIndex": 1,
+    "explanation": "Flumatseniili on bentsodiatsepiinireseptorien vastavaikuttaja ja kumoaa midatsolaamin vaikutuksen. Sen käyttöön liittyy kouristusriski."
+  }
+]

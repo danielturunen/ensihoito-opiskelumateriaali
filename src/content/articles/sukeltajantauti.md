@@ -50,7 +50,7 @@ Sukeltajantautiin tunnetaan vain yksi varsinainen hoito: **rekompressio eli uude
 ```
 
 > [!info] Lääkkeistä ei ole lisähyötyä
-> Asetyylisalisyylihapon, hepariinin, kortisonin ja muiden lisähoitojen tehosta ei ole kiistatonta näyttöä. Järkevää on peruselintoimintojen tukeminen ja nesteytys.
+> [Asetyylisalisyylihapon](topic:asetyylisalisyylihappo), hepariinin, kortisonin ja muiden lisähoitojen tehosta ei ole kiistatonta näyttöä. Järkevää on peruselintoimintojen tukeminen ja nesteytys.
 
 Suomessa sukeltajantautitapauksia on noin 30 vuodessa, ja hoitotulokset ovat hyviä. Toistuva tai puutteellisesti hoidettu tauti voi johtaa keskushermostovaurioon, ja myöhäisoireena voi kuukausien kuluttua kehittyä luukuolio.
 

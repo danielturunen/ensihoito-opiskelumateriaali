@@ -1,0 +1,76 @@
+[
+  {
+    "id": "ipratropium-salbutamoli-q1",
+    "type": "mcq",
+    "question": "Miten salbutamoli avaa keuhkoputkia?",
+    "options": [
+      "Stimuloimalla beeta-2-reseptoreita, jolloin keuhkoputkien sileä lihas relaksoituu",
+      "Salpaamalla muskariinireseptoreita",
+      "Vähentämällä tulehdusta tuntien viiveellä",
+      "Supistamalla keuhkoputkien verisuonia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Salbutamoli on lyhytvaikutteinen beeta-2-agonisti. Ipratropium puolestaan salpaa muskariinireseptoreita."
+  },
+  {
+    "id": "ipratropium-salbutamoli-q2",
+    "type": "mcq",
+    "question": "Mikä on ipratropiumbromidin rooli yhdistelmässä?",
+    "options": [
+      "Se vaikuttaa nopeammin kuin salbutamoli",
+      "Se täydentää salbutamolin vaikutusta estämällä asetyylikoliinin aiheuttamaa keuhkoputkien supistumista",
+      "Se nostaa verenpainetta",
+      "Se on kortikosteroidi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ipratropium on antikolinergi: se estää parasympaattisen hermoston aiheuttamaa bronkokonstriktiota ja vähentää eritystä. Vaikutus alkaa hitaammin kuin salbutamolin."
+  },
+  {
+    "id": "ipratropium-salbutamoli-q3",
+    "type": "mcq",
+    "question": "Mikä on astmakohtauksen inhalaatioannos Ensihoito-oppaan mukaan?",
+    "options": [
+      "Salbutamoli 0,1 mg kerran",
+      "Salbutamoli + ipratropium 2,5 mg / 0,5 mg tai salbutamoli 5–10 mg, toistetaan 5–10 minuutin välein",
+      "Ipratropium 10 mg kerran tunnissa",
+      "Salbutamoli 50 mg i.v."
+    ],
+    "correctIndex": 1,
+    "explanation": "Ensihoito-opas: salbutamoli + ipratropium 2,5/0,5 mg tai salbutamoli 5–10 mg inhaloiden, toistetaan 5–10 minuutin välein, kunnes saadaan vaste tai ilmaantuu kammioarytmioita."
+  },
+  {
+    "id": "ipratropium-salbutamoli-q4",
+    "type": "mcq",
+    "question": "Mikä on salbutamolin tyypillinen haitta?",
+    "options": [
+      "Bradykardia",
+      "Vapina ja takykardia",
+      "Hypotermia",
+      "Hengityslama"
+    ],
+    "correctIndex": 1,
+    "explanation": "Beeta-2-agonistin haittoja ovat vapina, takykardia, sydämentykytys ja levottomuus."
+  },
+  {
+    "id": "ipratropium-salbutamoli-q5",
+    "type": "truefalse",
+    "question": "Salbutamoli on hyvä hoito sydänperäiseen keuhkopöhöön, koska keuhkoista kuuluu vinkunaa.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Väärin. Inhaloitava keuhkoputkia laajentava lääkitys on väärä hoito sydämen vajaatoiminnassa."
+  },
+  {
+    "id": "ipratropium-salbutamoli-q6",
+    "type": "truefalse",
+    "question": "Salbutamoli ei auta kurkunpään turvotukseen anafylaksiassa.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Oikein. Inhaloitava bronkodilataattori auttaa keuhkoputkien ahtautumiseen, mutta ei nielun tai kurkunpään tukokseen eikä hypotensioon."
+  }
+]

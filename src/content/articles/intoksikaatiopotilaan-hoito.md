@@ -55,7 +55,7 @@ Kun ainetta ei tiedetä, oireyhtymän tunnistaminen auttaa suuntaamaan hoitoa.
 
 ## Imeytymisen estäminen: lääkehiili
 
-Lääkehiili sitoo monia lääkeaineita suolistossa ja estää niiden imeytymistä. Se tehoaa parhaiten tunnin sisällä aineen nauttimisesta. Annostus aikuiselle on 50–100 g, lapselle 1 g/kg.
+[Lääkehiili](topic:laakehiili) sitoo monia lääkeaineita suolistossa ja estää niiden imeytymistä. Se tehoaa parhaiten tunnin sisällä aineen nauttimisesta. Annostus aikuiselle on 50–100 g, lapselle 1 g/kg.
 
 Lääkehiili **ei tehoa** alkoholeihin, metalleihin (rauta, litium), syanidiin eikä happoihin tai emäksiin. Sitä ei anneta, jos tajunta on alentunut eikä ilmatietä ole varmistettu (aspiraatioriski), eikä syövyttävän aineen nielemisen jälkeen – se peittäisi tähystysnäkymän ja ei suojaa limakalvovauriolta.
 
@@ -84,7 +84,7 @@ Lääkehiili **ei tehoa** alkoholeihin, metalleihin (rauta, litium), syanidiin e
 ```
 
 > [!danger] Henkeä uhkaava
-> Flumatseniilin käyttö sekamyrkytyksessä, erityisesti yhdessä trisyklisten masennuslääkkeiden kanssa, voi laukaista vaikeahoitoisen kouristustilan. Siksi antidoottia käytetään ensihoidossa vain harvoin ja harkitusti.
+> [Flumatseniilin](topic:flumatseniili) käyttö sekamyrkytyksessä, erityisesti yhdessä trisyklisten masennuslääkkeiden kanssa, voi laukaista vaikeahoitoisen kouristustilan. Siksi antidoottia käytetään ensihoidossa vain harvoin ja harkitusti.
 
 ## Erityistilanteita
 
@@ -143,4 +143,4 @@ Vasta-aineella herätetty voi mennä uudelleen tajuttomaksi – annoksia voidaan
 - Pulssioksimetri ei paljasta häkä- tai syanidimyrkytystä.
 - Mittaa verensokeri kaikilta tajunnaltaan poikkeavilta myrkytyspotilailta.
 - Lääkehiili ei tehoa alkoholeihin, metalleihin, happoihin, emäksiin tai syanidiin.
-- Naloksonin ja flumatseniilin käyttöön liittyy aina uusiutumis- tai kouristusriski – potilas kuljetetaan sairaalaan antidootin annon jälkeenkin.
+- [Naloksonin](topic:naloksoni) ja flumatseniilin käyttöön liittyy aina uusiutumis- tai kouristusriski – potilas kuljetetaan sairaalaan antidootin annon jälkeenkin.

@@ -123,7 +123,7 @@ Monivammautuneeksi katsotaan potilas, jolla on merkittävä vamma vähintään k
 {"widget":"death-triad"}
 ```
 
-Käytännössä tämä tarkoittaa, että vuotavalla potilaalla, jolla ei ole aivovammaa, tavoitellaan vain riittävää ("sallittua" eli permissiivistä) verenpainetta – rannesyke tunnettavissa riittää – kun taas aivovamma- ja selkäydinvammapotilaalla pyritään korkeampaan verenpaineeseen riittävän aivo- ja selkäydinverenkierron turvaamiseksi. Traneksaamihappo annetaan mahdollisimman pian, kun epäillään merkittävää verenvuotoa. Lähteiden verenpainetavoitteet rinnakkain: [massiivinen verenvuoto](topic:massiivinen-verenvuoto).
+Käytännössä tämä tarkoittaa, että vuotavalla potilaalla, jolla ei ole aivovammaa, tavoitellaan vain riittävää ("sallittua" eli permissiivistä) verenpainetta – rannesyke tunnettavissa riittää – kun taas aivovamma- ja selkäydinvammapotilaalla pyritään korkeampaan verenpaineeseen riittävän aivo- ja selkäydinverenkierron turvaamiseksi. [Traneksaamihappo](topic:traneksaamihappo) annetaan mahdollisimman pian, kun epäillään merkittävää verenvuotoa. Lähteiden verenpainetavoitteet rinnakkain: [massiivinen verenvuoto](topic:massiivinen-verenvuoto).
 
 ## Luovutus sairaalan traumatiimille (ETC)
 

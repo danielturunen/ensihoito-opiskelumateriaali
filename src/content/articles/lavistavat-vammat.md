@@ -41,7 +41,7 @@ Systemaattinen tutkimisjärjestys (cABCDE, RTA) on kuvattu sivulla [Traumapotila
 
 **Hengitystie ja hengitys.** Tavoitteena on SpO₂ > 94 % ja EtCO₂ 4,0–4,5 kPa. Rintakehän vammassa paineilmarinta hoidetaan torakosenteesilla, ja epäiltäessä sydäntamponaatiota kuljetus ja ennakkoilmoitus hoitopaikkaan on erityisen tärkeää.
 
-**Verenkierto.** Verenpainetavoite on rannesyke tunnettavissa tai SAP > 80 mmHg, aivovammaepäilyssä SAP > 120 mmHg. Runsaan vuodon epäilyssä annetaan traneksaamihappoa 1 g suonensisäisesti, ja verituotteiden käytöstä päättää ensihoitolääkäri.
+**Verenkierto.** Verenpainetavoite on rannesyke tunnettavissa tai SAP > 80 mmHg, aivovammaepäilyssä SAP > 120 mmHg. Runsaan vuodon epäilyssä annetaan [traneksaamihappoa](topic:traneksaamihappo) 1 g suonensisäisesti, ja verituotteiden käytöstä päättää ensihoitolääkäri.
 
 > [!danger] Älä poista lävistävää esinettä
 > Kehoon lävistänyttä ja kiinni olevaa esinettä ei pääsääntöisesti poisteta kentällä, eikä vammaa sondeerata eli tutkita sormin tai välineillä sen syvyyden selvittämiseksi. Esine voi tamponoida verisuonta – sen poistaminen ennen leikkaussalia voi laukaista hallitsemattoman verenvuodon. Esine tuetaan paikalleen kuljetuksen ajaksi.

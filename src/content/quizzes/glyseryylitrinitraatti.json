@@ -1,0 +1,76 @@
+[
+  {
+    "id": "glyseryylitrinitraatti-q1",
+    "type": "mcq",
+    "question": "Mikä on glyseryylitrinitraatin päävaikutus pienillä annoksilla?",
+    "options": [
+      "Valtimoiden supistuminen",
+      "Laskimoiden laajeneminen, jolloin sydämen esikuorma pienenee",
+      "Sykkeen hidastuminen",
+      "Verihiutaleiden toiminnan esto"
+    ],
+    "correctIndex": 1,
+    "explanation": "Glyseryylitrinitraatti laajentaa ensisijaisesti laskimoita: laskimopaluu hidastuu, sydämen täyttöaste pienenee ja työmäärä vähenee. Suurilla annoksilla myös valtimot laajenevat."
+  },
+  {
+    "id": "glyseryylitrinitraatti-q2",
+    "type": "mcq",
+    "question": "Millä edellytyksellä rintakipupotilaalle annetaan nitraattia Käypä hoidon mukaan?",
+    "options": [
+      "Aina, verenpaineesta riippumatta",
+      "Jos systolinen verenpaine on vähintään 100 mmHg",
+      "Vain jos syke on alle 50/min",
+      "Vain sairaalassa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Käypä hoito: 2 annosta, jos systolinen verenpaine on vähintään 100 mmHg; lisäannoksia 5 minuutin välein."
+  },
+  {
+    "id": "glyseryylitrinitraatti-q3",
+    "type": "mcq",
+    "question": "Missä tilanteessa nitraatti voi romahduttaa verenpaineen erityisen helposti?",
+    "options": [
+      "Vasemman kammion korkeapainepöhössä",
+      "Oikean kammion infarktissa",
+      "Stabiilissa angina pectoriksessa",
+      "Hypertensiivisessä kriisissä"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oikean kammion infarktissa sydän on riippuvainen täyttöpaineesta. Alaseinän ST-nousuinfarktissa rekisteröidään V4R ennen nitraattia."
+  },
+  {
+    "id": "glyseryylitrinitraatti-q4",
+    "type": "truefalse",
+    "question": "Nitraatin tehoaminen rintakipuun ei todista eikä sulje pois sydäninfarktia.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Oikein. Nitraatin vaste ei ole diagnostinen testi."
+  },
+  {
+    "id": "glyseryylitrinitraatti-q5",
+    "type": "truefalse",
+    "question": "Nitraatin on osoitettu parantavan sepelvaltimotautikohtauksen ennustetta.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Väärin. Käypä hoidon mukaan nitraatti hillitsee rintakipua ja iskemiaa, mutta sen ennustetta parantavasta vaikutuksesta ei ole näyttöä."
+  },
+  {
+    "id": "glyseryylitrinitraatti-q6",
+    "type": "mcq",
+    "question": "Mikä EI kuulu glyseryylitrinitraatin tyypillisiin haittoihin?",
+    "options": [
+      "Hypotensio",
+      "Päänsärky",
+      "Kompensatorinen takykardia",
+      "Hyperglykemia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nitraatin tyypillisiä haittoja ovat hypotensio, päänsärky ja kompensatorinen takykardia."
+  }
+]

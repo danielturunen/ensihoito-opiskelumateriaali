@@ -1,0 +1,9 @@
+[
+  {"id": "morfiini-f1", "front": "Morfiinin luonne", "back": "Pitkävaikutteinen euforisoiva opioidi – ei poista kipua kokonaan vaan muuttaa sen vähemmän epämiellyttäväksi."},
+  {"id": "morfiini-f2", "front": "Morfiinin annos aikuiselle (Ensihoito-opas)", "back": "2–4 mg i.v. tarvittaessa toistetusti vasteen mukaan; yli 70-vuotiaalle harkitse pienempää."},
+  {"id": "morfiini-f3", "front": "Morfiini sepelvaltimotautikohtauksessa (Käypä hoito)", "back": "Aloitus 4 mg i.v., jatkossa 2–4 mg i.v. 5 minuutin välein; vältä rutiinikäyttöä."},
+  {"id": "morfiini-f4", "front": "Morfiini lapselle", "back": "Tarvittaessa 0,1 mg/kg; voidaan antaa myös i.m. (isompi annos, hitaampi alku, pidempi kesto)."},
+  {"id": "morfiini-f5", "front": "Milloin yhteys ensihoitolääkäriin?", "back": "Aikuisen tarve yli 10 mg oksikodonia tai morfiinia, lapsen yli 0,3 mg/kg."},
+  {"id": "morfiini-f6", "front": "Morfiinin varoitukset", "back": "Sappitieperäinen kipu (sappitiehyeiden kouristus), pään vamma, hypotensio, AKS (heikentää suun kautta otettujen verihiutale-estäjien tehoa)."},
+  {"id": "morfiini-f7", "front": "Morfiinin haitat", "back": "Hengityslama, pahoinvointi, histamiinin vapautuminen (bronkospasmi, hypotensio), sappitiehyeiden kouristus; vastalääke naloksoni."}
+]

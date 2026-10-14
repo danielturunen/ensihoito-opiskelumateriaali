@@ -32,7 +32,7 @@ Kotiin voi jäädä vain, jos potilas pääsi itse ylös, elintoiminnot ovat nor
 - **Elottoman elvytys aloitetaan välittömästi** – sydän voi mennä suoraan asystoleen, ja ennuste on silti hyvä. Elvytys tehdään tavalliseen tapaan.
 - **Hengityspysähdys** on mahdollinen ilman sydänpysähdystä – tue hengitystä palkeella.
 - Lääkäriyksikkö intuboi, jos GCS on alle 8, hengitysvajaus on vaikea, kasvoissa tai hengitysteissä on palovammoja tai aspiraatioriski on suuri.
-- Hypotensiossa noradrenaliini, hypertensiossa labetaloli; kouristelu hoidetaan tavalliseen tapaan.
+- Hypotensiossa [noradrenaliini](topic:noradrenaliini), hypertensiossa labetaloli; kouristelu hoidetaan tavalliseen tapaan.
 - **Korkea jännite voi aiheuttaa suuret sisäiset vammat**, vaikka ulkoiset palovammat olisivat pienet – ensisijainen huomio elintoimintojen häiriöihin. Katso [palovamma](topic:palovamma).
 
 ```media

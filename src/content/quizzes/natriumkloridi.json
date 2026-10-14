@@ -1,0 +1,76 @@
+[
+  {
+    "id": "natriumkloridi-q1",
+    "type": "mcq",
+    "question": "Millainen liuos natriumkloridi 0,9 % on?",
+    "options": [
+      "Isotoninen kristalloidi eli fysiologinen keittosuolaliuos",
+      "Hypotoninen liuos",
+      "Kolloidi",
+      "Hypertoninen liuos"
+    ],
+    "correctIndex": 0,
+    "explanation": "NaCl 0,9 % on isotoninen kristalloidi, jonka natriumpitoisuus vastaa elimistön nesteitä."
+  },
+  {
+    "id": "natriumkloridi-q2",
+    "type": "mcq",
+    "question": "Miksi hyperkalemiapotilaalle valitaan mieluummin NaCl 0,9 % kuin Ringer?",
+    "options": [
+      "NaCl nostaa kaliumia nopeammin",
+      "Ringerin liuoksessa on kaliumia",
+      "Ringer on hypotoninen",
+      "NaCl sisältää insuliinia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Elektrolyyttihäiriöiden opetusmateriaalin mukaan hyperkalemiassa käytetään NaCl 0,9 %:a, koska Ringerissä on kaliumia."
+  },
+  {
+    "id": "natriumkloridi-q3",
+    "type": "mcq",
+    "question": "Mikä on lapsen sokin nestehoidon alkuannos?",
+    "options": [
+      "2 ml/kg",
+      "20 ml/kg Ringeriä tai 0,9-prosenttista keittosuolaa",
+      "100 ml/kg",
+      "500 ml kaiken ikäisille"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sokin nestehoidon alkuannos on 20 ml/kg isotonista nestettä, ja annos voidaan toistaa sokin oireita seuraten."
+  },
+  {
+    "id": "natriumkloridi-q4",
+    "type": "truefalse",
+    "question": "Aivovammapotilaalle sopii hyvin hypotoninen 0,45-prosenttinen keittosuola.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Väärin. Hypotoniset nesteet voivat aiheuttaa hyponatremiaa ja pahentaa aivoturvotusta. Aivovammassa käytetään isotonisia nesteitä."
+  },
+  {
+    "id": "natriumkloridi-q5",
+    "type": "truefalse",
+    "question": "Amiodaronia ei laimenneta keittosuolaliuokseen.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Oikein. Amiodaroni laimennetaan glukoosiliuokseen, ei keittosuolaan."
+  },
+  {
+    "id": "natriumkloridi-q6",
+    "type": "mcq",
+    "question": "Mikä on keittosuolaliuoksen haitta suurina määrinä?",
+    "options": [
+      "Hypoglykemia",
+      "Hyperkloreeminen asidoosi ja hyytymistekijöiden laimeneminen",
+      "Hyperkalemia",
+      "Bradykardia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Suurina määrinä keittosuola altistaa hyperkloreemiselle asidoosille, ja kaikki kristalloidit laimentavat hyytymistekijöitä vuotavalla potilaalla."
+  }
+]

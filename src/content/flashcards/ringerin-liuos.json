@@ -1,0 +1,9 @@
+[
+  {"id": "ringerin-liuos-f1", "front": "Ringerin liuos", "back": "Isotoninen kristalloidi – ensihoidon yleisin nesteytysliuos, myös i.o."},
+  {"id": "ringerin-liuos-f2", "front": "Ringer aikuisen hypotensiossa", "back": "300–500 ml erissä, vaste arvioidaan jokaisen erän jälkeen."},
+  {"id": "ringerin-liuos-f3", "front": "Ringer sepsiksessä", "back": "20 ml/kg nopeasti; jos 1 000–2 000 ml ei auta → noradrenaliini."},
+  {"id": "ringerin-liuos-f4", "front": "Ringer palovammassa", "back": "Ringer-tyyppinen liuos; laajassa vammassa aikuisella aloitus esim. 1 000 ml/t."},
+  {"id": "ringerin-liuos-f5", "front": "Ringer ja hyperkalemia", "back": "Ringerissä on kaliumia – valitse NaCl 0,9 %."},
+  {"id": "ringerin-liuos-f6", "front": "Kristalloidit vuotavalla potilaalla", "back": "Eivät kuljeta happea eivätkä hyytymistekijöitä; liika laimentaa hyytymistekijöitä – maltillisesti, verituotteet ensin."},
+  {"id": "ringerin-liuos-f7", "front": "Ringer oikean kammion infarktissa", "back": "Neste on hoidon perusta – nitraatti on vasta-aiheinen."}
+]

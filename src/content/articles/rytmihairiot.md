@@ -11,7 +11,7 @@ Normaalisti sinussolmuke tahdistaa sydäntä nopeimmin, ja sitä alemmat tahdist
 Valtaosa ensihoidossa kohdattavista rytmihäiriöistä syntyy kiertoaktivaatiolla (re-entry): sähköinen impulssi jää "pyörimään ympyrää" jonkin sydämen alueen sisällä, kunhan kierroksen kesto on pidempi kuin solujen palautumisaika (refraktaariaika). Kiertoaktivaatio voi olla anatominen (esim. WPW-oireyhtymän oikorata, eteislepatus trikuspidaaliläpän ympärillä) tai toiminnallinen, jolloin selkeää anatomista kiertoreittiä ei ole vaan sydänlihaksen alueet johtavat impulssia eri nopeudella – esimerkiksi iskeemisen alueen reunalla [akuutin sepelvaltimotautikohtauksen](topic:rintakipu-ja-aks) yhteydessä.
 
 > [!tip] Kiertoaktivaation hoito
-> Kiertoaktivaatio katkaistaan joko pysäyttämällä johtuminen eteis-kammiosolmukkeessa (adenosiini, defibrillaatio) tai pidentämällä solujen refraktaariaikaa lääkkeellä, kuten [amiodaroni](topic:amiodaroni).
+> Kiertoaktivaatio katkaistaan joko pysäyttämällä johtuminen eteis-kammiosolmukkeessa ([adenosiini](topic:adenosiini), defibrillaatio) tai pidentämällä solujen refraktaariaikaa lääkkeellä, kuten [amiodaroni](topic:amiodaroni).
 
 ```media
 {"widget":"conduction","caption":"Seuraa impulssin kulkua ja vertaa normaalia johtumista kiertoaktivaatioon ja aberraatioon."}

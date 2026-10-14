@@ -79,7 +79,7 @@ Jos verenpaine ei korjaannu nestehoidolla, voidaan aloittaa noradrenaliini-infuu
 
 ## Kivunhoito
 
-Kivunhoito aloitetaan, kun kipu (VAS) on yli 4. Alkuvaiheessa kivuliaimpia ovat **pinnalliset** palovammat, joissa hermopäätteet ovat vaurioituneet mutta eivät tuhoutuneet; syvissä vammoissa hermopäätteet ovat tuhoutuneet, ja vaikeimmin palaneet ovat usein yllättävän kivuttomia. Palovammakipu ei poistu nopeasti, joten lyhytvaikutteisista opioideista on vähän hyötyä – oksikodoni ja fentanyyli suonensisäisesti sopivat parhaiten.
+Kivunhoito aloitetaan, kun kipu (VAS) on yli 4. Alkuvaiheessa kivuliaimpia ovat **pinnalliset** palovammat, joissa hermopäätteet ovat vaurioituneet mutta eivät tuhoutuneet; syvissä vammoissa hermopäätteet ovat tuhoutuneet, ja vaikeimmin palaneet ovat usein yllättävän kivuttomia. Palovammakipu ei poistu nopeasti, joten lyhytvaikutteisista opioideista on vähän hyötyä – oksikodoni ja [fentanyyli](topic:fentanyyli) suonensisäisesti sopivat parhaiten.
 
 | Antotapa | Lääke ja annos |
 |---|---|

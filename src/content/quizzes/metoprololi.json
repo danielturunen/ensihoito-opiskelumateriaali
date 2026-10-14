@@ -1,0 +1,76 @@
+[
+  {
+    "id": "metoprololi-q1",
+    "type": "mcq",
+    "question": "Miten metoprololi vähentää sydämen hapenkulutusta?",
+    "options": [
+      "Laajentamalla laskimoita",
+      "Salpaamalla beeta1-reseptoreita, jolloin syke ja supistuvuus vähenevät",
+      "Lisäämällä sydämen supistusvoimaa",
+      "Estämällä verihiutaleiden toimintaa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Metoprololi on selektiivinen beeta1-salpaaja: sinussolmukkeen aktiivisuus ja eteis-kammiojohtuminen vähenevät, syke hidastuu ja supistuvuus vähenee."
+  },
+  {
+    "id": "metoprololi-q2",
+    "type": "mcq",
+    "question": "Mikä on metoprololin kerta-annos Ensihoito-oppaan mukaan?",
+    "options": [
+      "50 mg i.v.",
+      "1–2 mg i.v. kerta-annoksina",
+      "0,1 mg/kg i.m.",
+      "100 mg suun kautta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ensihoito-opas: metoprololi 1–2 mg kerta-annoksina i.v."
+  },
+  {
+    "id": "metoprololi-q3",
+    "type": "mcq",
+    "question": "Kenelle AKS-potilaalle metoprololi sopii?",
+    "options": [
+      "Hypotensiiviselle, bradykardiselle potilaalle",
+      "Takykardiselle potilaalle, jonka verenpaine on normaali tai korkea nitraatin ja kivunhoidon jälkeen",
+      "Kardiogeenisessa sokissa olevalle",
+      "Kaikille rutiinisti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Beetasalpausta käytetään hyperdynaamiselle potilaalle, jolla on merkittävä takykardia ja normo- tai hypertensio. Rutiinimainen beetasalpaus ei paranna ennustetta."
+  },
+  {
+    "id": "metoprololi-q4",
+    "type": "truefalse",
+    "question": "Kardiogeenisessa sokissa metoprololi on hyvä keino hidastaa nopeaa sykettä.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Väärin. Kardiogeenisessa sokissa nopea syke voi olla viimeinen keino ylläpitää verenpainetta, ja beetasalpaus voi romahduttaa sen."
+  },
+  {
+    "id": "metoprololi-q5",
+    "type": "truefalse",
+    "question": "Oireetonta eteisvärinää ei pyritä rutiinisti hidastamaan hoitolaitoksen ulkopuolella.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Oikein. Ensihoito-oppaan mukaan nopeaa eteisvärinää hidastetaan, jos se aiheuttaa iskemiaa, rintakipua tai vajaatoiminnan hengenahdistusta."
+  },
+  {
+    "id": "metoprololi-q6",
+    "type": "mcq",
+    "question": "Millä lääkkeellä hoidetaan vaikeaa beetasalpaajamyrkytystä, kun atropiini ja nesteet eivät auta?",
+    "options": [
+      "Naloksonilla",
+      "Flumatseniililla",
+      "Glukagonilla lääkärin konsultaation perusteella",
+      "Lääkehiilellä laskimoon"
+    ],
+    "correctIndex": 2,
+    "explanation": "Vaikeassa beetasalpaajamyrkytyksessä voidaan antaa glukagonia lääkärin konsultaation perusteella."
+  }
+]

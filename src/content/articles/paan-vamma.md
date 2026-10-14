@@ -84,7 +84,7 @@ Laskimopaluu aivoista turvataan pitämällä potilaan pää suorassa ja varmista
 
 ## Lääkehoito
 
-Traneksaamihappoa 1 g suonensisäisesti voidaan antaa aikuisen vaikeassa aivovammassa ensihoitolääkärin konsultaation perusteella. Riittävä kivunhoito (VAS > 4) ja sedaatio reuhtovalle potilaalle ovat osa kallonsisäisen paineen hallintaa, sillä kipu ja levottomuus nostavat verenpainetta ja ahdistavat potilasta.
+[Traneksaamihappoa](topic:traneksaamihappo) 1 g suonensisäisesti voidaan antaa aikuisen vaikeassa aivovammassa ensihoitolääkärin konsultaation perusteella. Riittävä kivunhoito (VAS > 4) ja sedaatio reuhtovalle potilaalle ovat osa kallonsisäisen paineen hallintaa, sillä kipu ja levottomuus nostavat verenpainetta ja ahdistavat potilasta.
 
 | Lääke | Annos (i.v.) |
 |---|---|

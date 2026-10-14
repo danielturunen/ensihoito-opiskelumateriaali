@@ -93,7 +93,7 @@ DKA syntyy, kun insuliinia ei ole käytännössä lainkaan. Solut eivät pääse
 2. **Insuliini** annetaan vain alueellisen hoito-ohjeen ja lääkärikonsultaation mukaan – ei ihon alle sokkipotilaalle, koska imeytyminen on epävarmaa.
 3. **Elektrolyyttien korjaus** (erityisesti kalium) tehdään sairaalassa.
 
-Natriumbikarbonaattia käytetään ensihoidossa vain harvoin ja varoen – ainoastaan erittäin vaikeassa asidoosissa tai hengenvaarallisissa rytmihäiriöissä, koska se lisää hiilidioksidikuormaa ja hengitystyötä.
+[Natriumbikarbonaattia](topic:natriumbikarbonaatti) käytetään ensihoidossa vain harvoin ja varoen – ainoastaan erittäin vaikeassa asidoosissa tai hengenvaarallisissa rytmihäiriöissä, koska se lisää hiilidioksidikuormaa ja hengitystyötä.
 
 ## Hyperosmolaarinen hyperglykeeminen tila (HHS)
 
@@ -117,7 +117,7 @@ Muista myös, että alkoholi voi aiheuttaa tai pahentaa hypoglykemiaa estämäll
 
 ## Ensihoito-oppaan hoito-ohje: hypoglykemia
 
-Tajuton tai yhteistyökyvytön: **G10 100–200 ml nopeana infuusiona** (lapsi 1–2 ml/kg); jos suoni- tai luuydinyhteys ei onnistu, glukagoni 1 mg i.m. (alle kouluikäinen 0,5 mg). Herännyt potilas saa mehua tai maitoa ja hitaasti imeytyvää hiilihydraattia. Jos tajunta ei palaa, vaikka verensokeri on korjautunut, etsi muu syy (Lund, Ensihoito-opas 2023).
+Tajuton tai yhteistyökyvytön: **[G10](topic:glukoosi-g10) 100–200 ml nopeana infuusiona** (lapsi 1–2 ml/kg); jos suoni- tai luuydinyhteys ei onnistu, glukagoni 1 mg i.m. (alle kouluikäinen 0,5 mg). Herännyt potilas saa mehua tai maitoa ja hitaasti imeytyvää hiilihydraattia. Jos tajunta ei palaa, vaikka verensokeri on korjautunut, etsi muu syy (Lund, Ensihoito-opas 2023).
 
 **Kotiin voi jäädä vain, jos kaikki täyttyvät**: tyypin 1 diabetes, hypoglykemialle on järkevä selitys, potilas ei ole päihtynyt, on orientoitunut ja asiallinen ja hänellä on aikuista seuraa, hän on syönyt ja verensokeri pysyy normaalina – ja lääkäriä on konsultoitu. **Lapsi kuljetetaan aina**, samoin jos hypoglykemialle on muu syy.
 

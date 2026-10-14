@@ -42,9 +42,9 @@ Arvioinnin lähtökohta on **potilaan oma kokemus**: voimakkuus, kesto, laatu ja
 {"widget":"analgesia","caption":"Säädä kivun voimakkuutta ja potilaan tilaa – katso, miten Ensihoito-oppaan periaatteet ohjaavat valintaa. Annokset tarkistetaan aina oman alueen hoito-ohjeesta."}
 ```
 
-- **Kovan kivun ensihoidon perusta ovat opioidit.** Pitkävaikutteiset opioidit (morfiini, oksikodoni) sopivat peruselintoiminnoiltaan vakaille potilaille.
+- **Kovan kivun ensihoidon perusta ovat opioidit.** Pitkävaikutteiset opioidit ([morfiini](topic:morfiini), oksikodoni) sopivat peruselintoiminnoiltaan vakaille potilaille.
 - **Lyhytvaikutteista opioidia** käytetään esimerkiksi lievästi tajunnaltaan alentuneelle, jotta tajunnan tason arviointi onnistuu jatkohoidossa. Sitä voidaan antaa myös **intranasaalisesti**.
-- **Vaikeassa verenkiertovajauksessa** voidaan harkita **esketamiinia**, mutta sen poikkeava vaikutus on tunnettava tarkoin.
+- **Vaikeassa verenkiertovajauksessa** voidaan harkita **[esketamiinia](topic:s-ketamiini)**, mutta sen poikkeava vaikutus on tunnettava tarkoin.
 - **Lievässä kivussa** (alle 4) voi harkita parasetamolia, erityisesti jos potilaalla on myös kuumetta.
 - Opioidin aiheuttamaa pahoinvointia hoidetaan tarvittaessa lääkkeellisesti, esim. [ondansetronilla](topic:ondansetroni).
 - **Raajavammoissa hyvä tukeminen** vähentää kipua ja samalla opioidien tarvetta. Käypä hoidossa lääkkeettömät hoidot ovat pitkäaikaisen kivun hoidon perusta (mm. liikunta, kylmä- ja lämpöhoito, TENS).

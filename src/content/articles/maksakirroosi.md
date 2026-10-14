@@ -62,8 +62,8 @@ Tavallisia laukaisijoita ovat **alkoholi, keskushermostoon vaikuttavat lääkkee
 ## Lääkkeet kirroosipotilaalla
 
 - Kompensoidussa kirroosissa (Child–Pugh A ilman portahypertensiota) lähes kaikkia lääkkeitä voidaan käyttää normaalein annoksin.
-- Kipulääkkeiden, opioidien ja rauhoittavien annosta pienennetään varovaisuusperiaatteella. **Kodeiinia vältetään**; morfiinin ja oksikodonin annosta pienennetään tai annosväliä pidennetään. Dekompensoidussa kirroosissa **opioidit ja muut rauhoittavat lisäävät enkefalopatian riskiä**.
-- Tulehduskipulääkkeet ja ASA lisäävät vuotoriskiä, jos potilaalla on suonikohjuja, ja dekompensoidussa kirroosissa lääkkeisiin liittyy suurentunut munuaisten vajaatoiminnan riski.
+- Kipulääkkeiden, opioidien ja rauhoittavien annosta pienennetään varovaisuusperiaatteella. **Kodeiinia vältetään**; [morfiinin](topic:morfiini) ja oksikodonin annosta pienennetään tai annosväliä pidennetään. Dekompensoidussa kirroosissa **opioidit ja muut rauhoittavat lisäävät enkefalopatian riskiä**.
+- Tulehduskipulääkkeet ja [ASA](topic:asetyylisalisyylihappo) lisäävät vuotoriskiä, jos potilaalla on suonikohjuja, ja dekompensoidussa kirroosissa lääkkeisiin liittyy suurentunut munuaisten vajaatoiminnan riski.
 - Metformiini tauotetaan maitohappoasidoosin riskin vuoksi sairaalahoitoon johtaneissa akuuteissa tilanteissa.
 
 Kirroosin vaikeusaste ilmaistaan **Child–Pugh-luokkana** (A 5–6, B 7–9, C 10–15 pistettä), joka lasketaan bilirubiinista, albumiinista, INR:stä, askiteksesta ja enkefalopatiasta. Pitkälle edenneessä kirroosissa laaditaan ennakoiva hoitosuunnitelma ja palliatiivinen hoito integroidaan tautispesifisen hoidon rinnalle – selvitä mahdollinen hoitolinjaus kohteessa.

@@ -1,0 +1,76 @@
+[
+  {
+    "id": "noradrenaliini-q1",
+    "type": "mcq",
+    "question": "Mihin noradrenaliinin vaikutus perustuu pääasiassa?",
+    "options": [
+      "Beetareseptorien kautta sykkeen nopeutumiseen",
+      "Alfareseptorien kautta verisuonten supistumiseen",
+      "Kolinergisten reseptorien salpaukseen",
+      "Nestetilavuuden lisäämiseen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Noradrenaliinin vaikutus perustuu ensisijaisesti alfareseptoreihin: se supistaa verisuonia ja suurentaa verenkierron vastusta. Beetavaikutusta on jonkin verran."
+  },
+  {
+    "id": "noradrenaliini-q2",
+    "type": "mcq",
+    "question": "Missä muodossa noradrenaliinia annetaan ensihoidossa?",
+    "options": [
+      "Lihakseen kerta-annoksena",
+      "Jatkuvana laskimoinfuusiona (0,04–0,05 mg/ml), annos nostetaan vasteen mukaan",
+      "Suun kautta",
+      "Inhalaationa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ensihoito-opas: noradrenaliini-infuusio 0,04–0,05 mg/ml, aloitus esimerkiksi 2–5 ml/t tai sokissa 5–10 ml/t, nosto vasteen mukaan."
+  },
+  {
+    "id": "noradrenaliini-q3",
+    "type": "mcq",
+    "question": "Mikä on noradrenaliinin tyypillinen käyttöaihe?",
+    "options": [
+      "Lievä allerginen reaktio",
+      "Nestehoidolle reagoimaton hypotensio, esimerkiksi septinen sokki",
+      "Hypertensiivinen kriisi",
+      "Sinustakykardia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Noradrenaliini aloitetaan, kun nesteytys ei korjaa hypotensiota, esimerkiksi septisessä tai kardiogeenisessa sokissa."
+  },
+  {
+    "id": "noradrenaliini-q4",
+    "type": "truefalse",
+    "question": "Noradrenaliini korvaa adrenaliinin vaikeassa anafylaksiassa.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Väärin. Noradrenaliini ei korvaa adrenaliinia. Se voidaan aloittaa vaikeassa hypotensiossa ilman keuhkoputkien ahtautumista, jos verenpaine pysyy matalana adrenaliinista huolimatta."
+  },
+  {
+    "id": "noradrenaliini-q5",
+    "type": "truefalse",
+    "question": "Noradrenaliinin haitat, kuten liiallinen verisuonten supistuminen ja rytmihäiriöt, korostuvat suurilla annoksilla.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Oikein. Noradrenaliinin haitat korostuvat suurilla annoksilla."
+  },
+  {
+    "id": "noradrenaliini-q6",
+    "type": "mcq",
+    "question": "Mitä vuotosokissa olevalle vammapotilaalle tehdään ensin?",
+    "options": [
+      "Aloitetaan suuri noradrenaliiniannos",
+      "Tyrehdytetään vuoto ja annetaan verituotteita – noradrenaliini ei korvaa verta",
+      "Annetaan pelkkää kirkasta nestettä niin paljon kuin mahdollista",
+      "Odotetaan, että verenpaine nousee itsestään"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vuotosokissa ensisijaista on vuodon tyrehdyttäminen ja verituotteet. Vasopressori ei korvaa menetettyä verta."
+  }
+]

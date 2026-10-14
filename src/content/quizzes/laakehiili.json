@@ -1,0 +1,76 @@
+[
+  {
+    "id": "laakehiili-q1",
+    "type": "mcq",
+    "question": "Miten lääkehiili vaikuttaa myrkytyksessä?",
+    "options": [
+      "Se kumoaa jo imeytyneen myrkyn vaikutuksen reseptoritasolla",
+      "Se sitoo lääkeaineita ja myrkkyjä ruoansulatuskanavassa ja estää niiden imeytymistä",
+      "Se nopeuttaa myrkyn poistumista munuaisten kautta",
+      "Se aiheuttaa oksentelun"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lääkehiili on imeytymisen esto: se sitoo monia lääkeaineita ja myrkkyjä suolistossa, mutta ei vaikuta jo imeytyneeseen aineeseen."
+  },
+  {
+    "id": "laakehiili-q2",
+    "type": "mcq",
+    "question": "Mikä on lääkehiilen kerta-annos aikuiselle?",
+    "options": [
+      "1–2 g",
+      "10 g",
+      "50–100 g",
+      "1 g/kg enintään 20 g"
+    ],
+    "correctIndex": 2,
+    "explanation": "Aikuisen kerta-annos on 50–100 g, lapsen 1 g/kg."
+  },
+  {
+    "id": "laakehiili-q3",
+    "type": "mcq",
+    "question": "Mihin myrkytykseen lääkehiili EI tehoa?",
+    "options": [
+      "Parasetamoli",
+      "Bentsodiatsepiinit",
+      "Litium",
+      "Trisykliset masennuslääkkeet"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lääkehiili ei sido alkoholeja, metalleja (rauta, litium), syanidia eikä happoja ja emäksiä."
+  },
+  {
+    "id": "laakehiili-q4",
+    "type": "truefalse",
+    "question": "Lääkehiili sopii hyvin emäksen nielleelle potilaalle, koska se sitoo syövyttävän aineen.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Väärin. Syövyttävissä aineissa lääkehiiltä ei anneta: se ei sido happoja ja emäksiä ja peittää tähystysnäkymän sairaalassa."
+  },
+  {
+    "id": "laakehiili-q5",
+    "type": "mcq",
+    "question": "Millä edellytyksellä Ensihoito-opas ohjaa antamaan lääkehiiltä juottamalla?",
+    "options": [
+      "Aina, kun potilas on tajuton",
+      "Kun potilaan GCS on yli 13 ja lääkkeet on otettu suun kautta",
+      "Vain, jos potilas on intuboitu",
+      "Vain lapsille"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ensihoito-oppaan mukaan lääkehiili annetaan juottamalla, jos GCS on yli 13 ja potilas on ottanut lääkkeet suun kautta."
+  },
+  {
+    "id": "laakehiili-q6",
+    "type": "truefalse",
+    "question": "Lääkehiilestä voi olla hyötyä vielä tunnin jälkeenkin hitaasti imeytyvissä aineissa.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Oikein. Teho on paras tunnin sisällä, mutta hitaasti imeytyvissä ja enterohepaattiseen kiertoon osallistuvissa aineissa hyötyä voi olla myöhemminkin."
+  }
+]

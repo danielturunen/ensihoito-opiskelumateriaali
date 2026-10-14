@@ -1,0 +1,9 @@
+[
+  {"id": "natriumkloridi-f1", "front": "NaCl 0,9 %", "back": "Isotoninen kristalloidi (fysiologinen keittosuolaliuos) – nesteytys ja lääkkeiden laimennus."},
+  {"id": "natriumkloridi-f2", "front": "Lapsen sokin nesteannos", "back": "20 ml/kg Ringeriä tai NaCl 0,9 %:a, toistetaan tarvittaessa."},
+  {"id": "natriumkloridi-f3", "front": "Aivovammapotilaan neste", "back": "Isotoninen (NaCl 0,9 % tai Ringer); hypotoniset nesteet pahentavat aivoturvotusta."},
+  {"id": "natriumkloridi-f4", "front": "Hyperkalemia ja infuusioneste", "back": "NaCl 0,9 % – Ringerissä on kaliumia."},
+  {"id": "natriumkloridi-f5", "front": "Keittosuolan haitat suurina määrinä", "back": "Hyperkloreeminen asidoosi, munuaisongelmat, hyytymistekijöiden laimeneminen."},
+  {"id": "natriumkloridi-f6", "front": "Amiodaronin laimennus", "back": "Glukoosiliuokseen, ei keittosuolaan."},
+  {"id": "natriumkloridi-f7", "front": "Keittosuola kostutukseen", "back": "Haavat ja silmävammat peitetään keittosuolalla kostutetuilla steriileillä taitoksilla."}
+]

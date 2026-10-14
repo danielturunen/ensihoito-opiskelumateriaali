@@ -53,7 +53,7 @@ Ensihoito-oppaan rytmihäiriöohjeen (Silfvast 2023) mukaan kardioversiokipuun e
 - Isku annetaan, kun potilas on sedatoitu. **Tarvittaessa iskuja annetaan kolme ja energiaa nostetaan portaittain**, jos rytmi ei korjaannu.
 - Seuraa hengitystä ja tue tarvittaessa ventiloimalla naamaripalkeella. Varmista uusi rytmi ja arvioi verenkierto.
 - **Kammioperäinen takyarytmia uusiutuu heti**: tarvittaessa [amiodaroni](topic:amiodaroni) 300 mg i.v. hitaasti 5 minuutin aikana.
-- **Pitkittynyt ventilaatiotarve**: bentsodiatsepiinisedaatio voidaan kumota flumatseniililla 0,2 mg ad 1 mg i.v.
+- **Pitkittynyt ventilaatiotarve**: bentsodiatsepiinisedaatio voidaan kumota [flumatseniililla](topic:flumatseniili) 0,2 mg ad 1 mg i.v.
 - **Potilas oksentaa**: heti kylkiasentoon ja tarvittaessa imu.
 - **Rytmihäiriö uusiutuu**: konsultoi ensihoitolääkäriä ja kuljeta nopeasti.
 
@@ -85,7 +85,7 @@ Bradykardian ensisijainen lääke on [atropiini](topic:atropiini). Jos vaste puu
 {"widget":"pacing-capture","caption":"Etsi kynnys: nosta virtaa minimistä, kunnes jokaista piikkiä seuraa leveä QRS. Aseta sitten lopullinen virta."}
 ```
 
-Tahdistus on potilaalle epämiellyttävää. Rauhoittamiseen voidaan antaa midatsolaamia 1–2 mg i.v., oksikodonia 2 mg i.v. tai esketamiinia 12,5–25 mg i.v. tarvittaessa toistaen.
+Tahdistus on potilaalle epämiellyttävää. Rauhoittamiseen voidaan antaa [midatsolaamia](topic:midatsolaami) 1–2 mg i.v., oksikodonia 2 mg i.v. tai [esketamiinia](topic:s-ketamiini) 12,5–25 mg i.v. tarvittaessa toistaen.
 
 | Ongelma | Toimi |
 |---|---|

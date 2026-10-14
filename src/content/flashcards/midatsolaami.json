@@ -1,0 +1,9 @@
+[
+  {"id": "midatsolaami-f1", "front": "Midatsolaamin lääkeryhmä ja vaikutukset", "back": "Bentsodiatsepiini: rauhoittaa, sedatoi, lievittää ahdistusta ja estää kouristuksia; nopeampi kuin diatsepaami."},
+  {"id": "midatsolaami-f2", "front": "Midatsolaami kouristeluun (aikuinen)", "back": "Aluksi 10 mg bukkaalisesti tai nenään, jatkossa 2,5–5 mg i.v."},
+  {"id": "midatsolaami-f3", "front": "Midatsolaami kouristeluun (lapsi)", "back": "Painon mukaan; lasten opetusmateriaalissa 0,5 mg/kg bukkaalisesti, enintään 10 mg."},
+  {"id": "midatsolaami-f4", "front": "Midatsolaami kiihtyneelle, aggressiiviselle potilaalle", "back": "Aluksi 10 mg bukk./i.n./i.m., jatkossa 2,5–5 mg i.v.; iäkkäällä pienempi annos."},
+  {"id": "midatsolaami-f5", "front": "Midatsolaami rytminsiirron sedaatioon", "back": "1–2 mg i.v. vasteen mukaan, odota 1–2 min; riittävä, kun potilas muuttuu uneliaaksi."},
+  {"id": "midatsolaami-f6", "front": "Midatsolaami AKS:n ahdistukseen (Käypä hoito)", "back": "0,5–1,0 mg i.v. tarvittaessa toistetusti."},
+  {"id": "midatsolaami-f7", "front": "Midatsolaamin haitat", "back": "Hengityslama ja tajunnan lasku (erityisesti alkoholin ja opioidien kanssa), hypotensio; vastalääke flumatseniili."}
+]

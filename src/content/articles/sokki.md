@@ -78,7 +78,7 @@ Jos nestekokeilun vaste jää vajaaksi, aloitetaan **noradrenaliini-infuusio** t
 Taustalla on verenvuoto (ulkoinen tai sisäinen) tai kuivuminen. Aikuisella noin litran vuoto (yli 20 % verimäärästä) aiheuttaa jo sokin oireita. Vuodossa menetetään myös hemoglobiinia – **vuotava potilas tarvitsee korvaukseksi verta**. Kirkkailla nesteillä ei "läträtä": suonensisäinen nesteytys on olennainen osa hoitoa vasta, kun vuoto on hallinnassa.
 
 - **Ulkoiset vuodot**: kiristysside, painesidos, hemostaattinen side, haavan pakkaaminen.
-- **Sisäiset vuodot**: maltillinen nestehoito verituotteilla, lantiovyö, traneksaamihappo ja välitön kuljetus kirurgiseen hemostaasiin.
+- **Sisäiset vuodot**: maltillinen nestehoito verituotteilla, lantiovyö, [traneksaamihappo](topic:traneksaamihappo) ja välitön kuljetus kirurgiseen hemostaasiin.
 - **Vammapotilaan verenpainetavoitteet** (Kettunen): lävistävässä vammassa systolinen noin 80 mmHg (radialispulssi tuntuu), jopa 60–70 mmHg voi riittää; tylpässä vammassa noin 80 mmHg. **Poikkeus on aivovamma**: MAP yli 80 mmHg (systolinen 110–120).
 - Muista **kuoleman kolmio**: asidoosi, hypotermia ja koagulopatia ruokkivat toisiaan.
 
@@ -139,6 +139,6 @@ Nestettä on, mutta väärässä paikassa: suonet laajenevat, niiden läpäisevy
 
 - Sokki = kudosten riittämätön hapensaanti; tyypit hypovoleeminen, kardiogeeninen, obstruktiivinen ja distributiivinen.
 - Normaali verenpaine ei sulje pois sokkia – katso iho, kapillaaritäyttö, tajunta, marmoroituminen ja sokki-indeksi.
-- Nestekokeilu 250–500 ml ja vasteen arvio; vain noin puolet on nestevasteisia – vajaa vaste → noradrenaliini, MAP 65.
+- Nestekokeilu 250–500 ml ja vasteen arvio; vain noin puolet on nestevasteisia – vajaa vaste → [noradrenaliini](topic:noradrenaliini), MAP 65.
 - Vuotava potilas tarvitsee verta, ei runsaasti kirkkaita; aivovammassa MAP yli 80.
 - Kardiogeeninen: ei beetasalpausta eikä nitroa. Obstruktiivinen: pullottavat kaulalaskimot, poista este.

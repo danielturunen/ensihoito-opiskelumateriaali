@@ -31,7 +31,7 @@ Tyypillisiä löydöksiä kentällä:
 {"widget":"breathing-patterns","initial":"fatigue"}
 ```
 
-Astman ensihoidossa arvioidaan hengitystyö ja puhekyky, annetaan happea tilanteen mukaan ja keuhkoputkia avaavaa lääkitystä (inhaloitava beeta-2-agonisti, tarvittaessa yhdistettynä antikolinergiin) toistuvasti hoito-ohjeen mukaan. Lisäksi annetaan varhain systeeminen kortikosteroidi (esim. hydrokortisoni tai metyyliprednisoloni suonensisäisesti), koska se hoitaa taustalla olevaa tulehdusta — vaikutus tulee kuitenkin vasta tuntien viiveellä. Kriittisessä, hengenvaarallisessa astmakohtauksessa voidaan ensihoito-ohjeen mukaan harkita myös adrenaliinia.
+Astman ensihoidossa arvioidaan hengitystyö ja puhekyky, annetaan happea tilanteen mukaan ja keuhkoputkia avaavaa lääkitystä (inhaloitava beeta-2-agonisti, tarvittaessa yhdistettynä antikolinergiin) toistuvasti hoito-ohjeen mukaan. Lisäksi annetaan varhain systeeminen kortikosteroidi (esim. hydrokortisoni tai [metyyliprednisoloni](topic:metyyliprednisoloni) suonensisäisesti), koska se hoitaa taustalla olevaa tulehdusta — vaikutus tulee kuitenkin vasta tuntien viiveellä. Kriittisessä, hengenvaarallisessa astmakohtauksessa voidaan ensihoito-ohjeen mukaan harkita myös [adrenaliinia](topic:adrenaliini).
 
 Potilas kuuluu päivystykseen, jos hengitys on selvästi vaikeutunut, puhuminen on rajoittunutta, apuhengityslihaksia käytetään selvästi, potilas on uupunut, hoito ei tuo selvää helpotusta tai tajunnan taso laskee.
 
@@ -62,7 +62,7 @@ Pahenemisvaiheen diagnoosi on kliininen: **lisääntynyt hengenahdistus, yskä j
 - **Sulje pois muut syyt** – ne voivat myös laukaista pahenemisen: keuhkokuume, toistuva aspiraatio, sydäninfarkti, rytmihäiriöt, sydämen vajaatoiminta, keuhkoembolia, ilmarinta ja keuhkopussineste.
 - **Kysy**: montako kortisonilla tai antibiootilla hoidettua pahenemisvaihetta on ollut vuodessa, onko ollut sairaalahoitoa, uusien oireiden kesto, muut sairaudet, nykyinen lääkitys ja inhalaatiotekniikka.
 - **Tutki**: syanoosi, kalpeus tai punakkuus, hengitystaajuus, sydän- ja hengitysäänet, apulihasten käyttö, turvotukset, SpO₂ ja yskösten ulkonäkö – kellertävä tai vihertävä yskös viittaa bakteeritulehdukseen. EKG.
-- **Bronkodilataattori**: lyhytvaikutteinen beeta₂-agonisti (salbutamoli 5–10 mg sumutteena) yksin tai ipratropiumin (0,5 mg) kanssa; ponnekaasuannostelija tilanjatkeella (salbutamoli 4 × 100 µg) lienee yhtä tehokas. Toistetaan alkuun tarvittaessa 20–60 minuutin välein kolmesti. Ipratropiumin lisäämisestä salbutamoliin ei ilmeisesti ole hyötyä.
+- **Bronkodilataattori**: lyhytvaikutteinen beeta₂-agonisti ([salbutamoli](topic:ipratropium-salbutamoli) 5–10 mg sumutteena) yksin tai ipratropiumin (0,5 mg) kanssa; ponnekaasuannostelija tilanjatkeella (salbutamoli 4 × 100 µg) lienee yhtä tehokas. Toistetaan alkuun tarvittaessa 20–60 minuutin välein kolmesti. Ipratropiumin lisäämisestä salbutamoliin ei ilmeisesti ole hyötyä.
 - **Glukokortikoidi**: prednisoloni 40 mg suun kautta 5 vuorokautta; jos potilas ei voi niellä, metyyliprednisoloni 40 mg i.v.
 - **Happi hallitusti**: tavoite **SpO₂ 88–92 %** happiviiksillä tai venturimaskilla; hallittu hapenanto vähentää komplikaatioita ja kuolleisuutta suurivirtauksiseen happeen verrattuna. Riittämätön hapenanto pitkittää kudosten hapenpuutetta.
 - **Hiilidioksidin kertymisen oireita** ovat uneliaisuus, päänsärky, desorientaatio ja ihon punakkuus. Oireisella, erityisesti tajunnaltaan häiriintyneellä potilaalla **NIV aloitetaan mahdollisimman varhain** – se vähentää intubaation tarvetta ja kuolleisuutta.

@@ -32,10 +32,10 @@ Laboratoriossa kalium voi nousta yli 6,5 mmol/l, ja metabolinen asidoosi pahenta
 
 ### Ensihoidon kannalta
 
-- **Turvaa munuaisten verenkierto**: hypovolemia korjataan kirkkailla balansoiduilla liuoksilla, ja noradrenaliini on ensisijainen vasopressori. Liika neste on kuitenkin haitallista – nestekuormitus liittyy kuolemanriskiin.
+- **Turvaa munuaisten verenkierto**: hypovolemia korjataan kirkkailla balansoiduilla liuoksilla, ja [noradrenaliini](topic:noradrenaliini) on ensisijainen vasopressori. Liika neste on kuitenkin haitallista – nestekuormitus liittyy kuolemanriskiin.
 - **Selvitä lääkkeet**: munuaisille haitallisia ovat esimerkiksi tulehduskipulääkkeet, ACE:n estäjät ja angiotensiinireseptorin salpaajat, metformiini ja vankomysiini; lisäksi luontaistuotteet. Päivystystilanteessa vauriota pahentavat ja kertyvät lääkkeet tauotetaan.
 - **Muista virtsaumpi** – iäkkäällä miehellä eturauhanen, kenellä tahansa rakon tyhjenemishäiriö.
-- **Kivunhoito**: sopivia ovat parasetamoli ja opioideista oksikodoni ja fentanyyli, jotka kertyvät vähiten. **Tulehduskipulääkkeitä ei käytetä** munuaisten vajaatoiminnassa. Morfiinin aineenvaihduntatuotteet kertyvät.
+- **Kivunhoito**: sopivia ovat parasetamoli ja opioideista oksikodoni ja [fentanyyli](topic:fentanyyli), jotka kertyvät vähiten. **Tulehduskipulääkkeitä ei käytetä** munuaisten vajaatoiminnassa. [Morfiinin](topic:morfiini) aineenvaihduntatuotteet kertyvät.
 
 ## Krooninen munuaisten vajaatoiminta
 

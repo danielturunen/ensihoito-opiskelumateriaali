@@ -1,0 +1,76 @@
+[
+  {
+    "id": "ringerin-liuos-q1",
+    "type": "mcq",
+    "question": "Mikä on Ringerin liuos?",
+    "options": [
+      "Kolloidi",
+      "Isotoninen kristalloidi",
+      "Hypotoninen glukoosiliuos",
+      "Verituote"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ringerin liuos on isotoninen kristalloidi ja ensihoidon yleisin nesteytysliuos."
+  },
+  {
+    "id": "ringerin-liuos-q2",
+    "type": "mcq",
+    "question": "Mikä on septisen potilaan nestetäytön alkuannos esimerkiksi Ringerillä?",
+    "options": [
+      "2 ml/kg hitaasti",
+      "20 ml/kg nopeasti",
+      "100 ml/kg tunnissa",
+      "5 000 ml kerralla"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sepsiksessä nestetäyttö aloitetaan kirkkailla liuoksilla, esimerkiksi Ringerillä 20 ml/kg nopeasti."
+  },
+  {
+    "id": "ringerin-liuos-q3",
+    "type": "mcq",
+    "question": "Milloin septisellä potilaalla aloitetaan vasopressori?",
+    "options": [
+      "Heti ennen nesteitä",
+      "Jos 1 000–2 000 ml:n nestetäyttö ei poista sokin merkkejä",
+      "Vasta kun potilas on elvytetty",
+      "Ei koskaan ensihoidossa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Jos 1 000–2 000 ml:n nestetäyttö ei poista sokin merkkejä, aloitetaan vasopressori, ensisijaisesti noradrenaliini."
+  },
+  {
+    "id": "ringerin-liuos-q4",
+    "type": "truefalse",
+    "question": "Vuotavalle vammapotilaalle annetaan Ringeriä niin paljon kuin mahdollista, kunnes verenpaine on normaali.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Väärin. Liika kristalloidi laimentaa hyytymistekijöitä ja pahentaa koagulopatiaa ja hypotermiaa. Nesteytys on maltillista, ja verituotteet ovat ensisijaisia."
+  },
+  {
+    "id": "ringerin-liuos-q5",
+    "type": "truefalse",
+    "question": "Ringerin liuoksessa on kaliumia.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Oikein. Siksi hyperkalemiassa valitaan mieluummin NaCl 0,9 %."
+  },
+  {
+    "id": "ringerin-liuos-q6",
+    "type": "mcq",
+    "question": "Mikä nesteytysliuos on palovammapotilaan alkuhoidossa suositeltava?",
+    "options": [
+      "Ringer-tyyppinen kristalloidi",
+      "5-prosenttinen glukoosi",
+      "0,45-prosenttinen keittosuola",
+      "Hypertoninen keittosuola"
+    ],
+    "correctIndex": 0,
+    "explanation": "Palovammapotilaan nesteytykseen käytetään kirkasta, mieluiten Ringer-tyyppistä liuosta. Laaja-alaisessa vammassa aloitusnopeus voi olla esimerkiksi 1 000 ml tunnissa."
+  }
+]

@@ -65,7 +65,7 @@ Muistisäännöt auttavat pitämään erotusdiagnostiikan laajana äkillisessä 
 > [!danger] Bakteerimeningiitti on hätätilanne
 > Antibioottihoidon viive on suoraan yhteydessä ennusteeseen – tunnin viive voi lisätä huonon toipumisen todennäköisyyttä merkittävästi. Vahva kliininen epäily riittää hoidon aloittamiseen ennen varmistavia tutkimuksia.
 
-**Intoksikaatio.** Suomessa kyse on tyypillisimmin alkoholin ja lääkkeiden sekamyrkytyksestä. Kliininen kuva voi vastata tunnistettavaa toksidromia: pistemäiset pupillit ja hengityslama viittaavat opioidiin (vastalääke naloksoni), kun taas bentsodiatsepiinimyrkytyksen vastalääkkeen flumatseniilin käyttöön liittyy kouristusriski, erityisesti sekamyrkytyksissä. Intoksikaatioepäilyn rinnalla on aina arvioitava muiden samanaikaisten syiden mahdollisuus – hypoglykeeminen diabeetikko on voinut juoda alkoholia, kaatunut alkoholisti voi olla saanut aivoverenvuodon.
+**Intoksikaatio.** Suomessa kyse on tyypillisimmin alkoholin ja lääkkeiden sekamyrkytyksestä. Kliininen kuva voi vastata tunnistettavaa toksidromia: pistemäiset pupillit ja hengityslama viittaavat opioidiin (vastalääke [naloksoni](topic:naloksoni)), kun taas bentsodiatsepiinimyrkytyksen vastalääkkeen [flumatseniilin](topic:flumatseniili) käyttöön liittyy kouristusriski, erityisesti sekamyrkytyksissä. Intoksikaatioepäilyn rinnalla on aina arvioitava muiden samanaikaisten syiden mahdollisuus – hypoglykeeminen diabeetikko on voinut juoda alkoholia, kaatunut alkoholisti voi olla saanut aivoverenvuodon.
 
 **Diabetes.** Hypoglykemia on helposti todettava ja korjattavissa oleva hengenvaara, joten verensokerin mittaus kuuluu jokaisen tajuttoman potilaan perustutkimuksiin. Hoitona on glukoosi laskimoon tai glukagoni lihakseen, jos suoniyhteyttä ei saada. Hyperglykemian aiheuttama tajuttomuus kehittyy tavallisesti hitaammin diabeettisen ketoasidoosin kautta (mm. Kussmaulin hengitys, kuivuminen) ja vaatii sairaalahoitoa.
 
@@ -114,7 +114,7 @@ Ensiarvio ja työdiagnoosi 5 minuutissa, välitön ensihoito 5–15 minuutissa j
 - **SAV tai aivoverenvuoto** viittaa: edeltävä päänsärky, äkillinen tajuttomuus, koukistus- tai ojennusreaktio, nykinä, pupillien poikkeavuudet ja puolierot. Jos systolinen on yli 180 mmHg, labetaloli 10–20 mg i.v. toistaen ja kipulääke.
 - **Infektio** viittaa: edeltävä kuume, päänsärky, vähittäinen tajunnan lasku, petekiat.
 - Syvästi tajuttoman (GCS alle 8) hengitystie turvataan ensihoitolääkärin ohjeen mukaan; normoventilaatio.
-- Normovoleemisen hypotensiossa efedriini tai noradrenaliini. Tajunnanhäiriöinen potilas kuuluu vähintään keskussairaalaan. Katso [AVH](topic:aivoverenkiertohairio) ja [kouristelu](topic:kouristelu).
+- Normovoleemisen hypotensiossa efedriini tai [noradrenaliini](topic:noradrenaliini). Tajunnanhäiriöinen potilas kuuluu vähintään keskussairaalaan. Katso [AVH](topic:aivoverenkiertohairio) ja [kouristelu](topic:kouristelu).
 
 ```media
 {"widget":"scene-card","id":"tajuton","title":"Kohteessa: tajuton potilas","know":[

@@ -49,7 +49,7 @@ Yleinen tutkimisjärjestys on kuvattu sivulla [Traumapotilaan tutkiminen ja hoit
 > [!warning] Painehengityksen riski
 > Painehengitys (PEEP, CPAP) voi pahentaa paineaallon aiheuttamaa keuhkovauriota, joten sitä käytetään räjähdysvammapotilaalla erityisen harkiten.
 
-**Verenkierto.** Ilman aivovammaepäilyä riittävä tajunta tai radialissykkeen tunnustuminen sallivat lievän permissiivisen hypotension (SAP < 100 mmHg); aivovammapotilaalla tavoite on SAP > 120 mmHg. Nestehoito pidetään maltillisena, aukioloinfuusio lähtökohtana, ja runsaan vuodon epäilyssä annetaan traneksaamihappoa 1 g i.v.
+**Verenkierto.** Ilman aivovammaepäilyä riittävä tajunta tai radialissykkeen tunnustuminen sallivat lievän permissiivisen hypotension (SAP < 100 mmHg); aivovammapotilaalla tavoite on SAP > 120 mmHg. Nestehoito pidetään maltillisena, aukioloinfuusio lähtökohtana, ja runsaan vuodon epäilyssä annetaan [traneksaamihappoa](topic:traneksaamihappo) 1 g i.v.
 
 **Neurologia ja muut vammat.** Räjähdyksessä esiintyy usein ainakin lievä aivovamma, vaikka ulkoisia merkkejä ei olisi. Verenvuoto korvista viittaa painevammaan ja liittyy lisääntyneeseen riskiin keuhko- ja suolistorepeämille – tämä löydös on syytä ottaa vakavasti, vaikka potilas vaikuttaisi muuten hyvävointiselta. Palovammat arvioidaan ja suojataan, ja pienetkin sirpaleiden aiheuttamat lävistävät vammat etsitään huolellisesti. Lävistäneitä esineitä ei poisteta pään, kaulan tai vartalon alueelta.
 

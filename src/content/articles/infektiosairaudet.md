@@ -51,8 +51,8 @@ Sairaalan ulkopuolella alkaneen sepsiksen tavallisimpia aiheuttajia ovat pneumok
 ### Ensihoito
 
 > [!success] Sepsiksen ensihoidon periaatteet
-> - Nesteytys aloitetaan kirkkailla liuoksilla (esim. Ringerin liuos, suuntaa-antavasti noin 20 ml/kg nopeasti) ja sitä jatketaan, kunnes vaste saadaan: sykkeen rauhoittuminen, verenpaineen nousu ja voinnin kohentuminen.
-> - Jos 1000–2000 ml:n nestetäyttö ei poista sokin merkkejä, aloitetaan vasopressorihoito (ensisijaisesti noradrenaliini).
+> - Nesteytys aloitetaan kirkkailla liuoksilla (esim. [Ringerin liuos](topic:ringerin-liuos), suuntaa-antavasti noin 20 ml/kg nopeasti) ja sitä jatketaan, kunnes vaste saadaan: sykkeen rauhoittuminen, verenpaineen nousu ja voinnin kohentuminen.
+> - Jos 1000–2000 ml:n nestetäyttö ei poista sokin merkkejä, aloitetaan vasopressorihoito (ensisijaisesti [noradrenaliini](topic:noradrenaliini)).
 > - Veriviljelynäytteet otetaan mahdollisuuksien mukaan ennen antibioottia.
 > - Antibioottihoito voidaan aloittaa ensihoidossa, jos alueellinen hoito-ohje sen sallii ja hoidon jatkuvuus sairaalaan on varmistettu — tämä korostuu pitkien kuljetusmatkojen alueilla.
 > - Nesteytyksen ja antibioottihoidon aloitus kahden tunnin sisällä sepsiksen kehittymisestä vähentää kuolleisuutta ja komplikaatioita merkittävästi.
