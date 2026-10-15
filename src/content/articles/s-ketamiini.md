@@ -31,6 +31,10 @@ ETC:n annostaulukko on laadittu raseemiselle ketamiinille, ja S-ketamiinia käyt
 > [!info] Lähteiden ero
 > Akuuttihoidon lääkkeiden kerta-annokset (i.v. 5–10 mg, i.n. 25–50 mg) ovat pienempiä kuin Ensihoito-oppaan (i.v. 12,5 mg, i.n. 50–100 mg). Toimi alueellisen hoito-ohjeen mukaan ja titraa vasteen mukaan.
 
+```media
+{"widget":"intranasal-dose","initial":"esket","caption":"Laske nenään annettavan esketamiinin tilavuus ja jako sieraimiin. Lähteiden annossuositukset eroavat – tarkista oman alueen ohje."}
+```
+
 ## Vasta-aiheet ja varoitukset
 
 - **Potilaat, joille verenpaineen nousu on vakava riski** – ketamiini voi nostaa verenpainetta

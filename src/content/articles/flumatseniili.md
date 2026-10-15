@@ -43,6 +43,10 @@ Myrkytyspotilaalla on lähtökohtaisesti syytä epäillä useampaa kuin yhtä ai
 
 Jos kunnon vastetta ei tule, tajuttomuuden tai hengityslaman syy on todennäköisesti jokin muu kuin bentsodiatsepiini.
 
+```media
+{"widget":"antidote-receptor","initial":"benzo","caption":"Flumatseniili kilpailee bentsodiatsepiinin kanssa reseptorista mutta poistuu nopeammin – käy vaiheet läpi ja katso, miksi oireet voivat palata."}
+```
+
 ## Haittavaikutukset
 
 Haitat johtuvat bentsodiatsepiinin rauhoittavan vaikutuksen äkillisestä loppumisesta: levottomuus ja ahdistus, takykardia, verenpaineen nousu ja **kouristukset** – erityisesti sekamyrkytyksessä ja pitkään bentsodiatsepiineja käyttäneellä.

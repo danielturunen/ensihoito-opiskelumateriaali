@@ -2,6 +2,10 @@
 
 Tenekteplaasi (Metalyse) on **liuotuslääke** eli trombolyytti: fibriinispesifinen, geenitekniikalla valmistettu plasminogeenin aktivaattori. Se sitoutuu verihyytymän fibriiniin ja muuttaa plasminogeenin plasmiiniksi, joka hajottaa hyytymän. Tenekteplaasi annetaan **yhtenä noin 10 sekunnin boluksena** laskimoon, mikä tekee siitä ensihoitoon sopivan liuotuslääkkeen.
 
+```media
+{"widget":"fibrinolysis","caption":"Seuraa, miten plasmiini pilkkoo tukoksen fibriinin ja virtaus palautuu – ja miksi sama mekanismi altistaa vuodoille."}
+```
+
 ## Käyttöaiheet
 
 - **ST-nousuinfarktin liuotushoito**, kun pallolaajennus (PCI) ei toteudu riittävän nopeasti: yleensä 120 minuutin kuluessa ensimmäisestä hoitokontaktista (Akuuttihoidon lääkkeiden mukaan etuseinäinfarktissa 90 minuutin kuluessa). PCI on ensisijainen hoito, mutta liuotushoitoa on harkittava, jos aikatavoitteet eivät toteudu (ks. [rintakipu ja AKS](topic:rintakipu-ja-aks)).

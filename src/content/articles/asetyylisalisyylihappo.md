@@ -10,6 +10,10 @@ Käypä hoidon mukaan ASA vähentää sekä sydäninfarkteja että kuolemia niin
 - Myös potilas, jolla ASA on jo kotilääkkeenä, saa latausannoksen.
 - Suonensisäistä ASA:ta käytetään, kun lääkettä ei voi antaa suun kautta.
 
+```media
+{"widget":"platelet-block","initial":"asa","caption":"Verihiutale aktivoituu kahta reittiä: ASA salpaa tromboksaanireitin, ADP-reseptorin salpaaja toisen. Vertaa yksittäistä ja kaksoisestohoitoa."}
+```
+
 ## Annostus
 
 | Lähde | Annos |

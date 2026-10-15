@@ -41,6 +41,10 @@ Limaiselle potilaalle annetaan nenän sijaan sama annos lihakseen.
 
 Laskimoon midatsolaami annetaan **hitaasti**. Vaikeasti sairaalle ja iäkkäälle aloitusannos on pienempi, esimerkiksi 1 mg. Sedaatio on riittävä, kun potilas muuttuu uneliaaksi. Kouristelevan lapsen vanhemmilla voi olla kotihoitolääkkeenä bukkaalinen midatsolaamivalmiste.
 
+```media
+{"widget":"intranasal-dose","initial":"mida","caption":"Laske kouristelevan potilaan nenään annettavan midatsolaamin annos painon mukaan ja jaa se sieraimiin."}
+```
+
 ## Varoitukset ja yhteisvaikutukset
 
 - **Hengityslama** – erityisesti yli 60-vuotiailla ja yhdessä alkoholin, opioidien tai muiden keskushermostoa lamaavien aineiden kanssa. Seuraa hengitystä ja varaudu ventiloimaan.

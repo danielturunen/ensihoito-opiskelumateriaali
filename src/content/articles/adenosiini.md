@@ -36,6 +36,10 @@ Ensihoito-opas: 5–6 mg nopeana boluksena, jatkoannokset porrastetusti. Useampi
 
 Kun rytmi kääntyy, kriteerit täyttävissä tilanteissa potilasta ei välttämättä tarvitse kuljettaa hoitoon. Toistuvissa kohtauksissa harkitaan estolääkitystä tai katetriablaatiota.
 
+```media
+{"widget":"adenosine-bolus","caption":"Vertaa nopeaa bolusta ja huuhtelua hitaaseen ruiskutukseen: miksi antotekniikka ratkaisee, kun lääke hajoaa sekunneissa."}
+```
+
 ## Vasta-aiheet ja varoitukset
 
 - **II–III asteen eteis-kammiokatkos** tai **sairas sinus -oireyhtymä** ilman tahdistinta

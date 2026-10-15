@@ -4,6 +4,10 @@ Ringerin liuos (Ringer-asetaatti, "Ringer") on **isotoninen kristalloidi** ja en
 
 Toisin kuin [fysiologisessa keittosuolassa](topic:natriumkloridi), Ringerin liuoksessa on myös **kaliumia**, mikä on huomioitava hyperkalemiassa. Vammapotilaan nestehoidossa Ringeriä suositaan, koska keittosuolaliuos altistaa hyperkloreemiselle asidoosille ja munuaisongelmille.
 
+```media
+{"widget":"tonicity","caption":"Ringer on isotoninen: se lisää solunulkoista nestettä eikä siirrä vettä soluihin. Vertaa hypo- ja hypertoniseen nesteeseen."}
+```
+
 ## Käyttöaiheet
 
 - **Hypovolemia ja sokki** – nestetäyttö aloitetaan Ringerillä, vammapotilaalla mieluiten painepussin avulla, ja siirrytään mahdollisimman nopeasti verituotteisiin (ks. [sokki](topic:sokki) ja [massiivinen verenvuoto](topic:massiivinen-verenvuoto))

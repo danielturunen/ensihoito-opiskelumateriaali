@@ -7,6 +7,10 @@ Adrenaliinilla on kaksi päärooliaan: se on **ensisijainen elvytyslääke** ja 
 > [!warning] Kaksi vahvuutta
 > Adrenaliinia on saatavilla vahvuuksina **0,1 mg/ml** ja **1 mg/ml**. Elvytysannos 1 mg on 10 ml vahvuutta 0,1 mg/ml tai 1 ml vahvuutta 1 mg/ml. Tarkista vahvuus aina ennen antoa. Lihakseen annettavia esitäytettyjä kyniä on 150, 300 ja 500 mikrogramman vahvuuksina.
 
+```media
+{"widget":"adrenergic","initial":"adr","caption":"Vertaa adrenaliinia, noradrenaliinia, metoprololia ja salbutamolia: mihin reseptoreihin kukin vaikuttaa ja mitä verisuonissa, sydämessä ja keuhkoputkissa tapahtuu."}
+```
+
 ## Käyttöaiheet ensihoidossa
 
 - **Sydänpysähdys** (ks. [aikuisen elvytys](topic:elvytys) ja [lapsen elvytys](topic:lapsen-ja-vastasyntyneen-elvytys))

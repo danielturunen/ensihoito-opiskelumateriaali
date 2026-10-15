@@ -4,6 +4,10 @@ Noradrenaliini on luonnollinen katekoliamiini ja **ensisijainen vasopressori** e
 
 Noradrenaliinia annetaan **tasaisena infuusiona infuusiopumpulla omaan suoniyhteyteensä**, ja annos säädetään vasteen mukaan. Hengenvaarallisessa tilanteessa sille ei ole vasta-aiheita eikä enimmäisannosta.
 
+```media
+{"widget":"adrenergic","initial":"nor","caption":"Noradrenaliini vaikuttaa pääasiassa alfareseptoreihin ja supistaa verisuonia – vertaa adrenaliiniin, metoprololiin ja salbutamoliin."}
+```
+
 ## Käyttöaiheet
 
 - **Nestehoitoon reagoimaton akuutti hypotensio** (systolinen paine alle 100 mmHg), esimerkiksi septisessä ja muussa distributiivisessa sokissa (ks. [sokki](topic:sokki) ja [infektiosairaudet](topic:infektiosairaudet))

@@ -4,6 +4,10 @@ Lääkehiili (aktiivihiili) on huokoista, aktivoitua hiiltä. Se **sitoo ruoansu
 
 Teho on paras, kun hiili annetaan **alle tunnin kuluessa** yliannoksesta. Myöhäänkin (yli 3–6 tuntia) annetusta hiilestä voi olla hyötyä: yliannoksena lääkkeet imeytyvät usein tavallista hitaammin, ja esimerkiksi monet psyykenlääkkeet hidastavat mahan tyhjenemistä antikolinergisen vaikutuksensa vuoksi. Valmisteita ovat Carbomix-rakeet (50 g/pullo), joista sekoitetaan juotava suspensio, ja Carbo medicinalis -tabletit.
 
+```media
+{"widget":"charcoal-binding","caption":"Vaihda ainetta ja ajankohtaa: hiili sitoo suolistossa olevan lääkkeen, mutta ei jo imeytynyttä ainetta, alkoholia eikä litiumia."}
+```
+
 ## Käyttöaiheet
 
 - **Suun kautta otettu lääkeainemyrkytys**, kun aine sitoutuu hiileen ja potilas pystyy juomaan turvallisesti (ks. [intoksikaatiopotilaan hoito](topic:intoksikaatiopotilaan-hoito))

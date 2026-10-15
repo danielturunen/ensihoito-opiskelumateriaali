@@ -4,6 +4,10 @@ Metoprololi (Seloken, Metopocor) on **selektiivinen beeta1-salpaaja**. Se estä�
 
 Ensihoidossa metoprololia annetaan laskimoon pieninä kerta-annoksina hitaasti, ja verenpaine mitataan 3–5 minuutin välein.
 
+```media
+{"widget":"adrenergic","initial":"meto","caption":"Metoprololi salpaa sydämen beeta1-reseptoreita: syke hidastuu ja supistuvuus vähenee. Vertaa reseptoreita kiihottaviin lääkkeisiin."}
+```
+
 ## Käyttöaiheet
 
 - **Oireinen nopea eteisvärinä**: kammiovasteen hidastaminen, kun nopea rytmi aiheuttaa rintakipua, hengenahdistusta, hypoksemiaa, EKG:ssä iskemiaa tai muuta selvää oiretta (Akuuttihoidon lääkkeet; ks. [eteisvärinä](topic:eteisvarina)). Oireetonta eteisvärinää ei hidasteta rutiinisti hoitolaitoksen ulkopuolella.

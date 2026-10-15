@@ -12,6 +12,10 @@ Naloksoni ei kumoa opioidien niitä vaikutuksia, jotka välittyvät muuta kautta
 - **Opioidikipulääkkeen aiheuttama hengityslama**
 - **Vastasyntynyt**: äidin saaman opiaatin aiheuttama pitkittynyt hengityslama (ks. [lapsen ja vastasyntyneen elvytys](topic:lapsen-ja-vastasyntyneen-elvytys))
 
+```media
+{"widget":"antidote-receptor","caption":"Käy vaiheet läpi: naloksoni syrjäyttää opioidin reseptorilta, annos titrataan riittävään hengitykseen – ja hengityslama voi uusiutua, kun naloksonin vaikutus loppuu ennen opioidin."}
+```
+
 ## Annostus
 
 | Potilas | Annos (Akuuttihoidon lääkkeet, ensihoito) |
@@ -26,6 +30,10 @@ Naloksoni ei kumoa opioidien niitä vaikutuksia, jotka välittyvät muuta kautta
 - **Nenään** tarvitaan suurempi annos kuin suoneen. Runsas nenäerite, veri tai aiempi kokaiinin käyttö heikentävät imeytymistä.
 - **Synteettiset opioidit** – fentanyyli, karfentaniili ja nitatseenit – voivat vaatia suuriakin annoksia (jopa 10 mg). Buprenorfiinin aiheuttamaa hengityslamaa voi olla vaikea kumota suurillakaan annoksilla.
 - Jos vastetta ei saada vielä 10 mg:n jälkeen, opioidimyrkytys on epätodennäköinen – etsi muu syy.
+
+```media
+{"widget":"intranasal-dose","initial":"nalox","caption":"Laske nenään annettavan naloksonin tilavuus painon mukaan – ja vertaa muihin nenän kautta annettaviin lääkkeisiin."}
+```
 
 ## Huomioitavaa
 

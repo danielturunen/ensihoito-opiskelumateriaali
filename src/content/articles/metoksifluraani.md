@@ -19,6 +19,10 @@ Ensihoidossa metoksifluraania käytetään **hengitettävänä kipulääkkeenä*
 
 Koska potilas annostelee lääkkeen itse, hänen on pystyttävä tekemään yhteistyötä. Kipulääkityksen rinnalla raajavamman hyvä tukeminen vähentää kipua ja samalla muiden kipulääkkeiden tarvetta (ks. [kivunhoito](topic:kivunhoito)).
 
+```media
+{"widget":"analgesic-curves","initial":"metox","caption":"Metoksifluraani vaikuttaa nopeasti ja lyhyesti – vertaa opioideihin ja seuraa, milloin vaikutus loppuu."}
+```
+
 ## Vasta-aiheet
 
 - **Epävakaa hemodynamiikka** – epävakaalla potilaalla metoksifluraani voi laskea verenpainetta

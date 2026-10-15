@@ -10,6 +10,10 @@ Natriumkloridi 0,9 % eli **fysiologinen keittosuolaliuos** on isotoninen kristal
 
 Hypotoniset nesteet voivat aiheuttaa hyponatremiaa ja pahentaa aivoturvotusta. Siksi aivovammapotilaan nesteiden on oltava natriumin suhteen isotonisia (NaCl 0,9 % tai Ringer). Glukoosipitoisia nesteitä ei käytetä hypovolemian korjaukseen, vaan ainoastaan energiantarpeen korvaukseen.
 
+```media
+{"widget":"tonicity","caption":"Vaihda nestettä ja katso, mihin vesi siirtyy: isotoninen jää solunulkoiseen tilaan, hypotoninen turvottaa solut ja hypertoninen kutistaa ne."}
+```
+
 ## Käyttöaiheet
 
 - **Nesteytys hypovolemiassa ja sokissa** Ringerin liuoksen vaihtoehtona (ks. [sokki](topic:sokki))

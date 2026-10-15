@@ -15,6 +15,10 @@ Sairaalassa klopidogreelia käytetään sepelvaltimotautikohtauksen jälkeen ASA
 > [!warning] Ensihoidossa harvoin
 > ADP-reseptorin salpaajia ei yleensä aloiteta ensihoidossa ennen sepelvaltimoiden varjoainekuvausta. Poikkeuksia ovat PCI-kuljetukseen lähtevä ST-nousuinfarktipotilas, liuotushoito ja ASA-allerginen potilas alueellisen ohjeen mukaan (ks. [rintakipu ja AKS](topic:rintakipu-ja-aks)).
 
+```media
+{"widget":"platelet-block","initial":"p2y12","caption":"Klopidogreeli salpaa ADP-reseptorin (P2Y12) – vertaa ASA:han ja kaksoisestohoitoon ja katso, miten vaikutuksen alku ja palautuminen eroavat tikagrelorista."}
+```
+
 ## Annostus
 
 | Lähde | Annos |

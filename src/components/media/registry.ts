@@ -150,6 +150,16 @@ export const widgetMeta: Record<string, WidgetMeta> = {
   'exam-abdomen': { title: 'Akuutin vatsan tutkiminen', kind: 'Animaatio' },
   'exam-log-roll': { title: 'Blokkikääntö ja rangan palpaatio', kind: 'Animaatio' },
   'exam-myotomes': { title: 'Avainlihakset ja heijasteet', kind: 'Animaatio' },
+  'antidote-receptor': { title: 'Vastalääke reseptorilla', kind: 'Animaatio' },
+  'analgesic-curves': { title: 'Kipulääkkeen vaikutuksen alku ja kesto', kind: 'Animaatio' },
+  'platelet-block': { title: 'Verihiutale-estäjät: kaksi aktivaatioreittiä', kind: 'Animaatio' },
+  fibrinolysis: { title: 'Hyytymä, plasmiini ja kaksi vastakkaista lääkettä', kind: 'Animaatio' },
+  adrenergic: { title: 'Adrenergiset reseptorit: α, β1 ja β2', kind: 'Animaatio' },
+  'adenosine-bolus': { title: 'Adenosiini: miksi nopea bolus ja huuhtelu', kind: 'Animaatio' },
+  'tca-bicarbonate': { title: 'Trisyklinen myrkytys: QRS ja bikarbonaatti', kind: 'Harjoitus' },
+  tonicity: { title: 'Infuusionesteiden tonisiteetti', kind: 'Animaatio' },
+  'charcoal-binding': { title: 'Lääkehiili sitoo suolistossa', kind: 'Animaatio' },
+  'intranasal-dose': { title: 'Intranasaalinen anto: annos ja tilavuus', kind: 'Laskuri' },
 }
 
 const cache = new Map<string, LazyExoticComponent<ComponentType<WidgetProps>>>()

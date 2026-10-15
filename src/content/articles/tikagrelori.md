@@ -28,6 +28,10 @@ Käypä hoidon mukaan tikagrelori estää sydäninfarkteja ja stenttitrombooseja
 > [!info] Lähteiden ero
 > Käypä hoidon mukaan tikagrelorin vaikutus häviää yleensä kolmessa vuorokaudessa. Akuuttihoidon lääkkeiden mukaan antitromboottinen vaikutus on poistunut täysin seitsemässä vuorokaudessa, ja ennen elektiivistä leikkausta lääke tauotetaan kardiologin ohjeella viisi vuorokautta.
 
+```media
+{"widget":"platelet-block","initial":"p2y12","caption":"Tikagrelori salpaa ADP-reseptorin palautuvasti, klopidogreeli palautumattomasti – vertaa vaikutuksen alkua ja kestoa."}
+```
+
 ## Vasta-aiheet ja haittavaikutukset
 
 **Vasta-aiheet**: aktiivinen verenvuoto tai merkittävä verenvuototaipumus sekä keskivaikea tai vaikea maksan vajaatoiminta.

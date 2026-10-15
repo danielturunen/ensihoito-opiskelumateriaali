@@ -19,6 +19,10 @@ Lisäksi:
 - **Aikuisen vaikea aivovamma** ensihoitolääkärin konsultaation perusteella (ks. [pään vamma](topic:paan-vamma))
 - Nenäverenvuodossa tamponit voidaan kostuttaa traneksaamihappo-injektionesteellä.
 
+```media
+{"widget":"fibrinolysis","initial":"txa","caption":"Vuotavassa vammapotilaassa plasmiini hajottaa hyytymää – traneksaamihappo estää sen. Vertaa liuotushoitoon, joka toimii päinvastoin."}
+```
+
 ## Annostus
 
 | Tilanne | Annos |

@@ -30,6 +30,10 @@ Lisäksi **vastasyntyneen pitkittyneessä elvytyksessä** sitä voidaan harkita,
 > [!info] Lähteiden ero
 > Intoksikaatio-oppaassa annos ilmoitetaan 8,4-prosenttisena liuoksena (50–100 ml = 50–100 mmol). Suomessa käytössä oleva valmiste on 7,5-prosenttinen, jolloin 50–100 ml sisältää noin 45–90 mmol.
 
+```media
+{"widget":"tca-bicarbonate","caption":"Anna bikarbonaattia erissä ja seuraa QRS:ää ja pH:ta trisyklisen masennuslääkkeen myrkytyksessä. Arvot ovat havainnollistavia."}
+```
+
 ## Varoitukset
 
 > [!warning] Kalsium ja bikarbonaatti eri reittiä

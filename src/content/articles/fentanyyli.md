@@ -28,6 +28,10 @@ Akuuttihoidon lääkkeiden yleisohjeessa aloitusannos on alle 70-vuotiaalle ja y
 {"widget":"analgesia","caption":"Säädä kivun voimakkuutta ja potilaan tilaa – milloin lyhytvaikutteinen opioidi on perusteltu valinta? Annokset tarkistetaan aina oman alueen hoito-ohjeesta."}
 ```
 
+```media
+{"widget":"intranasal-dose","initial":"fenta","caption":"Laske nenään annettavan fentanyylin annos ja tilavuus painon mukaan – montako millilitraa sierainta kohden ja tarvitaanko useampi antokerta."}
+```
+
 ## Vasta-aiheet ja varoitukset
 
 - **Korjaamaton hypovolemia ja hypotensio** – hypovolemiassa annosta pienennetään merkittävästi

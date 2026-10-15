@@ -83,6 +83,10 @@ Eteisvärinä on yleisin rytmihäiriö (2-4 % aikuisista): eteisten sähköinen 
 
 Paroksysmaalinen supraventrikulaarinen takykardia (PSVT) on kohtauksittainen, kapeakompleksinen takykardia, joka johtuu yleisimmin eteis-kammiosolmukkeen sisäisestä kiertoaktivaatiosta. WPW-oireyhtymässä eteisten ja kammioiden välillä on ylimääräinen oikorata, joka voi näkyä normaalissa EKG:ssä delta-aaltona. PSVT pysäytetään vagaalisella stimulaatiolla ja tarvittaessa adenosiinilla.
 
+```media
+{"widget":"adenosine-bolus","caption":"Adenosiini hajoaa sekunneissa: vertaa nopeaa bolusta ja huuhtelua hitaaseen ruiskutukseen."}
+```
+
 - PSVT on **pienten lasten yleisin rytmihäiriö**, mutta sitä tavataan kaikenikäisillä. Kohtaus alkaa äkisti, usein lisälyönnin tai vagaalisen heijasteen laukaisemana, ja voi kestää sekunneista päiviin. Potilaalla on usein ollut kohtauksia aiemmin, ja hän voi osata omia "temppujaan" rytmin kääntämiseksi. Sydänsairaalla PSVT voi aiheuttaa rintakipua ja epävakautta.
 - EKG: kapea, **hyvin säännöllinen** QRS, taajuus yleensä 150–200/min, P-aaltoja ei yleensä näy (tai ne ovat retrogradisia).
 - **AVNRT**: kiertoaktivaatio AV-solmukkeen kahden radan (hidas ja nopea) välillä; tavallisimmassa muodossa (80–90 %) P-aalto piiloutuu QRS:ään. **AVRT/WPW**: ylimääräinen oikorata eteisten ja kammioiden välillä – kohtausten välillä lyhyt PQ ja delta-aalto (pre-eksitaatio).

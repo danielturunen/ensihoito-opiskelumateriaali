@@ -49,8 +49,16 @@ Arvioinnin lähtökohta on **potilaan oma kokemus**: voimakkuus, kesto, laatu ja
 - Opioidin aiheuttamaa pahoinvointia hoidetaan tarvittaessa lääkkeellisesti, esim. [ondansetronilla](topic:ondansetroni).
 - **Raajavammoissa hyvä tukeminen** vähentää kipua ja samalla opioidien tarvetta. Käypä hoidossa lääkkeettömät hoidot ovat pitkäaikaisen kivun hoidon perusta (mm. liikunta, kylmä- ja lämpöhoito, TENS).
 
+```media
+{"widget":"analgesic-curves","caption":"Vertaa kipulääkkeiden vaikutuksen alkua, huippua ja kestoa – miksi lyhytvaikutteinen opioidi sopii, kun tajunnan tasoa pitää pystyä arvioimaan?"}
+```
+
 > [!warning] Opioidi = monitoroitu kuljetus
 > Akuuttiin kipuun ensihoidossa annettu opioidi edellyttää aina potilaan kuljettamista ambulanssilla monitoroituna. Huomioi mahdollinen **lääketoleranssi**: syöpäpotilaat ja muut pitkäaikaisesta kivusta kärsivät, opioideja väärin käyttävät ja opioidikorvaushoitoa saavat tarvitsevat usein tavallista suuremman annoksen.
+
+```media
+{"widget":"intranasal-dose","caption":"Kun suoniyhteyttä ei ole: laske nenään annettavan lääkkeen tilavuus ja jako sieraimiin."}
+```
 
 Kivunhoito ei peitä diagnoosia: esimerkiksi akuutissa vatsassa kivunhoito ei heikennä diagnostiikkaa, kunhan tajunta ei merkittävästi laske (ks. [akuutti vatsa](topic:akuutti-vatsa)).
 

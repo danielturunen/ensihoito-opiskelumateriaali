@@ -29,6 +29,10 @@ Morfiinin on kuvattu myös laajentavan verisuonia, hidastavan sykettä ja heiken
 - **Ota yhteys ensihoitolääkäriin**, jos aikuisen oksikodoni- tai morfiinitarve on yli 10 mg tai lapsen yli 0,3 mg/kg (Ensihoito-opas).
 - ETC:n trauma-annos on 0,03–0,1 mg/kg i.v. (2–8 mg), toistettuna 5–10 minuutin välein.
 
+```media
+{"widget":"analgesic-curves","initial":"morf","caption":"Vertaa morfiinin, fentanyylin ja metoksifluraanin vaikutuksen alkua, huippua ja kestoa – ja mieti, milloin lisäannoksen vaikutus ehtii näkyä."}
+```
+
 ## Vasta-aiheet ja varoitukset
 
 > [!warning] Akuutti sepelvaltimotautikohtaus

@@ -59,6 +59,10 @@ Kun ainetta ei tiedetä, oireyhtymän tunnistaminen auttaa suuntaamaan hoitoa.
 
 Lääkehiili **ei tehoa** alkoholeihin, metalleihin (rauta, litium), syanidiin eikä happoihin tai emäksiin. Sitä ei anneta, jos tajunta on alentunut eikä ilmatietä ole varmistettu (aspiraatioriski), eikä syövyttävän aineen nielemisen jälkeen – se peittäisi tähystysnäkymän ja ei suojaa limakalvovauriolta.
 
+```media
+{"widget":"charcoal-binding","caption":"Kokeile aikaa ja ainetta: milloin lääkehiilestä on hyötyä ja mihin se ei tehoa."}
+```
+
 ## Keskeiset antidootit
 
 | Antidootti | Käyttöaihe | Huomioitavaa |
@@ -81,6 +85,10 @@ Lääkehiili **ei tehoa** alkoholeihin, metalleihin (rauta, litium), syanidiin e
 {"left":"Flumatseniili","right":"Puhdas bentsodiatsepiinimyrkytys"},
 {"left":"Glukoosi (tiamiini ensin)","right":"Hypoglykemia alkoholin suurkuluttajalla"}
 ]}
+```
+
+```media
+{"widget":"tca-bicarbonate","caption":"Trisyklinen masennuslääke salpaa sydämen natriumkanavia ja leventää QRS:ää. Anna bikarbonaattia erissä ja seuraa QRS:ää ja pH:ta – arvot ovat havainnollistavia."}
 ```
 
 > [!danger] Henkeä uhkaava
@@ -107,6 +115,10 @@ Tavoitteet: ensiarvio ja työdiagnoosi 5 min, aiheuttajan selvitys ja vasta-aine
 | Imeytymisen esto | Lääkehiili juottamalla, jos GCS yli 13 |
 
 Vasta-aineella herätetty voi mennä uudelleen tajuttomaksi – annoksia voidaan tarvita toistuvasti. Ilman intubaatiota kuljetettavalla huolehditaan aspiraation estosta (kylkiasento, imuvalmius). Myrkytyspotilas kuljetetaan; poikkeuksena yli 18-vuotias, joka on pelkästään alkoholin vaikutuksen alainen ja herää ja toimintakyky palautuu. Alaikäisen kohdalla liitetään sosiaalipäivystys.
+
+```media
+{"widget":"antidote-receptor","caption":"Antidootti syrjäyttää myrkyn reseptorilta, mutta poistuu usein ennen sitä – siksi hengityslama voi uusiutua. Vaihda opioidin ja bentsodiatsepiinin välillä."}
+```
 
 > [!info] Lähteiden ero
 > Ensihoito-opas sallii flumatseniilin, kun muiden lääkkeiden osuus on varmasti poissuljettu; muu oppimateriaali neuvoo välttämään sitä ensihoidossa kouristusriskin vuoksi. Yhteistä on: ei sekamyrkytyksessä.

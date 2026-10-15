@@ -73,6 +73,10 @@ ETC korostaa, että **sallittu hypotensio on lyhytaikainen keino**: kun vuoto on
 > [!important] Lähteiden ero: yksittäinen aivovamma
 > ETC:n mukaan traneksaamihapon voi antaa turvallisesti potilaalle, jolla on myös pään vamma, mutta se **ei ole aiheellinen, jos aivovamma on ainoa vamma**. Sivuston suomalaisissa lähteissä traneksaamihappoa 1 g annetaan myös aikuisen vaikean aivovamman epäilyssä ([tylppä vamma](topic:tylppa-vamma)). Noudata alueen hoito-ohjetta.
 
+```media
+{"widget":"fibrinolysis","initial":"bleed","caption":"Vammassa fibrinolyysi lisääntyy ja hyytymä hajoaa – traneksaamihappo estää plasmiinia, jotta hyytymä pitää."}
+```
+
 - **Kiristysside** pidetään paikallaan mahdollisimman lyhyen ajan – **ei missään tapauksessa yli kahta tuntia** – kunnes vuoto on hallittu kirurgisesti tai toimenpideradiologisesti. Ennen kiristyssidettä ETC:n porrastus on suora paine ja raajan kohoasento, painesidos, toinen sidos ja hemostaattinen sidos.
 - **Vasokonstriktorit:** asiaankuulumaton käyttö vuotavalla potilaalla **kaksinkertaistaa kuolleisuuden**. Niitä voidaan kuitenkin tarvita selkäydin- tai aivovammassa.
 - **Lämpö:** tavoite yli 36 °C – märät vaatteet ja lakanat pois, lämpimät nesteet ja verivalmisteet, lämpöpeitot.

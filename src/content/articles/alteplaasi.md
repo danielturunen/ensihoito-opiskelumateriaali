@@ -11,6 +11,10 @@ Akuuttihoidon lääkkeiden ensihoito-ohjeissa liuotuslääke on kerta-boluksena 
 - **Akuutti ST-nousuinfarkti**, kun hoito päästään aloittamaan alle 6 tunnin kuluessa oireiden alusta
 - Tukkeutuneiden keskuslaskimokatetrien avaaminen (erillinen 2 mg:n valmiste)
 
+```media
+{"widget":"fibrinolysis","caption":"Liuotuslääke aktivoi plasmiinin, joka pilkkoo hyytymän fibriinin – sama mekanismi selittää vuotoriskin. Vertaa traneksaamihappoon, joka vaikuttaa päinvastoin."}
+```
+
 ## Annostus
 
 | Käyttöaihe | Annostus (Akuuttihoidon lääkkeet) |

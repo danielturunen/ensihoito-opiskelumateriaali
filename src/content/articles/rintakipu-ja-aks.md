@@ -141,6 +141,10 @@ Jos EKG:ssä on iskeemisiä muutoksia (ST-laskuja), verenkierto on epävakaa tai
 
 ADP-reseptorin salpaajia ([klopidogreeli](topic:klopidogreeli), [tikagrelori](topic:tikagrelori)) ei aloiteta ensihoidossa ennen angiografiaa – poikkeuksena PCI-kuljetukseen lähtevä STEMI-potilas.
 
+```media
+{"widget":"platelet-block","initial":"dapt","caption":"ASA salpaa tromboksaanireitin, klopidogreeli ja tikagrelori ADP-reseptorin – kaksoisestohoito salpaa molemmat."}
+```
+
 ## EKG-löydökset ja verikokeet
 
 | EKG-löydös | Viittaa |
