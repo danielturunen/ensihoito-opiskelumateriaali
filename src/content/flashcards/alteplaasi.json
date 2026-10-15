@@ -1,0 +1,9 @@
+[
+  {"id": "alteplaasi-f1", "front": "Alteplaasin vaikutus", "back": "Kudostyypin plasminogeenin aktivaattori – plasmiini liuottaa fibriinihyytymän."},
+  {"id": "alteplaasi-f2", "front": "Alteplaasin puoliintumisaika", "back": "4–5 minuuttia – annetaan bolus + infuusio, vaikutus häviää nopeasti."},
+  {"id": "alteplaasi-f3", "front": "Alteplaasi aivoinfarktissa", "back": "0,9 mg/kg (enintään 90 mg): 10 % boluksena 2–3 min, loput tunnin infuusiona."},
+  {"id": "alteplaasi-f4", "front": "Alteplaasi keuhkoemboliassa", "back": "10 mg bolus 1–2 min + 90 mg infuusiona 2 tunnissa (alle 65 kg enintään 1,5 mg/kg)."},
+  {"id": "alteplaasi-f5", "front": "Alteplaasihoidon seuranta", "back": "Verenpaine alle 180/110 ennen aloitusta, rytmi ja vuodot, punktiokielto infuusion aikana."},
+  {"id": "alteplaasi-f6", "front": "Vuoto alteplaasihoidon aikana", "back": "Lopeta infuusio, korvaa tilavuus, paina vuotokohtaa, tarvittaessa hyytymistekijät."},
+  {"id": "alteplaasi-f7", "front": "Alteplaasin vasta-aiheet", "back": "Vakava vuoto, aiempi aivoverenvuoto, aivokasvain, tuore vamma tai leikkaus, aortan dissekaatio, kontrolloimaton hypertensio."}
+]

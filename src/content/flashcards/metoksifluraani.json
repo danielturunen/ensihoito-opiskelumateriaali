@@ -1,6 +1,9 @@
 [
-  {"id": "metoksifluraani-f1", "front": "Metoksifluraani", "back": "Hengitettävä kipulääke (Penthrox), aiemmin anestesiakaasu."},
-  {"id": "metoksifluraani-f2", "front": "Metoksifluraanin käyttöaihe", "back": "Erityisesti vammapotilaan kipu."},
-  {"id": "metoksifluraani-f3", "front": "Kuka annostelee metoksifluraanin?", "back": "Potilas itse hengittämällä – vaatii yhteistyökykyä."},
-  {"id": "metoksifluraani-f4", "front": "Kipulääke ilman suoniyhteyttä", "back": "Intranasaalinen fentanyyli tai esketamiini tai hengitettävä metoksifluraani."}
+  {"id": "metoksifluraani-f1", "front": "Metoksifluraani", "back": "Hengitettävä kipulääke (Penthrox), fluoripitoinen anestesiakaasu – kivunhoitoon pieninä pitoisuuksina."},
+  {"id": "metoksifluraani-f2", "front": "Metoksifluraanin käyttöaihe", "back": "Tajuissaan oleva, hemodynaamisesti vakaa, yli 18-vuotias vammapotilas, kipu VAS ≥ 4."},
+  {"id": "metoksifluraani-f3", "front": "Metoksifluraanin annos", "back": "3 ml kerta-annos, toistetaan tarvittaessa kerran (enintään 6 ml); enintään 15 ml viikossa."},
+  {"id": "metoksifluraani-f4", "front": "Metoksifluraanin vaikutus", "back": "Alkaa 6–10 hengenvedon (1–3 min) jälkeen, yksi annos riittää noin 15–30 minuutiksi."},
+  {"id": "metoksifluraani-f5", "front": "Metoksifluraanin vasta-aiheet", "back": "Epävakaa hemodynamiikka, hengitysvajaus, heikentynyt tajunta, maksan tai munuaisten vajaatoiminta, allergia, maligni hypertermia."},
+  {"id": "metoksifluraani-f6", "front": "Metoksifluraanin haitat", "back": "Huimaus, uneliaisuus, yskiminen, pahoinvointi; päihtyneellä keskushermostolama voimistuu."},
+  {"id": "metoksifluraani-f7", "front": "Kuka annostelee metoksifluraanin?", "back": "Potilas itse – hengittää sisään ja ulos inhalaattorin kautta vasteen mukaan."}
 ]

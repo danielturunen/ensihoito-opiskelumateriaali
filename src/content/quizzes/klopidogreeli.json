@@ -10,10 +10,23 @@
       "Fibrinolyytit"
     ],
     "correctIndex": 1,
-    "explanation": "Klopidogreeli on suun kautta annettava ADP-reseptorin salpaaja eli verihiutale-estäjä."
+    "explanation": "Klopidogreeli on suun kautta annettava palautumaton ADP-reseptorin salpaaja eli verihiutale-estäjä."
   },
   {
     "id": "klopidogreeli-q2",
+    "type": "mcq",
+    "question": "Mikä on klopidogreelin annos ensihoidossa liuotushoidon yhteydessä Akuuttihoidon lääkkeiden mukaan?",
+    "options": [
+      "600 mg kaikille",
+      "Enintään 75-vuotiaalle 300 mg, yli 75-vuotiaalle 75 mg suun kautta",
+      "75 mg kaikille laskimoon",
+      "1 200 mg kerran"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ensihoidossa annos on ikäporrastettu: enintään 75-vuotiaalle 300 mg ja yli 75-vuotiaalle 75 mg p.o."
+  },
+  {
+    "id": "klopidogreeli-q3",
     "type": "mcq",
     "question": "Kenelle klopidogreeli on ensisijainen ADP-reseptorin salpaaja Käypä hoidon mukaan?",
     "options": [
@@ -26,20 +39,20 @@
     "explanation": "Klopidogreeli aiheuttaa vähemmän verenvuotoja, joten se on ensisijainen suuren vuotoriskin potilailla."
   },
   {
-    "id": "klopidogreeli-q3",
+    "id": "klopidogreeli-q4",
     "type": "mcq",
-    "question": "Kuinka nopeasti klopidogreelin vaikutus alkaa latausannoksesta?",
+    "question": "Mikä mahansuojalääke heikentää klopidogreelin tehoa?",
     "options": [
-      "Noin minuutissa",
-      "Noin 30 minuutissa",
-      "Noin 3–6 tunnissa",
-      "Noin viikossa"
+      "Pantopratsoli",
+      "Omepratsoli",
+      "Sukralfaatti",
+      "Mikään ei vaikuta"
     ],
-    "correctIndex": 2,
-    "explanation": "Prasugreelin ja tikagrelorin vaikutus alkaa noin ½–2 tunnissa, klopidogreelin noin 3–6 tunnissa latausannoksesta."
+    "correctIndex": 1,
+    "explanation": "Omepratsoli ja esomepratsoli voivat heikentää klopidogreelin vaikutusta; pantopratsoli on parempi valinta."
   },
   {
-    "id": "klopidogreeli-q4",
+    "id": "klopidogreeli-q5",
     "type": "truefalse",
     "question": "Ensihoidon liuotushoidossa potilas saa ASA:n lisäksi klopidogreelia.",
     "options": [
@@ -47,30 +60,17 @@
       "Väärin"
     ],
     "correctIndex": 0,
-    "explanation": "Oikein. Liuotushoidossa annetaan sekä verihiutale-estäjiä (kaikille ASA ja klopidogreeli) että antikoagulantti ja liuotuslääke."
+    "explanation": "Oikein. Liuotushoidossa annetaan sekä verihiutale-estäjiä (ASA ja klopidogreeli) että antikoagulantti ja liuotuslääke."
   },
   {
-    "id": "klopidogreeli-q5",
+    "id": "klopidogreeli-q6",
     "type": "truefalse",
-    "question": "Opioidit tehostavat suun kautta annetun klopidogreelin vaikutusta.",
+    "question": "Klopidogreelin vaikutus häviää muutamassa tunnissa lääkkeen lopettamisen jälkeen.",
     "options": [
       "Oikein",
       "Väärin"
     ],
     "correctIndex": 1,
-    "explanation": "Väärin. Opioidit hidastavat mahalaukun tyhjenemistä ja heikentävät suun kautta otettavien antitromboottisten lääkkeiden tehoa."
-  },
-  {
-    "id": "klopidogreeli-q6",
-    "type": "mcq",
-    "question": "Mikä on klopidogreelin latausannos Käypä hoidon mukaan?",
-    "options": [
-      "75 mg",
-      "150 mg",
-      "600 mg",
-      "1 200 mg"
-    ],
-    "correctIndex": 2,
-    "explanation": "Käypä hoito: latausannos 600 mg suun kautta, jatkossa 75 mg kerran päivässä. Opiskelumuistiinpanoissa esiintyy myös 300 mg:n annos."
+    "explanation": "Väärin. Vaikutus on palautumaton, ja verihiutaleiden toiminta palautuu yleensä viidessä vuorokaudessa."
   }
 ]

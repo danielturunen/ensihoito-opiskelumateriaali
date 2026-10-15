@@ -4,6 +4,8 @@
   {"id": "natriumkloridi-f3", "front": "Aivovammapotilaan neste", "back": "Isotoninen (NaCl 0,9 % tai Ringer); hypotoniset nesteet pahentavat aivoturvotusta."},
   {"id": "natriumkloridi-f4", "front": "Hyperkalemia ja infuusioneste", "back": "NaCl 0,9 % – Ringerissä on kaliumia."},
   {"id": "natriumkloridi-f5", "front": "Keittosuolan haitat suurina määrinä", "back": "Hyperkloreeminen asidoosi, munuaisongelmat, hyytymistekijöiden laimeneminen."},
-  {"id": "natriumkloridi-f6", "front": "Amiodaronin laimennus", "back": "Glukoosiliuokseen, ei keittosuolaan."},
-  {"id": "natriumkloridi-f7", "front": "Keittosuola kostutukseen", "back": "Haavat ja silmävammat peitetään keittosuolalla kostutetuilla steriileillä taitoksilla."}
+  {"id": "natriumkloridi-f6", "front": "Amiodaronin laimennus", "back": "Sairaalassa glukoosiliuokseen; ensihoidon lyhyessä infuusiossa NaCl 0,9 käy, jos pitoisuus vähintään 2 mg/ml (300 mg / 100 ml)."},
+  {"id": "natriumkloridi-f7", "front": "Mahaeritteen menetys (oksentelu)", "back": "Korvataan NaCl 0,9 %:lla (alkaloosi); suolisto-, sappi- ja haimaeritteet ja ripuli Ringerillä."},
+  {"id": "natriumkloridi-f8", "front": "Nestetyypit", "back": "Isotoninen: ei muuta osmolaliteettia; hypotoninen: solut turpoavat; hypertoninen: vettä soluista ulos."},
+  {"id": "natriumkloridi-f9", "front": "Keittosuola kostutukseen", "back": "Haavat ja silmävammat peitetään keittosuolalla kostutetuilla steriileillä taitoksilla."}
 ]

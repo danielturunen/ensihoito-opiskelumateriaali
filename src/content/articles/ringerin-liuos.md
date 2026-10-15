@@ -14,10 +14,23 @@ Toisin kuin [fysiologisessa keittosuolassa](topic:natriumkloridi), Ringerin liuo
 - **Oikean kammion infarkti**: potilas tarvitsee nestettä, ei nitraattia (ks. [rintakipu ja AKS](topic:rintakipu-ja-aks))
 - **Kardiogeenisen sokin koenesteytys**: Ringeriä 100–200 ml kerran tai kahdesti, tarvittaessa noradrenaliini
 - **Lapsen sokki**: 20 ml/kg Ringeriä tai 0,9-prosenttista keittosuolaa
+- **Ripuli sekä suolisto-, sappi- ja haimaeritteiden menetys**: Akuuttihoitotyön oppaan mukaan nämä menetykset aiheuttavat asidoosia ja korvataan Ringerillä; oksennuksen ja mahaeritteen menetys (alkaloosi) korvataan keittosuolalla.
+
+## Hypovolemian tunnistaminen
+
+Hypovolemia tarkoittaa kiertävän verimäärän vajausta, joka heikentää kudosten verenkiertoa. Se voi kehittyä nopeasti suuressa vuodossa, hitaasti esimerkiksi oksentelun aiheuttamassa kuivumisessa tai turvotusten kautta, kun nestettä siirtyy verenkierrosta kudoksiin. Akuuttihoitotyön oppaan mukaisia merkkejä ovat:
+
+- jano ja kuivat limakalvot
+- virtsanerityksen väheneminen
+- viileät ääreisosat
+- hengitystaajuuden ja sykkeen nousu, lankamainen pulssi
+- verenpaineen lasku
+- ihon kimmoisuuden heikkeneminen
+- uupumus ja väsymys
 
 ## Annostus
 
-Nestettä annetaan **erissä**, ja vaste arvioidaan jokaisen erän jälkeen: tajunta, syke, verenpaine, iho ja kapillaaritäyttö.
+Tavoitteena on **normovolemia** ilman ylinesteytystä. Nestettä annetaan **erissä**, ja vaste arvioidaan jokaisen erän jälkeen: tajunta, syke, verenpaine, iho, kapillaaritäyttö ja virtsaneritys. Nesteytyksen vaikutus voi näkyä hyvin nopeasti. Verenvuoto korvataan ensisijaisesti verituotteilla.
 
 | Tilanne | Määrä |
 |---|---|

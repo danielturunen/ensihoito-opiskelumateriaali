@@ -1,38 +1,40 @@
 ## Yleistä
 
-Metyyliprednisoloni on suonensisäisesti annettava **kortikosteroidi** (glukokortikoidi). Se hoitaa taustalla olevaa **tulehdusreaktiota**, joka aiheuttaa ja ylläpitää esimerkiksi keuhkoputkien supistumistaipumusta. Se ei avaa keuhkoputkia välittömästi, vaan vaikutus alkaa vasta **tuntien kuluessa** – käytännössä kortikosteroidi ei vielä vaikuta ensihoitovaiheen aikana. Siksi se annetaan **varhain** ja aina nopeasti vaikuttavan hoidon rinnalla, ei sen sijaan.
+Metyyliprednisoloni on suonensisäisesti tai lihakseen annettava **kortikosteroidi** (glukokortikoidi), prednisolonin metyylijohdannainen. Sillä on voimakas tulehdusta ja allergista reaktiota hillitsevä vaikutus, eikä se juuri kerää elimistöön natriumia. Lääke muodostaa solujen steroidireseptorien kanssa kompleksin, joka kulkeutuu tumaan ja muuttaa proteiinien tuotantoa. Vaikutus ei ole välitön, vaan alkaa vasta **tuntien kuluessa**. Käytännössä kortikosteroidi ei vielä vaikuta ensihoitovaiheen aikana, joten se annetaan **varhain** ja aina nopeasti vaikuttavan hoidon rinnalla, ei sen sijaan.
 
-Varhain aloitettu kortikosteroidi vähentää sairaalahoidon tarvetta ja estää astmakohtauksen pahenemista. Anafylaksiassa sen tehtävä on reaktion uusiutumisen estäminen. Ensihoito-oppaassa vaihtoehtoinen kortikosteroidi on hydrokortisoni.
+Varhain aloitettu kortikosteroidi vähentää sairaalahoidon tarvetta ja estää astmakohtauksen pahenemista. Anafylaksiassa sen tehtävä on reaktion uusiutumisen estäminen. Ensihoito-oppaassa vaihtoehtoinen kortikosteroidi on hydrokortisoni: **20 mg metyyliprednisolonia vastaa 100 mg hydrokortisonia**.
 
-## Käyttöaiheet
+## Käyttöaiheet ensihoidossa
 
-- **Astmakohtaus** ja **keuhkoahtaumataudin pahenemisvaihe** (ks. [astma ja COPD](topic:astma-ja-copd))
-- **Anafylaksia** ja vaikea allerginen reaktio – [adrenaliinin](topic:adrenaliini) jälkeen, reaktion uusiutumisen estämiseksi (ks. [ylähengitystien tukos ja anafylaksia](topic:ylahengitystien-tukos-anafylaksia))
+- **Akuutti astmakohtaus** ja **keuhkoahtaumataudin pahenemisvaihe** (ks. [astma ja COPD](topic:astma-ja-copd))
+- **Vakava allerginen reaktio ja anafylaksia** – [adrenaliinin](topic:adrenaliini) jälkeen, reaktion uusiutumisen estämiseksi (ks. [ylähengitystien tukos ja anafylaksia](topic:ylahengitystien-tukos-anafylaksia))
 - **Ylähengitysteiden turvotus**, esimerkiksi angioedeema, adrenaliinin, hapen ja nesteiden lisänä
 
 ## Annostus
 
-| Tilanne (Ensihoito-opas) | Metyyliprednisoloni | Vaihtoehto: hydrokortisoni |
+| Tilanne | Akuuttihoidon lääkkeet | Ensihoito-opas |
 |---|---|---|
-| Astmakohtaus | 40–80 mg i.v., lapselle 2 mg/kg | 250 mg i.v., lapselle 5 mg/kg |
-| Keuhkoahtaumataudin pahenemisvaihe | 40 mg i.v. kerta-annoksena | 250 mg i.v. |
-| Anafylaksia | 125 mg i.v., lapselle 2 mg/kg | 250–500 mg i.v., lapselle 5 mg/kg |
+| Vaikea astma | 40–62,5 mg i.v. | 40–80 mg i.v. (tai hydrokortisoni 250 mg) |
+| COPD:n pahenemisvaihe | – | 40 mg i.v. kerta-annoksena (tai hydrokortisoni 250 mg) |
+| Vaikea allerginen reaktio ja anafylaksia | 125 mg i.v. | 125 mg i.v. (tai hydrokortisoni 250–500 mg) |
+| Lapsi | 2 mg/kg | 2 mg/kg (hydrokortisoni 5 mg/kg) |
 
-- Keuhkoahtaumataudin Käypä hoidossa glukokortikoidi annetaan ensisijaisesti suun kautta (prednisoloni 40 mg viiden vuorokauden ajan). Metyyliprednisolonia 40 mg i.v. käytetään, jos potilas ei pysty nielemään.
-- Lapsen anafylaksiassa Lääkärin käsikirjan mukaan metyyliprednisoloni 2 mg/kg tai hydrokortisoni 10 mg/kg i.v. – **kokonaisannos ei saa ylittää aikuisen annosta**.
+- Lääkkeen voi antaa myös **lihakseen**.
+- Enintään 250 mg:n annokset annetaan laskimoon **injektiona vähintään 5 minuutin aikana**; kuiva-aine ja liuotin yhdistetään pakkauksen aktivaattoria painamalla.
+- Akuuttihoidon lääkkeiden mukaan lapsen annoksesta ja käytöstä konsultoidaan herkästi. Lapsen anafylaksiassa Lääkärin käsikirjan mukaan metyyliprednisoloni 2 mg/kg tai hydrokortisoni 10 mg/kg i.v. – **kokonaisannos ei saa ylittää aikuisen annosta**.
+- Keuhkoahtaumataudin Käypä hoidossa glukokortikoidi annetaan ensisijaisesti suun kautta (prednisoloni 40 mg viiden vuorokauden ajan); metyyliprednisolonia 40 mg i.v. käytetään, jos potilas ei pysty nielemään.
 
 ## Huomioitavaa
 
 > [!warning] Ei korvaa nopeaa hoitoa
-> Anafylaksiassa kortisoni ja antihistamiini eivät korvaa adrenaliinia, ja niiden vaikutus on hidas. Astmassa kortikosteroidi annetaan inhaloitavan keuhkoputkia laajentavan lääkityksen ([ipratropiumbromidi + salbutamoli](topic:ipratropium-salbutamoli)) rinnalla.
+> Anafylaksiassa adrenaliini on ensisijainen lääke – kortisoni ja antihistamiini eivät korvaa sitä, ja niiden vaikutus on hidas. Astmassa kortikosteroidi annetaan inhaloitavan keuhkoputkia laajentavan lääkityksen ([ipratropiumbromidi + salbutamoli](topic:ipratropium-salbutamoli)) rinnalla.
 
-> [!info] Lähdemateriaalin rajaus
-> Sivuston lähdemateriaali kuvaa metyyliprednisolonin käyttöaiheet ja annokset, mutta ei sen haittavaikutuksia tai vasta-aiheita. Tarkista ne valmisteyhteenvedosta ja oman alueen hoito-ohjeesta.
+**Varoitukset**: maha- tai pohjukaissuolihaava, Cushingin oireyhtymä ja yleisinfektio ilman asianmukaista mikrobilääkehoitoa. Haitat riippuvat annoksen suuruudesta ja hoidon kestosta. Hoidon aikana seurataan verensokeria.
 
 ## Muista tämä -kertaus
 
-- Kortikosteroidi: hoitaa tulehdusta, vaikutus alkaa vasta tuntien kuluessa
+- Kortikosteroidi: hillitsee tulehdusta ja allergiaa, vaikutus alkaa vasta tuntien kuluessa
 - Annetaan varhain, mutta aina nopean hoidon rinnalla (inhalaatiot, adrenaliini)
-- Astma 40–80 mg i.v., COPD 40 mg, anafylaksia 125 mg; lapsi 2 mg/kg
-- Vaihtoehto Ensihoito-oppaassa: hydrokortisoni 250 mg i.v. (lapsi 5 mg/kg)
-- Lapsen kokonaisannos ei saa ylittää aikuisen annosta
+- Astma 40–62,5 mg (Ensihoito-opas 40–80 mg), anafylaksia 125 mg i.v.; lapsi 2 mg/kg
+- 20 mg metyyliprednisolonia = 100 mg hydrokortisonia; voidaan antaa myös i.m.
+- Lapsen kokonaisannos ei saa ylittää aikuisen annosta; seuraa verensokeria

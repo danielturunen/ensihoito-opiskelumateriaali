@@ -15,31 +15,44 @@
   {
     "id": "metoprololi-q2",
     "type": "mcq",
-    "question": "Mikä on metoprololin kerta-annos Ensihoito-oppaan mukaan?",
+    "question": "Mikä on metoprololin annos oireisessa nopeassa eteisvärinässä Akuuttihoidon lääkkeiden mukaan?",
     "options": [
       "50 mg i.v.",
-      "1–2 mg i.v. kerta-annoksina",
+      "1–2,5 mg i.v. hitaasti, jos systolinen paine yli 100 mmHg; voidaan toistaa 5 minuutin välein",
       "0,1 mg/kg i.m.",
       "100 mg suun kautta"
     ],
     "correctIndex": 1,
-    "explanation": "Ensihoito-opas: metoprololi 1–2 mg kerta-annoksina i.v."
+    "explanation": "Akuuttihoidon lääkkeet: 1–2,5 mg i.v. hitaana injektiona, jos systolinen paine on yli 100 mmHg. Ensihoito-opas: 1–2 mg kerta-annoksina."
   },
   {
     "id": "metoprololi-q3",
     "type": "mcq",
-    "question": "Kenelle AKS-potilaalle metoprololi sopii?",
+    "question": "Miksi kuumeinen, kuivunut potilas ei saa metoprololia nopeaan sykkeeseen?",
     "options": [
-      "Hypotensiiviselle, bradykardiselle potilaalle",
-      "Takykardiselle potilaalle, jonka verenpaine on normaali tai korkea nitraatin ja kivunhoidon jälkeen",
-      "Kardiogeenisessa sokissa olevalle",
-      "Kaikille rutiinisti"
+      "Metoprololi nostaa kuumetta",
+      "Nopea syke ylläpitää verenkiertoa, ja sen hidastaminen voi romahduttaa verenpaineen",
+      "Metoprololi ei imeydy kuivuneelle",
+      "Kuume tehostaa metoprololin vaikutusta kymmenkertaiseksi"
     ],
     "correctIndex": 1,
-    "explanation": "Beetasalpausta käytetään hyperdynaamiselle potilaalle, jolla on merkittävä takykardia ja normo- tai hypertensio. Rutiinimainen beetasalpaus ei paranna ennustetta."
+    "explanation": "Infektio, kuume, kuivuma ja verenvuoto ovat ensihoidon vasta-aiheita, koska takykardia on niissä kompensaatiota."
   },
   {
     "id": "metoprololi-q4",
+    "type": "mcq",
+    "question": "Mikä lääke voimistaa metoprololin sykettä hidastavaa vaikutusta?",
+    "options": [
+      "Parasetamoli",
+      "Verapamiili",
+      "Salbutamoli",
+      "Adrenaliini"
+    ],
+    "correctIndex": 1,
+    "explanation": "Verapamiili ja diltiatseemi voimistavat metoprololin negatiivista ino- ja kronotrooppista vaikutusta."
+  },
+  {
+    "id": "metoprololi-q5",
     "type": "truefalse",
     "question": "Kardiogeenisessa sokissa metoprololi on hyvä keino hidastaa nopeaa sykettä.",
     "options": [
@@ -47,10 +60,10 @@
       "Väärin"
     ],
     "correctIndex": 1,
-    "explanation": "Väärin. Kardiogeenisessa sokissa nopea syke voi olla viimeinen keino ylläpitää verenpainetta, ja beetasalpaus voi romahduttaa sen."
+    "explanation": "Väärin. Kardiogeeninen sokki on vasta-aihe: nopea syke voi olla viimeinen keino ylläpitää verenpainetta."
   },
   {
-    "id": "metoprololi-q5",
+    "id": "metoprololi-q6",
     "type": "truefalse",
     "question": "Oireetonta eteisvärinää ei pyritä rutiinisti hidastamaan hoitolaitoksen ulkopuolella.",
     "options": [
@@ -58,19 +71,6 @@
       "Väärin"
     ],
     "correctIndex": 0,
-    "explanation": "Oikein. Ensihoito-oppaan mukaan nopeaa eteisvärinää hidastetaan, jos se aiheuttaa iskemiaa, rintakipua tai vajaatoiminnan hengenahdistusta."
-  },
-  {
-    "id": "metoprololi-q6",
-    "type": "mcq",
-    "question": "Millä lääkkeellä hoidetaan vaikeaa beetasalpaajamyrkytystä, kun atropiini ja nesteet eivät auta?",
-    "options": [
-      "Naloksonilla",
-      "Flumatseniililla",
-      "Glukagonilla lääkärin konsultaation perusteella",
-      "Lääkehiilellä laskimoon"
-    ],
-    "correctIndex": 2,
-    "explanation": "Vaikeassa beetasalpaajamyrkytyksessä voidaan antaa glukagonia lääkärin konsultaation perusteella."
+    "explanation": "Oikein. Nopeaa eteisvärinää hidastetaan, jos se aiheuttaa iskemiaa, rintakipua, hengenahdistusta tai muuta selvää oiretta."
   }
 ]

@@ -1,10 +1,12 @@
 [
-  {"id": "adrenaliini-f1", "front": "Adrenaliini elvytyksessä (aikuinen)", "back": "1 mg i.v./i.o. nopeana boluksena 3–5 minuutin välein."},
-  {"id": "adrenaliini-f2", "front": "Adrenaliinin ajoitus elvytyksessä", "back": "Ei-iskettävä rytmi: heti suoniyhteyden avauduttua; iskettävä rytmi: 3. iskun jälkeen."},
-  {"id": "adrenaliini-f3", "front": "Adrenaliini lapsen elvytyksessä", "back": "0,01 mg/kg (enintään 1 mg) i.v./i.o. 3–5 minuutin välein."},
-  {"id": "adrenaliini-f4", "front": "Adrenaliini anafylaksiassa (aikuinen)", "back": "0,5 mg i.m. reiteen (Akuuttihoito-opas 0,3–0,5 mg), alle 5 minuutissa; i.v. 0,05–0,1 mg vain sokissa."},
-  {"id": "adrenaliini-f5", "front": "Adrenaliini anafylaksiassa (lapsi)", "back": "0,01 mg/kg i.m. tai 0,001 mg/kg i.v."},
-  {"id": "adrenaliini-f6", "front": "Adrenaliini kriittisessä astmassa tai bradykardiassa", "back": "0,05 mg i.v. boluksina."},
-  {"id": "adrenaliini-f7", "front": "Adrenaliinin haitat", "back": "Rytmihäiriöt (voi laukaista kammiovärinän), sydänlihaksen hapenkulutuksen lisääntyminen, takykardia."},
-  {"id": "adrenaliini-f8", "front": "Adrenaliini ja hypotermia", "back": "Alle 30 °C ei adrenaliinia; yli 30 °C antoväli 6–10 minuuttia."}
+  {"id": "adrenaliini-f1", "front": "Adrenaliinin vaikutusmekanismi", "back": "Sympatomimeetti, joka stimuloi sekä alfa- että beetareseptoreita."},
+  {"id": "adrenaliini-f2", "front": "Adrenaliinin vahvuudet", "back": "0,1 mg/ml ja 1 mg/ml – 1 mg = 10 ml tai 1 ml; tarkista aina."},
+  {"id": "adrenaliini-f3", "front": "Adrenaliini elvytyksessä (aikuinen)", "back": "1 mg i.v./i.o. 3–5 minuutin välein; ei-iskettävä heti, iskettävä 3. iskun jälkeen."},
+  {"id": "adrenaliini-f4", "front": "Adrenaliini lapsen elvytyksessä", "back": "0,01 mg/kg (enintään 1 mg) i.v./i.o. 3–5 minuutin välein."},
+  {"id": "adrenaliini-f5", "front": "Adrenaliini anafylaksiassa (aikuinen)", "back": "0,5 mg i.m. reiteen alle 5 minuutissa; i.v. 0,05–0,1 mg vain sokissa."},
+  {"id": "adrenaliini-f6", "front": "Adrenaliini anafylaksiassa (lapsi)", "back": "0,01 mg/kg i.m. (enintään 0,5 mg) tai 0,001 mg/kg i.v."},
+  {"id": "adrenaliini-f7", "front": "Adrenaliini astmassa tai bradykardiassa", "back": "0,05 mg i.v. boluksina."},
+  {"id": "adrenaliini-f8", "front": "Adrenaliini-inhalaatio laryngiitissa (1 mg/ml)", "back": "Alle 10 kg 2–3 ml, 10–20 kg 3–4 ml, yli 20 kg ja aikuiset 4–5 ml."},
+  {"id": "adrenaliini-f9", "front": "Adrenaliinin haitat", "back": "Takykardia, rytmihäiriöt (voi laukaista kammiovärinän), liiallinen vasokonstriktio, hapenkulutuksen lisääntyminen."},
+  {"id": "adrenaliini-f10", "front": "Adrenaliini ja hypotermia", "back": "Alle 30 °C ei adrenaliinia; yli 30 °C antoväli 6–10 minuuttia."}
 ]

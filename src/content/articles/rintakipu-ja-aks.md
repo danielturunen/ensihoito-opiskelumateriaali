@@ -160,7 +160,7 @@ STEMI on henkeä uhkaava tila, jossa aika on lihasta: nopea reperfuusio (tukkeut
 | Hoitomuoto | Valitaan, kun | Perustelu |
 | :-- | :-- | :-- |
 | Pallolaajennus (PCI) | Pystytään tekemään **120 minuutin kuluessa** STEMI-diagnoosista | Varmempi, pienempi aivoverenvuodon riski |
-| Liuotushoito | PCI ei toteudu 120 minuutissa – aloitus 10 min kuluessa diagnoosista. Teho heikkenee selvästi 3 h jälkeen oireiden alusta, yli 12 h ei hyötyä. | Kohteessa annettu liuotus vähentää kuolleisuutta sairaalaliuotukseen verrattuna. Yli 75-vuotiaalle harkitaan puolikasta tenekteplaasiannosta. |
+| Liuotushoito | PCI ei toteudu 120 minuutissa – aloitus 10 min kuluessa diagnoosista. Teho heikkenee selvästi 3 h jälkeen oireiden alusta, yli 12 h ei hyötyä. | Kohteessa annettu liuotus vähentää kuolleisuutta sairaalaliuotukseen verrattuna. Yli 75-vuotiaalle harkitaan puolikasta [tenekteplaasiannosta](topic:tenekteplaasi). |
 
 Liuotuksen jälkeen potilas kuljetetaan suoraan sairaalaan, jossa on valmius välittömään varjoainekuvaukseen.
 

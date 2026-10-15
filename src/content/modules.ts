@@ -127,7 +127,7 @@ export const modules: ModuleMeta[] = [
     id: 'laakkeet',
     title: 'Lääkehoito ja kivunhoito',
     shortTitle: 'Lääkkeet',
-    description: 'Kivunhoito ensihoidossa sekä 24 ensihoidon lääkeaineen ja 4 infuusionesteen pikaoppaat käyttöryhmittäin.',
+    description: 'Kivunhoito ensihoidossa sekä 26 ensihoidon lääkeaineen ja 4 infuusionesteen pikaoppaat käyttöryhmittäin – annokset Akuuttihoidon lääkkeiden ja Ensihoito-oppaan mukaan.',
     icon: 'Pill',
     color: 'teal',
   },

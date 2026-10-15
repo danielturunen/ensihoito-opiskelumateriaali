@@ -10,7 +10,7 @@
       "10 mg i.v. kerran"
     ],
     "correctIndex": 1,
-    "explanation": "Elvytyksessä aikuisen annos on 1 mg nopeana boluksena i.v. tai i.o., toistettuna 3–5 minuutin välein eli joka toisen 2 minuutin jakson jälkeen."
+    "explanation": "Elvytyksessä aikuisen annos on 1 mg i.v. tai i.o., toistettuna 3–5 minuutin välein eli joka toisen painelusyklin jälkeen."
   },
   {
     "id": "adrenaliini-q2",
@@ -18,7 +18,7 @@
     "question": "Milloin adrenaliini annetaan iskettävässä rytmissä?",
     "options": [
       "Ennen ensimmäistä iskua",
-      "Kolmannen iskun jälkeen",
+      "Kolmannen iskun ja kahden painelusyklin jälkeen",
       "Vasta 10 iskun jälkeen",
       "Iskettävässä rytmissä adrenaliinia ei anneta"
     ],
@@ -28,7 +28,7 @@
   {
     "id": "adrenaliini-q3",
     "type": "mcq",
-    "question": "Mikä on aikuisen anafylaksiapotilaan adrenaliiniannos Ensihoito-oppaan mukaan?",
+    "question": "Mikä on aikuisen anafylaksiapotilaan adrenaliiniannos?",
     "options": [
       "1 mg i.v. nopeana boluksena",
       "0,5 mg i.m.",
@@ -36,21 +36,34 @@
       "5 mg inhalaationa"
     ],
     "correctIndex": 1,
-    "explanation": "Ensihoito-opas: aikuiselle 0,5 mg i.m. (Akuuttihoito-opas 0,3–0,5 mg). Suoneen 0,05–0,1 mg annetaan vain sokissa."
+    "explanation": "Aikuiselle annetaan 0,5 mg i.m. (Akuuttihoito-opas 0,3–0,5 mg). Suoneen 0,05–0,1 mg annetaan vain sokissa."
   },
   {
     "id": "adrenaliini-q4",
+    "type": "mcq",
+    "question": "Kuinka monta millilitraa vahvuutta 0,1 mg/ml tarvitaan 1 mg:n elvytysannokseen?",
+    "options": [
+      "1 ml",
+      "10 ml",
+      "0,1 ml",
+      "100 ml"
+    ],
+    "correctIndex": 1,
+    "explanation": "1 mg on 10 ml vahvuutta 0,1 mg/ml tai 1 ml vahvuutta 1 mg/ml. Vahvuus tarkistetaan aina ennen antoa."
+  },
+  {
+    "id": "adrenaliini-q5",
     "type": "truefalse",
-    "question": "Anafylaksiassa adrenaliinin käytölle ei ole ehdottomia vasta-aiheita.",
+    "question": "Henkeä uhkaavassa tilanteessa adrenaliinille ei ole vasta-aiheita.",
     "options": [
       "Oikein",
       "Väärin"
     ],
     "correctIndex": 0,
-    "explanation": "Oikein. Muut lääkkeet eivät korvaa adrenaliinia, eikä sille ole anafylaksiassa absoluuttisia vasta-aiheita."
+    "explanation": "Oikein. Akuuttihoidon lääkkeiden mukaan henkeä uhkaavissa tilanteissa vasta-aiheita ei ole."
   },
   {
-    "id": "adrenaliini-q5",
+    "id": "adrenaliini-q6",
     "type": "truefalse",
     "question": "Elvytyksessä adrenaliinia annetaan normaalisti myös alle 30-asteiselle hypotermiselle potilaalle.",
     "options": [
@@ -61,7 +74,7 @@
     "explanation": "Väärin. Alle 30 °C:ssa adrenaliinista pidättäydytään, ja yli 30 °C:ssa antoväli pidennetään 6–10 minuuttiin."
   },
   {
-    "id": "adrenaliini-q6",
+    "id": "adrenaliini-q7",
     "type": "mcq",
     "question": "Mikä potilaan lääkitys voi heikentää adrenaliinin tehoa anafylaksiassa?",
     "options": [
@@ -74,16 +87,16 @@
     "explanation": "Beetasalpaajia käyttävillä potilailla adrenaliinin teho voi olla heikentynyt."
   },
   {
-    "id": "adrenaliini-q7",
+    "id": "adrenaliini-q8",
     "type": "mcq",
-    "question": "Miksi beetasalpaajaa ei anneta heti verenkierron palattua elvytyksen jälkeen?",
+    "question": "Mikä on adrenaliini-inhalaation annos yli 20 kg painavalle lapselle laryngiitissa (1 mg/ml)?",
     "options": [
-      "Se on aina vasta-aiheinen elvytetylle",
-      "Adrenaliini aiheuttaa takykardiaa ja rytmihäiriöitä noin 5 minuutin ajan, minkä jälkeen ongelma on useammin hypotensio",
-      "Beetasalpaaja kumoaa amiodaronin vaikutuksen",
-      "Beetasalpaaja nostaa verenpainetta liikaa"
+      "0,5 ml",
+      "1–2 ml",
+      "4–5 ml",
+      "10 ml"
     ],
-    "correctIndex": 1,
-    "explanation": "Adrenaliinin vaikutus kestää muutaman minuutin. Kun se loppuu, ongelma on useammin hypotensio kuin hypertensio."
+    "correctIndex": 2,
+    "explanation": "Akuuttihoidon lääkkeiden taulukossa: alle 10 kg 2–3 ml, 10–20 kg 3–4 ml, yli 20 kg ja aikuiset 4–5 ml."
   }
 ]

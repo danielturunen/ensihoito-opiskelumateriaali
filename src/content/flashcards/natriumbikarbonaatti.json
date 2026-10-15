@@ -1,8 +1,10 @@
 [
-  {"id": "natriumbikarbonaatti-f1", "front": "Natriumbikarbonaatin vaikutus", "back": "Emäs – nostaa veren pH:ta; ensihoidossa harvoin ja harkiten."},
-  {"id": "natriumbikarbonaatti-f2", "front": "Bikarbonaatti hyperkalemiassa", "back": "Asidoottiselle: 7,5 % 50–100 ml nopeana i.v., uusitaan tarvittaessa 10–15 min kuluttua."},
-  {"id": "natriumbikarbonaatti-f3", "front": "Bikarbonaatti trisyklisessä myrkytyksessä", "back": "QRS yli 100–120 ms: 50–100 mmol (8,4 % 50–100 ml) i.v.; tavoite pH 7,45–7,55."},
-  {"id": "natriumbikarbonaatti-f4", "front": "Bikarbonaatti vastasyntyneelle", "back": "3,75 % 2 ml/kg vähintään minuutin aikana i.v./i.o. – ei intubaatioputkeen."},
-  {"id": "natriumbikarbonaatti-f5", "front": "Kalsium ja bikarbonaatti", "back": "Saostuvat – eri reittiä."},
-  {"id": "natriumbikarbonaatti-f6", "front": "Bikarbonaatin haitat", "back": "Hiilidioksidikuorma ja hengitystyön lisääntyminen, metabolinen alkaloosi liikakäytössä."}
+  {"id": "natriumbikarbonaatti-f1", "front": "Natriumbikarbonaatin vaikutus", "back": "Emäs – nostaa pH:ta, nostaa natriumia, siirtää kaliumia ja kalsiumia soluihin."},
+  {"id": "natriumbikarbonaatti-f2", "front": "Natriumbikarbonaatin vahvuus Suomessa", "back": "75 mg/ml eli 7,5 % (noin 0,9 mmol/ml natriumia ja bikarbonaattia)."},
+  {"id": "natriumbikarbonaatti-f3", "front": "Bikarbonaatti ensihoidossa (Akuuttihoidon lääkkeet)", "back": "Aikuinen 50–100 ml i.v., lapsi 1 ml/kg i.v."},
+  {"id": "natriumbikarbonaatti-f4", "front": "Bikarbonaatin käyttöaiheet ensihoidossa", "back": "Vaikea trisyklinen myrkytys (leveä QRS), hyperkalemia (K yli 6,5), harkiten vaikea asidoosi (pH alle 7,0)."},
+  {"id": "natriumbikarbonaatti-f5", "front": "Bikarbonaatti trisyklisessä myrkytyksessä", "back": "50–100 ml boluksena, toistetaan 5–10 min kuluttua, kunnes QRS alle 120 ms."},
+  {"id": "natriumbikarbonaatti-f6", "front": "Bikarbonaatin lopetusrajat", "back": "Ei lisäannoksia, jos pH yli 7,55 tai Na yli 155 mmol/l."},
+  {"id": "natriumbikarbonaatti-f7", "front": "Kalsium ja bikarbonaatti", "back": "Saostuvat – eri reittiä."},
+  {"id": "natriumbikarbonaatti-f8", "front": "Bikarbonaatin haitat", "back": "Hiilidioksidikuorma (huolehdi ventilaatiosta), hypernatremia, alkaloosi."}
 ]

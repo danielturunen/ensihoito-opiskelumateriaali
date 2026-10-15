@@ -10,7 +10,7 @@
       "Verihiutaleiden toiminnan esto"
     ],
     "correctIndex": 1,
-    "explanation": "Glyseryylitrinitraatti laajentaa ensisijaisesti laskimoita: laskimopaluu hidastuu, sydämen täyttöaste pienenee ja työmäärä vähenee. Suurilla annoksilla myös valtimot laajenevat."
+    "explanation": "Glyseryylitrinitraatti laajentaa ensisijaisesti laskimoita: laskimopaluu vähenee, täyttöpaineet pienenevät ja työmäärä vähenee. Suurilla annoksilla myös valtimot laajenevat."
   },
   {
     "id": "glyseryylitrinitraatti-q2",
@@ -28,29 +28,42 @@
   {
     "id": "glyseryylitrinitraatti-q3",
     "type": "mcq",
-    "question": "Missä tilanteessa nitraatti voi romahduttaa verenpaineen erityisen helposti?",
+    "question": "Mikä on laimentamattoman glyseryylitrinitraatti-infuusion (1 mg/ml) aloitusnopeus Akuuttihoidon lääkkeiden mukaan?",
     "options": [
-      "Vasemman kammion korkeapainepöhössä",
-      "Oikean kammion infarktissa",
-      "Stabiilissa angina pectoriksessa",
-      "Hypertensiivisessä kriisissä"
+      "50 ml/t",
+      "2–5 ml/t, säätö vasteen mukaan esim. 2 ml/t kerrallaan",
+      "0,1 ml/t",
+      "100 ml/t"
     ],
     "correctIndex": 1,
-    "explanation": "Oikean kammion infarktissa sydän on riippuvainen täyttöpaineesta. Alaseinän ST-nousuinfarktissa rekisteröidään V4R ennen nitraattia."
+    "explanation": "Laimentamattomana 1 mg/ml aloitus 2–5 ml/t; laimennettuna 0,1 mg/ml aloitus 10 ml/t."
   },
   {
     "id": "glyseryylitrinitraatti-q4",
+    "type": "mcq",
+    "question": "Mikä lääke on kysyttävä ennen nitraatin antoa vaarallisen hypotension vuoksi?",
+    "options": [
+      "Parasetamoli",
+      "Sildenafiili tai tadalafiili",
+      "Levotyroksiini",
+      "Insuliini"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sildenafiili ja tadalafiili (alle 48 tunnin kuluessa) sekä vardenafiili ja avanafiili voimistavat nitraatin hypotensiivista vaikutusta."
+  },
+  {
+    "id": "glyseryylitrinitraatti-q5",
     "type": "truefalse",
-    "question": "Nitraatin tehoaminen rintakipuun ei todista eikä sulje pois sydäninfarktia.",
+    "question": "Glyseryylitrinitraatti-infuusiossa ei käytetä PVC-muovia sisältäviä letkuja.",
     "options": [
       "Oikein",
       "Väärin"
     ],
     "correctIndex": 0,
-    "explanation": "Oikein. Nitraatin vaste ei ole diagnostinen testi."
+    "explanation": "Oikein. Glyseryylitrinitraatti sitoutuu PVC-muoviin."
   },
   {
-    "id": "glyseryylitrinitraatti-q5",
+    "id": "glyseryylitrinitraatti-q6",
     "type": "truefalse",
     "question": "Nitraatin on osoitettu parantavan sepelvaltimotautikohtauksen ennustetta.",
     "options": [
@@ -61,16 +74,16 @@
     "explanation": "Väärin. Käypä hoidon mukaan nitraatti hillitsee rintakipua ja iskemiaa, mutta sen ennustetta parantavasta vaikutuksesta ei ole näyttöä."
   },
   {
-    "id": "glyseryylitrinitraatti-q6",
+    "id": "glyseryylitrinitraatti-q7",
     "type": "mcq",
-    "question": "Mikä EI kuulu glyseryylitrinitraatin tyypillisiin haittoihin?",
+    "question": "Missä tilanteessa nitraatti voi romahduttaa verenpaineen erityisen helposti?",
     "options": [
-      "Hypotensio",
-      "Päänsärky",
-      "Kompensatorinen takykardia",
-      "Hyperglykemia"
+      "Vasemman kammion korkeapainepöhössä",
+      "Oikean kammion infarktissa",
+      "Stabiilissa angina pectoriksessa",
+      "Hypertensiivisessä kriisissä"
     ],
-    "correctIndex": 3,
-    "explanation": "Nitraatin tyypillisiä haittoja ovat hypotensio, päänsärky ja kompensatorinen takykardia."
+    "correctIndex": 1,
+    "explanation": "Oikean kammion infarktissa sydän on riippuvainen täyttöpaineesta. Nitraattia annetaan silloin vain varoen ja riittävän nesteytyksen turvin."
   }
 ]

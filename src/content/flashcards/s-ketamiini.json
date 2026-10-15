@@ -1,9 +1,9 @@
 [
-  {"id": "s-ketamiini-f1", "front": "Esketamiinin luonne", "back": "Anestesia-aine (S-ketamiini), pieninä annoksina kipulääke – poikkeava vaikutus- ja haittaprofiili."},
+  {"id": "s-ketamiini-f1", "front": "Esketamiinin vaikutusmekanismi", "back": "NMDA-reseptorien salpaus – dissosiatiivinen anestesia; ei GABA-vaikutusta."},
   {"id": "s-ketamiini-f2", "front": "Esketamiinin tärkein etu", "back": "Säilyttää verenkierron – ensisijainen hypotensiivisille ja verenkierrollisesti epävakaille."},
-  {"id": "s-ketamiini-f3", "front": "Esketamiini i.v. aikuiselle (Ensihoito-opas)", "back": "12,5 mg boluksina, ensihoitolääkärin konsultaation perusteella."},
-  {"id": "s-ketamiini-f4", "front": "Esketamiini i.n. aikuiselle (Ensihoito-opas)", "back": "50–100 mg jaettuna kumpaankin sieraimeen."},
-  {"id": "s-ketamiini-f5", "front": "Esketamiini lapselle", "back": "0,125–0,25 mg/kg i.v.; myös i.m. mahdollinen (isompi annos, hitaampi alku)."},
-  {"id": "s-ketamiini-f6", "front": "Esketamiinin haitat", "back": "Liian suuri annos nukuttaa, heräämisvaiheen sekavuus, verenpaineen nousu."},
-  {"id": "s-ketamiini-f7", "front": "Esketamiini ja aivovamma", "back": "Ei ensisijainen – ei vähennä aivojen verenvirtausta; yhdistetään bentsodiatsepiiniin tai propofoliin."}
+  {"id": "s-ketamiini-f3", "front": "Esketamiini kipuun (Akuuttihoidon lääkkeet)", "back": "i.v. 5–10 (–12,5) mg boluksina, i.n. 25–50 mg, i.m. 25 mg."},
+  {"id": "s-ketamiini-f4", "front": "Esketamiini kipuun (Ensihoito-opas)", "back": "i.v. 12,5 mg boluksina ensihoitolääkärin konsultaatiolla, i.n. 50–100 mg."},
+  {"id": "s-ketamiini-f5", "front": "Esketamiini induktioon", "back": "0,5–1 mg/kg i.v.; sokkiselle pienempi annos."},
+  {"id": "s-ketamiini-f6", "front": "Esketamiinin haitat", "back": "Hallusinaatiot (pieni bentsodiatsepiiniannos auttaa), syljeneritys, harvoin hengityslama suurilla annoksilla."},
+  {"id": "s-ketamiini-f7", "front": "Esketamiinin varoitukset", "back": "Verenpaineen nousu vakava riski, pre-eklampsia ja eklampsia, vahvasti päihtynyt, aivovamma (ei ensisijainen)."}
 ]

@@ -16,7 +16,10 @@
     "id": "ondansetroni-q2",
     "type": "truefalse",
     "question": "Ondansetroni lisää opioidien aiheuttamaa hengityslamaa.",
-    "options": ["Oikein", "Väärin"],
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
     "correctIndex": 1,
     "explanation": "Ondansetroni ei lisää opioidien hengityslamaa. Se hoitaa tehokkaasti opioidien aiheuttamaa pahoinvointia vaikuttamatta hengitykseen."
   },
@@ -50,7 +53,10 @@
     "id": "ondansetroni-q5",
     "type": "truefalse",
     "question": "Synnynnäinen pitkä QT -oireyhtymä on ehdoton vasta-aihe ondansetronin käytölle.",
-    "options": ["Oikein", "Väärin"],
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
     "correctIndex": 0,
     "explanation": "Synnynnäinen pitkä QT -oireyhtymä on ehdoton vasta-aihe, koska ondansetroni pidentää QT-aikaa edelleen ja lisää vaarallisen rytmihäiriön riskiä."
   },
@@ -79,5 +85,42 @@
     ],
     "correctIndex": 1,
     "explanation": "Ondansetronin käyttö yhdessä muiden serotonergisten lääkkeiden, kuten tramadolin tai SSRI-lääkkeiden, kanssa lisää serotoniinioireyhtymän riskiä."
+  },
+  {
+    "id": "ondansetroni-q8",
+    "type": "mcq",
+    "question": "Mikä on ondansetronin annos lapselle Akuuttihoidon lääkkeiden mukaan?",
+    "options": [
+      "1 mg/kg",
+      "0,1 mg/kg (enintään 4 mg) hitaana injektiona i.v.",
+      "4 mg kaikenikäisille",
+      "0,01 mg/kg"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lapselle 0,1 mg/kg, enintään 4 mg, hitaana laskimoinjektiona."
+  },
+  {
+    "id": "ondansetroni-q9",
+    "type": "truefalse",
+    "question": "Ondansetroni on vasta-aiheinen raskauden ensimmäisellä kolmanneksella.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Oikein. Akuuttihoidon lääkkeiden mukaan myöhemminkin raskauden aikana sen käyttö harkitaan tarkoin."
+  },
+  {
+    "id": "ondansetroni-q10",
+    "type": "mcq",
+    "question": "Minkä kipulääkkeen tehoa ondansetroni voi heikentää?",
+    "options": [
+      "Morfiinin",
+      "Tramadolin",
+      "Parasetamolin",
+      "Fentanyylin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ondansetroni saattaa heikentää tramadolin kipua lievittävää vaikutusta."
   }
 ]

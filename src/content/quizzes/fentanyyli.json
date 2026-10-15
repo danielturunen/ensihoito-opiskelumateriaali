@@ -2,75 +2,75 @@
   {
     "id": "fentanyyli-q1",
     "type": "mcq",
-    "question": "Mikä erottaa fentanyylin morfiinista?",
+    "question": "Kuinka nopeasti laskimoon annetun fentanyylin vaikutus alkaa?",
     "options": [
-      "Fentanyylin vaikutus alkaa nopeammin ja kestää lyhyemmän aikaa",
-      "Fentanyyli ei aiheuta hengityslamaa",
-      "Fentanyyli vaikuttaa vasta tunnin kuluttua",
-      "Fentanyyli ei ole opioidi"
+      "1–2 minuutissa, huippu noin 5 minuutissa",
+      "20–30 minuutissa",
+      "Noin tunnissa",
+      "Vasta seuraavana päivänä"
     ],
     "correctIndex": 0,
-    "explanation": "Fentanyyli on lyhytvaikutteinen opioidi: vaikutus alkaa nopeasti ja kestää lyhyemmän aikaa kuin morfiinilla. Hengityslama on kaikkien opioidien haitta."
+    "explanation": "Fentanyylin vaikutus alkaa 1–2 minuutissa ja on maksimissaan noin 5 minuutissa."
   },
   {
     "id": "fentanyyli-q2",
     "type": "mcq",
-    "question": "Mikä on fentanyylin intranasaalinen annos aikuiselle Ensihoito-oppaan mukaan?",
+    "question": "Mikä on fentanyylin laskimoannos aikuiselle Akuuttihoidon lääkkeiden ensihoito-ohjeessa?",
     "options": [
-      "10–20 µg yhteen sieraimeen",
-      "100–200 µg jaettuna kumpaankin sieraimeen",
-      "1 mg yhteen sieraimeen",
-      "5 µg/kg"
+      "10 µg/kg, enintään 1 mg",
+      "1–2 µg/kg, kerta-annos enintään 150 µg",
+      "0,1 mg/kg",
+      "500 µg kerralla"
     ],
     "correctIndex": 1,
-    "explanation": "Ensihoito-opas: fentanyyli 100–200 µg i.n. jaettuna kumpaankin sieraimeen. Laskimoon annos on 50–150 µg."
+    "explanation": "Akuuttihoidon lääkkeet: 1–2 µg/kg, enintään 150 µg; yli 70-vuotiaalle enintään 50 µg. Ensihoito-opas: 50–150 µg."
   },
   {
     "id": "fentanyyli-q3",
     "type": "mcq",
-    "question": "Miksi lyhytvaikutteinen opioidi sopii lievästi tajunnaltaan alentuneelle potilaalle?",
+    "question": "Mikä on fentanyylin intranasaalinen annos aikuiselle Akuuttihoidon lääkkeiden mukaan?",
     "options": [
-      "Se nostaa tajunnan tasoa",
-      "Vaikutus loppuu nopeasti, joten tajunnan tason arviointi onnistuu jatkohoidossa",
-      "Se ei vaikuta keskushermostoon",
-      "Se korjaa hypoglykemian"
+      "0,1 µg/kg yhteen sieraimeen",
+      "2 µg/kg, enintään 200 µg, jaettuna kumpaankin sieraimeen",
+      "1 mg yhteen sieraimeen",
+      "10 µg kerran"
     ],
     "correctIndex": 1,
-    "explanation": "Ensihoito-oppaan mukaan lyhytvaikutteista opioidia käytetään lievästi tajunnaltaan alentuneelle, jotta tajunnan tason arviointi onnistuu jatkohoidossa."
+    "explanation": "Akuuttihoidon lääkkeet: 2 µg/kg (enintään 200 µg) jaettuna kumpaankin sieraimeen; yli 70-vuotiaalle 1 µg/kg."
   },
   {
     "id": "fentanyyli-q4",
+    "type": "mcq",
+    "question": "Millainen lisäannos fentanyyliä annetaan tarvittaessa?",
+    "options": [
+      "Kaksinkertainen annos heti",
+      "Puolet aloitusannoksesta 5 minuutin kuluttua",
+      "Sama annos tunnin kuluttua",
+      "Lisäannoksia ei anneta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lisäannos on puolet aloitusannoksesta 5 minuutin kuluttua."
+  },
+  {
+    "id": "fentanyyli-q5",
     "type": "truefalse",
-    "question": "Yli 70-vuotiaalle kannattaa harkita tavallista pienempää fentanyyliannosta.",
+    "question": "Hypovoleemiselle potilaalle fentanyyliannosta pienennetään merkittävästi.",
     "options": [
       "Oikein",
       "Väärin"
     ],
     "correctIndex": 0,
-    "explanation": "Oikein. Ensihoito-opas neuvoo harkitsemaan annoksen pienentämistä yli 70-vuotiailla, ja ETC:n mukaan iäkkäillä annosta pienennetään."
+    "explanation": "Oikein. Hypovolemiassa hypotensioriski on suuri, ja korjaamaton hypovolemia ja hypotensio ovat varoituksia."
   },
   {
-    "id": "fentanyyli-q5",
+    "id": "fentanyyli-q6",
     "type": "truefalse",
-    "question": "Intranasaalinen fentanyyli imeytyy hyvin, vaikka potilaalla olisi runsas nenäerite.",
+    "question": "Fentanyylin nopea anto suurella annoksella on turvallista, koska se ei vaikuta lihaksiin.",
     "options": [
       "Oikein",
       "Väärin"
     ],
     "correctIndex": 1,
-    "explanation": "Väärin. Runsas nenäerite tekee imeytymisestä hyvin epävarmaa, eikä intranasaalista antotapaa silloin pidä käyttää."
-  },
-  {
-    "id": "fentanyyli-q6",
-    "type": "mcq",
-    "question": "Mikä on fentanyylin annos lapselle Ensihoito-oppaan mukaan?",
-    "options": [
-      "0,1 mg/kg",
-      "Tarvittaessa 1 µg/kg",
-      "10 µg/kg",
-      "Lapselle ei saa antaa fentanyyliä"
-    ],
-    "correctIndex": 1,
-    "explanation": "Ensihoito-oppaan mukaan lapsille annetaan tarvittaessa 1 µg/kg. Lasten ensihoidon opetusmateriaalissa annos on 1–2 µg/kg."
+    "explanation": "Väärin. Suurilla annoksilla ja nopeassa annossa voi ilmetä lihasjäykkyyttä."
   }
 ]

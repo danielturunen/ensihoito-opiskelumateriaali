@@ -15,41 +15,41 @@
   {
     "id": "morfiini-q2",
     "type": "mcq",
-    "question": "Mikä on morfiinin tavallinen kerta-annos aikuiselle Ensihoito-oppaan mukaan?",
+    "question": "Kuinka nopeasti laskimoon annetun morfiinin kipua lievittävä vaikutus alkaa?",
     "options": [
-      "0,2–0,4 mg i.v.",
-      "2–4 mg i.v., tarvittaessa toistaen",
-      "20–40 mg i.v.",
-      "100 mg suun kautta"
+      "Sekunneissa",
+      "Noin 5–10 minuutissa, huippu noin 20 minuutissa",
+      "Noin tunnissa",
+      "Vasta seuraavana päivänä"
     ],
     "correctIndex": 1,
-    "explanation": "Ensihoito-opas: morfiini 2–4 mg i.v. tarvittaessa toistetusti vasteen mukaan."
+    "explanation": "Morfiinin vaikutus alkaa 5–10 minuutissa, on suurimmillaan noin 20 minuutissa ja kestää 2–4 tuntia."
   },
   {
     "id": "morfiini-q3",
     "type": "mcq",
-    "question": "Missä tilanteessa on otettava yhteys ensihoitolääkäriin?",
+    "question": "Mikä on morfiinin kerta-annos aikuiselle Akuuttihoidon lääkkeiden ensihoito-ohjeessa?",
     "options": [
-      "Kun aikuisen morfiinitarve ylittää 2 mg",
-      "Kun aikuisen oksikodoni- tai morfiinitarve on yli 10 mg tai lapsen yli 0,3 mg/kg",
-      "Aina ennen ensimmäistä annosta",
-      "Vain jos potilas on yli 90-vuotias"
+      "0,2–0,4 mg i.v.",
+      "2–6 mg i.v., toistettavissa 5–10 minuutin kuluttua",
+      "20–40 mg i.v.",
+      "100 mg suun kautta"
     ],
     "correctIndex": 1,
-    "explanation": "Ensihoito-opas: jos aikuisen tarve on yli 10 mg oksikodonia tai morfiinia tai lapsen yli 0,3 mg/kg, ollaan yhteydessä ensihoitolääkäriin."
+    "explanation": "Akuuttihoidon lääkkeet: 2–6 mg i.v. Ensihoito-opas: 2–4 mg i.v. toistaen."
   },
   {
     "id": "morfiini-q4",
     "type": "mcq",
-    "question": "Miksi Käypä hoito neuvoo välttämään rutiinimaista opioidien antoa sepelvaltimotautikohtauksessa?",
+    "question": "Miksi morfiinia annetaan varoen munuaisten vajaatoimintaa sairastavalle?",
     "options": [
-      "Opioidit laukaisevat kammiovärinän",
-      "Opioidit heikentävät suun kautta otettavien antitromboottisten lääkkeiden tehoa ja aiheuttavat pahoinvointia",
-      "Opioidit nostavat verenpainetta voimakkaasti",
-      "Opioidit eivät lievitä sydänperäistä kipua"
+      "Morfiini ei imeydy munuaispotilaalla",
+      "Morfiinin aktiiviset aineenvaihduntatuotteet kertyvät ja voivat aiheuttaa myrkytyksen",
+      "Morfiini nostaa kaliumia",
+      "Morfiini aiheuttaa aina munuaiskivikohtauksen"
     ],
     "correctIndex": 1,
-    "explanation": "Opioidit hidastavat mahalaukun tyhjenemistä, aiheuttavat pahoinvointia ja heikentävät suun kautta otettavien antitromboottisten lääkkeiden tehoa. Kovaa kipua hoidetaan silti."
+    "explanation": "Munuaisten vajaatoiminnassa morfiinin metaboliitit kertyvät elimistöön; vakava munuaisten vajaatoiminta on vasta-aihe."
   },
   {
     "id": "morfiini-q5",
@@ -60,12 +60,12 @@
       "Väärin"
     ],
     "correctIndex": 1,
-    "explanation": "Väärin. Morfiini voi aiheuttaa sappitiehyeiden kouristuksen, joten sitä ei käytetä sappitieperäisessä kivussa."
+    "explanation": "Väärin. Morfiini voi aiheuttaa sappitiehyeiden kouristuksen eli sappikoliikin."
   },
   {
     "id": "morfiini-q6",
     "type": "truefalse",
-    "question": "Morfiini voi aiheuttaa histamiinin vapautumista, mikä voi pahentaa hypotensiota.",
+    "question": "Morfiinin histamiinia vapauttava ominaisuus on huomioitava astmaatikolla ja allergikolla.",
     "options": [
       "Oikein",
       "Väärin"

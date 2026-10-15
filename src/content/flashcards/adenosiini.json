@@ -1,8 +1,10 @@
 [
-  {"id": "adenosiini-f1", "front": "Adenosiinin vaikutusmekanismi", "back": "Lamaa hetkellisesti sinus- ja eteis-kammiosolmukkeen – SVT:n kiertoaktivaatio katkeaa."},
+  {"id": "adenosiini-f1", "front": "Adenosiinin vaikutusmekanismi", "back": "Hidastaa hetkellisesti eteis-kammiojohtumista – SVT:n kiertoaktivaatio katkeaa."},
   {"id": "adenosiini-f2", "front": "Adenosiinin käyttöaiheet", "back": "Kohtauksittainen SVT, kun vagaalinen ärsytys ei auta; nopeiden rytmihäiriöiden selvittäminen."},
-  {"id": "adenosiini-f3", "front": "Adenosiinin annos (Ensihoito-opas)", "back": "5–6 mg nopeana boluksena i.v., jatkoannokset porrastetusti."},
-  {"id": "adenosiini-f4", "front": "Adenosiinin antotekniikka", "back": "Kanyyli suureen suoneen, hyvä virtaus, nopea bolus; EKG-tallennus päällä."},
-  {"id": "adenosiini-f5", "front": "Miksi adenosiini on myös diagnostinen?", "back": "Hetkellinen johtumiskatkos voi paljastaa piilevän eteistoiminnan, vaikka rytmi ei kääntyisi."},
-  {"id": "adenosiini-f6", "front": "Tyypillinen SVT-potilas", "back": "Nuori tai keski-ikäinen, hyvä yleisvointi, rytmihäiriö usein ennestään tuttu."}
+  {"id": "adenosiini-f3", "front": "Adenosiinin annokset aikuiselle", "back": "5–6 mg nopeasti i.v., tarvittaessa 10–12 mg ja 12–18 mg; ei enempää."},
+  {"id": "adenosiini-f4", "front": "Adenosiini lapselle", "back": "0,2 mg/kg, lisäannokset +0,1 mg/kg, kerta-annos enintään 18 mg."},
+  {"id": "adenosiini-f5", "front": "Adenosiinin antotekniikka", "back": "Suuri ääreislaskimo, nopea bolus noin 2 sekunnissa, heti 5–10 ml NaCl-huuhtelu, EKG päällä."},
+  {"id": "adenosiini-f6", "front": "Adenosiinin vasta-aiheet", "back": "II–III asteen AV-katkos tai sairas sinus ilman tahdistinta, vaikea hypotensio, kompensoimaton vajaatoiminta; varoen astma."},
+  {"id": "adenosiini-f7", "front": "Adenosiinin haitat", "back": "Bradykardia ja johtumishäiriöt, hypotensio, bronkusobstruktio."},
+  {"id": "adenosiini-f8", "front": "Adenosiinin yhteisvaikutukset", "back": "Teofylliini heikentää, dipyridamoli vahvistaa."}
 ]

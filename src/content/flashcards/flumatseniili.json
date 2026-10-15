@@ -1,9 +1,10 @@
 [
-  {"id": "flumatseniili-f1", "front": "Flumatseniilin vaikutusmekanismi", "back": "Bentsodiatsepiinireseptorien kilpaileva vastavaikuttaja – kumoaa bentsodiatsepiinien vaikutuksen."},
-  {"id": "flumatseniili-f2", "front": "Flumatseniilin käyttöaiheet", "back": "Puhdas bentsodiatsepiinimyrkytys (harvoin) ja bentsodiatsepiinisedaation kumoaminen."},
-  {"id": "flumatseniili-f3", "front": "Flumatseniilin annos myrkytyksessä (Ensihoito-opas)", "back": "0,2–0,3 mg i.v. tarvittaessa toistaen – vain, jos muita lääkkeitä ei ole otettu."},
-  {"id": "flumatseniili-f4", "front": "Sedaation kumoaminen flumatseniililla", "back": "0,2 mg, tarvittaessa enintään 1 mg i.v."},
-  {"id": "flumatseniili-f5", "front": "Flumatseniilin vasta-aiheet", "back": "Sekamyrkytys (erityisesti trisykliset masennuslääkkeet), kouristeleva potilas; riski myös bentsodiatsepiiniriippuvaisilla ja epilepsiapotilailla."},
-  {"id": "flumatseniili-f6", "front": "Flumatseniilin haittavaikutukset", "back": "Levottomuus, takykardia, verenpaineen nousu ja kouristukset – bentsodiatsepiinin vaikutuksen äkillinen loppuminen."},
-  {"id": "flumatseniili-f7", "front": "Flumatseniilin vaikutuksen alku", "back": "Noin 30–60 sekunnissa."}
+  {"id": "flumatseniili-f1", "front": "Flumatseniilin vaikutusmekanismi", "back": "Bentsodiatsepiinireseptorien kilpaileva vastavaikuttaja – kumoaa myös tsolpideemin ja tsopiklonin vaikutuksen."},
+  {"id": "flumatseniili-f2", "front": "Flumatseniili aikuiselle (Akuuttihoidon lääkkeet)", "back": "0,2 mg i.v./i.o. toistaen 1–2 min välein, enintään 1–2 mg."},
+  {"id": "flumatseniili-f3", "front": "Flumatseniili lapselle", "back": "0,01 mg/kg i.v./i.o. (kerta-annos enintään 0,2 mg), enintään 1–2 mg."},
+  {"id": "flumatseniili-f4", "front": "Flumatseniilin tavoite", "back": "Riittävä hengitys ja tajunta – ei täysin herännyt potilas."},
+  {"id": "flumatseniili-f5", "front": "Flumatseniilin vasta-aiheet", "back": "Sekamyrkytys (erityisesti trisykliset), kouristusriski, bentsodiatsepiinilla hoidettu epilepsia, bentsodiatsepiiniriippuvuus."},
+  {"id": "flumatseniili-f6", "front": "Flumatseniilin vaikutusaika", "back": "20–120 min – oireet palaavat usein 1–2 tunnissa."},
+  {"id": "flumatseniili-f7", "front": "Flumatseniilin haitat", "back": "Levottomuus, takykardia, verenpaineen nousu ja kouristukset."},
+  {"id": "flumatseniili-f8", "front": "Ei vastetta flumatseniiliin", "back": "Syy on todennäköisesti muu kuin bentsodiatsepiini."}
 ]

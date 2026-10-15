@@ -16,7 +16,10 @@
     "id": "enoksapariini-q2",
     "type": "truefalse",
     "question": "Enoksapariini on fraktioimattomasta hepariinista valmistettu pienimolekyylinen johdannainen.",
-    "options": ["Oikein", "Väärin"],
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
     "correctIndex": 0,
     "explanation": "Enoksapariini on pienimolekyylinen hepariini (LMWH), joka valmistetaan pilkkomalla fraktioimaton hepariini (UFH) pienemmiksi molekyyleiksi."
   },
@@ -50,7 +53,10 @@
     "id": "enoksapariini-q5",
     "type": "truefalse",
     "question": "Enoksapariinin vaikutus voidaan kumota protamiinilla täysin, samoin kuin fraktioimattoman hepariinin vaikutus.",
-    "options": ["Oikein", "Väärin"],
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
     "correctIndex": 1,
     "explanation": "Protamiini kumoaa UFH:n vaikutuksen tehokkaasti, mutta enoksapariinin vaikutuksesta se neutraloi vain osan. Tämä on tärkeä huomio akuutissa verenvuototilanteessa."
   },
@@ -66,5 +72,42 @@
     ],
     "correctIndex": 1,
     "explanation": "Iäkkäillä ja munuaisten vajaatoimintaa sairastavilla verenvuotoriski on suurentunut, joten annosta pienennetään näillä potilasryhmillä."
+  },
+  {
+    "id": "enoksapariini-q7",
+    "type": "mcq",
+    "question": "Mikä on enoksapariinin annos alle 75-vuotiaalle liuotushoidon yhteydessä Akuuttihoidon lääkkeiden mukaan?",
+    "options": [
+      "1 mg/kg i.v. ainoastaan",
+      "30 mg i.v. ja 1 mg/kg s.c. (enintään 100 mg)",
+      "0,75 mg/kg s.c. (enintään 75 mg)",
+      "100 mg i.v. kaksi kertaa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Alle 75-vuotiaalle 30 mg i.v. ja 1 mg/kg s.c. (enintään 100 mg); yli 75-vuotiaalle vain 0,75 mg/kg s.c. (enintään 75 mg). Ihonalainen annos annetaan 15 min liuotuksen jälkeen."
+  },
+  {
+    "id": "enoksapariini-q8",
+    "type": "mcq",
+    "question": "Mikä on enoksapariinin PCI-esilääkitysannos ST-nousuinfarktissa?",
+    "options": [
+      "0,5–0,6 mg/kg i.v., yleensä 30–40 mg",
+      "1,5 mg/kg s.c.",
+      "10 mg i.m.",
+      "300 mg p.o."
+    ],
+    "correctIndex": 0,
+    "explanation": "Akuuttihoidon lääkkeiden ensihoito-ohjeessa PCI-esilääkityksenä annetaan 0,5–0,6 mg/kg i.v., yleensä 30–40 mg."
+  },
+  {
+    "id": "enoksapariini-q9",
+    "type": "truefalse",
+    "question": "Enoksapariinin voi antaa lihakseen, jos ihonalainen pistos on hankala.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Väärin. Enoksapariini annetaan syvälle ihonalaiseen kudokseen vatsan ihopoimuun tai laskimoon – ei lihakseen."
   }
 ]

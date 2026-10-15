@@ -1,36 +1,55 @@
 ## Yleistä
 
-Klopidogreeli on **ADP-reseptorin salpaaja** eli verihiutale-estäjä, joka annetaan suun kautta. Se on aihiolääke, joka aktivoituu maksassa. Vaikutus alkaa hitaammin kuin [tikagrelorilla](topic:tikagrelori): noin 3–6 tunnissa latausannoksesta. Vaikutus häviää yleensä viidessä vuorokaudessa.
+Klopidogreeli on suun kautta annettava **ADP-reseptorin (P2Y12) salpaaja** eli verihiutale-estäjä. Se estää verihiutaleiden aktivoitumista ADP:n välityksellä, ja vaikutus on **palautumaton**. Klopidogreeli on aihiolääke, joka aktivoituu maksassa (CYP2C19-entsyymin kautta). Perinnöllinen heikentynyt vaste on varsin yleinen.
 
-ADP-reseptorin salpaajien keskinäiset erot kliinisessä tehossa ovat Käypä hoidon mukaan melko vähäiset. Tikagrelori estää sydäninfarkteja ja stenttitrombooseja hieman tehokkaammin, mutta klopidogreeli aiheuttaa vähemmän verenvuotoja. Siksi klopidogreeli on **ensisijainen suuren verenvuotoriskin potilailla**, kuten antikoagulanttia käyttävillä ja iäkkäillä.
+Vaikutus alkaa hitaammin kuin [tikagrelorilla](topic:tikagrelori): noin 3–6 tunnissa latausannoksesta. Hoidon päätyttyä verihiutaleiden toiminta palautuu yleensä viidessä vuorokaudessa. ADP-reseptorin salpaajien keskinäiset erot kliinisessä tehossa ovat Käypä hoidon mukaan melko vähäiset. Tikagrelori estää sydäninfarkteja ja stenttitrombooseja hieman tehokkaammin, mutta klopidogreeli aiheuttaa vähemmän verenvuotoja. Siksi klopidogreeli on **ensisijainen suuren verenvuotoriskin potilailla**, kuten antikoagulanttia käyttävillä ja iäkkäillä.
 
-## Käyttöaiheet
+## Käyttöaiheet ensihoidossa
 
-- **Sepelvaltimotautikohtaus**, kun verenvuotoriski on suuri (antikoagulaatiohoito, korkea ikä) – yhdessä [ASA:n](topic:asetyylisalisyylihappo) kanssa tai yksin, jos ASA ei sovi
-- **Liuotushoito**: ensihoidon liuotushoidossa kaikille annetaan ASA ja klopidogreeli sekä antikoagulantti ja liuotuslääke
-- Sairaalassa myös esimerkiksi suuren riskin TIA
+Akuuttihoidon lääkkeiden mukaan, alueellisen hoito-ohjeen mukaisesti:
+- **Akuutti sepelvaltimotautikohtaus ASA-allergisella** potilaalla (ks. [asetyylisalisyylihappo](topic:asetyylisalisyylihappo))
+- **Liuotushoidon yhteydessä**: liuotushoidossa kaikille annetaan ASA ja klopidogreeli sekä antikoagulantti ja liuotuslääke (ks. [tenekteplaasi](topic:tenekteplaasi))
+
+Sairaalassa klopidogreelia käytetään sepelvaltimotautikohtauksen jälkeen ASA:n kanssa tavallisesti 12 kuukautta, stenttitromboosin estoon ja esimerkiksi suuren riskin TIA:n jälkeen.
 
 > [!warning] Ensihoidossa harvoin
-> ADP-reseptorin salpaajia ei aloiteta ensihoidossa ennen sepelvaltimoiden varjoainekuvausta. Poikkeus on PCI-kuljetukseen lähtevä ST-nousuinfarktipotilas, jonka lääkityksen kardiologi määrää (ks. [rintakipu ja AKS](topic:rintakipu-ja-aks)).
+> ADP-reseptorin salpaajia ei yleensä aloiteta ensihoidossa ennen sepelvaltimoiden varjoainekuvausta. Poikkeuksia ovat PCI-kuljetukseen lähtevä ST-nousuinfarktipotilas, liuotushoito ja ASA-allerginen potilas alueellisen ohjeen mukaan (ks. [rintakipu ja AKS](topic:rintakipu-ja-aks)).
 
 ## Annostus
 
-- **Latausannos 600 mg** suun kautta, jatkossa **75 mg kerran päivässä** (Käypä hoito, Sepelvaltimotautikohtaus)
+| Lähde | Annos |
+|---|---|
+| Akuuttihoidon lääkkeet (ensihoito) | enintään 75-vuotiaalle 300 mg p.o., yli 75-vuotiaalle 75 mg p.o. |
+| Akuuttihoidon lääkkeet (sairaala) | kyllästysannos 300(–600) mg, ylläpito 75 mg kerran päivässä |
+| Käypä hoito, Sepelvaltimotautikohtaus | latausannos 600 mg, ylläpito 75 mg kerran päivässä |
+
+Tabletin voi tarvittaessa murskata ja antaa nenä-mahaletkuun.
 
 > [!info] Lähteiden ero
-> Opiskelumuistiinpanoissa klopidogreelin annos on 300 mg alle 75-vuotiaalle ja 75 mg yli 75-vuotiaalle, eikä sitä anneta antikoagulanttia käyttävälle. Käypä hoidon latausannos on 600 mg, ja klopidogreeli on nimenomaan antikoagulanttia käyttävien ensisijainen ADP-reseptorin salpaaja. Kardiologi määrää annoksen tilanteen mukaan.
+> Ensihoidon ikäporrastettu annos (300 mg / 75 mg) on sama kuin opiskelumuistiinpanoissa. Käypä hoidon 600 mg:n latausannos koskee sairaalassa hoidettavaa sepelvaltimotautikohtausta. Opiskelumuistiinpanoissa klopidogreelia ei anneta antikoagulanttia käyttävälle, kun taas Käypä hoidossa se on nimenomaan antikoagulanttia käyttävien ensisijainen ADP-reseptorin salpaaja. Noudata alueellista ohjetta.
 
-## Huomioitavaa
+## Vasta-aiheet ja varoitukset
 
-- **Opioidit** hidastavat mahalaukun tyhjenemistä ja heikentävät suun kautta otettavien antitromboottisten lääkkeiden, myös klopidogreelin, tehoa (ks. [morfiini](topic:morfiini)).
-- **Verenvuotoriski**: klopidogreelia käyttävä potilas vuotaa herkemmin, mikä on tärkeä esitieto esimerkiksi vammapotilaalla ja nenäverenvuodossa.
-- **Kaksoisestohoitoa** (ASA ja ADP-reseptorin salpaaja) ei saa tauottaa omin päin stentin asettamisen jälkeen – tauotuksesta konsultoidaan kardiologia.
-- Ennen kiireellistä leikkausta ADP-reseptorin salpaaja lopetetaan; klopidogreelin vaikutus häviää noin viidessä vuorokaudessa.
+- **Aktiivinen verenvuoto** tai merkittävä verenvuototaipumus
+- **Vaikea maksan vajaatoiminta**
+
+**Yhteisvaikutukset**
+- Varfariini ja muut antikoagulantit sekä ASA lisäävät verenvuotoriskiä; tulehduskipulääkkeet lisäävät piilevän maha-suolikanavan vuodon riskiä.
+- Omepratsoli ja esomepratsoli sekä flukonatsoli ja vorikonatsoli voivat heikentää klopidogreelin tehoa. Jos potilas tarvitsee mahansuojaa, pantopratsoli on parempi valinta.
+- **Opioidit** hidastavat mahalaukun tyhjenemistä ja heikentävät suun kautta otettavien antitromboottisten lääkkeiden tehoa (ks. [morfiini](topic:morfiini)).
+
+**Kaksoisestohoitoa** (ASA ja ADP-reseptorin salpaaja) ei saa tauottaa omin päin stentin asettamisen jälkeen – tauotuksesta konsultoidaan kardiologia. Ennen elektiivistä leikkausta klopidogreeli tauotetaan kardiologin ohjeen mukaan 5–7 vuorokautta.
+
+## Haittavaikutukset
+
+- **Verenvuodot**: mustelmat, verenpurkaumat, hematoomat ja nenäverenvuoto ovat melko yleisiä. Yhdessä ASA:n kanssa vuotoriski on suurempi kuin pelkällä ASA:lla.
+- Ripuli ja vatsakivut, päänsärky ja huimaus
+- Harvinaisempina veriarvojen muutokset (mm. trombosytopenia)
 
 ## Muista tämä -kertaus
 
-- ADP-reseptorin salpaaja, aihiolääke – vaikutus alkaa 3–6 h, häviää noin 5 vrk:ssa
-- Ensisijainen suuren vuotoriskin potilaalla (antikoagulantti, iäkäs)
-- Latausannos 600 mg p.o., jatkossa 75 mg x 1 (Käypä hoito)
-- Ensihoidossa vain kardiologin ohjeella PCI-kuljetukseen lähtevälle STEMI-potilaalle tai liuotushoidon yhteydessä
-- Opioidit heikentävät tehoa; älä tauota kaksoisestohoitoa
+- Palautumaton ADP-reseptorin salpaaja, aihiolääke (CYP2C19) – vaikutus alkaa 3–6 h, häviää noin 5 vrk:ssa
+- Ensihoidossa ASA-allergisen AKS ja liuotushoito: enintään 75 v 300 mg, yli 75 v 75 mg p.o.
+- Käypä hoito: latausannos 600 mg, ylläpito 75 mg x 1
+- Ensisijainen suuren vuotoriskin potilaalla; vasta-aiheet aktiivinen vuoto ja vaikea maksan vajaatoiminta
+- Omepratsoli ja opioidit heikentävät tehoa; älä tauota kaksoisestohoitoa

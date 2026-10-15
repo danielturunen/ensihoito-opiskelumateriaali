@@ -10,36 +10,49 @@
       "Se salpaa bentsodiatsepiinireseptoreita"
     ],
     "correctIndex": 1,
-    "explanation": "Naloksoni on opioidien vastavaikuttaja: se salpaa opioidireseptoreita ja kumoaa opioidien vaikutukset, ennen kaikkea hengityslaman."
+    "explanation": "Naloksoni on opioidiantagonisti, joka vaikuttaa kaikkiin kolmeen opioidireseptorityyppiin ja kumoaa erityisesti hengityslaman."
   },
   {
     "id": "naloksoni-q2",
     "type": "mcq",
-    "question": "Mikä löydösyhdistelmä sopii opioidimyrkytykseen?",
+    "question": "Mikä on naloksonin annos aikuiselle Akuuttihoidon lääkkeiden ensihoito-ohjeessa?",
     "options": [
-      "Laajat pupillit, kuuma ja kuiva iho, takykardia",
-      "Pistemäiset pupillit, harva hengitys ja tajunnan lasku",
-      "Runsas syljeneritys, kouristelu ja bradykardia",
-      "Hyperventilaatio ja hikoilu"
-    ],
-    "correctIndex": 1,
-    "explanation": "Opioiditoksidromiin kuuluvat pienet tai pistemäiset pupillit, harva hengitys, tajunnan lasku ja hypoksia."
-  },
-  {
-    "id": "naloksoni-q3",
-    "type": "mcq",
-    "question": "Mikä on naloksonin kerta-annos aikuiselle Ensihoito-oppaan mukaan?",
-    "options": [
-      "0,01 mg i.v.",
-      "0,08–0,4 mg i.v. kerta-annoksina, toistetaan vasteen mukaan",
+      "0,01 mg i.v. kerran",
+      "0,1–0,4 mg i.v. kerrallaan, toistaen 2–3 minuutin välein suurenevin annoksin",
       "4 mg i.v. kerran",
       "10 mg i.m."
     ],
     "correctIndex": 1,
-    "explanation": "Ensihoito-opas antaa annokseksi 0,08–0,4 mg i.v. kerta-annoksina. Muussa materiaalissa annos on 0,4 mg toistaen tai 0,4–2 mg vasteen mukaan."
+    "explanation": "Akuuttihoidon lääkkeet: 0,1–0,4 mg i.v. kerrallaan, yleensä yhteensä enintään 2–4 mg. Ilman suoniyhteyttä 0,4 mg i.m. tai i.n."
+  },
+  {
+    "id": "naloksoni-q3",
+    "type": "mcq",
+    "question": "Miten naloksonia annetaan opioidiriippuvaiselle tai sekamyrkytyspotilaalle?",
+    "options": [
+      "Heti suuri annos, jotta potilas herää",
+      "Aluksi varoen 0,08–0,1 mg i.v. minuutin välein",
+      "Ei lainkaan",
+      "Vain suun kautta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sekamyrkytyksessä ja opioidiriippuvaiselle annetaan aluksi varoen, koska liian voimakas kumoaminen voi aiheuttaa vakavat vieroitusoireet tai paljastaa toisen aineen toksisuuden."
   },
   {
     "id": "naloksoni-q4",
+    "type": "mcq",
+    "question": "Mitä päätellään, jos naloksonista ei ole vastetta vielä 10 mg:n jälkeen?",
+    "options": [
+      "Annosta suurennetaan edelleen rajattomasti",
+      "Opioidimyrkytys on epätodennäköinen – tajuttomuudelle etsitään muu syy",
+      "Potilas on kuollut",
+      "Naloksoni on vanhentunut"
+    ],
+    "correctIndex": 1,
+    "explanation": "Jos vastetta ei ole 10 mg:n jälkeen, hengityslama ja tajuttomuus johtuvat todennäköisesti osittain tai kokonaan muusta kuin opioidista."
+  },
+  {
+    "id": "naloksoni-q5",
     "type": "truefalse",
     "question": "Potilas kuljetetaan sairaalaan, vaikka hän heräisi naloksonin annon jälkeen hyvin.",
     "options": [
@@ -47,30 +60,17 @@
       "Väärin"
     ],
     "correctIndex": 0,
-    "explanation": "Oikein. Naloksonin vaikutusaika (noin 20–90 min) on usein lyhyempi kuin opioidin, joten hengityslama voi uusiutua."
+    "explanation": "Oikein. Naloksonin vaikutusaika (20–90 min) on usein lyhyempi kuin opioidin, joten hengityslama voi uusiutua."
   },
   {
-    "id": "naloksoni-q5",
+    "id": "naloksoni-q6",
     "type": "truefalse",
-    "question": "Naloksonin vaikutus kestää tyypillisesti pidempään kuin fentanyylikipulaastarin vaikutus.",
+    "question": "Naloksoni kumoaa myös tramadolin aiheuttaman kouristelun.",
     "options": [
       "Oikein",
       "Väärin"
     ],
     "correctIndex": 1,
-    "explanation": "Väärin. Depot-valmisteiden, kuten kipulaastarien, vaikutus on pitkäkestoinen, ja naloksonin vaikutus loppuu usein ennen opioidin vaikutusta."
-  },
-  {
-    "id": "naloksoni-q6",
-    "type": "mcq",
-    "question": "Mikä haitta naloksonista voi seurata opioideista riippuvaiselle potilaalle?",
-    "options": [
-      "Pitkittynyt hengityslama",
-      "Hypoglykemia",
-      "Voimakas vieroitusoireisto",
-      "Bradykardia ja hypotermia"
-    ],
-    "correctIndex": 2,
-    "explanation": "Opioidiriippuvaisella naloksoni voi laukaista voimakkaan vieroitusoireiston."
+    "explanation": "Väärin. Tramadolin kouristelu välittyy serotoniinin ja noradrenaliinin kautta, eikä naloksoni vaikuta siihen."
   }
 ]

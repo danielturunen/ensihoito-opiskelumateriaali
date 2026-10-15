@@ -1,9 +1,10 @@
 [
-  {"id": "naloksoni-f1", "front": "Naloksonin vaikutusmekanismi", "back": "Opioidireseptorien salpaaja eli opioidien vastavaikuttaja – kumoaa opioidien vaikutukset, ennen kaikkea hengityslaman."},
-  {"id": "naloksoni-f2", "front": "Opioiditoksidromi", "back": "Pistemäiset pupillit, harva hengitys, tajunnan lasku ja hypoksia."},
-  {"id": "naloksoni-f3", "front": "Naloksonin annos aikuiselle (Ensihoito-opas)", "back": "0,08–0,4 mg i.v. kerta-annoksina, toistetaan, kunnes hengitys on riittävä."},
-  {"id": "naloksoni-f4", "front": "Naloksoni vastasyntyneelle", "back": "200 µg i.m., kun äiti on saanut opiaatteja eikä hengitys käynnisty – vaikutus on ohimenevä."},
-  {"id": "naloksoni-f5", "front": "Naloksonin vaikutusaika", "back": "Noin 20–90 minuuttia – usein lyhyempi kuin opioidin, joten hengityslama voi uusiutua."},
-  {"id": "naloksoni-f6", "front": "Miksi naloksonin jälkeen kuljetetaan aina?", "back": "Hengityslama voi uusiutua, kun naloksonin vaikutus loppuu – erityisesti pitkävaikutteisissa opioideissa ja depot-valmisteissa."},
-  {"id": "naloksoni-f7", "front": "Naloksonin haitta opioidiriippuvaisella", "back": "Voimakas vieroitusoireisto."}
+  {"id": "naloksoni-f1", "front": "Naloksonin vaikutusmekanismi", "back": "Opioidiantagonisti kaikkiin kolmeen opioidireseptorityyppiin – kumoaa hengityslaman ja keskushermostolaman."},
+  {"id": "naloksoni-f2", "front": "Naloksonin vaikutusaika", "back": "Alkaa 2–3 min, kestää 20–90 min – usein lyhyempi kuin opioidin."},
+  {"id": "naloksoni-f3", "front": "Naloksoni aikuiselle (Akuuttihoidon lääkkeet)", "back": "0,1–0,4 mg i.v. toistaen 2–3 min välein suurenevin annoksin (yleensä enintään 2–4 mg); ilman i.v.:tä 0,4 mg i.m./i.n."},
+  {"id": "naloksoni-f4", "front": "Naloksoni opioidiriippuvaiselle tai sekamyrkytyksessä", "back": "Aluksi varoen 0,08–0,1 mg i.v. minuutin välein."},
+  {"id": "naloksoni-f5", "front": "Naloksoni lapselle", "back": "0,01 mg/kg i.v./i.m./i.n., toistaen (enintään 2 mg); vastasyntynyt 200 µg i.m."},
+  {"id": "naloksoni-f6", "front": "Naloksonin tavoite", "back": "Riittävä hengitys ja tajunta ilman liiallisia vieroitusoireita – ei täysin herännyt potilas."},
+  {"id": "naloksoni-f7", "front": "Synteettiset opioidit ja buprenorfiini", "back": "Fentanyylit ja nitatseenit voivat vaatia jopa 10 mg; buprenorfiinia vaikea kumota."},
+  {"id": "naloksoni-f8", "front": "Miksi naloksonin jälkeen kuljetetaan aina?", "back": "Hengityslama voi uusiutua, kun naloksonin vaikutus loppuu – erityisesti pitkävaikutteisissa opioideissa ja depot-valmisteissa."}
 ]

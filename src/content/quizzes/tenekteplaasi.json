@@ -1,0 +1,76 @@
+[
+  {
+    "id": "tenekteplaasi-q1",
+    "type": "mcq",
+    "question": "Mikä on tenekteplaasin käyttöaihe ensihoidossa?",
+    "options": [
+      "Kaikki rintakipupotilaat",
+      "ST-nousuinfarkti, kun pallolaajennus ei toteudu riittävän nopeasti, ja henkeä uhkaava keuhkoembolia",
+      "Stabiili angina pectoris",
+      "Aortan dissekaatio"
+    ],
+    "correctIndex": 1,
+    "explanation": "Liuotushoitoa harkitaan, jos PCI ei toteudu yleensä 120 minuutin kuluessa, sekä hengenvaarallisessa keuhkoemboliassa."
+  },
+  {
+    "id": "tenekteplaasi-q2",
+    "type": "mcq",
+    "question": "Miten tenekteplaasi annetaan?",
+    "options": [
+      "Tunnin infuusiona",
+      "Yhtenä noin 10 sekunnin boluksena laskimoon painon mukaan",
+      "Lihakseen",
+      "Suun kautta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tenekteplaasi annetaan yhtenä noin 10 sekunnin boluksena; annos määräytyy painon mukaan."
+  },
+  {
+    "id": "tenekteplaasi-q3",
+    "type": "mcq",
+    "question": "Mikä on 75 kg painavan, 60-vuotiaan STEMI-potilaan tenekteplaasiannos?",
+    "options": [
+      "30 mg (6 ml)",
+      "40 mg (8 ml)",
+      "50 mg (10 ml)",
+      "100 mg"
+    ],
+    "correctIndex": 1,
+    "explanation": "70–79 kg: 40 mg = 8 000 ky = 8 ml. Yli 75-vuotiaalle annettaisiin puolikas annos."
+  },
+  {
+    "id": "tenekteplaasi-q4",
+    "type": "mcq",
+    "question": "Miten annosta muutetaan yli 75-vuotiaalla?",
+    "options": [
+      "Annos kaksinkertaistetaan",
+      "Annetaan puolikas annos",
+      "Liuotusta ei anneta koskaan",
+      "Annos annetaan lihakseen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Yli 75-vuotiaalla puolikas annos vähentää selvästi kallonsisäisen verenvuodon riskiä."
+  },
+  {
+    "id": "tenekteplaasi-q5",
+    "type": "truefalse",
+    "question": "Tenekteplaasia ei saa antaa samaan linjaan glukoosiliuoksen kanssa.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Oikein. Tenekteplaasi on yhteensopimaton glukoosiliuoksen kanssa; käytetään NaCl 0,9 -liuosta ja omaa reittiä."
+  },
+  {
+    "id": "tenekteplaasi-q6",
+    "type": "truefalse",
+    "question": "Aortan dissekaatio on liuotushoidon käyttöaihe, koska se nopeuttaa verenkierron palautumista.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Väärin. Aortan dissekaatio on vasta-aihe – liuotus voi johtaa kuolemaan."
+  }
+]

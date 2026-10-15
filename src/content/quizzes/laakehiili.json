@@ -15,20 +15,20 @@
   {
     "id": "laakehiili-q2",
     "type": "mcq",
-    "question": "Mikä on lääkehiilen kerta-annos aikuiselle?",
+    "question": "Mikä on aikuisen lääkehiiliannos ensihoidossa Akuuttihoidon lääkkeiden mukaan?",
     "options": [
       "1–2 g",
       "10 g",
-      "50–100 g",
-      "1 g/kg enintään 20 g"
+      "50 g eli yksi pullollinen juottamalla",
+      "200 g"
     ],
     "correctIndex": 2,
-    "explanation": "Aikuisen kerta-annos on 50–100 g, lapsen 1 g/kg."
+    "explanation": "Ensihoidossa aikuiselle annetaan 50 g p.o. (1 pullollinen). Yleisohjeen kerta-annos on 50–100 g."
   },
   {
     "id": "laakehiili-q3",
     "type": "mcq",
-    "question": "Mihin myrkytykseen lääkehiili EI tehoa?",
+    "question": "Mihin aineeseen lääkehiili EI juuri sitoudu?",
     "options": [
       "Parasetamoli",
       "Bentsodiatsepiinit",
@@ -36,7 +36,7 @@
       "Trisykliset masennuslääkkeet"
     ],
     "correctIndex": 2,
-    "explanation": "Lääkehiili ei sido alkoholeja, metalleja (rauta, litium), syanidia eikä happoja ja emäksiä."
+    "explanation": "Lääkehiili ei juuri sido alkoholeja, liuottimia, petrolituotteita, fluoridia, syanidia, rautaa, litiumia eikä happoja ja emäksiä."
   },
   {
     "id": "laakehiili-q4",
@@ -47,30 +47,30 @@
       "Väärin"
     ],
     "correctIndex": 1,
-    "explanation": "Väärin. Syövyttävissä aineissa lääkehiiltä ei anneta: se ei sido happoja ja emäksiä ja peittää tähystysnäkymän sairaalassa."
+    "explanation": "Väärin. Syövyttävissä aineissa lääkehiiltä ei anneta: perforaation vaara, ja hiili huonontaa tähystyksen näkyvyyttä."
   },
   {
     "id": "laakehiili-q5",
     "type": "mcq",
-    "question": "Millä edellytyksellä Ensihoito-opas ohjaa antamaan lääkehiiltä juottamalla?",
+    "question": "Miten lääkehiili vaikuttaa potilaan muuhun lääkehoitoon?",
     "options": [
-      "Aina, kun potilas on tajuton",
-      "Kun potilaan GCS on yli 13 ja lääkkeet on otettu suun kautta",
-      "Vain, jos potilas on intuboitu",
-      "Vain lapsille"
+      "Se estää myös suun kautta otettujen lääkkeiden imeytymistä, joten lääkkeet annetaan suonensisäisesti",
+      "Se tehostaa kaikkia suun kautta otettuja lääkkeitä",
+      "Sillä ei ole vaikutusta muuhun lääkitykseen",
+      "Se kumoaa laskimoon annettujen lääkkeiden vaikutuksen"
     ],
-    "correctIndex": 1,
-    "explanation": "Ensihoito-oppaan mukaan lääkehiili annetaan juottamalla, jos GCS on yli 13 ja potilas on ottanut lääkkeet suun kautta."
+    "correctIndex": 0,
+    "explanation": "Lääkehiili estää samanaikaisesti otettujen suun kautta annettujen lääkkeiden imeytymistä."
   },
   {
     "id": "laakehiili-q6",
     "type": "truefalse",
-    "question": "Lääkehiilestä voi olla hyötyä vielä tunnin jälkeenkin hitaasti imeytyvissä aineissa.",
+    "question": "Lääkehiilestä voi olla hyötyä vielä useiden tuntien kuluttua yliannoksesta.",
     "options": [
       "Oikein",
       "Väärin"
     ],
     "correctIndex": 0,
-    "explanation": "Oikein. Teho on paras tunnin sisällä, mutta hitaasti imeytyvissä ja enterohepaattiseen kiertoon osallistuvissa aineissa hyötyä voi olla myöhemminkin."
+    "explanation": "Oikein. Teho on paras alle tunnin kuluessa, mutta myöhäänkin (yli 3–6 tuntia) annetusta hiilestä voi olla hyötyä, koska yliannokset imeytyvät usein hitaasti."
   }
 ]

@@ -4,7 +4,7 @@ Enoksapariini on pienimolekyylinen hepariini (LMWH), antikoagulantti eli veren h
 
 ## Vaikutusmekanismi
 
-Enoksapariini sitoutuu antitrombiini III:een (AT-III), elimistön omaan hyytymisen estäjään, ja tehostaa sen kykyä inaktivoida hyytymistekijä Xa:ta. Vaikutus painottuu selvästi tekijä Xa:n estoon trombiinin (tekijä IIa) eston jäädessä vähäisemmäksi — tämä erottaa sen UFH:sta, joka vaikuttaa tasapainoisemmin molempiin. Lopputuloksena hyytymäkaskadin etenemä hidastuu: olemassa olevat hyytymät eivät kasva ja uusia syntyy vähemmän.
+Enoksapariini sitoutuu antitrombiiniin, elimistön omaan hyytymisen estäjään, ja tehostaa sen kykyä inaktivoida hyytymistekijä Xa:ta. Vaikutus painottuu selvästi tekijä Xa:n estoon – trombiinia (tekijä IIa) se estää vähemmän, suhteessa noin 3,6:1. Tämä erottaa sen UFH:sta, joka vaikuttaa tasapainoisemmin molempiin. Lopputuloksena hyytymäkaskadin eteneminen hidastuu: olemassa olevat hyytymät eivät kasva ja uusia syntyy vähemmän. Ihon alle annettuna huippuvaikutus saavutetaan 3–5 tunnissa.
 
 ```media
 {"widget":"coag-cascade"}
@@ -12,27 +12,52 @@ Enoksapariini sitoutuu antitrombiini III:een (AT-III), elimistön omaan hyytymis
 
 ## Käyttöaiheet ensihoidossa
 
-Enoksapariinia käytetään osana [sepelvaltimotautikohtauksen](topic:rintakipu-ja-aks) antitromboottista hoitoa, kun hoito-ohje niin määrää:
+Enoksapariinia käytetään osana [sepelvaltimotautikohtauksen](topic:rintakipu-ja-aks) antitromboottista hoitoa alueellisen hoito-ohjeen mukaan:
 
-- **STEMI + liuotushoito:** tukee liuotushoitoa estämällä uusien hyytymien syntyä.
-- **NSTEMI / epästabiili angina pectoris:** estää tromboosia osittain tukkeutuneessa sepelvaltimossa.
+- **ST-nousuinfarkti**: pallolaajennuksen (PCI) esilääkityksenä ja [liuotushoidon](topic:tenekteplaasi) yhteydessä
+- **NSTEMI ja epästabiili angina pectoris**: estää tromboosia osittain tukkeutuneessa sepelvaltimossa. Ensihoito-oppaan mukaan iskemialöydöksissä ilman ST-nousua annetaan ASA:n ja nitraatin lisäksi enoksapariinia suoneen tai ihon alle paikallisen ohjeen mukaan, huomioiden ikä ja oma antikoagulanttilääkitys.
+- Sairaalassa myös keuhkoembolian ja syvän laskimotukoksen hoito sekä tukosten estohoito (ks. [keuhkoembolia](topic:keuhkoembolia))
 
-> [!info] Annostus vaihtelee hoitomuodon mukaan
-> Annos ja antotapa (laskimoon vai ihon alle, kerta-annos vai toistuva) riippuvat siitä, onko kyse STEMI:stä, NSTEMI:stä, liuotushoidosta vai pallolaajennuksesta, sekä potilaan iästä ja munuaisfunktiosta. Noudata aina voimassa olevaa alueellista hoito-ohjetta ja ikä-/painokohtaisia annosmuunnoksia — tarkkaa yleispätevää kenttäannosta ei tässä esitetä, koska käytäntö vaihtelee hoito-ohjeittain.
+## Annostus
+
+| Tilanne | Annos (Akuuttihoidon lääkkeet, ensihoito) |
+|---|---|
+| STEMI, PCI-esilääkitys | 0,5–0,6 mg/kg i.v., yleensä 30–40 mg |
+| NSTEMI / epästabiili angina | 1 mg/kg s.c.; yli 75-vuotiaalle 0,75 mg/kg s.c. – ei anneta, jos potilaalla on antikoagulanttihoito |
+| Liuotushoito, alle 75-vuotias | 30 mg i.v. ja 1 mg/kg s.c. (enintään 100 mg) |
+| Liuotushoito, yli 75-vuotias | vain 0,75 mg/kg s.c. (enintään 75 mg), ei laskimobolusta |
+
+- Liuotushoidon yhteydessä ihonalainen annos annetaan **15 minuuttia liuotuksen jälkeen**.
+- Ihonalainen pistos annetaan **syvälle vatsan ihopoimuun**, jota puristetaan kevyesti sormien välissä. Esitäytetystä ruiskusta ei poisteta ilmakuplaa ennen pistosta. Enoksapariinia **ei saa antaa lihakseen**.
+- Laskimoon annon jälkeen kanyyli huuhdellaan NaCl 0,9- tai G5-liuoksella.
+
+> [!info] Annos riippuu hoitolinjasta
+> Annos ja antotapa riippuvat siitä, onko kyse pallolaajennuksesta, liuotushoidosta vai ST-nousuttomasta kohtauksesta, sekä potilaan iästä, painosta, munuaisten toiminnasta ja omasta antikoagulanttilääkityksestä. ST-nousuinfarktissa annokset valitaan kardiologin konsultaation perusteella.
 
 ## Ero fraktioimattomaan hepariiniin
 
 Enoksapariini ei vaadi rutiininomaista hyytymisen seurantaa (esim. aPTT) toisin kuin UFH, ja sen puoliintumisaika on pidempi, mikä mahdollistaa harvemman annostelun. Haittapuolena sen vaikutusta on vaikeampi kumota: protamiini neutraloi UFH:n tehokkaasti, mutta enoksapariinin vaikutuksesta vain osan.
 
+## Vasta-aiheet
+
+- **Aktiivinen tai äskettäinen kliinisesti merkittävä verenvuoto** ja verenvuototaipumus
+- **Tuore merkittävä vamma, leikkaus** tai sisäelimen neulanäytteen otto
+- **Tuore laaja tai verenvuodoksi muuttunut aivoinfarkti**
+- Vaikea anemia tai verihiutaleniukkuus
+- Aiemmin todettu **hepariinin aiheuttama trombosytopenia** (HIT)
+- Hoitotasoinen oraalinen antikoagulantti: ST-nousuttomassa kohtauksessa enoksapariinia ei anneta, jos potilaalla on antikoagulanttihoito.
+
 ## Haitat ja huomioitavaa
 
 > [!warning] Verenvuotoriski
-> Enoksapariini lisää verenvuotoriskiä, erityisesti iäkkäillä ja munuaisten vajaatoimintaa sairastavilla, joilla annosta pienennetään. Lääkettä ei anneta, jos potilaalla on käytössä oraalinen antikoagulantti hoitotasoisella INR-arvolla, tai suora antikoagulantti käytössä ennen mahdollista varjoainekuvausta. Koska vaikutusta on vaikea kumota täysin, akuutti verenvuototilanne on erityisen haastava.
+> Enoksapariini lisää verenvuotoriskiä, erityisesti iäkkäillä ja munuaisten vajaatoimintaa sairastavilla, joilla annosta pienennetään. Vuotoriskiä lisäävät myös ASA, muut verihiutale-estäjät, tulehduskipulääkkeet, glukokortikoidit ja oraaliset antikoagulantit. Koska vaikutusta on vaikea kumota täysin, akuutti verenvuototilanne on erityisen haastava.
+
+Muita haittoja ovat pistoskohdan ärsytys ja mustelma, ohimenevä verihiutaleiden lasku hoidon alussa, immunologinen hepariinin aiheuttama trombosytopenia, maksa-arvojen nousu ja hyperkalemia.
 
 ## Muista tämä -kertaus
 
-- Enoksapariini on pienimolekyylinen hepariini, joka estää pääasiassa hyytymistekijä Xa:ta sitoutumalla antitrombiini III:een.
-- Käytetään osana sepelvaltimotautikohtauksen hoitoa — annos ja antotapa riippuvat hoitomuodosta (liuotus, PCI, NSTEMI) ja hoito-ohjeesta.
-- Ei vaadi rutiiniseurantaa, mutta vaikutusta on vaikeampi kumota kuin fraktioimattoman hepariinin.
-- Suurin riski on verenvuoto — huomioi ikä, munuaisfunktio ja muu antikoagulaatiolääkitys.
-- Noudata aina alueellista hoito-ohjetta annostuksessa, koska annos vaihtelee tilanteen mukaan merkittävästi.
+- Pienimolekyylinen hepariini, joka estää antitrombiinin kautta pääasiassa hyytymistekijä Xa:ta.
+- STEMI-PCI: 0,5–0,6 mg/kg i.v. (yleensä 30–40 mg); NSTEMI: 1 mg/kg s.c. (yli 75 v 0,75 mg/kg).
+- Liuotus: alle 75 v 30 mg i.v. + 1 mg/kg s.c. (enintään 100 mg), yli 75 v vain 0,75 mg/kg s.c. (enintään 75 mg); s.c. 15 min liuotuksen jälkeen.
+- Syvälle vatsan ihopoimuun, ei lihakseen; ei rutiiniseurantaa, mutta vaikutusta on vaikea kumota.
+- Ei aktiivisessa vuodossa, tuoreen vamman tai leikkauksen jälkeen, eikä NSTEMI:ssä antikoagulanttia käyttävälle.

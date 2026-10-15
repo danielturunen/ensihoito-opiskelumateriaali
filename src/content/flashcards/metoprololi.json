@@ -1,9 +1,10 @@
 [
   {"id": "metoprololi-f1", "front": "Metoprololin vaikutus", "back": "Selektiivinen beeta1-salpaaja: syke ja eteis-kammiojohtuminen hidastuvat, supistuvuus ja hapenkulutus vähenevät."},
-  {"id": "metoprololi-f2", "front": "Metoprololin annos (Ensihoito-opas)", "back": "1–2 mg i.v. kerta-annoksina."},
-  {"id": "metoprololi-f3", "front": "Metoprololi AKS:ssa", "back": "Hyperdynaaminen potilas (takykardia, normo- tai hypertensio) nitraatin ja kivunhoidon jälkeen; ei rutiinisti."},
-  {"id": "metoprololi-f4", "front": "Metoprololi eteisvärinässä", "back": "Kun nopea eteisvärinä aiheuttaa iskemiaa, rintakipua tai vajaatoiminnan hengenahdistusta; ei jos SAP alle 100."},
-  {"id": "metoprololi-f5", "front": "Metoprololin vasta-aiheet", "back": "Hypotensio (SAP alle 100), bradykardia, johtumishäiriöt, kardiogeeninen sokki, juuri elvytetty potilas."},
-  {"id": "metoprololi-f6", "front": "Metoprololi keuhkopöhössä", "back": "Varovasti – syke vain tasolle 90–100/min."},
-  {"id": "metoprololi-f7", "front": "Beetasalpaajamyrkytys", "back": "Syvä bradykardia ja hypotensio; vaikeissa tapauksissa glukagoni lääkärin konsultaatiolla."}
+  {"id": "metoprololi-f2", "front": "Metoprololi eteisvärinässä (Akuuttihoidon lääkkeet)", "back": "Oireinen nopea eteisvärinä, SAP yli 100: 1–2,5 mg i.v. hitaasti, toistetaan 5 min välein; RR 3–5 min välein."},
+  {"id": "metoprololi-f3", "front": "Metoprololin annos (Ensihoito-opas)", "back": "1–2 mg i.v. kerta-annoksina; ei, jos SAP alle 100."},
+  {"id": "metoprololi-f4", "front": "Metoprololi AKS:ssa", "back": "Hyperdynaaminen potilas (takykardia, normo- tai hypertensio) nitraatin ja kivunhoidon jälkeen; ei rutiinisti."},
+  {"id": "metoprololi-f5", "front": "Metoprololin vasta-aiheet", "back": "Hypotensio, bradykardia, II–III asteen katkos, sairas sinus, keuhkopöhö, kardiogeeninen sokki, juuri elvytetty."},
+  {"id": "metoprololi-f6", "front": "Kompensatorinen takykardia", "back": "Infektio, kuume, kuivuma, verenvuoto – ei metoprololia."},
+  {"id": "metoprololi-f7", "front": "Metoprololin yhteisvaikutukset", "back": "Verapamiili, diltiatseemi ja amiodaroni voimistavat sydäntä lamaavaa vaikutusta."},
+  {"id": "metoprololi-f8", "front": "Beetasalpaajamyrkytys", "back": "Syvä bradykardia ja hypotensio; vaikeissa tapauksissa glukagoni lääkärin konsultaatiolla."}
 ]

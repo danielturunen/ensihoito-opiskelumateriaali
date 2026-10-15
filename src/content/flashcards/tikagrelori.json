@@ -1,8 +1,10 @@
 [
-  {"id": "tikagrelori-f1", "front": "Tikagrelorin lääkeryhmä", "back": "Suun kautta annettava ADP-reseptorin salpaaja (verihiutale-estäjä)."},
-  {"id": "tikagrelori-f2", "front": "Tikagrelorin vaikutuksen alku ja kesto", "back": "Alkaa noin ½–2 h, häviää yleensä 3 vuorokaudessa."},
-  {"id": "tikagrelori-f3", "front": "Tikagrelorin annos (Käypä hoito)", "back": "Latausannos 180 mg p.o., jatkossa 90 mg kaksi kertaa päivässä."},
-  {"id": "tikagrelori-f4", "front": "Tikagrelori vs. klopidogreeli", "back": "Tikagrelori tehokkaampi ja nopeampi, klopidogreeli vähemmän vuotoja – iäkkäillä ja antikoagulanttia käyttävillä klopidogreeli."},
+  {"id": "tikagrelori-f1", "front": "Tikagrelorin lääkeryhmä", "back": "Suun kautta annettava palautuva ADP-reseptorin (P2Y12) salpaaja."},
+  {"id": "tikagrelori-f2", "front": "Tikagrelorin vaikutuksen alku", "back": "Alkaa noin ½–2 h, suurin esto 2–4 h latausannoksesta."},
+  {"id": "tikagrelori-f3", "front": "Tikagrelorin annos", "back": "Latausannos 180 mg p.o., jatkossa 90 mg kaksi kertaa päivässä."},
+  {"id": "tikagrelori-f4", "front": "Tikagrelori ensihoidossa", "back": "STEMI:n PCI-esilääkitys; alueellisen ohjeen mukaan ASA-allergisen AKS."},
   {"id": "tikagrelori-f5", "front": "Tikagrelori ja liuotushoito", "back": "Jos lataus on jo annettu, liuotusta ei anneta kuin vitaali-indikaatiolla."},
-  {"id": "tikagrelori-f6", "front": "Tikagrelori ensihoidossa", "back": "Vain PCI-kuljetukseen lähtevälle STEMI-potilaalle kardiologin ohjeella."}
+  {"id": "tikagrelori-f6", "front": "Tikagrelorin haitat", "back": "Hengenahdistus, verenvuodot (iho, GI, nenä), kreatiniinin ja virtsahapon nousu."},
+  {"id": "tikagrelori-f7", "front": "Tikagrelorin varoitukset", "back": "Aktiivinen vuoto, keskivaikea–vaikea maksan vajaatoiminta; varoen bradykardiariskissä."},
+  {"id": "tikagrelori-f8", "front": "Tikagrelori vs. klopidogreeli", "back": "Tikagrelori tehokkaampi ja nopeampi, klopidogreeli vähemmän vuotoja – iäkkäillä ja antikoagulanttia käyttävillä klopidogreeli."}
 ]

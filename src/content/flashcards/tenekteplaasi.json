@@ -1,0 +1,10 @@
+[
+  {"id": "tenekteplaasi-f1", "front": "Tenekteplaasin vaikutus", "back": "Fibriinispesifinen plasminogeenin aktivaattori – plasmiini hajottaa hyytymän."},
+  {"id": "tenekteplaasi-f2", "front": "Tenekteplaasin käyttöaiheet", "back": "STEMI, kun PCI ei toteudu ajoissa (yleensä 120 min); henkeä uhkaava keuhkoembolia; sairaalassa aivoinfarkti."},
+  {"id": "tenekteplaasi-f3", "front": "Tenekteplaasin anto", "back": "Yksi noin 10 sekunnin bolus laskimoon, painon mukaan 30–50 mg (6–10 ml)."},
+  {"id": "tenekteplaasi-f4", "front": "Tenekteplaasin painotaulukko", "back": "Alle 60 kg 30 mg, 60–69 kg 35 mg, 70–79 kg 40 mg, 80–89 kg 45 mg, vähintään 90 kg 50 mg."},
+  {"id": "tenekteplaasi-f5", "front": "Tenekteplaasi yli 75-vuotiaalle", "back": "Puolikas annos – vähemmän kallonsisäisiä vuotoja."},
+  {"id": "tenekteplaasi-f6", "front": "Liuotushoidon liitännäislääkitys", "back": "ASA, klopidogreeli ja enoksapariini (alle 75 v 30 mg i.v. + 1 mg/kg s.c.; yli 75 v 0,75 mg/kg s.c.)."},
+  {"id": "tenekteplaasi-f7", "front": "Tenekteplaasin vasta-aiheet", "back": "Vuototaipumus, antikoagulaatio, aiempi aivoverenvuoto, tuore vamma tai leikkaus, aortan dissekaatio, vaikea hypertensio, endokardiitti."},
+  {"id": "tenekteplaasi-f8", "front": "Tenekteplaasin haitat", "back": "Pistokohtien vuodot, GI-vuoto, verivirtsaisuus, nenäverenvuoto; harvoin kallonsisäinen vuoto; angioedeema (ACE:n estäjät)."}
+]

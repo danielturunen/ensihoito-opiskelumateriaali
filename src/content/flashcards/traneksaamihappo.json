@@ -1,9 +1,10 @@
 [
-  {"id": "traneksaamihappo-f1", "front": "Traneksaamihapon vaikutus", "back": "Estää fibrinolyysiä – vakauttaa hyytymiä, ei tyrehdytä vuotoa itse."},
-  {"id": "traneksaamihappo-f2", "front": "Traneksaamihapon aikaikkuna", "back": "Hyöty 3 tunnin kuluessa vammasta, suurin ensimmäisen tunnin aikana; myöhemmin voi olla haitallinen."},
-  {"id": "traneksaamihappo-f3", "front": "Traneksaamihappo aikuiselle", "back": "Ensihoito-opas 1 g i.v.; ETC 1 g 10 min + 1 g infuusiona 8 h."},
-  {"id": "traneksaamihappo-f4", "front": "Traneksaamihappo lapselle", "back": "Ensihoito-opas 20 mg/kg i.v.; lasten materiaali 15 mg/kg (max 1 g) + 2 mg/kg/t 8 h."},
-  {"id": "traneksaamihappo-f5", "front": "Traneksaamihappo aivovammassa", "back": "Aikuisen vaikea aivovamma: 1 g ensihoitolääkärin konsultaatiolla; ETC: ei aiheellinen, jos aivovamma on ainoa vamma."},
-  {"id": "traneksaamihappo-f6", "front": "Traneksaamihappo synnytyksen jälkeen", "back": "1 g i.v., jos vuoto yli 800 ml."},
-  {"id": "traneksaamihappo-f7", "front": "Traneksaamihappo GI-vuodossa", "back": "Lähteet eroavat: Ensihoito-opas 1 g, Akuuttihoito-opas: hyötyä ei todettu."}
+  {"id": "traneksaamihappo-f1", "front": "Traneksaamihapon vaikutus", "back": "Estää plasmiinin fibrinolyyttistä vaikutusta – vakauttaa hyytymiä, ei tyrehdytä vuotoa itse."},
+  {"id": "traneksaamihappo-f2", "front": "Traneksaamihapon aikaikkuna vammassa", "back": "Mahdollisimman pian, viimeistään 3 h kuluessa; suurin hyöty ensimmäisen tunnin aikana."},
+  {"id": "traneksaamihappo-f3", "front": "Traneksaamihappo aikuiselle", "back": "1 g i.v. hitaasti (noin 1 ml/min); toista runsaassa vuodossa ja pitkällä kuljetuksella."},
+  {"id": "traneksaamihappo-f4", "front": "Traneksaamihappo lapselle", "back": "20 mg/kg i.v."},
+  {"id": "traneksaamihappo-f5", "front": "Traneksaamihapon käyttöaiheet ensihoidossa", "back": "Vammapotilaan runsas vuoto, massiivisesti vuotava synnyttäjä, GI-vuoto (lähteet eroavat)."},
+  {"id": "traneksaamihappo-f6", "front": "Traneksaamihapon varoitukset", "back": "Aiemmat kouristukset, vaikea munuaisten vajaatoiminta, aktiivinen tromboembolia, raskaus."},
+  {"id": "traneksaamihappo-f7", "front": "Traneksaamihapon haitat", "back": "Kouristukset (kouristuskynnys laskee), harvoin näköhäiriöt."},
+  {"id": "traneksaamihappo-f8", "front": "Traneksaamihappo aivovammassa", "back": "Aikuisen vaikea aivovamma: 1 g ensihoitolääkärin konsultaatiolla; ETC: ei aiheellinen, jos aivovamma on ainoa vamma."}
 ]

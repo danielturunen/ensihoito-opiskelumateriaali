@@ -2,31 +2,44 @@
   {
     "id": "asetyylisalisyylihappo-q1",
     "type": "mcq",
-    "question": "Mikä on ASA:n rooli sepelvaltimotautikohtauksessa?",
+    "question": "Miten ASA estää verihiutaleiden toimintaa?",
     "options": [
-      "Se liuottaa jo syntyneen hyytymän",
-      "Se estää verihiutaleiden toimintaa ja vähentää sydäninfarkteja ja kuolemia",
-      "Se laajentaa sepelvaltimoita",
-      "Se hidastaa sykettä"
+      "Palautuvasti ADP-reseptorin kautta",
+      "Palautumattomasti estämällä tromboksaani A2:n muodostumista",
+      "Estämällä hyytymistekijä Xa:ta",
+      "Liuottamalla fibriiniä"
     ],
     "correctIndex": 1,
-    "explanation": "ASA on verihiutale-estäjä ja sepelvaltimotautikohtauksen peruslääke. Käypä hoidon mukaan se vähentää sydäninfarkteja ja kuolemia."
+    "explanation": "ASA estää palautumattomasti verihiutaleiden kasautumista tromboksaani A2:n synteesin eston kautta."
   },
   {
     "id": "asetyylisalisyylihappo-q2",
     "type": "mcq",
-    "question": "Mikä on ASA:n annos AKS-epäilyssä Käypä hoidon mukaan?",
+    "question": "Mikä on ASA:n annos AKS-epäilyssä Akuuttihoidon lääkkeiden ja Ensihoito-oppaan mukaan?",
     "options": [
       "50 mg suun kautta",
-      "250–500 mg pureskellen tai 250 mg i.v.",
+      "250 mg p.o., tai 250 mg i.v., jos suun kautta ei onnistu",
       "1 000 mg i.v.",
       "10 mg/kg"
     ],
     "correctIndex": 1,
-    "explanation": "Käypä hoito: latausannos 250–500 mg suun kautta tai 250 mg suonensisäisesti. Ensihoito-opas: 250 mg p.o. tai i.v."
+    "explanation": "Ensihoidossa annetaan 250 mg suun kautta tai suonensisäisesti. Käypä hoidon annos on 250–500 mg."
   },
   {
     "id": "asetyylisalisyylihappo-q3",
+    "type": "mcq",
+    "question": "Mikä näistä on ASA:n vasta-aihe ensihoidossa?",
+    "options": [
+      "Diabetes",
+      "Aktiivinen ruoansulatuskanavan verenvuoto",
+      "Korkea ikä",
+      "ASA:n käyttö kotilääkkeenä"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ensihoidon vasta-aiheita ovat ASA-allergia, raskaus ja aktiivinen GI-kanavan vuoto."
+  },
+  {
+    "id": "asetyylisalisyylihappo-q4",
     "type": "truefalse",
     "question": "ASA annetaan AKS-epäilyssä, vaikka potilas käyttäisi sitä jo kotilääkkeenä.",
     "options": [
@@ -37,7 +50,7 @@
     "explanation": "Oikein. Lääke annetaan, vaikka se olisi potilaan kotilääkkeenä."
   },
   {
-    "id": "asetyylisalisyylihappo-q4",
+    "id": "asetyylisalisyylihappo-q5",
     "type": "truefalse",
     "question": "Antikoagulanttia käyttävälle AKS-potilaalle annetaan ASA:ta vain puolikas annos.",
     "options": [
@@ -48,29 +61,16 @@
     "explanation": "Väärin. Käypä hoidon mukaan annos on sama myös antikoagulaatiohoitoa käyttäville."
   },
   {
-    "id": "asetyylisalisyylihappo-q5",
-    "type": "mcq",
-    "question": "Mikä on ASA:n ehdoton este AKS-epäilyssä?",
-    "options": [
-      "Korkea ikä",
-      "Diabetes",
-      "Todettu yliherkkyys ASA:lle",
-      "ASA:n käyttö kotilääkkeenä"
-    ],
-    "correctIndex": 2,
-    "explanation": "ASA:n anto aloitetaan aina, kun epäillään sepelvaltimotautikohtausta eikä potilaan ole osoitettu olevan sille yliherkkä."
-  },
-  {
     "id": "asetyylisalisyylihappo-q6",
     "type": "mcq",
-    "question": "Milloin hätäkeskus ohjaa rintakipupotilasta ottamaan ASA:n ennen ambulanssin tuloa?",
+    "question": "Kuinka paljon liuosta vedetään ruiskuun 250 mg:n suonensisäiseen annokseen, kun 500 mg kuiva-ainetta on liuotettu 5 ml:aan?",
     "options": [
-      "Aina heti puhelun alussa",
-      "Jos ambulanssin tulo kestää yli 20 minuuttia – 250 mg pureskellen",
-      "Vain jos potilas on alle 40-vuotias",
-      "Ei koskaan"
+      "1 ml",
+      "2,5 ml",
+      "5 ml",
+      "10 ml"
     ],
     "correctIndex": 1,
-    "explanation": "Hätäkeskuksen ohjeessa ASA 250 mg pureskellen, jos ambulanssin tulo kestää yli 20 minuuttia."
+    "explanation": "500 mg / 5 ml = 100 mg/ml, joten 250 mg on 2,5 ml. Se annetaan hitaana injektiona laskimoon."
   }
 ]

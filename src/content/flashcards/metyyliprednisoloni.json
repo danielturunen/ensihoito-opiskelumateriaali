@@ -1,8 +1,9 @@
 [
-  {"id": "metyyliprednisoloni-f1", "front": "Metyyliprednisolonin vaikutus", "back": "Kortikosteroidi: hoitaa tulehdusreaktiota – vaikutus alkaa vasta tuntien kuluessa."},
-  {"id": "metyyliprednisoloni-f2", "front": "Metyyliprednisoloni astmassa (Ensihoito-opas)", "back": "40–80 mg i.v., lapselle 2 mg/kg."},
-  {"id": "metyyliprednisoloni-f3", "front": "Metyyliprednisoloni COPD:n pahenemisvaiheessa", "back": "40 mg i.v. kerta-annoksena (Käypä hoito: ensisijaisesti prednisoloni 40 mg p.o.)."},
-  {"id": "metyyliprednisoloni-f4", "front": "Metyyliprednisoloni anafylaksiassa (Ensihoito-opas)", "back": "125 mg i.v., lapselle 2 mg/kg – reaktion uusiutumisen estoon adrenaliinin jälkeen."},
-  {"id": "metyyliprednisoloni-f5", "front": "Hydrokortisoni vaihtoehtona", "back": "Astma 250 mg i.v. (lapsi 5 mg/kg), anafylaksia 250–500 mg i.v."},
-  {"id": "metyyliprednisoloni-f6", "front": "Lapsen kortikosteroidiannoksen yläraja", "back": "Kokonaisannos ei saa ylittää aikuisen annosta."}
+  {"id": "metyyliprednisoloni-f1", "front": "Metyyliprednisolonin vaikutus", "back": "Kortikosteroidi: voimakas tulehdusta ja allergiaa hillitsevä vaikutus – alkaa vasta tuntien kuluessa."},
+  {"id": "metyyliprednisoloni-f2", "front": "Metyyliprednisoloni astmassa", "back": "Akuuttihoidon lääkkeet 40–62,5 mg i.v.; Ensihoito-opas 40–80 mg; lapsi 2 mg/kg."},
+  {"id": "metyyliprednisoloni-f3", "front": "Metyyliprednisoloni anafylaksiassa", "back": "125 mg i.v., lapselle 2 mg/kg – adrenaliinin jälkeen, uusiutumisen estoon."},
+  {"id": "metyyliprednisoloni-f4", "front": "Metyyliprednisolonin ja hydrokortisonin vastaavuus", "back": "20 mg metyyliprednisolonia = 100 mg hydrokortisonia."},
+  {"id": "metyyliprednisoloni-f5", "front": "Metyyliprednisolonin anto", "back": "i.v.-injektio vähintään 5 minuutin aikana (enintään 250 mg) tai i.m."},
+  {"id": "metyyliprednisoloni-f6", "front": "Lapsen kortikosteroidiannoksen yläraja", "back": "Kokonaisannos ei saa ylittää aikuisen annosta; konsultoi herkästi."},
+  {"id": "metyyliprednisoloni-f7", "front": "Metyyliprednisolonin varoitukset", "back": "Maha- tai pohjukaissuolihaava, Cushingin oireyhtymä, hoitamaton yleisinfektio; seuraa verensokeria."}
 ]

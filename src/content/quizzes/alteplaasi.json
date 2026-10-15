@@ -1,0 +1,63 @@
+[
+  {
+    "id": "alteplaasi-q1",
+    "type": "mcq",
+    "question": "Miksi alteplaasi annetaan boluksena ja sen jälkeen infuusiona?",
+    "options": [
+      "Koska se ei liukene veteen",
+      "Koska sen puoliintumisaika on vain 4–5 minuuttia",
+      "Koska bolus aiheuttaa allergian",
+      "Koska se vaikuttaa vasta seuraavana päivänä"
+    ],
+    "correctIndex": 1,
+    "explanation": "Alteplaasin puoliintumisaika plasmassa on 4–5 minuuttia, joten vaikutus ylläpidetään infuusiolla ja se häviää nopeasti infuusion lopettamisen jälkeen."
+  },
+  {
+    "id": "alteplaasi-q2",
+    "type": "mcq",
+    "question": "Mikä on alteplaasin kokonaisannos aivoinfarktin hoidossa?",
+    "options": [
+      "0,25 mg/kg, enintään 25 mg",
+      "0,9 mg/kg, enintään 90 mg – 10 % boluksena ja loput tunnin infuusiona",
+      "1,5 mg/kg boluksena",
+      "15 mg kaikille"
+    ],
+    "correctIndex": 1,
+    "explanation": "Aivoinfarktissa kokonaisannos on 0,9 mg/kg (enintään 90 mg). Tenekteplaasin aivoinfarktiannos on 0,25 mg/kg."
+  },
+  {
+    "id": "alteplaasi-q3",
+    "type": "mcq",
+    "question": "Mitä tehdään, jos alteplaasihoidon aikana ilmaantuu vuotokomplikaatio?",
+    "options": [
+      "Infuusio lopetetaan, tilavuusvaje korvataan, vuotokohtaa painetaan ja tarvittaessa korvataan hyytymistekijöitä",
+      "Infuusionopeutta nostetaan",
+      "Annetaan lisää ASA:ta",
+      "Mitään ei tehdä, koska vaikutus kestää päiviä"
+    ],
+    "correctIndex": 0,
+    "explanation": "Vaikutus häviää nopeasti infuusion lopettamisen jälkeen, joten ensimmäinen toimenpide on infuusion lopettaminen."
+  },
+  {
+    "id": "alteplaasi-q4",
+    "type": "truefalse",
+    "question": "Alteplaasia ei saa infusoida samaan linjaan glukoosiliuoksen kanssa.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Oikein. Mieluiten käytetään omaa suoniyhteyttä."
+  },
+  {
+    "id": "alteplaasi-q5",
+    "type": "truefalse",
+    "question": "ASA:n ja klopidogreelin yhdistelmä on yksinään alteplaasihoidon ehdoton vasta-aihe.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Väärin. Kaksoisestohoito lisää hieman vuotoriskiä, mutta ei ole yksinään vasta-aihe."
+  }
+]

@@ -10,10 +10,23 @@
       "Asetyylikoliinireseptoreihin"
     ],
     "correctIndex": 1,
-    "explanation": "Flumatseniili on bentsodiatsepiinireseptorien kilpaileva vastavaikuttaja, ja se kumoaa bentsodiatsepiinien vaikutuksen."
+    "explanation": "Flumatseniili on bentsodiatsepiinireseptorien kilpaileva vastavaikuttaja, ja se kumoaa bentsodiatsepiinien sekä tsolpideemin ja tsopiklonin vaikutuksen."
   },
   {
     "id": "flumatseniili-q2",
+    "type": "mcq",
+    "question": "Mikä on flumatseniilin annos aikuiselle Akuuttihoidon lääkkeiden ensihoito-ohjeessa?",
+    "options": [
+      "2–3 mg i.v. kerralla",
+      "0,2 mg i.v. tai i.o. toistaen 1–2 minuutin välein, enintään 1–2 mg",
+      "10 mg i.m.",
+      "0,02 mg/kg suun kautta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Aikuiselle 0,2 mg i.v./i.o., tarvittaessa toistaen 1–2 minuutin välein, yhteensä enintään 1–2 mg."
+  },
+  {
+    "id": "flumatseniili-q3",
     "type": "mcq",
     "question": "Missä tilanteessa flumatseniili on erityisen vaarallinen?",
     "options": [
@@ -23,54 +36,41 @@
       "Iäkkäällä potilaalla, jolla on korkea verenpaine"
     ],
     "correctIndex": 2,
-    "explanation": "Sekamyrkytyksessä, erityisesti trisyklisten masennuslääkkeiden kanssa, flumatseniili voi laukaista vaikeahoitoisen kouristustilan."
-  },
-  {
-    "id": "flumatseniili-q3",
-    "type": "mcq",
-    "question": "Mikä on flumatseniilin annos bentsodiatsepiinimyrkytyksessä Ensihoito-oppaan mukaan?",
-    "options": [
-      "2–3 mg i.v. kerralla",
-      "0,2–0,3 mg i.v. tarvittaessa toistaen",
-      "10 mg i.m.",
-      "0,02 mg/kg suun kautta"
-    ],
-    "correctIndex": 1,
-    "explanation": "Ensihoito-opas: 0,2–0,3 mg i.v. tarvittaessa toistaen, jos on tiedossa, ettei myrkytyksen aiheuttajana ole muita lääkkeitä."
+    "explanation": "Sekamyrkytyksessä bentsodiatsepiinin vaikutus voi suojata toisen aineen toksisuudelta, ja trisykliset masennuslääkkeet voivat laukaista vaikean kouristuskohtauksen."
   },
   {
     "id": "flumatseniili-q4",
-    "type": "truefalse",
-    "question": "Flumatseniili kumoaa myös midatsolaamin vaikutuksen.",
+    "type": "mcq",
+    "question": "Miksi flumatseniilin jälkeen potilasta on seurattava?",
     "options": [
-      "Oikein",
-      "Väärin"
+      "Flumatseniili aiheuttaa hypoglykemiaa",
+      "Flumatseniili poistuu nopeammin kuin bentsodiatsepiinit, joten oireet palaavat usein 1–2 tunnissa",
+      "Flumatseniili aiheuttaa viivästyneen anafylaksian",
+      "Seurantaa ei tarvita"
     ],
-    "correctIndex": 0,
-    "explanation": "Oikein. Midatsolaami on bentsodiatsepiini, joten flumatseniili kumoaa sen vaikutuksen. Sedaation kumoamiseen annetaan 0,2 mg, tarvittaessa enintään 1 mg i.v."
+    "correctIndex": 1,
+    "explanation": "Tehokkaan annoksen vaikutus kestää 20–120 minuuttia, ja tajunnan heikkeneminen ja hengityslama palaavat useimmiten 1–2 tunnissa."
   },
   {
     "id": "flumatseniili-q5",
     "type": "truefalse",
-    "question": "Flumatseniilin haittavaikutukset johtuvat lähinnä sen hengitystä lamaavasta vaikutuksesta.",
+    "question": "Jos flumatseniili ei tuota vastetta, tajuttomuuden syy on todennäköisesti jokin muu kuin bentsodiatsepiini.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Oikein. Sopivan annoksen jälkeen vaste tulee minuuteissa."
+  },
+  {
+    "id": "flumatseniili-q6",
+    "type": "truefalse",
+    "question": "Flumatseniilia annetaan, kunnes potilas on täysin hereillä.",
     "options": [
       "Oikein",
       "Väärin"
     ],
     "correctIndex": 1,
-    "explanation": "Väärin. Haitat johtuvat bentsodiatsepiinin vaikutuksen äkillisestä loppumisesta: levottomuus, takykardia, verenpaineen nousu ja kouristukset."
-  },
-  {
-    "id": "flumatseniili-q6",
-    "type": "mcq",
-    "question": "Kuinka nopeasti flumatseniilin vaikutus alkaa laskimoon annettuna?",
-    "options": [
-      "Noin 30–60 sekunnissa",
-      "Noin 10 minuutissa",
-      "Noin tunnissa",
-      "Vasta seuraavana päivänä"
-    ],
-    "correctIndex": 0,
-    "explanation": "Flumatseniilin vaikutus alkaa noin 30–60 sekunnissa."
+    "explanation": "Väärin. Lääkettä annetaan vain, kunnes haluttu hengityksen ja tajunnan taso on saavutettu."
   }
 ]

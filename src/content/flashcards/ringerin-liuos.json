@@ -5,5 +5,7 @@
   {"id": "ringerin-liuos-f4", "front": "Ringer palovammassa", "back": "Ringer-tyyppinen liuos; laajassa vammassa aikuisella aloitus esim. 1 000 ml/t."},
   {"id": "ringerin-liuos-f5", "front": "Ringer ja hyperkalemia", "back": "Ringerissä on kaliumia – valitse NaCl 0,9 %."},
   {"id": "ringerin-liuos-f6", "front": "Kristalloidit vuotavalla potilaalla", "back": "Eivät kuljeta happea eivätkä hyytymistekijöitä; liika laimentaa hyytymistekijöitä – maltillisesti, verituotteet ensin."},
-  {"id": "ringerin-liuos-f7", "front": "Ringer oikean kammion infarktissa", "back": "Neste on hoidon perusta – nitraatti on vasta-aiheinen."}
+  {"id": "ringerin-liuos-f7", "front": "Ringer oikean kammion infarktissa", "back": "Neste on hoidon perusta – nitraatti on vasta-aiheinen."},
+  {"id": "ringerin-liuos-f8", "front": "Hypovolemian merkit", "back": "Jano, kuivat limakalvot, vähentynyt virtsaneritys, viileät ääreisosat, hengitystaajuus ja syke ↑, lankamainen pulssi, verenpaine ↓."},
+  {"id": "ringerin-liuos-f9", "front": "Ringer vai keittosuola menetyksen mukaan?", "back": "Ripuli, suolisto-, sappi- ja haimaerite → Ringer (asidoosi); oksennus ja mahaerite → NaCl 0,9 % (alkaloosi)."}
 ]

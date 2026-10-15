@@ -2,8 +2,9 @@
   {"id": "ipratropium-salbutamoli-f1", "front": "Salbutamolin vaikutus", "back": "Lyhytvaikutteinen beeta-2-agonisti: keuhkoputkien sileä lihas relaksoituu – nopea avaaja."},
   {"id": "ipratropium-salbutamoli-f2", "front": "Ipratropiumbromidin vaikutus", "back": "Lyhytvaikutteinen antikolinergi: salpaa muskariinireseptoreita, estää bronkokonstriktiota ja vähentää eritystä – täydentävä avaaja."},
   {"id": "ipratropium-salbutamoli-f3", "front": "Astman inhalaatio (Ensihoito-opas)", "back": "Salbutamoli + ipratropium 2,5 mg / 0,5 mg tai salbutamoli 5–10 mg; toistetaan 5–10 min välein."},
-  {"id": "ipratropium-salbutamoli-f4", "front": "COPD:n pahenemisvaihe (Käypä hoito)", "back": "Salbutamoli 5–10 mg ± ipratropium 0,5 mg; toistetaan alkuun 20–60 min välein 3 kertaa."},
-  {"id": "ipratropium-salbutamoli-f5", "front": "Salbutamoli anafylaksiassa", "back": "2,5–5 mg nebulisaattorilla bronkusobstruktioon – ei auta kurkunpään tukokseen eikä hypotensioon."},
-  {"id": "ipratropium-salbutamoli-f6", "front": "Haitat", "back": "Salbutamoli: vapina, takykardia, levottomuus. Ipratropium: suun kuivuminen, limanerityksen väheneminen."},
-  {"id": "ipratropium-salbutamoli-f7", "front": "Milloin inhaloitava avaaja on väärä hoito?", "back": "Sydänperäisessä keuhkopöhössä."}
+  {"id": "ipratropium-salbutamoli-f4", "front": "Ipratropium (Akuuttihoidon lääkkeet)", "back": "Aikuinen 0,5 mg, enintään 3 kertaa ensimmäisen tunnin aikana; 1–11 v 0,25 mg, alle 1 v 0,125 mg."},
+  {"id": "ipratropium-salbutamoli-f5", "front": "Lapsen ensisijainen avaava lääke", "back": "Salbutamoli."},
+  {"id": "ipratropium-salbutamoli-f6", "front": "Salbutamoli anafylaksiassa", "back": "2,5–5 mg nebulisaattorilla bronkusobstruktioon – ei auta kurkunpään tukokseen eikä hypotensioon."},
+  {"id": "ipratropium-salbutamoli-f7", "front": "Ipratropiumin haitat ja varoitukset", "back": "Suun kuivuminen, yskä, virtsaumpi; ahdaskulmaglaukooman paheneminen; paradoksaalinen obstruktio."},
+  {"id": "ipratropium-salbutamoli-f8", "front": "Milloin inhaloitava avaaja on väärä hoito?", "back": "Sydänperäisessä keuhkopöhössä."}
 ]

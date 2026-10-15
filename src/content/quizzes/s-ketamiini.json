@@ -2,6 +2,19 @@
   {
     "id": "s-ketamiini-q1",
     "type": "mcq",
+    "question": "Mihin esketamiinin vaikutus perustuu?",
+    "options": [
+      "Opioidireseptorien stimulaatioon",
+      "NMDA-reseptorien salpaukseen, joka aiheuttaa dissosiatiivisen anestesian",
+      "GABA-reseptorien vahvistamiseen kuten bentsodiatsepiineilla",
+      "Beetareseptorien salpaukseen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Esketamiini salpaa NMDA-reseptoreja. Toisin kuin muilla anestesia-aineilla, sillä ei ole GABA-välitteistä vaikutusta."
+  },
+  {
+    "id": "s-ketamiini-q2",
+    "type": "mcq",
     "question": "Mikä on esketamiinin tärkein etu ensihoidon kipulääkkeenä?",
     "options": [
       "Se on tehokkain lääke lievään kipuun",
@@ -13,44 +26,44 @@
     "explanation": "Esketamiini aiheuttaa muita vähemmän hypotensiota, joten se sopii erityisesti hypotensiivisille ja verenkierrollisesti epävakaille potilaille."
   },
   {
-    "id": "s-ketamiini-q2",
+    "id": "s-ketamiini-q3",
     "type": "mcq",
-    "question": "Mikä on esketamiinin kipuannos aikuiselle laskimoon Ensihoito-oppaan mukaan?",
+    "question": "Mikä on esketamiinin kipuannos laskimoon Akuuttihoidon lääkkeiden ensihoito-ohjeessa?",
     "options": [
       "1 mg/kg kerralla",
-      "12,5 mg i.v. boluksina, ensisijaisesti hypotensiivisille, ensihoitolääkärin konsultaation perusteella",
+      "5–10 (–12,5) mg boluksina vasteen mukaan",
       "100 mg i.v.",
       "0,5 mg i.v."
     ],
     "correctIndex": 1,
-    "explanation": "Ensihoito-opas: esketamiini 12,5 mg i.v. boluksina, ensisijaisesti hypotensiivisille, ensihoitolääkärin konsultaation perusteella."
-  },
-  {
-    "id": "s-ketamiini-q3",
-    "type": "mcq",
-    "question": "Miten esketamiinia voidaan antaa, jos suoniyhteyttä ei ole?",
-    "options": [
-      "Vain peräsuoleen",
-      "Intranasaalisesti (aikuiselle 50–100 mg jaettuna sieraimiin) tai lihakseen",
-      "Ihon alle laastarina",
-      "Sitä ei voi antaa ilman suoniyhteyttä"
-    ],
-    "correctIndex": 1,
-    "explanation": "Ensihoito-oppaan mukaan aikuiselle voidaan antaa 50–100 mg i.n. jaettuna sieraimiin. Lihakseen annettaessa annos on suurempi ja vaikutus alkaa hitaammin."
+    "explanation": "Akuuttihoidon lääkkeet: 5–10 (–12,5) mg i.v. boluksia. Ensihoito-oppaassa annos on 12,5 mg boluksina."
   },
   {
     "id": "s-ketamiini-q4",
+    "type": "mcq",
+    "question": "Miten esketamiinin aiheuttamia hallusinaatioita voidaan vähentää?",
+    "options": [
+      "Antamalla naloksonia",
+      "Antamalla pieni bentsodiatsepiiniannos, esimerkiksi midatsolaami 1 mg i.v.",
+      "Nostamalla esketamiiniannosta",
+      "Antamalla adrenaliinia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Akuuttihoidon lääkkeiden mukaan pieni bentsodiatsepiiniannos vähentää hallusinaatioita."
+  },
+  {
+    "id": "s-ketamiini-q5",
     "type": "truefalse",
-    "question": "Liian suuri esketamiiniannos voi nukuttaa heikkokuntoisen potilaan.",
+    "question": "Esketamiinin käytössä on noudatettava varovaisuutta, jos verenpaineen nousu olisi potilaalle vakava riski.",
     "options": [
       "Oikein",
       "Väärin"
     ],
     "correctIndex": 0,
-    "explanation": "Oikein. ETC:n mukaan suuret annokset voivat aiheuttaa yleisanestesian heikkokuntoisella potilaalla, joten annos titrataan pienin erin."
+    "explanation": "Oikein. Ketamiini voi nostaa verenpainetta; vasta-aiheita ovat myös pre-eklampsia ja eklampsia."
   },
   {
-    "id": "s-ketamiini-q5",
+    "id": "s-ketamiini-q6",
     "type": "truefalse",
     "question": "Esketamiini on aivovammapotilaan ensisijainen rauhoittava lääke, koska se vähentää aivojen verenvirtausta.",
     "options": [
@@ -58,19 +71,6 @@
       "Väärin"
     ],
     "correctIndex": 1,
-    "explanation": "Väärin. Toisin kuin useimmat anestesia-aineet, ketamiini ei vähennä aivojen energiankulutusta ja verenvirtausta. Se ei ole aivovammapotilaan ensisijainen lääke."
-  },
-  {
-    "id": "s-ketamiini-q6",
-    "type": "mcq",
-    "question": "Mikä on esketamiinin kipuannos lapselle laskimoon?",
-    "options": [
-      "0,01 mg/kg",
-      "0,125–0,25 mg/kg",
-      "2 mg/kg",
-      "5 mg/kg"
-    ],
-    "correctIndex": 1,
-    "explanation": "Lasten kivunhoidossa esketamiinin annos on 0,125–0,25 mg/kg i.v."
+    "explanation": "Väärin. Toisin kuin useimmat anestesia-aineet, ketamiini ei vähennä aivojen verenvirtausta ja saattaa lisätä paikallista verekkyyttä."
   }
 ]

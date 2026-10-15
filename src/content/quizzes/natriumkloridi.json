@@ -52,16 +52,29 @@
   {
     "id": "natriumkloridi-q5",
     "type": "truefalse",
-    "question": "Amiodaronia ei laimenneta keittosuolaliuokseen.",
+    "question": "Ensihoidossa amiodaronin lyhyt infuusio voidaan laimentaa NaCl 0,9 -liuokseen, kun pitoisuus on vähintään 2 mg/ml.",
     "options": [
       "Oikein",
       "Väärin"
     ],
     "correctIndex": 0,
-    "explanation": "Oikein. Amiodaroni laimennetaan glukoosiliuokseen, ei keittosuolaan."
+    "explanation": "Oikein. Akuuttihoidon lääkkeiden mukaan esimerkiksi 300 mg amiodaronia + 100 ml NaCl 0,9 käy ensihoidossa. Sairaalan pidemmissä infuusioissa käytetään glukoosiliuosta."
   },
   {
     "id": "natriumkloridi-q6",
+    "type": "mcq",
+    "question": "Millä nesteellä korvataan oksentelun aiheuttama mahanesteen menetys Akuuttihoitotyön oppaan mukaan?",
+    "options": [
+      "NaCl 0,9 %",
+      "5-prosenttinen glukoosi",
+      "Albumiini",
+      "Hypotoninen 0,45-prosenttinen keittosuola"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mahanesteen menetys aiheuttaa alkaloosia, ja se korvataan 0,9-prosenttisella keittosuolalla. Suolisto-, sappi- ja haimaeritteet sekä ripuli korvataan Ringerillä."
+  },
+  {
+    "id": "natriumkloridi-q7",
     "type": "mcq",
     "question": "Mikä on keittosuolaliuoksen haitta suurina määrinä?",
     "options": [

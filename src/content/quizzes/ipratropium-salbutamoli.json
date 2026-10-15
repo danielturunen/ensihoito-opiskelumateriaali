@@ -15,15 +15,15 @@
   {
     "id": "ipratropium-salbutamoli-q2",
     "type": "mcq",
-    "question": "Mikä on ipratropiumbromidin rooli yhdistelmässä?",
+    "question": "Mikä on ipratropiumin annos aikuiselle akuutissa obstruktiossa Akuuttihoidon lääkkeiden mukaan?",
     "options": [
-      "Se vaikuttaa nopeammin kuin salbutamoli",
-      "Se täydentää salbutamolin vaikutusta estämällä asetyylikoliinin aiheuttamaa keuhkoputkien supistumista",
-      "Se nostaa verenpainetta",
-      "Se on kortikosteroidi"
+      "0,05 mg",
+      "0,5 mg nebulisaattorilla, henkeä uhkaavassa tilanteessa enintään 3 kertaa ensimmäisen tunnin aikana",
+      "5 mg kerran",
+      "2 mg/kg"
     ],
     "correctIndex": 1,
-    "explanation": "Ipratropium on antikolinergi: se estää parasympaattisen hermoston aiheuttamaa bronkokonstriktiota ja vähentää eritystä. Vaikutus alkaa hitaammin kuin salbutamolin."
+    "explanation": "Akuuttihoidon lääkkeet: 0,5 mg (2 ml) inhaloiden, voidaan antaa kolme kertaa ensimmäisen tunnin aikana."
   },
   {
     "id": "ipratropium-salbutamoli-q3",
@@ -36,23 +36,34 @@
       "Salbutamoli 50 mg i.v."
     ],
     "correctIndex": 1,
-    "explanation": "Ensihoito-opas: salbutamoli + ipratropium 2,5/0,5 mg tai salbutamoli 5–10 mg inhaloiden, toistetaan 5–10 minuutin välein, kunnes saadaan vaste tai ilmaantuu kammioarytmioita."
+    "explanation": "Ensihoito-opas: salbutamoli + ipratropium 2,5/0,5 mg tai salbutamoli 5–10 mg inhaloiden, toistetaan 5–10 minuutin välein."
   },
   {
     "id": "ipratropium-salbutamoli-q4",
     "type": "mcq",
-    "question": "Mikä on salbutamolin tyypillinen haitta?",
+    "question": "Mikä on lapsen ensisijainen keuhkoputkia avaava lääke?",
     "options": [
-      "Bradykardia",
-      "Vapina ja takykardia",
-      "Hypotermia",
-      "Hengityslama"
+      "Salbutamoli",
+      "Ipratropium",
+      "Metyyliprednisoloni",
+      "Adenosiini"
     ],
-    "correctIndex": 1,
-    "explanation": "Beeta-2-agonistin haittoja ovat vapina, takykardia, sydämentykytys ja levottomuus."
+    "correctIndex": 0,
+    "explanation": "Akuuttihoidon lääkkeiden mukaan lapsilla ensisijainen bronkolyytti on salbutamoli."
   },
   {
     "id": "ipratropium-salbutamoli-q5",
+    "type": "truefalse",
+    "question": "Ipratropium voi pahentaa ahdaskulmaglaukoomaa.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Oikein. Ipratropium voi pahentaa ahdaskulmaglaukoomaa ja laajentaa pupillia silmään joutuessaan."
+  },
+  {
+    "id": "ipratropium-salbutamoli-q6",
     "type": "truefalse",
     "question": "Salbutamoli on hyvä hoito sydänperäiseen keuhkopöhöön, koska keuhkoista kuuluu vinkunaa.",
     "options": [
@@ -61,16 +72,5 @@
     ],
     "correctIndex": 1,
     "explanation": "Väärin. Inhaloitava keuhkoputkia laajentava lääkitys on väärä hoito sydämen vajaatoiminnassa."
-  },
-  {
-    "id": "ipratropium-salbutamoli-q6",
-    "type": "truefalse",
-    "question": "Salbutamoli ei auta kurkunpään turvotukseen anafylaksiassa.",
-    "options": [
-      "Oikein",
-      "Väärin"
-    ],
-    "correctIndex": 0,
-    "explanation": "Oikein. Inhaloitava bronkodilataattori auttaa keuhkoputkien ahtautumiseen, mutta ei nielun tai kurkunpään tukokseen eikä hypotensioon."
   }
 ]

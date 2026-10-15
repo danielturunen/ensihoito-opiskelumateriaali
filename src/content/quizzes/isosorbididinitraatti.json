@@ -10,20 +10,20 @@
       "Lisäämällä sydämen supistusvoimaa"
     ],
     "correctIndex": 1,
-    "explanation": "Pienillä annoksilla isosorbididinitraatti laajentaa laskimoita, jolloin sydämen täyttöaste ja esikuorma pienenevät. Suuremmilla annoksilla laajenevat myös valtimot."
+    "explanation": "Isosorbididinitraatti lisää typpioksidia verisuonen seinämässä, ja laskimot laajenevat. Suuremmilla annoksilla laajenevat myös valtimot."
   },
   {
     "id": "isosorbididinitraatti-q2",
     "type": "mcq",
-    "question": "Millä annoksella korkeapainepöhön hoito voidaan aloittaa lähteen mukaan?",
+    "question": "Mikä on Dinit-suihkeen annos rintakivussa Akuuttihoidon lääkkeiden mukaan?",
     "options": [
-      "1 suihkaus",
-      "Esimerkiksi 6 suihkausta isosorbididinitraattia",
-      "20 suihkausta kerralla",
-      "Ei lainkaan nitraattia keuhkopöhössä"
+      "1–2 suihketta kielelle, toistetaan tarvittaessa",
+      "10 suihketta kerralla",
+      "1 suihke vuorokaudessa",
+      "Suihketta ei käytetä rintakivussa"
     ],
-    "correctIndex": 1,
-    "explanation": "Korkeapainepöhössä hoito voidaan aloittaa esimerkiksi isosorbididinitraattisuihkeella 6 suihkausta, ja sitä toistetaan verenpaineen mukaan."
+    "correctIndex": 0,
+    "explanation": "Akuuttihoidon lääkkeet: 1–2 suihketta kielelle, toistetaan tarvittaessa. Vasta-aiheita ovat systolinen paine alle 100 mmHg ja aorttastenoosi."
   },
   {
     "id": "isosorbididinitraatti-q3",
@@ -41,12 +41,23 @@
   {
     "id": "isosorbididinitraatti-q4",
     "type": "truefalse",
-    "question": "Isosorbididinitraatti on nitraatti kuten glyseryylitrinitraatti.",
+    "question": "Isosorbididinitraatti on vasta-aiheinen aorttastenoosissa.",
     "options": [
       "Oikein",
       "Väärin"
     ],
     "correctIndex": 0,
-    "explanation": "Oikein. Molemmat ovat nitraatteja, ja niiden vaikutus perustuu verisuonten, erityisesti laskimoiden, laajenemiseen."
+    "explanation": "Oikein. Aorttastenoosi ja matala verenpaine ovat isosorbididinitraatin vasta-aiheita."
+  },
+  {
+    "id": "isosorbididinitraatti-q5",
+    "type": "truefalse",
+    "question": "Sildenafiilin käyttö edellisenä päivänä ei vaikuta nitraatin turvallisuuteen.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Väärin. Sildenafiili ja tadalafiili alle 48 tunnin kuluessa voimistavat nitraatin verenpainetta laskevaa vaikutusta."
   }
 ]

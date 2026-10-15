@@ -10,12 +10,25 @@
       "Antihistamiinit"
     ],
     "correctIndex": 1,
-    "explanation": "Midatsolaami on nopeavaikutteinen bentsodiatsepiini, joka rauhoittaa, sedatoi ja estää kouristuksia."
+    "explanation": "Midatsolaami on lyhytvaikutteinen bentsodiatsepiini, joka vahvistaa GABA:n vaikutusta keskushermostossa."
   },
   {
     "id": "midatsolaami-q2",
     "type": "mcq",
-    "question": "Mikä on kouristelevan aikuisen midatsolaamin alkuannos Ensihoito-oppaan mukaan?",
+    "question": "Mikä on midatsolaamin i.n. tai bukkaalinen annos 3-vuotiaalle (15 kg) lapselle Akuuttihoidon lääkkeiden mukaan?",
+    "options": [
+      "1 mg",
+      "2,5 mg",
+      "5 mg",
+      "10 mg"
+    ],
+    "correctIndex": 2,
+    "explanation": "Taulukon mukaan 11–20 kg (1–4-vuotiaat) saa 5 mg. 5–10 kg 2,5 mg, 21–40 kg 7,5 mg ja yli 40 kg 10 mg."
+  },
+  {
+    "id": "midatsolaami-q3",
+    "type": "mcq",
+    "question": "Mikä on kouristelevan aikuisen midatsolaamin alkuannos?",
     "options": [
       "1 mg i.v.",
       "10 mg bukkaalisesti tai nenään",
@@ -23,23 +36,23 @@
       "0,1 mg/kg suun kautta"
     ],
     "correctIndex": 1,
-    "explanation": "Kouristelun alkuhoitona annetaan midatsolaamia limakalvolle: aikuiselle 10 mg bukkaalisesti tai nenään, jatkossa tarvittaessa 2,5–5 mg i.v."
-  },
-  {
-    "id": "midatsolaami-q3",
-    "type": "mcq",
-    "question": "Miten midatsolaamia annostellaan rytminsiirron sedaatioon?",
-    "options": [
-      "10 mg nopeana boluksena",
-      "1–2 mg i.v. vasteen mukaan, ja vastetta odotetaan 1–2 minuuttia ennen lisäannosta",
-      "0,5 mg/kg bukkaalisesti",
-      "Sedaatiota ei käytetä rytminsiirrossa"
-    ],
-    "correctIndex": 1,
-    "explanation": "Ensihoito-opas: midatsolaami 1–2 mg i.v. vasteen mukaan, odota vastetta 1–2 min. Sedaatio on riittävä, kun potilas muuttuu uneliaaksi."
+    "explanation": "Kouristelun alkuhoitona aikuiselle annetaan 10 mg limakalvolle, jatkossa tarvittaessa 2,5–5 mg i.v."
   },
   {
     "id": "midatsolaami-q4",
+    "type": "mcq",
+    "question": "Mitä tehdään, jos potilaalla on runsas nenäerite ja midatsolaami pitäisi antaa nenään?",
+    "options": [
+      "Annetaan sama annos lihakseen",
+      "Annetaan kaksinkertainen annos nenään",
+      "Midatsolaamia ei voi antaa",
+      "Odotetaan, että nenä kuivuu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Akuuttihoidon lääkkeiden mukaan limaiselle potilaalle annetaan i.n.-annoksen sijaan sama annos i.m."
+  },
+  {
+    "id": "midatsolaami-q5",
     "type": "truefalse",
     "question": "Midatsolaamin hengitystä lamaava vaikutus voimistuu, jos potilas on käyttänyt alkoholia tai opioideja.",
     "options": [
@@ -47,18 +60,7 @@
       "Väärin"
     ],
     "correctIndex": 0,
-    "explanation": "Oikein. Bentsodiatsepiinien vaarallisuus kasvaa huomattavasti yhdessä muiden keskushermostoa lamaavien aineiden, erityisesti alkoholin, kanssa."
-  },
-  {
-    "id": "midatsolaami-q5",
-    "type": "truefalse",
-    "question": "Iäkkäälle kiihtyneelle potilaalle annetaan midatsolaamia suurempi annos kuin nuorelle.",
-    "options": [
-      "Oikein",
-      "Väärin"
-    ],
-    "correctIndex": 1,
-    "explanation": "Väärin. Ensihoito-oppaan mukaan iäkkäällä annosta pienennetään."
+    "explanation": "Oikein. Midatsolaami voimistaa muiden keskushermostoon vaikuttavien aineiden vaikutusta, ja yli 60-vuotiailla on noudatettava erityistä varovaisuutta."
   },
   {
     "id": "midatsolaami-q6",

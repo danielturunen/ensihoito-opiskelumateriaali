@@ -10,46 +10,46 @@
       "Se korvaa menetettyjä punasoluja"
     ],
     "correctIndex": 1,
-    "explanation": "Traneksaamihappo estää fibrinolyysiä: se vakauttaa hyytymiä, jotta ne eivät hajoa ennenaikaisesti."
+    "explanation": "Traneksaamihappo estää plasmiinin fibrinolyyttistä vaikutusta, jolloin hyytymät eivät hajoa ennenaikaisesti."
   },
   {
     "id": "traneksaamihappo-q2",
     "type": "mcq",
-    "question": "Missä ajassa vammasta traneksaamihappo pitää antaa, jotta siitä on hyötyä?",
+    "question": "Missä ajassa vammasta traneksaamihappo pitää antaa?",
     "options": [
       "24 tunnin kuluessa",
-      "3 tunnin kuluessa, suurin hyöty ensimmäisen tunnin aikana",
+      "Mahdollisimman pian, viimeistään 3 tunnin kuluessa – suurin hyöty ensimmäisen tunnin aikana",
       "Vasta sairaalassa leikkauksen jälkeen",
       "Ajalla ei ole merkitystä"
     ],
     "correctIndex": 1,
-    "explanation": "Hyöty saavutetaan 3 tunnin kuluessa vammasta, suurin ensimmäisen tunnin aikana. Myöhemmin annettuna se voi aiheuttaa enemmän haittaa kuin hyötyä."
+    "explanation": "Alkuannos annetaan mahdollisimman varhain, viimeistään kolmen tunnin kuluessa vammasta."
   },
   {
     "id": "traneksaamihappo-q3",
     "type": "mcq",
-    "question": "Mikä on aikuisen traneksaamihappoannos runsaassa vuodossa Ensihoito-oppaan mukaan?",
+    "question": "Mikä on aikuisen traneksaamihappoannos ensihoidossa?",
     "options": [
       "100 mg i.v.",
-      "1 g i.v.",
-      "5 g i.v.",
+      "1 g i.v. hitaana injektiona, noin 1 ml/min",
+      "5 g i.v. nopeasti",
       "1 g suun kautta"
     ],
     "correctIndex": 1,
-    "explanation": "Ensihoito-opas: 1 g i.v. epäiltäessä runsasta vuotoa. ETC: 1 g 10 minuutissa ja sen jälkeen 1 g infuusiona 8 tunnissa."
+    "explanation": "Aikuiselle 1 g i.v. hitaana injektiona (noin 1 ml/min), lapselle 20 mg/kg. Runsaassa vuodossa ja pitkillä kuljetusmatkoilla annos kannattaa toistaa."
   },
   {
     "id": "traneksaamihappo-q4",
     "type": "mcq",
-    "question": "Mikä on traneksaamihapon annos lapselle Ensihoito-oppaan mukaan?",
+    "question": "Mikä on traneksaamihapon tunnetuin haittavaikutus suurilla laskimonsisäisillä annoksilla?",
     "options": [
-      "1 mg/kg",
-      "20 mg/kg i.v.",
-      "100 mg/kg i.v.",
-      "Lapselle ei anneta traneksaamihappoa"
+      "Hypoglykemia",
+      "Kouristukset, koska kouristuskynnys laskee",
+      "Hengityslama",
+      "Bradykardia"
     ],
     "correctIndex": 1,
-    "explanation": "Ensihoito-opas: lapsille 20 mg/kg i.v. Lasten opetusmateriaalissa 15 mg/kg bolus (enintään 1 g) ja sen jälkeen infuusio."
+    "explanation": "Traneksaamihappo laskee kouristuskynnystä, ja aiemmat kouristukset ovat varoitus."
   },
   {
     "id": "traneksaamihappo-q5",
@@ -71,6 +71,6 @@
       "Väärin"
     ],
     "correctIndex": 0,
-    "explanation": "Oikein. Ensihoito-opas ohjaa antamaan 1 g i.v., mutta Akuuttihoito-oppaan mukaan hyötyä ei ole todettu GI-vuodossa."
+    "explanation": "Oikein. Akuuttihoidon lääkkeet ja Ensihoito-opas ohjaavat antamaan 1 g i.v., mutta Akuuttihoito-oppaan GI-vuotoluvun mukaan hyötyä ei ole todettu."
   }
 ]

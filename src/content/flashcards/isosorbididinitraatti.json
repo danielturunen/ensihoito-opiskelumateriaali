@@ -1,7 +1,8 @@
 [
-  {"id": "isosorbididinitraatti-f1", "front": "Isosorbididinitraatin vaikutus", "back": "Laajentaa laskimoita (esikuorma ↓), suuremmilla annoksilla myös valtimoita; jonkin verran sepelvaltimoita laajentava vaikutus."},
-  {"id": "isosorbididinitraatti-f2", "front": "Isosorbididinitraatti korkeapainepöhössä", "back": "Esim. 6 suihkausta, toistetaan verenpaineen mukaan."},
-  {"id": "isosorbididinitraatti-f3", "front": "Nitraattihoidon verenpainetavoite keuhkopöhössä", "back": "Verenpaine alas, mutta systolinen ei alle 100 mmHg."},
-  {"id": "isosorbididinitraatti-f4", "front": "Korkeapainepöhö", "back": "Ei ennestään vaikeaa vajaatoimintaa, verenpaine hyvin korkea – nitraatti on hoidon kulmakivi."},
-  {"id": "isosorbididinitraatti-f5", "front": "Isosorbididinitraatin varoitukset", "back": "Kuten muiden nitraattien: hypotensio, oikean kammion infarkti, merkittävä bradykardia."}
+  {"id": "isosorbididinitraatti-f1", "front": "Isosorbididinitraatin vaikutus", "back": "Pitkävaikutteinen nitraatti: typpioksidi relaksoi sileän lihaksen; laskimot (esikuorma ↓) ja suuremmilla annoksilla valtimot laajenevat."},
+  {"id": "isosorbididinitraatti-f2", "front": "Isosorbididinitraatti ensihoidossa", "back": "Dinit-suihke 1,25 mg/annos: rintakivussa 1–2 suihketta kielelle, toistetaan tarvittaessa."},
+  {"id": "isosorbididinitraatti-f3", "front": "Isosorbididinitraatti korkeapainepöhössä", "back": "Duodecim: hoito voidaan aloittaa esim. 6 suihkeella; systolinen ei alle 100 mmHg."},
+  {"id": "isosorbididinitraatti-f4", "front": "Isosorbididinitraatin vasta-aiheet", "back": "Systolinen alle 100 mmHg, aorttastenoosi; varoen oikean kammion infarktissa."},
+  {"id": "isosorbididinitraatti-f5", "front": "Nitraatti ja erektiolääkkeet", "back": "Sildenafiili ja tadalafiili (alle 48 h), vardenafiili ja avanafiili voimistavat hypotensiota."},
+  {"id": "isosorbididinitraatti-f6", "front": "Isosorbididinitraatin haitat", "back": "Päänsärky ja hypotensio; jatkuvassa infuusiossa toleranssi."}
 ]

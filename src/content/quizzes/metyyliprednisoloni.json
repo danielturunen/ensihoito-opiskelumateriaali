@@ -10,36 +10,49 @@
       "Viikkojen kuluttua"
     ],
     "correctIndex": 2,
-    "explanation": "Kortikosteroidi ei avaa keuhkoputkia välittömästi, vaan vaikutus alkaa tuntien kuluessa. Ensihoitovaiheen aikana se ei vielä vaikuta."
+    "explanation": "Kortikosteroidin vaikutus alkaa tuntien kuluessa, joten ensihoitovaiheen aikana se ei vielä vaikuta. Siksi se annetaan varhain."
   },
   {
     "id": "metyyliprednisoloni-q2",
     "type": "mcq",
-    "question": "Mikä on metyyliprednisolonin annos astmakohtauksessa Ensihoito-oppaan mukaan?",
+    "question": "Mikä on metyyliprednisolonin annos anafylaksiassa?",
     "options": [
       "4 mg i.v.",
-      "40–80 mg i.v., lapselle 2 mg/kg",
-      "500 mg i.v.",
-      "10 mg/kg i.v."
+      "40 mg i.v.",
+      "125 mg i.v., lapselle 2 mg/kg",
+      "1 000 mg i.v."
     ],
-    "correctIndex": 1,
-    "explanation": "Ensihoito-opas: metyyliprednisoloni 40–80 mg i.v. (lapselle 2 mg/kg) tai hydrokortisoni 250 mg i.v. (lapselle 5 mg/kg)."
+    "correctIndex": 2,
+    "explanation": "Akuuttihoidon lääkkeet ja Ensihoito-opas: vaikeassa allergisessa reaktiossa ja anafylaksiassa 125 mg i.v., lapselle 2 mg/kg."
   },
   {
     "id": "metyyliprednisoloni-q3",
     "type": "mcq",
-    "question": "Mikä on metyyliprednisolonin tehtävä anafylaksiassa?",
+    "question": "Mikä on metyyliprednisolonin annos vaikeassa astmakohtauksessa Akuuttihoidon lääkkeiden mukaan?",
     "options": [
-      "Se korvaa adrenaliinin lievissä reaktioissa",
-      "Reaktion uusiutumisen estäminen adrenaliinin jälkeen",
-      "Verenpaineen nostaminen minuuteissa",
-      "Kurkunpään turvotuksen välitön laukaiseminen"
+      "4–8 mg",
+      "40–62,5 mg i.v.",
+      "500 mg i.v.",
+      "10 mg/kg"
     ],
     "correctIndex": 1,
-    "explanation": "Anafylaksiassa kortikosteroidin tehtävä on estää reaktion uusiutumista. Se ei korvaa adrenaliinia, ja sen vaikutus on hidas."
+    "explanation": "Akuuttihoidon lääkkeet: 40–62,5 mg i.v. Ensihoito-oppaassa annos on 40–80 mg."
   },
   {
     "id": "metyyliprednisoloni-q4",
+    "type": "mcq",
+    "question": "Kuinka paljon hydrokortisonia vastaa 20 mg metyyliprednisolonia?",
+    "options": [
+      "20 mg",
+      "50 mg",
+      "100 mg",
+      "500 mg"
+    ],
+    "correctIndex": 2,
+    "explanation": "Akuuttihoidon lääkkeiden mukaan 20 mg metyyliprednisolonia vastaa 100 mg hydrokortisonia."
+  },
+  {
+    "id": "metyyliprednisoloni-q5",
     "type": "truefalse",
     "question": "Lapselle voidaan antaa painon mukaan laskettuna aikuisen annosta suurempi kortikosteroidiannos.",
     "options": [
@@ -50,14 +63,14 @@
     "explanation": "Väärin. Lääkärin käsikirjan mukaan lapsen kokonaisannos ei saa ylittää aikuisen annosta."
   },
   {
-    "id": "metyyliprednisoloni-q5",
+    "id": "metyyliprednisoloni-q6",
     "type": "truefalse",
-    "question": "Ensihoito-oppaassa metyyliprednisolonin vaihtoehto on hydrokortisoni.",
+    "question": "Metyyliprednisolonin voi antaa myös lihakseen.",
     "options": [
       "Oikein",
       "Väärin"
     ],
     "correctIndex": 0,
-    "explanation": "Oikein. Esimerkiksi astmassa hydrokortisoni 250 mg i.v. (lapselle 5 mg/kg) tai metyyliprednisoloni 40–80 mg (lapselle 2 mg/kg)."
+    "explanation": "Oikein. Akuuttihoidon lääkkeiden ensihoito-ohjeen mukaan lääkkeen voi antaa myös i.m."
   }
 ]

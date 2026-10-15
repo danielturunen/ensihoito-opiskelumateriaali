@@ -5,17 +5,17 @@
     "question": "Miten adenosiini kääntää supraventrikulaarisen takykardian?",
     "options": [
       "Pidentämällä kammioiden refraktaariaikaa viikkojen ajan",
-      "Lamaamalla hetkellisesti eteis-kammiosolmukkeen, jolloin kiertoaktivaatio katkeaa",
+      "Hidastamalla hetkellisesti eteis-kammiojohtumista, jolloin kiertoaktivaatio katkeaa",
       "Nostamalla verenpainetta",
       "Lisäämällä sinussolmukkeen syketaajuutta"
     ],
     "correctIndex": 1,
-    "explanation": "Adenosiini lamaa ohimenevästi sinus- ja eteis-kammiosolmukkeen, jolloin SVT:tä ylläpitävä kiertoaktivaatio katkeaa."
+    "explanation": "Adenosiini hidastaa ohimenevästi eteis-kammiojohtumista, jolloin SVT:tä ylläpitävä kiertoaktivaatio katkeaa."
   },
   {
     "id": "adenosiini-q2",
     "type": "mcq",
-    "question": "Mikä on adenosiinin aloitusannos Ensihoito-oppaan mukaan?",
+    "question": "Mikä on adenosiinin aloitusannos aikuiselle?",
     "options": [
       "0,5 mg hitaasti i.v.",
       "5–6 mg nopeana boluksena i.v.",
@@ -23,41 +23,54 @@
       "300 mg i.v."
     ],
     "correctIndex": 1,
-    "explanation": "Ensihoito-opas: adenosiini 5–6 mg nopeana boluksena i.v., jatkoannokset porrastetusti. Kanyyli suuressa suonessa ja hyvä virtaus."
+    "explanation": "Aloitusannos on 5–6 mg nopeana boluksena suureen ääreislaskimoon, tarvittaessa 10–12 mg ja 12–18 mg."
   },
   {
     "id": "adenosiini-q3",
     "type": "mcq",
-    "question": "Mitä kokeillaan ennen adenosiinia SVT-potilaalla?",
+    "question": "Miksi kanyyli huuhdellaan heti NaCl-liuoksella adenosiinin jälkeen?",
     "options": [
-      "Defibrillaatiota",
-      "Vagaalista ärsytystä, kuten Valsalvan toimenpidettä",
-      "Amiodaroni-infuusiota",
-      "Atropiinia"
+      "Jotta lääke laimenee ja vaikuttaa hitaammin",
+      "Koska adenosiini hajoaa nopeasti ja sen on ehdittävä sydämeen",
+      "Koska adenosiini saostuu kanyyliin",
+      "Huuhtelu estää allergisen reaktion"
     ],
     "correctIndex": 1,
-    "explanation": "PSVT pysäytetään ensin vagaalisella ärsytyksellä ja tarvittaessa adenosiinilla."
+    "explanation": "Lääkeaineen nopean hajoamisen vuoksi kanyyli huuhdellaan nopeasti 5–10 ml:lla NaCl 0,9 -liuosta heti annon jälkeen."
   },
   {
     "id": "adenosiini-q4",
+    "type": "mcq",
+    "question": "Mikä on adenosiinin aloitusannos lapselle?",
+    "options": [
+      "0,01 mg/kg",
+      "0,2 mg/kg",
+      "1 mg/kg",
+      "5 mg kaikenikäisille"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lapsen annos on 0,2 mg/kg, ja lisäannoksia suurennetaan 0,1 mg/kg kerrallaan (kerta-annos enintään 18 mg)."
+  },
+  {
+    "id": "adenosiini-q5",
     "type": "truefalse",
-    "question": "EKG-tallennuksen on oltava päällä adenosiinin annon ajan.",
+    "question": "Adenosiini voi aiheuttaa astmaatikolle keuhkoputkien ahtautumista.",
     "options": [
       "Oikein",
       "Väärin"
     ],
     "correctIndex": 0,
-    "explanation": "Oikein. Adenosiini on sekä terapeuttinen että diagnostinen: EKG voi paljastaa piilevän eteistoiminnan, vaikka rytmi ei kääntyisi."
+    "explanation": "Oikein. Astma ja obstruktiiviset keuhkosairaudet ovat varoitus, ja bronkusobstruktio on adenosiinin haittavaikutus."
   },
   {
-    "id": "adenosiini-q5",
+    "id": "adenosiini-q6",
     "type": "truefalse",
-    "question": "Adenosiini annetaan hitaasti pieneen käsiselän laskimoon, jotta vaikutus olisi tasainen.",
+    "question": "Teofylliiniä käyttävällä potilaalla adenosiinin vaikutus voimistuu.",
     "options": [
       "Oikein",
       "Väärin"
     ],
     "correctIndex": 1,
-    "explanation": "Väärin. Adenosiini annetaan nopeana boluksena, ja kanyylin on oltava suuressa suonessa hyvällä virtauksella."
+    "explanation": "Väärin. Teofylliini ja muut ksantiinijohdannaiset heikentävät adenosiinin vaikutusta; dipyridamoli vahvistaa sitä."
   }
 ]

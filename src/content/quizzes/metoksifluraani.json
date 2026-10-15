@@ -10,43 +10,67 @@
       "Tulehduskipulääke"
     ],
     "correctIndex": 1,
-    "explanation": "Metoksifluraani on aiemmin anestesiakaasuna käytetty aine. Nykyisin sitä on saatavilla hengitettävänä kipulääkkeenä (Penthrox)."
+    "explanation": "Metoksifluraani on fluoripitoinen anestesiakaasu, jota käytetään nykyisin pieninä pitoisuuksina hengitettävänä kipulääkkeenä (Penthrox)."
   },
   {
     "id": "metoksifluraani-q2",
     "type": "mcq",
-    "question": "Kenen kivun hoitoon metoksifluraani on erityisesti tarkoitettu?",
+    "question": "Kenelle metoksifluraani on tarkoitettu ensihoidossa?",
     "options": [
-      "Migreenipotilaan",
-      "Vammapotilaan",
-      "Sappikivikohtauksen",
-      "Synnyttäjän"
+      "Tajuttomalle vammapotilaalle",
+      "Tajuissaan olevalle, hemodynaamisesti vakaalle, yli 18-vuotiaalle vammapotilaalle",
+      "Alle kouluikäiselle lapselle",
+      "Sokkiselle vuotopotilaalle"
     ],
     "correctIndex": 1,
-    "explanation": "Lähteiden mukaan hengitettävä metoksifluraanivalmiste on tarkoitettu erityisesti vammapotilaan kivun hoitoon."
+    "explanation": "Käyttöaihe on tajuissaan olevan, hemodynaamisesti vakaan, yli 18-vuotiaan vammapotilaan keskivaikea tai vaikea kipu."
   },
   {
     "id": "metoksifluraani-q3",
+    "type": "mcq",
+    "question": "Mikä on metoksifluraanin annostus?",
+    "options": [
+      "1 ml kerran vuorokaudessa",
+      "3 ml kerta-annos, joka voidaan toistaa kerran (enintään 6 ml)",
+      "15 ml kerralla",
+      "3 ml tunnin välein jatkuvasti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kerta-annos on 3 ml, ja sen voi toistaa kerran. Viikon kokonaisannos ei saa ylittää 15 ml:aa."
+  },
+  {
+    "id": "metoksifluraani-q4",
+    "type": "mcq",
+    "question": "Kuinka nopeasti metoksifluraanin vaikutus alkaa?",
+    "options": [
+      "Noin 6–10 hengenvedon eli 1–3 minuutin jälkeen",
+      "Noin 30 minuutin kuluttua",
+      "Vasta tunnin kuluttua",
+      "Seuraavana päivänä"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kipua lievittävä vaikutus alkaa yleensä 6–10 hengenvedon jälkeen, ja yksi annos riittää noin 15–30 minuutiksi."
+  },
+  {
+    "id": "metoksifluraani-q5",
     "type": "truefalse",
-    "question": "Potilas annostelee metoksifluraanin itse hengittämällä.",
+    "question": "Metoksifluraani on vasta-aiheinen hemodynaamisesti epävakaalla potilaalla.",
     "options": [
       "Oikein",
       "Väärin"
     ],
     "correctIndex": 0,
-    "explanation": "Oikein. Potilas annostelee hengitettävän valmisteen itse, mikä edellyttää yhteistyökykyä."
+    "explanation": "Oikein. Epävakaalla potilaalla se voi laskea verenpainetta. Muita vasta-aiheita ovat hengitysvajaus, heikentynyt tajunta, maksan tai munuaisten vajaatoiminta ja maligni hypertermia."
   },
   {
-    "id": "metoksifluraani-q4",
-    "type": "mcq",
-    "question": "Missä tilanteessa metoksifluraani on käyttökelpoinen vaihtoehto?",
+    "id": "metoksifluraani-q6",
+    "type": "truefalse",
+    "question": "Metoksifluraani sopii hyvin vahvasti päihtyneelle potilaalle, koska se ei vaikuta keskushermostoon.",
     "options": [
-      "Kun suoniyhteyden avaaminen viivästyy tai ei onnistu",
-      "Vain silloin, kun potilas on tajuton",
-      "Vain elvytyksen aikana",
-      "Kun potilas on intuboitu"
+      "Oikein",
+      "Väärin"
     ],
-    "correctIndex": 0,
-    "explanation": "Jos suoniyhteyden avaaminen viivästyy tai ei onnistu, kipulääkkeenä voidaan käyttää intranasaalista fentanyyliä tai ketamiinia tai hengitettävää metoksifluraania."
+    "correctIndex": 1,
+    "explanation": "Väärin. Metoksifluraani voimistaa muiden keskushermostoa lamaavien aineiden vaikutusta, joten päihtyneelle sitä annetaan varoen."
   }
 ]

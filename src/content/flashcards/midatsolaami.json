@@ -1,9 +1,10 @@
 [
-  {"id": "midatsolaami-f1", "front": "Midatsolaamin lääkeryhmä ja vaikutukset", "back": "Bentsodiatsepiini: rauhoittaa, sedatoi, lievittää ahdistusta ja estää kouristuksia; nopeampi kuin diatsepaami."},
-  {"id": "midatsolaami-f2", "front": "Midatsolaami kouristeluun (aikuinen)", "back": "Aluksi 10 mg bukkaalisesti tai nenään, jatkossa 2,5–5 mg i.v."},
-  {"id": "midatsolaami-f3", "front": "Midatsolaami kouristeluun (lapsi)", "back": "Painon mukaan; lasten opetusmateriaalissa 0,5 mg/kg bukkaalisesti, enintään 10 mg."},
-  {"id": "midatsolaami-f4", "front": "Midatsolaami kiihtyneelle, aggressiiviselle potilaalle", "back": "Aluksi 10 mg bukk./i.n./i.m., jatkossa 2,5–5 mg i.v.; iäkkäällä pienempi annos."},
-  {"id": "midatsolaami-f5", "front": "Midatsolaami rytminsiirron sedaatioon", "back": "1–2 mg i.v. vasteen mukaan, odota 1–2 min; riittävä, kun potilas muuttuu uneliaaksi."},
-  {"id": "midatsolaami-f6", "front": "Midatsolaami AKS:n ahdistukseen (Käypä hoito)", "back": "0,5–1,0 mg i.v. tarvittaessa toistetusti."},
-  {"id": "midatsolaami-f7", "front": "Midatsolaamin haitat", "back": "Hengityslama ja tajunnan lasku (erityisesti alkoholin ja opioidien kanssa), hypotensio; vastalääke flumatseniili."}
+  {"id": "midatsolaami-f1", "front": "Midatsolaamin lääkeryhmä ja vaikutukset", "back": "Lyhytvaikutteinen bentsodiatsepiini (GABA): rauhoittaa, sedatoi, estää kouristuksia, aiheuttaa muistikatkon."},
+  {"id": "midatsolaami-f2", "front": "Midatsolaamin vaikutusaika", "back": "Alkaa 2–5 min, kerta-annos kestää 1–4 h."},
+  {"id": "midatsolaami-f3", "front": "Midatsolaami i.v. (Akuuttihoidon lääkkeet)", "back": "Aikuinen 2,5–5 mg, lapsi 0,1 mg/kg (enintään 2,5–5 mg)."},
+  {"id": "midatsolaami-f4", "front": "Midatsolaami i.n. tai bukkaalisesti", "back": "5–10 kg 2,5 mg, 11–20 kg 5 mg, 21–40 kg 7,5 mg, yli 40 kg 10 mg."},
+  {"id": "midatsolaami-f5", "front": "Midatsolaami kiihtyneelle, aggressiiviselle potilaalle", "back": "Aluksi 10 mg bukk./i.n./i.m., jatkossa 2,5–5 mg i.v.; iäkkäällä pienempi annos."},
+  {"id": "midatsolaami-f6", "front": "Midatsolaami rytminsiirron sedaatioon", "back": "1–2 mg i.v. vasteen mukaan, odota 1–2 min; riittävä, kun potilas muuttuu uneliaaksi."},
+  {"id": "midatsolaami-f7", "front": "Midatsolaami ja ketamiini", "back": "Pieni annos (aikuiselle esim. 1 mg i.v.) vähentää esketamiinin hallusinaatioita."},
+  {"id": "midatsolaami-f8", "front": "Midatsolaamin haitat ja varoitukset", "back": "Hengityslama (yli 60 v, alkoholi, opioidit), hypotensio, sekavuus; varoen myasthenia gravis, uniapnea."}
 ]

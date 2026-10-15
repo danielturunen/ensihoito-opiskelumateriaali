@@ -1,9 +1,9 @@
 [
-  {"id": "asetyylisalisyylihappo-f1", "front": "ASA:n vaikutus", "back": "Verihiutale-estäjä – sepelvaltimotautikohtauksen peruslääke, vähentää infarkteja ja kuolemia."},
-  {"id": "asetyylisalisyylihappo-f2", "front": "ASA:n annos AKS:ssa (Käypä hoito)", "back": "250–500 mg suun kautta pureskellen tai 250 mg i.v.; sama annos myös antikoagulanttia käyttäville."},
-  {"id": "asetyylisalisyylihappo-f3", "front": "ASA:n annos (Ensihoito-opas)", "back": "250 mg p.o. tai i.v."},
-  {"id": "asetyylisalisyylihappo-f4", "front": "ASA kotilääkkeenä", "back": "Latausannos annetaan silti."},
-  {"id": "asetyylisalisyylihappo-f5", "front": "ASA:n vasta-aihe", "back": "Todettu yliherkkyys – silloin sairaalassa pelkkä ADP-reseptorin salpaaja."},
-  {"id": "asetyylisalisyylihappo-f6", "front": "Hätäkeskuksen ASA-ohje", "back": "250 mg pureskellen, jos ambulanssin tulo kestää yli 20 minuuttia."},
-  {"id": "asetyylisalisyylihappo-f7", "front": "Kaksoisverihiutale-estäjähoidon tauotus", "back": "Ensimmäisen kuukauden aikana stenttitromboosin riski jopa monikymmenkertainen – konsultoi kardiologia."}
+  {"id": "asetyylisalisyylihappo-f1", "front": "ASA:n vaikutus", "back": "Estää palautumattomasti verihiutaleiden kasautumista tromboksaani A2:n synteesin eston kautta."},
+  {"id": "asetyylisalisyylihappo-f2", "front": "ASA:n annos ensihoidossa", "back": "250 mg p.o., tai 250 mg i.v. hitaasti, jos suun kautta ei onnistu (Käypä hoito 250–500 mg)."},
+  {"id": "asetyylisalisyylihappo-f3", "front": "Suonensisäisen ASA:n valmistus", "back": "500 mg kuiva-aine + 5 ml liuotinta, ravista kirkkaaksi, ota 2,5 ml = 250 mg, anna hitaasti i.v."},
+  {"id": "asetyylisalisyylihappo-f4", "front": "ASA:n vasta-aiheet ensihoidossa", "back": "ASA-allergia, raskaus, aktiivinen GI-kanavan vuoto."},
+  {"id": "asetyylisalisyylihappo-f5", "front": "ASA kotilääkkeenä", "back": "Latausannos annetaan silti."},
+  {"id": "asetyylisalisyylihappo-f6", "front": "ASA:n haitat", "back": "Vatsavaivat, pahoinvointi, närästys, pitkittynyt verenvuoto."},
+  {"id": "asetyylisalisyylihappo-f7", "front": "Hätäkeskuksen ASA-ohje", "back": "250 mg pureskellen, jos ambulanssin tulo kestää yli 20 minuuttia."}
 ]

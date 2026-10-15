@@ -10,20 +10,20 @@
       "90 mg i.v."
     ],
     "correctIndex": 1,
-    "explanation": "Käypä hoito: tikagrelorin latausannos on 180 mg suun kautta, ja hoitoa jatketaan annoksella 90 mg kaksi kertaa päivässä."
+    "explanation": "Tikagrelorin latausannos on 180 mg suun kautta, ja hoitoa jatketaan annoksella 90 mg kaksi kertaa päivässä."
   },
   {
     "id": "tikagrelori-q2",
     "type": "mcq",
     "question": "Miten tikagrelori eroaa klopidogreelista?",
     "options": [
-      "Vaikutus alkaa nopeammin, ja se estää infarkteja tehokkaammin, mutta aiheuttaa enemmän vuotoja vuotoriskipotilailla",
+      "Se sitoutuu palautuvasti, vaikutus alkaa nopeammin ja se on tehokkaampi, mutta aiheuttaa enemmän vuotoja vuotoriskipotilailla",
       "Se ei vaikuta verihiutaleisiin lainkaan",
       "Se annetaan vain laskimoon",
       "Sen vaikutus kestää kuukausia"
     ],
     "correctIndex": 0,
-    "explanation": "Tikagrelorin vaikutus alkaa noin ½–2 tunnissa (klopidogreelin 3–6 tunnissa). Se on tehokkaampi, mutta aiheuttaa enemmän vuotoja vuotoriskissä olevilla."
+    "explanation": "Tikagrelori sitoutuu palautuvasti P2Y12-reseptoriin, vaikutus alkaa noin ½–2 tunnissa (klopidogreelin 3–6 tunnissa), ja se on tehokkaampi, mutta aiheuttaa enemmän vuotoja vuotoriskissä olevilla."
   },
   {
     "id": "tikagrelori-q3",
@@ -40,17 +40,30 @@
   },
   {
     "id": "tikagrelori-q4",
+    "type": "mcq",
+    "question": "Mikä on tikagrelorin tunnettu, muista verihiutale-estäjistä poikkeava haitta?",
+    "options": [
+      "Hypoglykemia",
+      "Hengenahdistus",
+      "Hiustenlähtö",
+      "Hyperkalemia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hengenahdistus on tikagrelorin tunnettu haittavaikutus. Lisäksi verenvuodot ovat melko yleisiä."
+  },
+  {
+    "id": "tikagrelori-q5",
     "type": "truefalse",
-    "question": "Ensihoidossa ADP-reseptorin salpaajaa ei yleensä aloiteta ennen varjoainekuvausta.",
+    "question": "Tikagreloria annetaan varoen potilaalle, jolla on sairas sinus -oireyhtymä ilman tahdistinta.",
     "options": [
       "Oikein",
       "Väärin"
     ],
     "correctIndex": 0,
-    "explanation": "Oikein. Poikkeuksena on PCI-kuljetukseen lähtevä ST-nousuinfarktipotilas kardiologin ohjeen mukaan."
+    "explanation": "Oikein. Varovaisuutta noudatetaan, jos potilaalla on bradykardiatapahtuman riski, kuten sairas sinus tai II–III asteen eteis-kammiokatkos ilman tahdistinta."
   },
   {
-    "id": "tikagrelori-q5",
+    "id": "tikagrelori-q6",
     "type": "truefalse",
     "question": "Yli 80-vuotiaalla tikagrelori on vuotoriskiltään turvallisempi kuin klopidogreeli.",
     "options": [

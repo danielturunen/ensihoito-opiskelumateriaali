@@ -1,9 +1,10 @@
 [
-  {"id": "klopidogreeli-f1", "front": "Klopidogreelin lääkeryhmä", "back": "Suun kautta annettava ADP-reseptorin salpaaja (verihiutale-estäjä), aihiolääke."},
-  {"id": "klopidogreeli-f2", "front": "Klopidogreelin vaikutuksen alku ja kesto", "back": "Alkaa 3–6 h latausannoksesta, häviää noin 5 vuorokaudessa."},
-  {"id": "klopidogreeli-f3", "front": "Klopidogreelin annos (Käypä hoito)", "back": "Latausannos 600 mg p.o., jatkossa 75 mg kerran päivässä."},
-  {"id": "klopidogreeli-f4", "front": "Milloin klopidogreeli on ensisijainen?", "back": "Suuri verenvuotoriski: antikoagulanttia käyttävät ja iäkkäät."},
-  {"id": "klopidogreeli-f5", "front": "Klopidogreeli liuotushoidossa", "back": "Kaikille ASA ja klopidogreeli sekä antikoagulantti ja liuotuslääke."},
-  {"id": "klopidogreeli-f6", "front": "ADP-reseptorin salpaajat ensihoidossa", "back": "Ei aloiteta ennen angiografiaa – poikkeuksena PCI-kuljetukseen lähtevä STEMI-potilas."},
-  {"id": "klopidogreeli-f7", "front": "Klopidogreeli ja opioidit", "back": "Opioidit heikentävät suun kautta otetun klopidogreelin tehoa."}
+  {"id": "klopidogreeli-f1", "front": "Klopidogreelin lääkeryhmä", "back": "Suun kautta annettava palautumaton ADP-reseptorin salpaaja (verihiutale-estäjä), aihiolääke."},
+  {"id": "klopidogreeli-f2", "front": "Klopidogreelin vaikutuksen alku ja kesto", "back": "Alkaa 3–6 h latausannoksesta, verihiutaleiden toiminta palautuu noin 5 vuorokaudessa."},
+  {"id": "klopidogreeli-f3", "front": "Klopidogreeli ensihoidossa (Akuuttihoidon lääkkeet)", "back": "ASA-allergisen AKS ja liuotushoito: enintään 75 v 300 mg, yli 75 v 75 mg p.o."},
+  {"id": "klopidogreeli-f4", "front": "Klopidogreeli (Käypä hoito)", "back": "Latausannos 600 mg, jatkossa 75 mg kerran päivässä."},
+  {"id": "klopidogreeli-f5", "front": "Milloin klopidogreeli on ensisijainen?", "back": "Suuri verenvuotoriski: antikoagulanttia käyttävät ja iäkkäät."},
+  {"id": "klopidogreeli-f6", "front": "Klopidogreelin vasta-aiheet", "back": "Aktiivinen verenvuoto tai verenvuototaipumus, vaikea maksan vajaatoiminta."},
+  {"id": "klopidogreeli-f7", "front": "Klopidogreelin tehoa heikentävät", "back": "Omepratsoli ja esomepratsoli, flukonatsoli ja vorikonatsoli, opioidit."},
+  {"id": "klopidogreeli-f8", "front": "Klopidogreelin haitat", "back": "Verenvuodot (mustelmat, hematoomat, nenäverenvuoto), ripuli, vatsakipu, päänsärky."}
 ]
