@@ -93,20 +93,27 @@ Luontainen kammiorytmi (idioventrikulaarinen rytmi) ei vaadi hoitotoimia. Potila
 
 Infarktialuetta katsovissa kytkennöissä ST nousee. **Peilikuva- eli resiprokaalimuutokset** ovat anatomisesti vastakkaisella puolella näkyviä ST-laskuja, jotka syntyvät samasta vauriovirrasta. Ne tukevat ST-nousuinfarktin työdiagnoosia: paikallinen ST-nousu ja resiprokaalinen ST-lasku viittaavat infarktiin, kun taas usean alueen ST-nousu ilman peilikuvamuutoksia sopii paremmin perikardiittiin tai myokardiittiin (ks. taulukko alempana).
 
-| Infarktin sijainti | ST-nousu | Peilikuvamuutos (ST-lasku) | Huomioita |
+| Infarktin sijainti | ST-nousu | ST-lasku (peilikuvamuutos) | Erityistä |
 | :-- | :-- | :-- | :-- |
-| Etuseinä | V2–V4 | II, III, aVF – voi liittyä, ei aina | Vaarallisin tyyppi, laaja vasemman sepelvaltimon alue |
-| Alaseinä | II, III, aVF | I, aVL – ei välttämättä, jos tukos on LCX:ssä | Usein bradykardia, hypotonia, kipu voi tuntua ylävatsalla. Mieti myös takaseinää ja oikeaa kammiota |
-| Takaseinä | V7–V9 | V1–V3: vaakasuora ST-lasku, positiivinen T-aalto, korkeat R-aallot | Harvoin yksinään – yleensä osa alaseinä- tai sivuseinäinfarktia. Ilman selän lisäkytkentöjä voi jäädä huomaamatta |
-| Oikea kammio | V4R | – | Liittyy alaseinäinfarktiin; V4R:ssä jo 1 mm:n nousu riittää. Hypotensioriski nitraatin annon jälkeen |
-| Väliseinä | V1–V2 | – | – |
-| Sivuseinä | I, aVL, V5–V6 | Alaseinä, etenkin III, jos tukos on LCX:ssä – LAD-tukoksessa ei välttämättä | Tukos joko LCX:ssä tai LAD:ssa |
-| Korkea lateraalinen | Lähes vain aVL | III | Helppo jäädä huomaamatta |
+| Väliseinä (septaalinen) | V1–V2 | – | Harvinainen; ei välttämättä näy EKG:ssä |
+| Etuseinä (anteriorinen) | V2–V4 (V1–V5) | II, III, aVF – ei aina | Yleensä LAD:n tukos. Laaja-alainen ja vaarallinen: heikentää vasemman kammion pumppausvoimaa, uhkana kardiogeeninen sokki |
+| Etu- ja väliseinä (anteroseptaalinen) | V1–V4 | V7–V9 | – |
+| Sivuseinä (lateraalinen) | I, aVL, V5–V6 | II, III, aVF – etenkin III, jos tukos on LCX:ssä | Yleensä LCX:n tukos. Korkea sivuseinäinfarkti on harvinainen ja voi näkyä ST-nousuna vain aVL:ssä |
+| Etu- ja sivuseinä (anterolateraalinen) | I, aVL, V2–V6 | II, III, aVF | Erittäin vaarallinen: suuri riski menettää vasemman kammion pumppauskyky |
+| Alaseinä (inferiorinen) | II, III, aVF | I, aVL | Yleensä RCA:n tukos. Bradykardia, hypotonia, ylävatsakipu, pahoinvointi ja oksentelu. Esiintyy usein taka- ja/tai sivuseinäinfarktin kanssa |
+| Takaseinä (posteriorinen) | V7–V9 | V1–V3: vaakasuora ST-lasku, positiivinen T-aalto, korkea R-aalto | Oikean tai kiertävän sepelvaltimon tukos. Ei yleensä yksittäisenä löydöksenä – useimmiten alaseinäinfarktin kanssa |
+| Oikea kammio | V4R, V1 | – | Yleensä RCA:n tukos, yhdessä alaseinäinfarktin kanssa. Muutokset näkyvät vain muutaman tunnin infarktin synnystä (V4R:ssä 1 mm:n nousu riittää). Bradykardia ja hypotonia – nitraatti laskee verenpainetta rajusti |
 
 > [!tip] Muista peilikuvaparit
 > - **III ↔ aVL**: kun III:ssa on ST-nousua, aVL:ssä pitäisi näkyä ST-laskua. Joskus alaseinäinfarktin ainoa näkyvä merkki on aVL:n ST-lasku ja T-inversio.
 > - **Takaseinä ↔ etuseinä**: takaseinän ST-nousut näkyvät etuseinän kytkennöissä ST-laskuina. Kun V1–V3:ssa on ST-lasku, ota selän kytkennät V7–V9 – takaseinän ST-nousuinfarkti voi muuten jäädä toteamatta.
 > - Peilikuvamuutoksia etsitään systemaattisesti: ensin ST-nousut vierekkäisistä kytkennöistä, sitten vastakkaisen alueen laskut ja lopuksi muut alueet (älä unohda aVR:ää).
+
+> [!info] Lähteiden ero: kytkennät
+> - **Etuseinä:** oppikirjan taulukossa V2–V4 (laajimmillaan V1–V5), saman kirjan tietolaatikossa V1–V6 ja Kettusen EKG-dioissa V1–V4.
+> - **Takaseinän peilikuva:** V1–V3 oppikirjan taulukossa ja Kettusen dioissa, V1–V2 oppikirjan tietolaatikossa ja V2–V4 Duodecimin artikkelissa.
+> - **Sivuseinä:** oppikirjan tietolaatikko lukee sivuseinän kytkentöihin myös V7–V9, jotka taulukossa ovat takaseinän kytkennät.
+> - **Alaseinän peilikuva:** taulukossa I ja aVL; tietolaatikon mukaan resiprokaalimuutokset näkyvät etu- ja sivuseinän kytkennöissä.
 
 ```media
 {"widget":"ecg-territories","caption":"Valitse seinämä ja katso, missä kytkennöissä ST-nousu näkyy ja missä sen peilikuvana ST-lasku – tai testaa itsesi."}
@@ -114,6 +121,25 @@ Infarktialuetta katsovissa kytkennöissä ST nousee. **Peilikuva- eli resiprokaa
 
 > [!info] Tiesitkö?
 > Suomalaisista sairaankuljettajista 84-92 % tunnisti oikein, mitkä EKG-kytkennät (II, III, aVF) näyttävät alaseinäinfarktin vauriovirran – osa yhdisti virheellisesti myös muita kytkentöjä samaan löydökseen. Alaseinäinfarktin tunnistaminen on tärkeää juuri siksi, että siihen liittyy usein hidasrytmisyyttä, johon kannattaa varautua etukäteen. Samassa EKG:ssä kytkentöjen V1–V4 ST-laskut voitiin tulkita takaseinän vaurion peilikuvaksi – takaseinävaurioon on hyvä varautua aina, kun alaseinäalueella on iskeemisiä muutoksia, koska sama suoni huolehtii osin molempien verenkierrosta.
+
+
+### Haarakatkos ja iskemian tunnistaminen
+
+Haarakatkokset vaikeuttavat sydänlihasiskemian diagnostiikkaa. **Oikeassa haarakatkoksessa (RBBB)** ST-muutokset näkyvät yleensä normaalisti, eikä se vaikuta ST-tason tulkintaan. Sen tunnistaa kytkennän V1 kaksijakoisista komplekseista (rSR′, "pupunkorvat") ja kytkentöjen V6, I ja aVL leveästä S-aallosta: kompleksi voi näyttää nopeasti katsottuna kapealta, mutta leveä S-aalto tekee siitä leveän.
+
+**Vasen haarakatkos (LBBB)** saattaa peittää ST-muutokset täysin, mutta EKG ei ole sen vuoksi käyttökelvoton. LBBB:ssä V1 on negatiivinen ja V6 (samoin I ja aVL) positiivinen, ja määritelmään kuuluu, että ST-väli ja T-aalto ovat QRS:n kanssa erisuuntaisia. Kompleksin kanssa **samansuuntainen** ST-välin muutos on siksi aina poikkeava – samoin erisuuntainen mutta erityisen suuri muutos.
+
+> [!important] LBBB:ssä transmuraaliseen iskemiaan viittaavia löydöksiä
+> - **1 mm:n ST-nousu** kytkennöissä, joissa QRS on positiivinen (suuri painoarvo)
+> - **5 mm:n ST-nousu** kytkennöissä, joissa QRS on negatiivinen
+> - **1 mm:n ST-lasku QRS-kompleksin suuntaan** kytkennöissä V1–V3
+
+```media
+{"widget":"bbb-ischemia","caption":"Vertaa vasenta ja oikeaa haarakatkosta ja valitse muutos: mikä LBBB:ssä on tavallista ja mikä viittaa iskemiaan?"}
+```
+
+> [!info] Lähteiden ero: liian suuri vastakkainen ST-nousu
+> Oppikirjassa raja on kiinteä 5 mm. [EKG:n iskemiatulkinnan](topic:ekg-ja-iskemia) Smith-modifioiduissa Sgarbossan kriteereissä raja suhteutetaan edeltävän S-aallon syvyyteen (ST-nousu vähintään 25 % S-aallosta, Kettusen dioissa 30 %).
 
 ## Sepelvaltimoperäisen rintakivun perushoito
 
@@ -163,6 +189,12 @@ ADP-reseptorin salpaajia ([klopidogreeli](topic:klopidogreeli), [tikagrelori](to
 | Alueellinen T-inversio | Iskeemisen kohtauksen jälkitila |
 | Usean alueen ST-nousu ilman peilikuvamuutoksia | Myokardiitti tai perikardiitti |
 | Sinustakykardia, oikea akseli ("S I, Q III"), korostunut P ja T-inversiot | Keuhkoembolia |
+
+ST-nousuinfarktin EKG-muutokset kehittyvät vaiheittain: ensimmäisinä tunteina ST-väli kohoaa, vuorokauden kuluessa syntyy kuolleesta sydänlihaksesta kertova Q-aalto, viikon kohdalla T-aalto kääntyy negatiiviseksi, ja kuukausien kuluttua ST ja T ovat palautuneet – Q-aalto voi jäädä pysyväksi arveksi.
+
+```media
+{"widget":"stemi-evolution","caption":"Seuraa, miten ST-nousuinfarktin kompleksi muuttuu tunneista kuukausiin."}
+```
 
 Troponiini näyttää infarktin vaurion 6 tunnin kuluttua oireiden alusta vain 40–60 %:n ja 12 tunnin kohdalla 93–100 %:n herkkyydellä – **negatiivinen troponiini ensimmäisinä tunteina ei sulje pois infarktia**. Ensihoidon ultraääni on aiheellinen, kun epäillään aortan dissekoitumaa, sokissa ja ylävatsakivussa; rinta-aortan dissekoituma ei kuitenkaan näy hyvin ultraäänellä, vaan vaatii TT:n. Katso [EKG:n iskemiatulkinta](topic:ekg-ja-iskemia) ja [sydänpotilaan tutkiminen](topic:sydanpotilaan-tutkiminen).
 
@@ -237,5 +269,6 @@ Kun kyse ei todennäköisesti ole sepelvaltimotautikohtauksesta, arvioidaan seur
 - STEMI vaatii nopeaa reperfuusiota – PCI on ensisijainen, jos se toteutuu 120 minuutissa; muuten liuotus 10 minuutin kuluessa diagnoosista
 - 15–16-kytkentäinen EKG 10 minuutin kuluessa kohtaamisesta; rutiinimaista opioidia ja happea vältetään
 - Peilikuvamuutokset tukevat STEMI-diagnoosia: III ↔ aVL, ja V1–V3:n ST-lasku voi olla takaseinäinfarkti – ota V7–V9
+- Haarakatkos: RBBB ei vaikuta ST-tason tulkintaan. LBBB:ssä QRS:n kanssa samansuuntainen ST-muutos on aina poikkeava, samoin erityisen suuri vastakkainen nousu
 - Muista myös vähäisen todennäköisyyden mutta suuren vaaran taudit: aortan dissekaatio, keuhkoembolia, paineilmarinta
 - Verenkiertokomplikaatiot (bradykardia, hypotensio, takyarytmia) hoidetaan heti omien periaatteidensa mukaan

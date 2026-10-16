@@ -20,5 +20,10 @@
   {"id": "rintakipu-ja-aks-f19", "front": "Mitä peilikuvamuutokset ovat?", "back": "Anatomisesti vastakkaisella puolella näkyviä ST-laskuja, jotka syntyvät samasta vauriovirrasta. Ne tukevat ST-nousuinfarktin työdiagnoosia."},
   {"id": "rintakipu-ja-aks-f20", "front": "Peilikuvapari III ↔ ?", "back": "aVL – kun III:ssa on ST-nousua, aVL:ssä pitäisi näkyä ST-laskua. Joskus näkyy vain aVL:n lasku ja T-inversio."},
   {"id": "rintakipu-ja-aks-f21", "front": "Takaseinäinfarktin peilikuva?", "back": "ST-lasku V1–V3 (vaakasuora, positiivinen T, korkeat R-aallot). Varmista selän kytkennöistä V7–V9."},
-  {"id": "rintakipu-ja-aks-f22", "front": "Etuseinäinfarktin peilikuva?", "back": "ST-laskuja voi näkyä alaseinäkytkennöissä (II, III, aVF), mutta ei välttämättä."}
+  {"id": "rintakipu-ja-aks-f22", "front": "Etuseinäinfarktin peilikuva?", "back": "ST-laskuja voi näkyä alaseinäkytkennöissä (II, III, aVF), mutta ei välttämättä."},
+  {"id": "rintakipu-ja-aks-f23", "front": "LBBB:ssä transmuraaliseen iskemiaan viittaavat ST-löydökset?", "back": "1 mm:n ST-nousu kytkennöissä, joissa QRS on positiivinen (suuri painoarvo); 5 mm:n ST-nousu kytkennöissä, joissa QRS on negatiivinen; 1 mm:n ST-lasku QRS:n suuntaan V1–V3."},
+  {"id": "rintakipu-ja-aks-f24", "front": "Oikean haarakatkoksen (RBBB) tunnistaminen?", "back": "V1:ssä kaksijakoinen rSR′ (\"pupunkorvat\"), V6:ssa, I:ssä ja aVL:ssä leveä S-aalto. Ei vaikuta ST-tason tulkintaan."},
+  {"id": "rintakipu-ja-aks-f25", "front": "Vasemman haarakatkoksen (LBBB) tunnistaminen?", "back": "V1 negatiivinen (rS), V6, I ja aVL positiivinen (leveä R). ST ja T ovat QRS:n kanssa erisuuntaisia – vaikeuttaa ST-tason arviointia."},
+  {"id": "rintakipu-ja-aks-f26", "front": "Etu- ja sivuseinän (anterolateraalinen) infarkti?", "back": "ST-nousu I, aVL, V2–V6, peilikuvana ST-lasku II, III, aVF. Erittäin vaarallinen – suuri vasemman kammion pumppauskyvyn menettämisen riski."},
+  {"id": "rintakipu-ja-aks-f27", "front": "ST-nousuinfarktin EKG-muutosten kehitys?", "back": "Tunnit: ST-nousu. Päivä: Q-aalto, ST yhä koholla. Viikko: T-inversio. Kuukaudet: ST ja T palautuvat, Q-aalto voi jäädä arveksi."}
 ]

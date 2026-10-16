@@ -40,6 +40,8 @@ export const widgetMeta: Record<string, WidgetMeta> = {
   conduction: { title: 'Sydämen johtoratajärjestelmä', kind: 'Animaatio' },
   'action-potential': { title: 'Toimintapotentiaali', kind: 'Kaavio' },
   'ecg-territories': { title: 'Infarktin paikantaminen', kind: 'Interaktiivinen kuva' },
+  'bbb-ischemia': { title: 'Haarakatkos ja iskemia', kind: 'Interaktiivinen kuva' },
+  'stemi-evolution': { title: 'ST-nousuinfarktin kehittyminen EKG:ssä', kind: 'Animaatio' },
   atherosclerosis: { title: 'Sepelvaltimotaudin eteneminen', kind: 'Interaktiivinen kuva' },
   'coag-cascade': { title: 'Hyytymisen esto', kind: 'Kaavio' },
   pneumothorax: { title: 'Ilmarinta, jänniteilmarinta ja veririnta', kind: 'Animaatio' },

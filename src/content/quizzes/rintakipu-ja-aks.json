@@ -172,5 +172,53 @@
     ],
     "correctIndex": 2,
     "explanation": "Takaseinän ST-nousut näkyvät etuseinän kytkennöissä ST-laskuina. Takaseinäinfarkti varmistetaan selän lisäkytkennöistä V7–V9, joissa yli 1 mm:n ST-nousu."
+  },
+  {
+    "id": "rintakipu-ja-aks-q15",
+    "type": "mcq",
+    "question": "Vasemman haarakatkoksen (LBBB) potilaan EKG:ssä on 1,5 mm:n ST-nousu kytkennässä V6, jossa QRS on positiivinen. Mitä löydös tarkoittaa?",
+    "options": [
+      "Se kuuluu tavalliseen LBBB:hen",
+      "Se viittaa transmuraaliseen iskemiaan – QRS:n kanssa samansuuntainen ST-muutos on LBBB:ssä aina poikkeava",
+      "Sitä ei voi arvioida, koska LBBB tekee EKG:stä käyttökelvottoman",
+      "Se viittaa oikeaan haarakatkokseen"
+    ],
+    "correctIndex": 1,
+    "explanation": "LBBB:ssä ST ja T ovat normaalisti QRS:n kanssa erisuuntaisia. Vähintään 1 mm:n ST-nousu kytkennässä, jossa QRS on positiivinen, viittaa transmuraaliseen iskemiaan, ja löydöksellä on suuri painoarvo."
+  },
+  {
+    "id": "rintakipu-ja-aks-q16",
+    "type": "truefalse",
+    "question": "Oikea haarakatkos (RBBB) ei yleensä estä ST-muutosten tulkintaa.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 0,
+    "explanation": "RBBB:ssä ST-muutokset näkyvät yleensä normaalisti. Vasen haarakatkos sen sijaan voi peittää ne – silloinkin EKG:stä on hyötyä, kun tuntee LBBB:n iskemiakriteerit."
+  },
+  {
+    "id": "rintakipu-ja-aks-q17",
+    "type": "mcq",
+    "question": "Missä kytkennöissä etu- ja sivuseinän (anterolateraalinen) infarkti näkyy ST-nousuina?",
+    "options": [
+      "II, III ja aVF",
+      "V1–V2",
+      "I, aVL ja V2–V6",
+      "V7–V9"
+    ],
+    "correctIndex": 2,
+    "explanation": "Anterolateraalinen infarkti näkyy ST-nousuina kytkennöissä I, aVL ja V2–V6, ja peilikuvana ST-laskuina kytkennöissä II, III ja aVF. Se on erittäin vaarallinen, koska vasemman kammion pumppauskyky voi menettyä."
+  },
+  {
+    "id": "rintakipu-ja-aks-q18",
+    "type": "truefalse",
+    "question": "Oikean kammion infarktin ST-nousu kytkennässä V4R pysyy näkyvissä useita päiviä.",
+    "options": [
+      "Oikein",
+      "Väärin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oikean kammion infarktin muutokset näkyvät vain muutamia tunteja infarktin syntymisestä. V4R:ssä jo 1 mm:n ST-nousu riittää."
   }
 ]

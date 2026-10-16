@@ -74,6 +74,12 @@ Noin 15 %:lla sepelvaltimotautikohtaukseen sairastuneista QRS on leveä, jolloin
 2. **Samansuuntainen ST-lasku ≥ 1 mm kytkennöissä V1–V3.**
 3. **Suhteessa liian suuri vastakkaissuuntainen ST-nousu**: ST-nousu vähintään 25 % edeltävän S-aallon syvyydestä (Kettusen dioissa raja ≥ 30 %).
 
+Oppikirjan yksinkertaistetussa muodossa kolmas kriteeri on kiinteä, vähintään 5 mm:n vastakkaissuuntainen ST-nousu (ks. [rintakipu ja AKS](topic:rintakipu-ja-aks)).
+
+```media
+{"widget":"bbb-ischemia","caption":"Valitse haarakatkos ja muutos: mikä kuuluu tavalliseen LBBB:hen ja mikä viittaa tukokseen?"}
+```
+
 > [!info] Lähteiden ero
 > Duodecimin katsauksessa (2023) ST/S-suhteen raja on 25 % (jo 20 % on varsin spesifinen), Kettusen webinaarissa 30 %. Lateraalikytkentöjen vastakkaissuuntaisessa ST-laskussa iskemiaan viittaa ST/R-suhde ≥ 30 %.
 
