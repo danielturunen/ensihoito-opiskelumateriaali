@@ -91,20 +91,29 @@ Luontainen kammiorytmi (idioventrikulaarinen rytmi) ei vaadi hoitotoimia. Potila
 
 ## Infarktin paikantaminen EKG:stä
 
-| Infarktin sijainti | Tyypilliset löydökset | Huomioita |
-| :-- | :-- | :-- |
-| Etuseinä | ST-nousu V2-V4 | Vaarallisin tyyppi, laaja vasemman sepelvaltimon alue |
-| Ala-/takaseinä | ST-nousu II, III, aVF | Usein bradykardia, hypotonia, kipu voi tuntua ylävatsalla |
-| Oikea kammio | ST-nousu V4R | Liittyy ala-/takaseinäinfarktiin, hypotensioriski nitraatin annon jälkeen |
-| Väliseinä | ST-nousu V1-V2 | – |
-| Korkea lateraalinen | Muutos lähes vain aVL:ssä | Helppo jäädä huomaamatta |
+Infarktialuetta katsovissa kytkennöissä ST nousee. **Peilikuva- eli resiprokaalimuutokset** ovat anatomisesti vastakkaisella puolella näkyviä ST-laskuja, jotka syntyvät samasta vauriovirrasta. Ne tukevat ST-nousuinfarktin työdiagnoosia: paikallinen ST-nousu ja resiprokaalinen ST-lasku viittaavat infarktiin, kun taas usean alueen ST-nousu ilman peilikuvamuutoksia sopii paremmin perikardiittiin tai myokardiittiin (ks. taulukko alempana).
+
+| Infarktin sijainti | ST-nousu | Peilikuvamuutos (ST-lasku) | Huomioita |
+| :-- | :-- | :-- | :-- |
+| Etuseinä | V2–V4 | II, III, aVF – voi liittyä, ei aina | Vaarallisin tyyppi, laaja vasemman sepelvaltimon alue |
+| Alaseinä | II, III, aVF | I, aVL – ei välttämättä, jos tukos on LCX:ssä | Usein bradykardia, hypotonia, kipu voi tuntua ylävatsalla. Mieti myös takaseinää ja oikeaa kammiota |
+| Takaseinä | V7–V9 | V1–V3: vaakasuora ST-lasku, positiivinen T-aalto, korkeat R-aallot | Harvoin yksinään – yleensä osa alaseinä- tai sivuseinäinfarktia. Ilman selän lisäkytkentöjä voi jäädä huomaamatta |
+| Oikea kammio | V4R | – | Liittyy alaseinäinfarktiin; V4R:ssä jo 1 mm:n nousu riittää. Hypotensioriski nitraatin annon jälkeen |
+| Väliseinä | V1–V2 | – | – |
+| Sivuseinä | I, aVL, V5–V6 | Alaseinä, etenkin III, jos tukos on LCX:ssä – LAD-tukoksessa ei välttämättä | Tukos joko LCX:ssä tai LAD:ssa |
+| Korkea lateraalinen | Lähes vain aVL | III | Helppo jäädä huomaamatta |
+
+> [!tip] Muista peilikuvaparit
+> - **III ↔ aVL**: kun III:ssa on ST-nousua, aVL:ssä pitäisi näkyä ST-laskua. Joskus alaseinäinfarktin ainoa näkyvä merkki on aVL:n ST-lasku ja T-inversio.
+> - **Takaseinä ↔ etuseinä**: takaseinän ST-nousut näkyvät etuseinän kytkennöissä ST-laskuina. Kun V1–V3:ssa on ST-lasku, ota selän kytkennät V7–V9 – takaseinän ST-nousuinfarkti voi muuten jäädä toteamatta.
+> - Peilikuvamuutoksia etsitään systemaattisesti: ensin ST-nousut vierekkäisistä kytkennöistä, sitten vastakkaisen alueen laskut ja lopuksi muut alueet (älä unohda aVR:ää).
 
 ```media
-{"widget":"ecg-territories","caption":"Valitse seinämä ja katso, missä kytkennöissä ST-nousu näkyy – tai testaa itsesi."}
+{"widget":"ecg-territories","caption":"Valitse seinämä ja katso, missä kytkennöissä ST-nousu näkyy ja missä sen peilikuvana ST-lasku – tai testaa itsesi."}
 ```
 
 > [!info] Tiesitkö?
-> Suomalaisista sairaankuljettajista 84-92 % tunnisti oikein, mitkä EKG-kytkennät (II, III, aVF) näyttävät alaseinäinfarktin vauriovirran – osa yhdisti virheellisesti myös muita kytkentöjä samaan löydökseen. Alaseinäinfarktin tunnistaminen on tärkeää juuri siksi, että siihen liittyy usein hidasrytmisyyttä, johon kannattaa varautua etukäteen.
+> Suomalaisista sairaankuljettajista 84-92 % tunnisti oikein, mitkä EKG-kytkennät (II, III, aVF) näyttävät alaseinäinfarktin vauriovirran – osa yhdisti virheellisesti myös muita kytkentöjä samaan löydökseen. Alaseinäinfarktin tunnistaminen on tärkeää juuri siksi, että siihen liittyy usein hidasrytmisyyttä, johon kannattaa varautua etukäteen. Samassa EKG:ssä kytkentöjen V1–V4 ST-laskut voitiin tulkita takaseinän vaurion peilikuvaksi – takaseinävaurioon on hyvä varautua aina, kun alaseinäalueella on iskeemisiä muutoksia, koska sama suoni huolehtii osin molempien verenkierrosta.
 
 ## Sepelvaltimoperäisen rintakivun perushoito
 
@@ -227,5 +236,6 @@ Kun kyse ei todennäköisesti ole sepelvaltimotautikohtauksesta, arvioidaan seur
 - Perushoito: asento, happi vain hypoksiassa, ASA, nitraatti (jos verenpaine riittää), suoniyhteys
 - STEMI vaatii nopeaa reperfuusiota – PCI on ensisijainen, jos se toteutuu 120 minuutissa; muuten liuotus 10 minuutin kuluessa diagnoosista
 - 15–16-kytkentäinen EKG 10 minuutin kuluessa kohtaamisesta; rutiinimaista opioidia ja happea vältetään
+- Peilikuvamuutokset tukevat STEMI-diagnoosia: III ↔ aVL, ja V1–V3:n ST-lasku voi olla takaseinäinfarkti – ota V7–V9
 - Muista myös vähäisen todennäköisyyden mutta suuren vaaran taudit: aortan dissekaatio, keuhkoembolia, paineilmarinta
 - Verenkiertokomplikaatiot (bradykardia, hypotensio, takyarytmia) hoidetaan heti omien periaatteidensa mukaan

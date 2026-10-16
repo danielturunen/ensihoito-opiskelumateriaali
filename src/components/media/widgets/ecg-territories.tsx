@@ -6,14 +6,18 @@ import { useSvgId } from '../parts/cardio-hooks'
 
 /* ------------------------------------------------------------------ data */
 
-type Lead = 'I' | 'II' | 'III' | 'aVR' | 'aVL' | 'aVF' | 'V1' | 'V2' | 'V3' | 'V4' | 'V5' | 'V6' | 'V4R'
-type TerritoryId = 'anterior' | 'inferior' | 'rv' | 'septal' | 'lateral'
+type Lead = 'I' | 'II' | 'III' | 'aVR' | 'aVL' | 'aVF' | 'V1' | 'V2' | 'V3' | 'V4' | 'V5' | 'V6' | 'V4R' | 'V7' | 'V8' | 'V9'
+type TerritoryId = 'anterior' | 'inferior' | 'posterior' | 'rv' | 'septal' | 'lateral'
 
 interface Territory {
   id: TerritoryId
   name: string
   leadsLabel: string
   leads: Lead[]
+  /** reciprocal ST depression (Kettunen: Iskemiatulkinta; Duodecim Oppiportti; Rankinen ym. Duodecim) */
+  reciprocal: Lead[]
+  recLabel?: string
+  recNote?: string
   note: string
   extra?: string
   tone: Tone
@@ -25,16 +29,33 @@ const TERRITORIES: Territory[] = [
     name: 'Etuseinä',
     leadsLabel: 'V2–V4',
     leads: ['V2', 'V3', 'V4'],
+    reciprocal: ['II', 'III', 'aVF'],
+    recLabel: 'II, III, aVF',
+    recNote: 'Alaseinäkytkentöjen ST-laskuja voi liittyä, mutta ei välttämättä.',
     note: 'Vaarallisin tyyppi – laaja vasemman sepelvaltimon alue.',
     tone: 'danger',
   },
   {
     id: 'inferior',
-    name: 'Ala-/takaseinä',
+    name: 'Alaseinä',
     leadsLabel: 'II, III, aVF',
     leads: ['II', 'III', 'aVF'],
-    note: 'Usein bradykardia ja hypotonia, kipu voi tuntua ylävatsalla.',
+    reciprocal: ['I', 'aVL'],
+    recLabel: 'I, aVL',
+    recNote: 'Ei välttämättä, jos tukos on LCX:ssä. III ja aVL ovat toistensa peilikuvia – joskus näkyy vain aVL:n ST-lasku ja T-inversio.',
+    note: 'Usein bradykardia ja hypotonia, kipu voi tuntua ylävatsalla. Mieti myös takaseinää (V7–V9) ja oikeaa kammiota (V4R).',
     extra: 'Suomalaisista sairaankuljettajista 84–92 % tunnisti nämä kytkennät oikein.',
+    tone: 'brand',
+  },
+  {
+    id: 'posterior',
+    name: 'Takaseinä',
+    leadsLabel: 'V7–V9',
+    leads: ['V7', 'V8', 'V9'],
+    reciprocal: ['V1', 'V2', 'V3'],
+    recLabel: 'V1–V3',
+    recNote: 'Vaakasuora ST-lasku, positiivinen T-aalto ja korkeat R-aallot (osassa lähteistä V2–V4). Etuseinän ST-lasku voi siis olla takaseinän ST-nousuinfarkti.',
+    note: 'Harvoin yksinään – yleensä mukana alaseinäinfarkti (RCA) tai sivuseinäinfarkti (LCX). Ilman selän lisäkytkentöjä voi jäädä huomaamatta.',
     tone: 'brand',
   },
   {
@@ -42,7 +63,8 @@ const TERRITORIES: Territory[] = [
     name: 'Oikea kammio',
     leadsLabel: 'V4R',
     leads: ['V4R'],
-    note: 'Liittyy ala-/takaseinäinfarktiin. Hypotensioriski nitraatin annon jälkeen – tarkista V4R ennen nitraattia.',
+    reciprocal: [],
+    note: 'Liittyy alaseinäinfarktiin – V4R:ssä jo 1 mm:n ST-nousu riittää. Hypotensioriski nitraatin annon jälkeen – tarkista V4R ennen nitraattia.',
     tone: 'danger',
   },
   {
@@ -50,6 +72,7 @@ const TERRITORIES: Territory[] = [
     name: 'Väliseinä',
     leadsLabel: 'V1–V2',
     leads: ['V1', 'V2'],
+    reciprocal: [],
     note: 'ST-nousu näkyy kytkennöissä V1–V2.',
     tone: 'brand',
   },
@@ -58,6 +81,9 @@ const TERRITORIES: Territory[] = [
     name: 'Korkea lateraalinen',
     leadsLabel: 'aVL',
     leads: ['aVL'],
+    reciprocal: ['III'],
+    recLabel: 'III',
+    recNote: 'III ja aVL ovat toistensa peilikuvia. Sivuseinäinfarktissa (I, aVL, V5–V6) LCX-tukos laskee ST-tasoa alaseinäkytkennöissä, etenkin III:ssa; LAD-tukoksessa laskuja ei välttämättä ole.',
     note: 'Muutos lähes vain aVL:ssä – helppo jäädä huomaamatta.',
     tone: 'brand',
   },
@@ -67,7 +93,8 @@ const BY_ID = Object.fromEntries(TERRITORIES.map((t) => [t.id, t])) as Record<Te
 
 /** Printed 12-lead layout: four columns, three rows. */
 const GRID: Lead[] = ['I', 'aVR', 'V1', 'V4', 'II', 'aVL', 'V2', 'V5', 'III', 'aVF', 'V3', 'V6']
-const ORDER: Lead[] = [...GRID.filter((_, i) => i % 4 === 0), ...GRID.filter((_, i) => i % 4 === 1), 'V1', 'V2', 'V3', 'V4', 'V5', 'V6', 'V4R']
+const ORDER: Lead[] = [...GRID.filter((_, i) => i % 4 === 0), ...GRID.filter((_, i) => i % 4 === 1), 'V1', 'V2', 'V3', 'V4', 'V5', 'V6', 'V4R', 'V7', 'V8', 'V9']
+const EXTRA: Lead[] = ['V4R', 'V7', 'V8', 'V9']
 const byOrder = (a: Lead, b: Lead) => ORDER.indexOf(a) - ORDER.indexOf(b)
 
 /* --------------------------------------------------------- mini complex */
@@ -94,28 +121,36 @@ const MORPH: Record<Lead, Morph> = {
   V5: { p: 1.4, q: 0.8, r: 12, s: 3, t: 3.5 },
   V6: { p: 1.4, q: 0.8, r: 10, s: 1.5, t: 3 },
   V4R: { p: 1.2, q: 0, r: 3, s: 6, t: 1.4 },
+  V7: { p: 1.2, q: 0.8, r: 7, s: 1.5, t: 2.4 },
+  V8: { p: 1, q: 0.8, r: 6, s: 1.5, t: 2 },
+  V9: { p: 1, q: 0.8, r: 5, s: 1.5, t: 1.8 },
 }
 
 const BASE = 21
 const ST = 6
 
-/** Same command structure for normal and ST-elevated, so motion can morph between them. */
-function complexPath(m: Morph, elevated: boolean): string {
+const DEP = 4
+
+/** Same command structure for normal, ST-elevated (1) and ST-depressed (-1), so motion can morph between them. */
+function complexPath(m: Morph, st: -1 | 0 | 1): string {
   const y = (v: number) => (BASE - v).toFixed(2)
-  const j = elevated ? ST : 0
+  const elevated = st === 1
+  const j = elevated ? ST : st === -1 ? -DEP : 0
   const tp = elevated ? Math.max(m.t, 0) + ST * 0.75 + 1 : m.t
-  const c1 = elevated ? (BASE - ST - 1.6).toFixed(2) : y(0)
+  // depression: flat (horizontal) ST segment before the T wave
+  const c1 = elevated ? (BASE - ST - 1.6).toFixed(2) : st === -1 ? y(-DEP) : y(0)
   return (
     `M0 ${y(0)} L9 ${y(0)} Q13.5 ${y(m.p * 2)} 18 ${y(0)} L24 ${y(0)} L26 ${y(-m.q)} L29 ${y(m.r)} L32.5 ${y(-m.s)} ` +
     `L35 ${y(j)} C39.5 ${c1} 43 ${y(tp)} 47 ${y(tp)} C51 ${y(tp)} 53 ${y(0)} 57 ${y(0)} L80 ${y(0)}`
   )
 }
 
-type TileState = 'normal' | 'stemi' | 'picked' | 'correct' | 'missed' | 'extra'
+type TileState = 'normal' | 'stemi' | 'recip' | 'picked' | 'correct' | 'missed' | 'extra'
 
 const tileSurface: Record<TileState, string> = {
   normal: 'border-[var(--border)] bg-[var(--bg-card)]',
   stemi: 'border-brand-500/50 bg-brand-500/10',
+  recip: 'border-sky-500/50 bg-sky-500/10',
   picked: 'border-brand-500 bg-brand-500/5 shadow-[0_0_0_3px_rgba(248,105,10,0.18)]',
   correct: 'border-teal-500/70 bg-teal-500/10',
   missed: 'border-dashed border-brand-500/80 bg-brand-500/10',
@@ -124,14 +159,17 @@ const tileSurface: Record<TileState, string> = {
 const tileLabel: Record<TileState, string> = {
   normal: 'text-[var(--text)]',
   stemi: 'text-brand-600',
+  recip: 'text-sky-600',
   picked: 'text-brand-600',
   correct: 'text-teal-600',
   missed: 'text-brand-600',
   extra: 'text-danger-500',
 }
+const RECIP = '#0ea5e9'
 const tileStroke: Record<TileState, string> = {
   normal: svg.ink,
   stemi: svg.brand,
+  recip: RECIP,
   picked: svg.ink,
   correct: svg.teal,
   missed: svg.brand,
@@ -143,6 +181,7 @@ const PAPER =
 
 function Badge({ state }: { state: TileState }) {
   if (state === 'stemi') return <span className="font-display text-[10.5px] font-bold leading-none text-brand-600">ST↑</span>
+  if (state === 'recip') return <span className="font-display text-[10.5px] font-bold leading-none text-sky-600">ST↓</span>
   if (state === 'picked')
     return (
       <span className="flex h-4 w-4 items-center justify-center rounded-full bg-brand-500 text-white">
@@ -168,6 +207,7 @@ function Badge({ state }: { state: TileState }) {
 
 function LeadTile({ lead, state, onTap, reduce }: { lead: Lead; state: TileState; onTap?: () => void; reduce: boolean }) {
   const elevated = state === 'stemi' || state === 'correct' || state === 'missed'
+  const st: -1 | 0 | 1 = elevated ? 1 : state === 'recip' ? -1 : 0
   const body = (
     <>
       <span className="flex h-[18px] items-center justify-between px-2 pt-1.5">
@@ -189,17 +229,19 @@ function LeadTile({ lead, state, onTap, reduce }: { lead: Lead; state: TileState
       </span>
       <span className="m-1 mt-1 block rounded-md" style={{ backgroundImage: PAPER, backgroundSize: '9px 9px', backgroundPosition: 'center' }}>
         <svg viewBox="0 0 80 36" className="block h-auto w-full" aria-hidden>
-          <motion.path
-            initial={false}
-            animate={{ d: complexPath(MORPH[lead], elevated) }}
-            transition={reduce ? { duration: 0 } : { type: 'spring', duration: 0.55, bounce: 0.15 }}
-            fill="none"
-            strokeWidth={1.7}
-            strokeLinecap="round"
-            strokeLinejoin="round"
-            vectorEffect="non-scaling-stroke"
-            style={{ stroke: tileStroke[state], transition: 'stroke 200ms ease-out' }}
-          />
+          {/* colour on a plain parent: motion does not reliably re-apply a changed style.stroke on its own path */}
+          <g style={{ stroke: tileStroke[state], transition: 'stroke 200ms ease-out' }}>
+            <motion.path
+              initial={false}
+              animate={{ d: complexPath(MORPH[lead], st) }}
+              transition={reduce ? { duration: 0 } : { type: 'spring', duration: 0.55, bounce: 0.15 }}
+              fill="none"
+              strokeWidth={1.7}
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              vectorEffect="non-scaling-stroke"
+            />
+          </g>
         </svg>
       </span>
     </>
@@ -221,7 +263,7 @@ function LeadTile({ lead, state, onTap, reduce }: { lead: Lead; state: TileState
     )
   }
   return (
-    <div className={cls} aria-label={`Kytkentä ${lead}${elevated ? ', ST-nousu' : ''}`} role="img">
+    <div className={cls} aria-label={`Kytkentä ${lead}${elevated ? ', ST-nousu' : st === -1 ? ', ST-lasku (peilikuva)' : ''}`} role="img">
       {body}
     </div>
   )
@@ -311,6 +353,28 @@ function HeartFigure({
         <path d={ATRIUM} fill={ATRIUM_FILL} stroke={svg.surface} strokeWidth="2.5" />
       </g>
       <path d={HEART} fill="none" stroke={OUTLINE} strokeWidth="1.75" strokeLinejoin="round" />
+      {/* the posterior wall is behind the heart in this frontal view: dashed pulsing outline */}
+      {active === 'posterior' && (
+        <g aria-hidden>
+          <motion.path
+            d={HEART}
+            fill="none"
+            stroke={svg.brand}
+            strokeWidth={4}
+            strokeDasharray="7 6"
+            strokeLinejoin="round"
+            initial={false}
+            animate={reduce ? { opacity: 0.8 } : { opacity: [0.9, 0.45, 0.9] }}
+            transition={reduce ? { duration: 0 } : { duration: 2.4, repeat: Infinity, ease: 'easeInOut' }}
+          />
+          <text x={128} y={140} textAnchor="middle" fontSize={13} fontWeight={700} fill={svg.brand}>
+            takaseinä
+          </text>
+          <text x={128} y={156} textAnchor="middle" fontSize={11} fill={svg.ink}>
+            sydämen takana
+          </text>
+        </g>
+      )}
     </svg>
   )
 }
@@ -370,10 +434,11 @@ export default function EcgTerritories() {
   const quizMode = mode === 'quiz'
   const territory = BY_ID[quizMode ? quiz.target : sel]
   const involved = new Set<Lead>(territory.leads)
+  const recip = new Set<Lead>(territory.reciprocal)
   const picked = new Set<Lead>(quiz.picked)
 
   const stateFor = (lead: Lead): TileState => {
-    if (!quizMode) return involved.has(lead) ? 'stemi' : 'normal'
+    if (!quizMode) return involved.has(lead) ? 'stemi' : recip.has(lead) ? 'recip' : 'normal'
     if (!quiz.checked) return picked.has(lead) ? 'picked' : 'normal'
     if (involved.has(lead)) return picked.has(lead) ? 'correct' : 'missed'
     return picked.has(lead) ? 'extra' : 'normal'
@@ -445,6 +510,11 @@ export default function EcgTerritories() {
       {!quizMode && (
         <div className="mt-3">
           <Result tone={territory.tone} title={`ST-nousu: ${territory.leadsLabel}`}>
+            {territory.reciprocal.length > 0 && (
+              <p className="mb-1">
+                <span className="font-semibold text-sky-600">Peilikuvana ST-lasku: {territory.recLabel}.</span> {territory.recNote}
+              </p>
+            )}
             <p>{territory.note}</p>
             {territory.extra && <p className="mt-1">{territory.extra}</p>}
           </Result>
@@ -453,12 +523,16 @@ export default function EcgTerritories() {
 
       <div className="mt-3">
         <div className="grid grid-cols-4 gap-1.5">{GRID.map(tile)}</div>
-        <div className="mt-1.5 grid grid-cols-4 items-center gap-1.5">
-          {tile('V4R')}
-          <p className="col-span-3 pl-1 text-[12px] leading-snug text-[var(--text-dim)]">
-            Oikean puolen kytkentä <span className="font-semibold text-[var(--text)]">V4R</span>
-          </p>
-        </div>
+        <div className="mt-1.5 grid grid-cols-4 gap-1.5">{EXTRA.map(tile)}</div>
+        <p className="mt-1 text-[12px] leading-snug text-[var(--text-dim)]">
+          Lisäkytkennät: <span className="font-semibold text-[var(--text)]">V4R</span> oikealla rintakehällä, <span className="font-semibold text-[var(--text)]">V7–V9</span> selässä.
+          {!quizMode && (
+            <>
+              {' '}
+              <span className="font-semibold text-brand-600">ST↑</span> vauriovirta, <span className="font-semibold text-sky-600">ST↓</span> peilikuvamuutos.
+            </>
+          )}
+        </p>
       </div>
 
       {quizMode && (
@@ -484,6 +558,11 @@ export default function EcgTerritories() {
                     </>
                   )}
                 </p>
+                {territory.reciprocal.length > 0 && (
+                  <p className="mt-1">
+                <span className="font-semibold text-sky-600">Peilikuvana ST-lasku: {territory.recLabel}.</span> {territory.recNote}
+              </p>
+                )}
                 <p className="mt-1">{territory.note}</p>
               </Result>
               <button
